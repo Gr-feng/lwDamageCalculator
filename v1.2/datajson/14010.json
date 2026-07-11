@@ -1,0 +1,1485 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 8,
+        "barrier_status_3": 0,
+        "barrier_status_4": 6,
+        "barrier_status_5": 0,
+        "bgm": 301401001,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 0,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "スピード連携",
+        "disadvantage_attack": 40,
+        "disadvantage_resist": 30,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "西行寺幽々子",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "希釈化(Lv.5)",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率65%]",
+        "passivity_2_icon": "characteristic_icon_32",
+        "passivity_2_name": "情報断片放出(50%)",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color> [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "運命の刻(-5)",
+        "quality": 2111111,
+        "quality_name": "[記憶断片5]天花",
+        "speed": 1600,
+        "subname": "[記憶断片5]小さな亡霊楼主",
+        "total": 7350,
+        "tribe": [
+            9,
+            8,
+            64,
+            65,
+            57,
+            56,
+            122,
+            159
+        ],
+        "type": 7,
+        "world_group": "R2.-5",
+        "yang_atk": 1600,
+        "yang_def": 1000,
+        "yin_atk": 1250,
+        "yin_def": 900
+    },
+    "chain_character": [],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                4,
+                1,
+                2,
+                3
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                2,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                10
+            ],
+            "cd": 3,
+            "name": "幻想料亭(江戸初期)",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                2,
+                1,
+                2,
+                3
+            ],
+            "b": [
+                1,
+                10,
+                2,
+                2,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                8
+            ],
+            "cd": 3,
+            "name": "死欲(Lv.5)",
+            "id": 2
+        },
+        {
+            "a": [
+                58,
+                5,
+                2,
+                3,
+                20
+            ],
+            "b": [
+                5,
+                0,
+                2,
+                1,
+                12
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 6,
+            "name": "華胥料理",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        2,
+                        2,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "饗宴「エビチリドリーム」",
+                "power_rate": 23,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    119,
+                    125
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "12112112131113131411411g",
+                "all_order_2": "1211211213111313141141515g",
+                "all_order_3": "12112112131113131411415156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 90,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 3,
+                    "damage": 6.21,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        70
+                    ],
+                    "element": 6,
+                    "id": 380283,
+                    "killers": [
+                        5,
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        9
+                    ],
+                    "name": "エビチリドリーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 85,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        152,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 7.74,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 380284,
+                    "killers": [
+                        0
+                    ],
+                    "name": "エビチリドリーム大盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 85,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.45,
+                    "damage_extend": 106,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 380285,
+                    "killers": [
+                        47,
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "エビチリドリーム特盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 7,
+                    "damage": 8.07,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 6,
+                    "id": 380286,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "エビチリドリーム超盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 7,
+                    "damage": 6.06,
+                    "damage_extend": 119,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 380287,
+                    "killers": [
+                        0
+                    ],
+                    "name": "エビチリドリーム極盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 8,
+                    "damage": 8.53,
+                    "damage_extend": 125,
+                    "effect": [
+                        13,
+                        1,
+                        15,
+                        1,
+                        5,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 380288,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "エビチリドリーム最盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "悉皆ホイコーロー",
+                "power_rate": 19,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    113,
+                    117,
+                    121
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121213131141111g",
+                "all_order_2": "1212131311411511g",
+                "all_order_3": "1212131114315161g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        107,
+                        100
+                    ],
+                    "cri": 3,
+                    "damage": 1.75,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        65
+                    ],
+                    "element": 6,
+                    "id": 380271,
+                    "killers": [
+                        3,
+                        123,
+                        175,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "悉皆ホイコーロー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        32,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.29,
+                    "damage_extend": 104,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 380272,
+                    "killers": [
+                        0
+                    ],
+                    "name": "悉皆ホイコーロー大盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 1.9,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 5,
+                    "id": 380273,
+                    "killers": [
+                        0
+                    ],
+                    "name": "悉皆ホイコーロー特盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 90,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.05,
+                    "damage_extend": 113,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1,
+                        5,
+                        65
+                    ],
+                    "element": 6,
+                    "id": 380274,
+                    "killers": [
+                        0
+                    ],
+                    "name": "悉皆ホイコーロー超盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 7,
+                    "damage": 2.52,
+                    "damage_extend": 117,
+                    "effect": [
+                        5,
+                        65
+                    ],
+                    "element": 3,
+                    "id": 380275,
+                    "killers": [
+                        3,
+                        123,
+                        175,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "悉皆ホイコーロー極盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 8,
+                    "damage": 1.78,
+                    "damage_extend": 121,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 380276,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "悉皆ホイコーロー最盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        2,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        2,
+                        4
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        10
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "饗宴「白玉楼のよだれ鶏」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121211212113113113111111g",
+                "all_order_2": "1212112121131131131141415151g",
+                "all_order_3": "12121121211311311311414151516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 90,
+                    "amt": 17,
+                    "boost": 0,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 3,
+                    "damage": 3.29,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 6,
+                    "id": 380289,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "白玉楼のよだれ鶏",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 85,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        150,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.87,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        65
+                    ],
+                    "element": 6,
+                    "id": 380290,
+                    "killers": [
+                        0
+                    ],
+                    "name": "白玉楼のよだれ鶏大盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.03,
+                    "damage_extend": 106,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 380291,
+                    "killers": [
+                        0
+                    ],
+                    "name": "白玉楼のよだれ鶏特盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 113,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        85
+                    ],
+                    "element": 6,
+                    "id": 380292,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "白玉楼のよだれ鶏超盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 7,
+                    "damage": 6.06,
+                    "damage_extend": 119,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 380293,
+                    "killers": [
+                        0
+                    ],
+                    "name": "白玉楼のよだれ鶏極盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 8,
+                    "damage": 11.38,
+                    "damage_extend": 126,
+                    "effect": [
+                        13,
+                        1,
+                        15,
+                        1,
+                        5,
+                        100
+                    ],
+                    "element": 6,
+                    "id": 380294,
+                    "killers": [
+                        5,
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        9
+                    ],
+                    "name": "白玉楼のよだれ鶏最盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "逆さギョーザ",
+                "power_rate": 20,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    118,
+                    124,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1121213111g",
+                "all_order_2": "112121314151g",
+                "all_order_3": "1121213141516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        107,
+                        100
+                    ],
+                    "cri": 3,
+                    "damage": 5.62,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        55
+                    ],
+                    "element": 6,
+                    "id": 380277,
+                    "killers": [
+                        3,
+                        123,
+                        175,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "逆さギョーザ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.71,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 5,
+                    "id": 380278,
+                    "killers": [
+                        0
+                    ],
+                    "name": "逆さギョーザ大盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.48,
+                    "damage_extend": 112,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 380279,
+                    "killers": [
+                        3,
+                        123,
+                        175,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "逆さギョーザ特盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 7,
+                    "damage": 10.51,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 3,
+                    "id": 380280,
+                    "killers": [
+                        0
+                    ],
+                    "name": "逆さギョーザ超盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 7,
+                    "damage": 9.46,
+                    "damage_extend": 124,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 6,
+                    "id": 380281,
+                    "killers": [
+                        3,
+                        123,
+                        175,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "逆さギョーザ極盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 8,
+                    "damage": 8.89,
+                    "damage_extend": 129,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        60
+                    ],
+                    "element": 6,
+                    "id": 380282,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "逆さギョーザ最盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        8,
+                        1,
+                        2,
+                        4
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        2
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111111g",
+                "break": [
+                    0,
+                    5,
+                    0,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「華胥風焼飯ゆゆちゃんスペシャル」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12121121211111111111111111111g",
+                "all_order_2": "1212112121131311313114141141141111111g",
+                "all_order_3": "1212112121131311313114141141141515151161616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 90,
+                    "amt": 25,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 3,
+                    "damage": 4.35,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        150
+                    ],
+                    "element": 6,
+                    "id": 380295,
+                    "killers": [
+                        5,
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        9
+                    ],
+                    "name": "華胥風焼飯",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 85,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        150,
+                        100,
+                        152,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 9.68,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        120
+                    ],
+                    "element": 5,
+                    "id": 380296,
+                    "killers": [
+                        124,
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "華胥風焼飯大盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 10.83,
+                    "damage_extend": 107,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 380297,
+                    "killers": [
+                        0
+                    ],
+                    "name": "華胥風焼飯特盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 11.67,
+                    "damage_extend": 115,
+                    "effect": [
+                        5,
+                        100
+                    ],
+                    "element": 7,
+                    "id": 380298,
+                    "killers": [
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        137,
+                        93
+                    ],
+                    "name": "華胥風焼飯超盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 17.45,
+                    "damage_extend": 122,
+                    "effect": [
+                        8,
+                        1,
+                        13,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 380299,
+                    "killers": [
+                        0
+                    ],
+                    "name": "華胥風焼飯極盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 18.62,
+                    "damage_extend": 130,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1,
+                        5,
+                        130
+                    ],
+                    "element": 6,
+                    "id": 380300,
+                    "killers": [
+                        5,
+                        7,
+                        8,
+                        1,
+                        122,
+                        67,
+                        9
+                    ],
+                    "name": "華胥風焼飯最盛",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

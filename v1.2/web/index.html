@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>东方归言录伤害计算器 v1.2</title>
+  <link rel="icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <h1>东方归言录伤害计算器 <span>v1.2</span></h1>
+      <p>内嵌 WebView 桌面窗口。计算核心沿用 Python 后端，界面由 HTML/CSS/JS 维护。</p>
+    </div>
+    <div class="header-actions">
+      <button id="calculateBtn">计算</button>
+      <button id="batchPresetBtn" class="secondary">批量：预设绘卷</button>
+      <button id="batchDefaultBtn" class="secondary">批量：默认绘卷</button>
+    </div>
+  </header>
+
+  <nav class="tabs" id="tabs">
+    <button data-tab="damage" class="active">伤害计算</button>
+    <button data-tab="role-preset">角色预设</button>
+    <button data-tab="arena-preset">擂台预设</button>
+    <button data-tab="vs-preset">复灵预设</button>
+    <button data-tab="weekly-arena">周擂台求解</button>
+    <button data-tab="query-hub">角色/绘卷查询</button>
+    <button data-tab="vs-manual">复灵模拟</button>
+  </nav>
+
+  <main>
+    <section id="damage" class="tab-panel active">
+      <div class="section-title">
+        <h2>伤害计算</h2>
+        <p>敌方参数、我方参数、计算过程、最终结果合并为当前模块的子页面。</p>
+      </div>
+      <div class="card overview-controls">
+        <label>计算模式
+          <select id="calcMode">
+            <option value="default">默认</option>
+            <option value="vs">复灵</option>
+            <option value="arena">周擂台</option>
+          </select>
+        </label>
+        <span id="waveSwitch" class="wave-switch hidden">
+          <span>敌人波次</span>
+          <button type="button" class="small secondary active" data-wave="1">1</button>
+          <button type="button" class="small secondary" data-wave="2">2</button>
+          <button type="button" class="small secondary" data-wave="3">3</button>
+        </span>
+        <label class="inline-check"><input id="realisticCalc" type="checkbox">拟真计算</label>
+        <input id="waveCount" type="hidden" value="1">
+        <span class="hint">非周擂台模式默认按第 1 波计算。</span>
+      </div>
+      <nav class="subtabs" id="damageSubtabs">
+        <button data-subtab="overviewPane" class="active">总览</button>
+        <button data-subtab="enemyPane">敌方参数</button>
+        <button data-subtab="allyPane">我方参数</button>
+        <button data-subtab="processPane">计算过程</button>
+        <button data-subtab="resultPane">最终结果</button>
+      </nav>
+      <div id="overviewPane" class="sub-panel active">
+        <div class="overview-board">
+          <div>
+            <div class="pane-title"><h3>敌方</h3><span id="overviewWaveLabel" class="pill">第1波</span></div>
+            <div id="enemyOverview" class="overview-list"></div>
+          </div>
+          <div>
+            <h3>我方</h3>
+            <div id="allyOverview" class="overview-list"></div>
+          </div>
+        </div>
+      </div>
+      <div id="enemyPane" class="sub-panel">
+        <div class="pane-title"><h3>敌方参数</h3><span id="enemyWaveLabel" class="pill">第1波</span></div>
+        <div id="enemySlots" class="slot-grid"></div>
+      </div>
+      <div id="allyPane" class="sub-panel">
+        <div id="allySlots" class="slot-grid"></div>
+      </div>
+      <div id="processPane" class="sub-panel">
+        <div class="card">
+          <h3>技能顺序</h3>
+          <label class="inline-check">
+            <input id="useCustomSkillOrder" type="checkbox">
+            多角色时使用自定义技能顺序
+          </label>
+          <div id="globalSkillButtons" class="skill-grid"></div>
+          <input id="customSkillOrder" class="wide" readonly placeholder="点击上方技能按钮生成顺序">
+        </div>
+        <div class="card field-buff-card">
+          <h3>场地 buff</h3>
+          <p class="hint">直接展示全部选项，倍率默认 100%。只会把非 100% 的项目提交到后端。</p>
+          <div class="field-grid">
+            <div>
+              <h4>弹种伤害倍率</h4>
+              <div id="fieldBulletRows"></div>
+            </div>
+            <div>
+              <h4>属性伤害倍率</h4>
+              <div id="fieldElementRows"></div>
+            </div>
+            <div>
+              <h4>Type 伤害倍率</h4>
+              <div id="fieldTypeRows"></div>
+            </div>
+          </div>
+        </div>
+        <div class="card vs-extra hidden">
+          <h3>复灵 tag</h3>
+          <div id="vsOptions" class="placeholder-panel"></div>
+        </div>
+        <div class="card arena-extra hidden">
+          <h3>周擂台额外选项</h3>
+          <div id="arenaOptions" class="placeholder-panel"></div>
+        </div>
+      </div>
+      <div id="resultPane" class="sub-panel">
+        <div class="result-tabs" id="resultTabs">
+          <button type="button" class="small secondary active" data-result-view="overview">总览</button>
+          <button type="button" class="small secondary" data-result-view="ally0">角色0</button>
+          <button type="button" class="small secondary" data-result-view="ally1">角色1</button>
+          <button type="button" class="small secondary" data-result-view="ally2">角色2</button>
+        </div>
+        <div id="summaryCards" class="summary-grid"></div>
+        <div id="segmentResult" class="card"></div>
+        <div id="enemyDamageResult" class="card"></div>
+        <div id="detailTables" class="result-tables"></div>
+      </div>
+    </section>
+
+    <section id="role-preset" class="tab-panel">
+      <div class="section-title">
+        <h2>角色预设</h2>
+        <p>预设会在计算时优先应用。心情和二转符卡/技能修改先保留接口，当前已接入六维加成与绘卷。</p>
+      </div>
+      <div id="rolePresetCards" class="slot-grid"></div>
+    </section>
+
+    <section id="arena-preset" class="tab-panel">
+      <div class="section-title">
+        <h2>擂台预设</h2>
+        <p>用于周擂台模式的敌方数据接口，可配置六维、盾数量、quality。</p>
+      </div>
+      <div id="arenaPresetCards" class="slot-grid"></div>
+    </section>
+
+    <section id="vs-preset" class="tab-panel">
+      <div class="section-title">
+        <h2>复灵预设</h2>
+        <p>从 `复灵敌人数据06-19.lua` 做 raw data 初解析，并保存为 presets/vs 下的 JSON。</p>
+      </div>
+      <div class="card">
+        <button id="loadVsPresetBtn">解析/刷新复灵数据</button>
+        <label class="inline-field">层数 <input id="vsLevel" type="number" min="60" max="100" value="100"></label>
+        <label class="inline-field">搜索 <input id="vsPresetSearch" placeholder="名称 / 敌人 / ID"></label>
+        <span id="vsPresetStatus" class="hint"></span>
+      </div>
+      <div class="table-wrap"><table id="vsPresetTable"></table></div>
+    </section>
+
+    <section id="weekly-arena" class="tab-panel">
+      <div class="section-title">
+        <h2>周擂台求解</h2>
+        <p>基础版：使用当前周擂台三波敌人作为模板，复制为 4 个擂台共 12 波，按角色预设遍历可用角色。</p>
+      </div>
+      <div class="card">
+        <button id="weeklyArenaSolveBtn">计算周擂台推荐</button>
+        <span class="hint">角色逻辑：初始 1P，释放三个技能，不开盾，终符，尽可能 3P。</span>
+      </div>
+      <div id="weeklyArenaConfig" class="weekly-arena-config"></div>
+      <div id="weeklyArenaResult"></div>
+    </section>
+
+    <section id="query-hub" class="tab-panel">
+      <div class="section-title">
+        <h2>角色/绘卷查询</h2>
+        <p>角色查询、绘卷查询、角色详情统一归类到当前模块。</p>
+      </div>
+      <div class="card query-hub-actions">
+        <button type="button" data-query-jump="character-query">角色查询</button>
+        <button type="button" data-query-jump="equipment-query" class="secondary">绘卷查询</button>
+        <button type="button" data-query-jump="character-detail" class="secondary">角色详情</button>
+      </div>
+    </section>
+
+    <section id="character-query" class="tab-panel">
+      <div class="card query-subtabs">
+        <button type="button" data-query-jump="character-query">角色查询</button>
+        <button type="button" data-query-jump="equipment-query" class="secondary">绘卷查询</button>
+        <button type="button" data-query-jump="character-detail" class="secondary">角色详情</button>
+      </div>
+      <div class="section-title">
+        <h2>角色查询</h2>
+        <p>筛选区改为 v1.1 风格的紧凑块，结果支持点击名称进入详情。</p>
+      </div>
+      <details class="card filter-card" open>
+        <summary>筛选条件</summary>
+        <div class="filter-stack">
+          <label>Type<select id="cqTypes"></select><button type="button" class="small secondary" data-add-filter="cqTypes">添加</button><span id="cqTypesTags" class="tag-list"></span></label>
+          <label>名字<input id="cqName" list="characterOptions" placeholder="输入角色名或ID"></label>
+          <label>世界群<select id="cqWorlds"></select><button type="button" class="small secondary" data-add-filter="cqWorlds">添加</button><span id="cqWorldsTags" class="tag-list"></span></label>
+          <label>终符属性<select id="cqElements"></select><select id="cqElementLogic"><option value="any">包含任一</option><option value="all">全部包含</option></select><button type="button" class="small secondary" data-add-filter="cqElements">添加</button><span id="cqElementsTags" class="tag-list"></span></label>
+          <label>终符弹种<select id="cqBullets"></select><select id="cqBulletLogic"><option value="any">包含任一</option><option value="all">全部包含</option></select><button type="button" class="small secondary" data-add-filter="cqBullets">添加</button><span id="cqBulletsTags" class="tag-list"></span></label>
+          <label>特攻 tribe<input id="cqKillerInput" list="tribeOptions" placeholder="输入ID或名称"><select id="cqKillerLogic"><option value="any">包含任一</option><option value="all">全部包含</option></select><button type="button" class="small secondary" id="addKillerBtn">添加</button><span id="cqKillersTags" class="tag-list"></span><input id="cqKillers" type="hidden"></label>
+          <label>转生<select id="cqRe"><option value="">全部</option><option>是</option><option>否</option></select></label>
+        </div>
+        <div class="actions">
+          <button id="characterSearchBtn">查询角色</button>
+          <span id="characterResultCount" class="hint result-count"></span>
+          <button id="toggleCharacterImagesBtn" class="secondary">折叠头像栏</button>
+          <button id="characterResetBtn" class="secondary">重置</button>
+        </div>
+      </details>
+      <div class="table-wrap"><table id="characterTable"></table></div>
+    </section>
+
+    <section id="equipment-query" class="tab-panel">
+      <div class="card query-subtabs">
+        <button type="button" data-query-jump="character-query" class="secondary">角色查询</button>
+        <button type="button" data-query-jump="equipment-query">绘卷查询</button>
+        <button type="button" data-query-jump="character-detail" class="secondary">角色详情</button>
+      </div>
+      <div class="section-title">
+        <h2>绘卷查询</h2>
+        <p>buff 筛选在 buff1-3 任意一条中交叉匹配。</p>
+      </div>
+      <details class="card filter-card" open>
+        <summary>筛选条件</summary>
+        <div class="filter-stack equipment-filter">
+          <label>名称/ID<input id="eqName" list="equipmentOptions" placeholder="输入绘卷名或ID"></label>
+          <label>星级<select id="eqStars"><option value="">选择星级</option><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select><button type="button" class="small secondary" data-add-filter="eqStars">添加</button><span id="eqStarsTags" class="tag-list"></span></label>
+          <label>种类<select id="eqStyle"><option value="">选择种类</option><option value="0">D</option><option value="1">梅</option><option value="2">兰</option><option value="3">菊</option><option value="4">竹</option></select><button type="button" class="small secondary" data-add-filter="eqStyle">添加</button><span id="eqStyleTags" class="tag-list"></span></label>
+          <label>属性<select id="eqStatsSelect"><option value="">选择属性</option><option value="hp">HP</option><option value="yang_atk">阳攻</option><option value="yang_def">阳防</option><option value="yin_atk">阴攻</option><option value="yin_def">阴防</option><option value="spd">速度</option></select><button type="button" class="small secondary" data-add-filter="eqStatsSelect">添加</button><span id="eqStatsTags" class="tag-list"></span><input id="eqStats" type="hidden"></label>
+          <details class="buff-filter-collapse">
+            <summary>Buff 逻辑筛选</summary>
+            <label>Buff 逻辑<select id="eqBuffLogic"><option value="and">同时满足</option><option value="or">任意满足</option></select></label>
+            <div id="eqBuffFilters" class="buff-filter-stack"></div>
+          </details>
+        </div>
+        <div class="actions">
+          <button id="equipmentSearchBtn">查询绘卷</button>
+          <span id="equipmentResultCount" class="hint result-count"></span>
+          <button id="toggleEquipmentImagesBtn" class="secondary">折叠图像栏</button>
+          <button id="equipmentResetBtn" class="secondary">重置</button>
+        </div>
+      </details>
+      <div class="table-wrap"><table id="equipmentTable"></table></div>
+    </section>
+
+    <section id="character-detail" class="tab-panel">
+      <div class="card query-subtabs">
+        <button type="button" data-query-jump="character-query" class="secondary">角色查询</button>
+        <button type="button" data-query-jump="equipment-query" class="secondary">绘卷查询</button>
+        <button type="button" data-query-jump="character-detail">角色详情</button>
+      </div>
+      <div class="section-title">
+        <h2>角色详情</h2>
+        <p>支持 ID、角色名称、世界群搜索。攻击类型顺序：扩散、集中、1符、2符、终符。</p>
+      </div>
+      <div class="card detail-search">
+        <input id="detailCharacterQuery" list="characterOptions" placeholder="角色ID / 名称 / 世界群">
+        <button id="loadDetailBtn">加载详情</button>
+      </div>
+      <div id="characterDetail"></div>
+    </section>
+
+    <section id="vs-manual" class="tab-panel">
+      <div class="section-title">
+        <h2>复灵模拟</h2>
+        <p>载入复灵预设后导入当前敌我参数，按“计算本回合 / 过回合”交替推进；计算本回合不会增加回合数。</p>
+      </div>
+      <div class="card">
+        <button id="vsManualImportBtn">从当前伤害计算导入</button>
+        <button id="vsManualCalcBtn">计算本回合</button>
+        <button id="vsManualNextBtn" class="secondary">过回合</button>
+        <span class="hint">进入模拟后可调整我方开盾、技能、攻击类型和开P数；敌方血条/EX 会随过回合推进到下一血条。</span>
+      </div>
+      <div id="vsManualControls" class="manual-controls"></div>
+      <div id="vsManualResult" class="manual-result"></div>
+    </section>
+  </main>
+
+  <template id="buffRowTemplate">
+    <div class="buff-row">
+      <input data-field="buff_id" placeholder="ID">
+      <input data-field="sub_id" placeholder="subID">
+      <input data-field="duration" placeholder="回合数">
+      <input data-field="value" placeholder="值">
+      <button class="small danger" data-remove-row>删除</button>
+    </div>
+  </template>
+
+  <script src="/app.js"></script>
+</body>
+</html>

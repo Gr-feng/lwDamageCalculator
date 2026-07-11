@@ -1,0 +1,1394 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30500201,
+        "boost_buff": 6,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 8,
+        "graze_target": 1,
+        "hp": 5000,
+        "name": "霧雨魔理沙",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>ミサイル弾</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_40",
+        "passivity_1_name": "迎撃ミサイル",
+        "passivity_2_description": "攻撃された時、<color=#CCAA00>光弾</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_2_icon": "characteristic_icon_40",
+        "passivity_2_name": "アンチフレア",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.75<color=#00CC66>上昇</color>  [発生率40%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "火力マニア",
+        "quality": 2111201,
+        "quality_name": "桜雨",
+        "speed": 1100,
+        "subname": "[妖-魔符]普通の黒魔術師",
+        "total": 6900,
+        "tribe": [
+            1,
+            48,
+            52,
+            55,
+            3,
+            54,
+            132,
+            56
+        ],
+        "type": 5,
+        "world_group": "A7A",
+        "yang_atk": 1895,
+        "yang_def": 850,
+        "yin_atk": 1305,
+        "yin_def": 750
+    },
+    "chain_character": [
+        5001,
+        6001,
+        2013,
+        2032,
+        3009,
+        3010,
+        4011,
+        6002,
+        18005,
+        19005,
+        2014,
+        3030,
+        6012,
+        2034
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                6,
+                1,
+                4,
+                3
+            ],
+            "b": [
+                9,
+                0,
+                1,
+                1,
+                2
+            ],
+            "c": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "cd": 5,
+            "name": "厚手の魔法使い装束",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                2,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                4,
+                0,
+                2,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "八卦炉冷房テスト",
+            "id": 2
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                25
+            ],
+            "b": [
+                1,
+                1,
+                1,
+                2,
+                3
+            ],
+            "c": [
+                1,
+                3,
+                1,
+                2,
+                3
+            ],
+            "cd": 4,
+            "name": "春魔法の森羅結界",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        6,
+                        2,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "121212111111111111111g",
+                "all_order_2": "121212113131311111111111g",
+                "all_order_3": "121212113131311414141515151161616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "魔符「スターダストレヴァリエ」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.44,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 110043,
+                    "killers": [
+                        0
+                    ],
+                    "name": "H星間塵　幻",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 110044,
+                    "killers": [
+                        0
+                    ],
+                    "name": "He星間塵　幻",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        181,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.83,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 4,
+                    "id": 110045,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "C星間塵　幻",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.8,
+                    "damage_extend": 114,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 110046,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "Mg星間塵　幻",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 122,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 110047,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "Si星間塵　幻",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.75,
+                    "damage_extend": 129,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 110048,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "Fe星間塵　幻",
+                    "order": 29,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "1211111112111111g",
+                "all_order_2": "12111311411211131151g",
+                "all_order_3": "121113114112111311516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "[妖]マジックミサイル",
+                "power_rate": 36,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    119,
+                    123
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [
+                        181,
+                        35
+                    ],
+                    "cri": 5,
+                    "damage": 1.96,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110031,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "[妖]MミサイルLv.1",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 4.11,
+                    "damage_extend": 105,
+                    "effect": [
+                        2,
+                        1,
+                        5,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 110032,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "[妖]MミサイルLv.6",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.11,
+                    "damage_extend": 109,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 9,
+                    "id": 110033,
+                    "killers": [
+                        0
+                    ],
+                    "name": "[妖]MミサイルLv.11",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 114,
+                    "effect": [
+                        2,
+                        1,
+                        5,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 110034,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "[妖]MミサイルLv.16",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 119,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 110035,
+                    "killers": [
+                        0
+                    ],
+                    "name": "[妖]MミサイルLv.21",
+                    "order": 19,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 9,
+                    "id": 110036,
+                    "killers": [
+                        0
+                    ],
+                    "name": "[妖]MミサイルLv.26",
+                    "order": 21,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        20
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212111111111111111212g",
+                "all_order_2": "121213131414111111141413131212g",
+                "all_order_3": "12612131314141515161615151414131312126g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "魔符「ミルキーウェイ」",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.27,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 110049,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "星の金銀砂子",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 110050,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "星の赤色砂子",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.13,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 110051,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "星の青色砂子",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.68,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 8,
+                    "id": 110052,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "星の黄色砂子",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 121,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 110053,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星の白色砂子",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        181,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 128,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110054,
+                    "killers": [
+                        0
+                    ],
+                    "name": "銀河水流",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "all_order_1": "121111121111g",
+                "all_order_2": "12131111213111g",
+                "all_order_3": "12131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "[妖]マジックナパーム",
+                "power_rate": 12,
+                "damage_extend": [
+                    100,
+                    107,
+                    113,
+                    120,
+                    127,
+                    133
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.43,
+                    "damage_extend": 100,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 110037,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "[妖]MナパームLv.1",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        181,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110038,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "[妖]MナパームLv.6",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.0,
+                    "damage_extend": 113,
+                    "effect": [
+                        2,
+                        1,
+                        5,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 110039,
+                    "killers": [
+                        0
+                    ],
+                    "name": "[妖]MナパームLv.11",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 9,
+                    "id": 110040,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "[妖]MナパームLv.16",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.29,
+                    "damage_extend": 127,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 110041,
+                    "killers": [
+                        0
+                    ],
+                    "name": "[妖]MナパームLv.21",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.43,
+                    "damage_extend": 133,
+                    "effect": [],
+                    "element": 9,
+                    "id": 110042,
+                    "killers": [
+                        0
+                    ],
+                    "name": "[妖]MナパームLv.26",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        3
+                    ],
+                    [
+                        1,
+                        8,
+                        1,
+                        1,
+                        4
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1212121211111111111111111g",
+                "all_order_2": "121212121313131314141141411111111g",
+                "all_order_3": "12121212131313131414114141515151516161616g",
+                "break": [
+                    0,
+                    3,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「テストタイプ・ブレイジングスター」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    123,
+                    131
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.1,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        100
+                    ],
+                    "element": 8,
+                    "id": 110055,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "流星テストストライク",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        75
+                    ],
+                    "element": 8,
+                    "id": 110056,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "火球テストストライク",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.89,
+                    "damage_extend": 108,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110057,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "彗星塵テストストライク",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 12.8,
+                    "damage_extend": 116,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110058,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "石質隕石テストダスト",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 123,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        75
+                    ],
+                    "element": 8,
+                    "id": 110059,
+                    "killers": [
+                        7,
+                        5,
+                        8
+                    ],
+                    "name": "石鉄隕石テストダスト",
+                    "order": 27,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        218,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 131,
+                    "effect": [
+                        5,
+                        100
+                    ],
+                    "element": 8,
+                    "id": 110060,
+                    "killers": [
+                        132,
+                        3,
+                        93,
+                        27,
+                        9
+                    ],
+                    "name": "鉄隕石テストダスト",
+                    "order": 35,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

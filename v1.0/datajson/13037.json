@@ -1,0 +1,1421 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 5,
+        "barrier_status_3": 5,
+        "barrier_status_4": 0,
+        "barrier_status_5": 5,
+        "bgm": 301303701,
+        "boost_buff": 5,
+        "boost_target": 1,
+        "break_cost": 505,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "スピード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "東風谷早苗",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖獣</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "霊験灼然すぎる翼",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color> [発生率65%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "やりすぎビーストバスター",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率60%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "神託逸脱巫女",
+        "quality": 11121011,
+        "quality_name": "巣入凪",
+        "speed": 1800,
+        "subname": "[獣EX]野心ありすぎる良心の巫女",
+        "total": 7575,
+        "tribe": [
+            1,
+            14,
+            37,
+            38,
+            2,
+            52,
+            69,
+            88,
+            54,
+            124,
+            198
+        ],
+        "type": 4,
+        "world_group": "A19&",
+        "yang_atk": 1700,
+        "yang_def": 1175,
+        "yin_atk": 900,
+        "yin_def": 1000
+    },
+    "chain_character": [],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "b": [
+                2,
+                9,
+                4,
+                4,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                25
+            ],
+            "cd": 4,
+            "name": "地霊調査の良すぎる成果",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                3,
+                4,
+                3,
+                3
+            ],
+            "b": [
+                2,
+                2,
+                4,
+                3,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                15
+            ],
+            "cd": 6,
+            "name": "妖獣調査の良すぎる成果",
+            "id": 2
+        },
+        {
+            "a": [
+                42,
+                9,
+                4,
+                2,
+                1
+            ],
+            "b": [
+                2,
+                7,
+                4,
+                2,
+                4
+            ],
+            "c": [
+                1,
+                5,
+                2,
+                3,
+                3
+            ],
+            "cd": 6,
+            "name": "守矢神社縁起の超ひみつ",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        2,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        9,
+                        3,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        13
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "風符「ウィンドマスター」",
+                "power_rate": 19,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "12112112113113111111g",
+                "all_order_2": "1211211211311311411511g",
+                "all_order_3": "12112112113113114115116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 351093,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "ウィンドマスター",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        173,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 351094,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ブリーズマスター",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.8,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 8,
+                    "id": 351095,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "ゲイルマスター",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 19.64,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 351096,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ストームマスター",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 17.67,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 5,
+                    "id": 351097,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハリケーンマスター",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 15.71,
+                    "damage_extend": 124,
+                    "effect": [
+                        5,
+                        40,
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 351098,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "トルネードマスター",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "スカイクローラー",
+                "power_rate": 41,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    112,
+                    117,
+                    121
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1121121131111g",
+                "all_order_2": "112112113114115g",
+                "all_order_3": "1121121131141156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.76,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 351081,
+                    "killers": [
+                        0
+                    ],
+                    "name": "スカイクローラー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 104,
+                    "effect": [],
+                    "element": 8,
+                    "id": 351082,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "スカイワーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.75,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 9,
+                    "id": 351083,
+                    "killers": [
+                        0
+                    ],
+                    "name": "スカイバグ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 351084,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "スカイキャタピラ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.52,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 5,
+                    "id": 351085,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "スカイルーパー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 121,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 351086,
+                    "killers": [
+                        0
+                    ],
+                    "name": "スカイラーヴァ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        1,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_yang_atk_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "蛇符「ウィングワームカモン」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121121121131131111111111g",
+                "all_order_2": "12112112113113114115111111g",
+                "all_order_3": "121121121131131141151161111g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.1,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 351099,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ウィングワームカモン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 351100,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "ウィングクローラーカモン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.2,
+                    "damage_extend": 106,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 351101,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ウィングバグカモン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 351102,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "ウィングキャタピラカモン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        173,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.78,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 8,
+                    "id": 351103,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ウィングルーパーカモン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 124,
+                    "effect": [
+                        5,
+                        50,
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 351104,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "ウィングラーヴァカモン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "豊猟祈願",
+                "power_rate": 16,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    117,
+                    123,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "121111111g",
+                "all_order_2": "121131141151g",
+                "all_order_3": "1211311411516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 8,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.11,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 351087,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "豊猟祈願",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 106,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 9,
+                    "id": 351088,
+                    "killers": [
+                        0
+                    ],
+                    "name": "狩猟儀礼",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 8,
+                    "id": 351089,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "豊猟感謝",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 9,
+                    "id": 351090,
+                    "killers": [
+                        0
+                    ],
+                    "name": "矢開き神事",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 8,
+                    "id": 351091,
+                    "killers": [
+                        0
+                    ],
+                    "name": "血祭り神事",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 129,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 8,
+                    "id": 351092,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "毛祭り神事",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        1,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「エンジェリックスカイスラッグ」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12112112112111111111111111111g",
+                "all_order_2": "1211211211211311311311411411411511511g",
+                "all_order_3": "12112112112113113113114114114115115116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 25,
+                    "boost": 0,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        100,
+                        9,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 351105,
+                    "killers": [
+                        69,
+                        5,
+                        14
+                    ],
+                    "name": "空飛ぶ蛞蝓",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        173,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 351106,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "宙を舞う蛞蝓",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 107,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 351107,
+                    "killers": [
+                        0
+                    ],
+                    "name": "翼のある蛞蝓",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 114,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 351108,
+                    "killers": [
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "飛行蛞蝓",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 19.64,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 8,
+                    "id": 351109,
+                    "killers": [
+                        0
+                    ],
+                    "name": "羽のある蛞蝓",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 39.27,
+                    "damage_extend": 128,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        120,
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 351110,
+                    "killers": [
+                        69,
+                        5,
+                        14,
+                        124,
+                        68,
+                        6,
+                        153
+                    ],
+                    "name": "天使のような蛞蝓",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

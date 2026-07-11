@@ -1,0 +1,1255 @@
+{
+    "character_info": {
+        "advantage_attack": 40,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 7,
+        "barrier_status_3": 7,
+        "barrier_status_4": 7,
+        "barrier_status_5": 7,
+        "bgm": 0,
+        "boost_buff": 1,
+        "boost_target": 3,
+        "break_cost": 0,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 1,
+        "hp": 5000,
+        "name": "博麗霊夢",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>幻想郷に住む者</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "博麗霊夢-特性1",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率75%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "博麗霊夢-特性2",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_3",
+        "passivity_3_name": "博麗霊夢-特性3",
+        "quality": 21112110,
+        "quality_name": "破天荒",
+        "speed": 1000,
+        "subname": "_TEST",
+        "total": 6000,
+        "tribe": [
+            1,
+            2,
+            162,
+            52,
+            53,
+            54,
+            124,
+            203
+        ],
+        "type": 8,
+        "world_group": "X1$",
+        "yang_atk": 1000,
+        "yang_def": 1000,
+        "yin_atk": 1000,
+        "yin_def": 1000
+    },
+    "chain_character": [],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                8,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                6,
+                3,
+                2,
+                4,
+                2
+            ],
+            "cd": 4,
+            "name": "博麗霊夢-スキルA",
+            "id": 1
+        },
+        {
+            "a": [
+                4,
+                0,
+                1,
+                1,
+                2
+            ],
+            "b": [
+                14,
+                5,
+                2,
+                2,
+                50
+            ],
+            "c": [
+                6,
+                2,
+                2,
+                4,
+                2
+            ],
+            "cd": 5,
+            "name": "博麗霊夢-スキルB",
+            "id": 2
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                40
+            ],
+            "b": [
+                6,
+                3,
+                1,
+                4,
+                3
+            ],
+            "c": [
+                2,
+                11,
+                1,
+                4,
+                2
+            ],
+            "cd": 5,
+            "name": "博麗霊夢-スキルC",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        2,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        9,
+                        3,
+                        4,
+                        3
+                    ],
+                    [
+                        6,
+                        3,
+                        3,
+                        5,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1111112112111121111121111g",
+                "all_order_2": "11111121121311121314151121314151g",
+                "all_order_3": "111111211213111213141511213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「黄金の夢想封印」",
+                "power_rate": 11,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.18,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740013,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.46,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740014,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 8.47,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740015,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 12.7,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740016,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 12.7,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740017,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 22.26,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740018,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "11121111g",
+                "all_order_2": "1112131411g",
+                "all_order_3": "111213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ゴールデンニードル",
+                "power_rate": 18,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    120,
+                    125
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.29,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740001,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.38,
+                    "damage_extend": 105,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740002,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 5.73,
+                    "damage_extend": 110,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740003,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 6.17,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740004,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 6.26,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740005,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 6.68,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740006,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        6,
+                        3,
+                        4,
+                        5,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        40
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111111111g",
+                "all_order_1": "111112112111121111112111111211111g",
+                "all_order_2": "11111211213141121314111121314111121314111g",
+                "all_order_3": "11111211213141121314151611213141516112131415161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「黄金陰陽玉」",
+                "power_rate": 3,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 28,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.83,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740019,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.44,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740020,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 4.59,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740021,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 4.94,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740022,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 6.18,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740023,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 6.6,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740024,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-スペカB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "1213111g",
+                "all_order_3": "1213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ゴールデンロッド",
+                "power_rate": 18,
+                "damage_extend": [
+                    100,
+                    107,
+                    114,
+                    121,
+                    128,
+                    135
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740007,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.45,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740008,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 15.43,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740009,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 16.7,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740010,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 18.78,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740011,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 20.87,
+                    "damage_extend": 135,
+                    "effect": [],
+                    "element": 5,
+                    "id": 740012,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ショットB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        41,
+                        1,
+                        1,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        3,
+                        4,
+                        5,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        30
+                    ]
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ]
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "all_order_0": "11111111111111111111111111111111111g",
+                "all_order_1": "12112111121111112111111112111111111121111g",
+                "all_order_2": "12112113112113114112113114115112113114115111121314151g",
+                "all_order_3": "1211211311211311411211311411511211311411511611213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「夢想天生　黄金郷」",
+                "power_rate": 3,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 35,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.18,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740025,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ラスワ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 6,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.17,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740026,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ラスワ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 7.79,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740027,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ラスワ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 9.74,
+                    "damage_extend": 116,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740028,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ラスワ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 12.98,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740029,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ラスワ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 16.7,
+                    "damage_extend": 132,
+                    "effect": [],
+                    "element": 1,
+                    "id": 740030,
+                    "killers": [
+                        0
+                    ],
+                    "name": "博麗霊夢-ラスワ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

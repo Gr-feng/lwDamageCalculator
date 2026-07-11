@@ -1,0 +1,1462 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 6,
+        "barrier_status_2": 0,
+        "barrier_status_3": 5,
+        "barrier_status_4": 5,
+        "barrier_status_5": 0,
+        "bgm": 31903701,
+        "boost_buff": 3,
+        "boost_target": 1,
+        "break_cost": 503,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 8,
+        "graze_target": 1,
+        "hp": 5000,
+        "name": "東風谷早苗",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>幻想郷に住む者</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "異界を渡る者",
+        "passivity_2_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_37",
+        "passivity_2_name": "奇跡の子",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_3",
+        "passivity_3_name": "ワードプロフェット",
+        "quality": 11012221,
+        "quality_name": "無風",
+        "speed": 1250,
+        "subname": "人間と神様の重ね合わせ",
+        "total": 7800,
+        "tribe": [
+            1,
+            14,
+            37,
+            38,
+            2,
+            52,
+            69,
+            88,
+            54,
+            124,
+            95
+        ],
+        "type": 2,
+        "world_group": "F1",
+        "yang_atk": 1800,
+        "yang_def": 1050,
+        "yin_atk": 1950,
+        "yin_def": 750
+    },
+    "chain_character": [
+        2051,
+        2001,
+        2009,
+        12002
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                3,
+                2,
+                4,
+                3
+            ],
+            "b": [
+                1,
+                1,
+                2,
+                4,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                10
+            ],
+            "cd": 3,
+            "name": "秘宝マスミノカガミ",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                2,
+                1,
+                30
+            ],
+            "b": [
+                6,
+                4,
+                4,
+                3,
+                3
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 6,
+            "name": "神宝ヤサカノスズ",
+            "id": 2
+        },
+        {
+            "a": [
+                41,
+                3,
+                2,
+                2,
+                1
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                5,
+                3
+            ],
+            "c": [
+                6,
+                1,
+                1,
+                2,
+                4
+            ],
+            "cd": 6,
+            "name": "至宝カゼノハフリコ",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        6,
+                        4,
+                        3,
+                        4,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        10,
+                        0,
+                        1,
+                        1,
+                        2
+                    ],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_disenchant"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "all_order_1": "121311112131111213111121311g",
+                "all_order_2": "1213141112131411121314111213141g",
+                "all_order_3": "1213141516121314151121314151612131416g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "first_order": 1,
+                "name": "奇跡「ファフロッキーズの奇跡」",
+                "power_rate": 12,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    125
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.13,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        75
+                    ],
+                    "element": 7,
+                    "id": 531093,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "空から降る蛙の奇跡",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        65,
+                        100,
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 531094,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空から降る雨蛙の奇跡",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        28,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 106,
+                    "effect": [
+                        5,
+                        75
+                    ],
+                    "element": 7,
+                    "id": 531095,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "空から降る殿様蛙の奇跡",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 113,
+                    "effect": [
+                        15,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 531096,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "空から降る牛蛙の奇跡",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        65,
+                        100,
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 8,
+                    "id": 531097,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空から降る赤蛙の奇跡",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        28,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 125,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 531098,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空から降る蝦蟇蛙の奇跡",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12111121111g",
+                "all_order_2": "1213141121314151g",
+                "all_order_3": "12131411213141516g",
+                "break": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "坤神招来　蛇神鉄輪",
+                "power_rate": 39,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    117,
+                    121
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        65,
+                        100,
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.73,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        65
+                    ],
+                    "element": 7,
+                    "id": 531081,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "見えざる蛇神の鉄輪",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 104,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 531082,
+                    "killers": [
+                        0
+                    ],
+                    "name": "坤神風祝の奇跡",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        65,
+                        100,
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 109,
+                    "effect": [
+                        5,
+                        65
+                    ],
+                    "element": 7,
+                    "id": 531083,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "見えざる白蛇神の鉄輪",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 8,
+                    "id": 531084,
+                    "killers": [
+                        0
+                    ],
+                    "name": "坤神風祝の儀式",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.36,
+                    "damage_extend": 117,
+                    "effect": [
+                        5,
+                        65
+                    ],
+                    "element": 7,
+                    "id": 531085,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "見えざる赤蛇神の鉄輪",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        65,
+                        100,
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.36,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 8,
+                    "id": 531086,
+                    "killers": [
+                        0
+                    ],
+                    "name": "坤神風祝の祈祷",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        13,
+                        6,
+                        2,
+                        2,
+                        80
+                    ],
+                    [
+                        13,
+                        7,
+                        2,
+                        2,
+                        80
+                    ],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        25
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_resist_type6"
+                    ],
+                    [
+                        "skill_icon_resist_type7"
+                    ],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "all_order_1": "12121212111111111111g",
+                "all_order_2": "12121212131313131414141415151515g",
+                "all_order_3": "126121212131361313141414614151515156g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "蛇符「雲を泳ぐ大蛇」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    125
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.27,
+                    "damage_extend": 100,
+                    "effect": [
+                        11,
+                        15
+                    ],
+                    "element": 6,
+                    "id": 531099,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空を飛ぶ大青蛇の奇跡",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        27,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        75
+                    ],
+                    "element": 8,
+                    "id": 531100,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "空を飛ぶ大赤蛇の奇跡",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        65,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 6,
+                    "id": 531101,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空を飛ぶ大黄蛇の奇跡",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        75
+                    ],
+                    "element": 8,
+                    "id": 531102,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "空を飛ぶ大白蛇の奇跡",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        65,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 6,
+                    "id": 531103,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空を飛ぶ大黒蛇の奇跡",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        27,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 125,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 531104,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "空を飛ぶ大龍蛇の奇跡",
+                    "order": 29,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12121313g",
+                "all_order_2": "1245124135135g",
+                "all_order_3": "1245124613561356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "乾神招来　蛇神御柱",
+                "power_rate": 23,
+                "damage_extend": [
+                    100,
+                    106,
+                    111,
+                    117,
+                    122,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [
+                        65,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.51,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 531087,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "高き頂にいる蛇神の鉄輪",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 106,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        65
+                    ],
+                    "element": 6,
+                    "id": 531088,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "高き頂にいる大蛇神の鉄輪",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.63,
+                    "damage_extend": 111,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 531089,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "高き頂にいる龍蛇神の鉄輪",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        183,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.11,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 8,
+                    "id": 531090,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "乾神風祝の奇跡",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        183,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.07,
+                    "damage_extend": 122,
+                    "effect": [
+                        4,
+                        65
+                    ],
+                    "element": 8,
+                    "id": 531091,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "乾神風祝の儀式",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        183,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.73,
+                    "damage_extend": 128,
+                    "effect": [
+                        4,
+                        65
+                    ],
+                    "element": 8,
+                    "id": 531092,
+                    "killers": [
+                        0
+                    ],
+                    "name": "乾神風祝の祈祷",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        5,
+                        3
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        5,
+                        3
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        1
+                    ],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        50
+                    ]
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ]
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        3
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1212121211111111111111111g",
+                "all_order_2": "121212121313131314141414111111111g",
+                "all_order_3": "12121212131313131414141415151515116161616g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「胸中にある幻想郷」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.45,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        125,
+                        5,
+                        125
+                    ],
+                    "element": 8,
+                    "id": 531105,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "風祝修行の思い出",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        140,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        125,
+                        5,
+                        125
+                    ],
+                    "element": 8,
+                    "id": 531106,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "神巫女修行の思い出",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        145,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.64,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 6,
+                    "id": 531107,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "神奈子渾身の特訓",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        145,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.45,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 7,
+                    "id": 531108,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "諏訪子渾身の特訓",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 121,
+                    "effect": [
+                        4,
+                        175,
+                        5,
+                        175
+                    ],
+                    "element": 8,
+                    "id": 531109,
+                    "killers": [
+                        14,
+                        5,
+                        124,
+                        89
+                    ],
+                    "name": "奇跡の思い出",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 128,
+                    "effect": [
+                        14,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 531110,
+                    "killers": [
+                        14,
+                        8,
+                        1
+                    ],
+                    "name": "現人神の思い出",
+                    "order": 35,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

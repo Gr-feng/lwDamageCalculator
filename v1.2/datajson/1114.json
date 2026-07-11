@@ -1,0 +1,1335 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 3,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30111401,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>結界</color>を<color=#00CC66>増加</color>\\n前衛になる時、前衛全体の<color=#CCAA00>結界異常</color>を<color=#00CC66>回復</color>",
+        "chain_name": "シールド連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 6,
+        "graze_target": 0,
+        "hp": 5225,
+        "name": "戎瓔花",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>流体弾</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_40",
+        "passivity_1_name": "水子霊",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率40%]",
+        "passivity_2_icon": "characteristic_icon_3",
+        "passivity_2_name": "石積みチャンピオン",
+        "passivity_3_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>凍結</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_26",
+        "passivity_3_name": "賽の河原のアイドル",
+        "quality": 21111200,
+        "quality_name": "石の雨",
+        "speed": 995,
+        "subname": "河原のアイドル水子",
+        "total": 6450,
+        "tribe": [
+            8,
+            122,
+            90,
+            129,
+            128,
+            15,
+            14,
+            181
+        ],
+        "type": 4,
+        "world_group": "L1",
+        "yang_atk": 975,
+        "yang_def": 655,
+        "yin_atk": 1395,
+        "yin_def": 1385
+    },
+    "chain_character": [
+        1086,
+        1085,
+        1087,
+        1069,
+        1091,
+        1092,
+        1093,
+        1111,
+        1113,
+        1112,
+        1048,
+        1084,
+        1124,
+        1118,
+        1082,
+        1116,
+        1013,
+        1127,
+        1128,
+        1129,
+        1130,
+        1131
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                2,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "集団霊障",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "b": [
+                2,
+                6,
+                4,
+                3,
+                3
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "アイドル・エイジ",
+            "id": 2
+        },
+        {
+            "a": [
+                2,
+                4,
+                4,
+                2,
+                2
+            ],
+            "b": [
+                2,
+                7,
+                4,
+                2,
+                3
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "流刑の福徳神",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        4,
+                        3,
+                        2,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_def_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "1211211211211211111g",
+                "all_order_2": "1241351213125131213512131451414145g",
+                "all_order_3": "124613512136125131261351213614514146145g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "石符「ストーンウッズ」",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    125
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [
+                        173,
+                        20
+                    ],
+                    "cri": 5,
+                    "damage": 6.27,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 3403,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "石の塔の群",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        123,
+                        20
+                    ],
+                    "cri": 5,
+                    "damage": 5.27,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3404,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "石の林の叢がり",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        123,
+                        25
+                    ],
+                    "cri": 5,
+                    "damage": 5.27,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3405,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "石の森の美術館",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        171,
+                        35
+                    ],
+                    "cri": 5,
+                    "damage": 5.27,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3406,
+                    "killers": [
+                        0
+                    ],
+                    "name": "河原の個展",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        173,
+                        45
+                    ],
+                    "cri": 5,
+                    "damage": 5.27,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3407,
+                    "killers": [
+                        0
+                    ],
+                    "name": "河原の展示会",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [
+                        171,
+                        60
+                    ],
+                    "cri": 5,
+                    "damage": 5.27,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3408,
+                    "killers": [
+                        0
+                    ],
+                    "name": "河原の大展示場",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "121213111111g",
+                "all_order_2": "12121311411511g",
+                "all_order_3": "121213114115116g",
+                "break": [
+                    0,
+                    2,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "シームーン",
+                "power_rate": 48,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    112,
+                    117,
+                    121
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        55,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.43,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 9,
+                    "id": 3391,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "オワンクラゲの水子霊",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        142,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 4.11,
+                    "damage_extend": 104,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3392,
+                    "killers": [
+                        0
+                    ],
+                    "name": "カミクラゲの水子霊",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.54,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3393,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "ツヅミクラゲの水子霊",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 112,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3394,
+                    "killers": [
+                        0
+                    ],
+                    "name": "カラカサクラゲの水子霊",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.17,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3395,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "ハナガサクラゲの水子霊",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3396,
+                    "killers": [
+                        0
+                    ],
+                    "name": "カツオノエボシの水子霊",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        4,
+                        1,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_def_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121111121111121111121111g",
+                "all_order_2": "12131415112131415112131415112131411g",
+                "all_order_3": "12131415112131415112131415161213141616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "石符「チルドレンズリンボ」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    125
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [
+                        55,
+                        100,
+                        150,
+                        25
+                    ],
+                    "cri": 5,
+                    "damage": 2.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 3409,
+                    "killers": [
+                        0
+                    ],
+                    "name": "積み石の自主練",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3410,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "積み石の合同練習",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 7,
+                    "id": 3411,
+                    "killers": [
+                        0
+                    ],
+                    "name": "積み石の予行練習",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 7,
+                    "id": 3412,
+                    "killers": [
+                        0
+                    ],
+                    "name": "積み石大会・予選",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3413,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "積み石大会・本選",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        150,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3414,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "積み石大会・決勝",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12111g",
+                "all_order_2": "1213141g",
+                "all_order_3": "121314156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ストーンタワー",
+                "power_rate": 26,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    118,
+                    124,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [
+                        140,
+                        20
+                    ],
+                    "cri": 5,
+                    "damage": 10.0,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 3397,
+                    "killers": [
+                        0
+                    ],
+                    "name": "花崗岩の積み石",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        139,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 7,
+                    "id": 3398,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "安山岩の積み石",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        140,
+                        40
+                    ],
+                    "cri": 5,
+                    "damage": 14.86,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3399,
+                    "killers": [
+                        0
+                    ],
+                    "name": "玄武岩の積み石",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        139,
+                        40
+                    ],
+                    "cri": 5,
+                    "damage": 16.0,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3400,
+                    "killers": [
+                        0
+                    ],
+                    "name": "礫岩の積み石",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 17.14,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3401,
+                    "killers": [
+                        0
+                    ],
+                    "name": "砂岩の積み石",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 18.29,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3402,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "泥岩の積み石",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        4,
+                        4,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        2,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121111121111121111121111g",
+                "all_order_2": "12131411121314111213141112131411g",
+                "all_order_3": "1213141516121314151612131415161213141516g",
+                "break": [
+                    0,
+                    3,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「天磐櫲樟船」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.4,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 3415,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "天磐櫲樟船ステージ",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        34,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 3416,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "鳥之石楠船ステージ",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        304,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 11.89,
+                    "damage_extend": 107,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3417,
+                    "killers": [
+                        14
+                    ],
+                    "name": "天鳥船ステージ",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        308,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 12.8,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3418,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140
+                    ],
+                    "name": "天夷鳥ステージ",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3419,
+                    "killers": [
+                        8,
+                        122,
+                        7
+                    ],
+                    "name": "経津主ステージ",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        310,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3420,
+                    "killers": [
+                        1,
+                        68,
+                        142,
+                        140,
+                        8,
+                        122,
+                        7,
+                        14
+                    ],
+                    "name": "稲背脛ステージ",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1485 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 3,
+        "barrier_status_4": 3,
+        "barrier_status_5": 0,
+        "bgm": 30510501,
+        "boost_buff": 8,
+        "boost_target": 0,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "スピード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 5,
+        "graze_target": 1,
+        "hp": 4450,
+        "name": "堀川雷鼓",
+        "passivity_1_description": "ターン開始時、自身の<color=#CCAA00>結界異常</color>を1枚<color=#00CC66>回復</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_34",
+        "passivity_1_name": "強襲用アンプ",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%]",
+        "passivity_2_icon": "characteristic_icon_5",
+        "passivity_2_name": "オートチューナー",
+        "passivity_3_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>帯電</color>」を1枚<color=#0066FF>付与</color> (3T) [発生率70%]",
+        "passivity_3_icon": "characteristic_icon_27",
+        "passivity_3_name": "専用タイコドラム",
+        "quality": 12111112,
+        "quality_name": "界雷",
+        "speed": 1680,
+        "subname": "クロックシグナラー",
+        "total": 7350,
+        "tribe": [
+            14,
+            23,
+            16,
+            186,
+            152,
+            147,
+            52,
+            99,
+            102,
+            39,
+            182,
+            95
+        ],
+        "type": 6,
+        "world_group": "B3",
+        "yang_atk": 1680,
+        "yang_def": 1050,
+        "yin_atk": 970,
+        "yin_def": 1080
+    },
+    "chain_character": [
+        2015,
+        2020,
+        2036,
+        4032,
+        6062,
+        6063,
+        6064,
+        11010,
+        2023,
+        2081,
+        3011,
+        3005,
+        3001,
+        3002,
+        3015,
+        2021,
+        3037,
+        2019,
+        12015,
+        2017,
+        2016,
+        2022,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                3,
+                4,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "cd": 4,
+            "name": "ファンク",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                5,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 4,
+            "name": "ジャングル",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                1,
+                1,
+                3,
+                3
+            ],
+            "b": [
+                9,
+                0,
+                1,
+                1,
+                3
+            ],
+            "c": [
+                4,
+                0,
+                2,
+                1,
+                3
+            ],
+            "cd": 5,
+            "name": "ブレイクビーツ",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        15
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    5,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「プリスティンビート」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121212111111111111g",
+                "all_order_2": "12121211131311141411151g",
+                "all_order_3": "121212111313111414111516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.49,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        70
+                    ],
+                    "element": 5,
+                    "id": 113133,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        10,
+                        22,
+                        146
+                    ],
+                    "name": "プリスティンビート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [
+                        2,
+                        1,
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113134,
+                    "killers": [
+                        0
+                    ],
+                    "name": "プリスティンハイビート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 107,
+                    "effect": [
+                        2,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 113135,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        39,
+                        22,
+                        145
+                    ],
+                    "name": "プリスティンメガビート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 4,
+                    "id": 113136,
+                    "killers": [
+                        0
+                    ],
+                    "name": "プリスティンギガビート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.71,
+                    "damage_extend": 120,
+                    "effect": [
+                        1,
+                        1,
+                        14,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 113137,
+                    "killers": [
+                        0
+                    ],
+                    "name": "プリスティンテラビート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 15.71,
+                    "damage_extend": 126,
+                    "effect": [
+                        1,
+                        1,
+                        15,
+                        1,
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113138,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        10,
+                        22,
+                        146,
+                        121,
+                        145
+                    ],
+                    "name": "プリスティンペタビート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111111g",
+                "break": [
+                    0,
+                    0,
+                    5,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "明日の打楽器",
+                "power_rate": 34,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    118,
+                    123
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "12121111111111g",
+                "all_order_2": "121211313114141111g",
+                "all_order_3": "12121131311414115116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 1.79,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 113121,
+                    "killers": [
+                        161,
+                        102,
+                        93
+                    ],
+                    "name": "明日の打楽器",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 105,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 9,
+                    "id": 113122,
+                    "killers": [
+                        0
+                    ],
+                    "name": "明日の大打楽器",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.99,
+                    "damage_extend": 109,
+                    "effect": [
+                        2,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 113123,
+                    "killers": [
+                        161,
+                        102,
+                        93
+                    ],
+                    "name": "明日の特打楽器",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.3,
+                    "damage_extend": 114,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113124,
+                    "killers": [
+                        0
+                    ],
+                    "name": "明日の超打楽器",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.2,
+                    "damage_extend": 118,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 113125,
+                    "killers": [
+                        0
+                    ],
+                    "name": "明日の極打楽器",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 123,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113126,
+                    "killers": [
+                        161,
+                        102,
+                        93
+                    ],
+                    "name": "明日の最打楽器",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        2
+                    ],
+                    [
+                        6,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        4,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        1
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "太鼓「ファンタジックウーファー」",
+                "power_rate": 16,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1212121111111111111111g",
+                "all_order_2": "12121211131313111414111515111g",
+                "all_order_3": "121212111313131114141115151116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.13,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113139,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        23,
+                        1,
+                        121
+                    ],
+                    "name": "幻想的なウーファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 113140,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大幻想的なウーファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 107,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 113141,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        36,
+                        75,
+                        147
+                    ],
+                    "name": "特幻想的なウーファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.78,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 4,
+                    "id": 113142,
+                    "killers": [
+                        0
+                    ],
+                    "name": "超幻想的なウーファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.78,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113143,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        23,
+                        1,
+                        121
+                    ],
+                    "name": "極幻想的なウーファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 23.56,
+                    "damage_extend": 126,
+                    "effect": [
+                        1,
+                        1,
+                        14,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 113144,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        36,
+                        75,
+                        147,
+                        23,
+                        121
+                    ],
+                    "name": "最幻想的なウーファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "サンダーヴォルテクス",
+                "power_rate": 14,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    132
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1212111111g",
+                "all_order_2": "121213131111g",
+                "all_order_3": "1212131314141516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 8,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.84,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113127,
+                    "killers": [
+                        0
+                    ],
+                    "name": "サンダーヴォルテクス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 106,
+                    "effect": [
+                        2,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 113128,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイサンダーヴォルテクス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.16,
+                    "damage_extend": 113,
+                    "effect": [
+                        2,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 113129,
+                    "killers": [
+                        161,
+                        102,
+                        93
+                    ],
+                    "name": "メガサンダーヴォルテクス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 5,
+                    "id": 113130,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ギガサンダーヴォルテクス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 18.41,
+                    "damage_extend": 125,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 113131,
+                    "killers": [
+                        161,
+                        102,
+                        93
+                    ],
+                    "name": "テラサンダーヴォルテクス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 20.45,
+                    "damage_extend": 132,
+                    "effect": [
+                        1,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 113132,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ペタサンダーヴォルテクス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        4,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        3
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    5,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「サンダービート・Ｏ・クロック」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1212121211111111111111111111g",
+                "all_order_2": "12121212111313131311141414111111111g",
+                "all_order_3": "1212121211131313131114141411151515111616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 24,
+                    "boost": 0,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.77,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        160
+                    ],
+                    "element": 5,
+                    "id": 113145,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        10,
+                        1,
+                        8
+                    ],
+                    "name": "雷鼓のオーバークロック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        110
+                    ],
+                    "element": 5,
+                    "id": 113146,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        23,
+                        36,
+                        121
+                    ],
+                    "name": "雷鼓の大オーバークロック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        242,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.64,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 5,
+                    "id": 113147,
+                    "killers": [
+                        0
+                    ],
+                    "name": "雷鼓の特オーバークロック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.27,
+                    "damage_extend": 115,
+                    "effect": [
+                        8,
+                        1,
+                        5,
+                        110
+                    ],
+                    "element": 4,
+                    "id": 113148,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        22,
+                        145,
+                        146
+                    ],
+                    "name": "雷鼓の超オーバークロック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 16.36,
+                    "damage_extend": 122,
+                    "effect": [
+                        1,
+                        1,
+                        14,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 113149,
+                    "killers": [
+                        0
+                    ],
+                    "name": "雷鼓の極オーバークロック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 26.18,
+                    "damage_extend": 130,
+                    "effect": [
+                        5,
+                        160
+                    ],
+                    "element": 4,
+                    "id": 113150,
+                    "killers": [
+                        161,
+                        102,
+                        93,
+                        75,
+                        147,
+                        10,
+                        1,
+                        8
+                    ],
+                    "name": "雷鼓の最オーバークロック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

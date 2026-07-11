@@ -1,0 +1,1476 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 30,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 6,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30303201,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 504,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 5,
+        "graze_target": 1,
+        "hp": 5375,
+        "name": "アリス・マーガトロイド",
+        "passivity_1_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>帯電</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_27",
+        "passivity_1_name": "魔力伝導糸",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率60%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "ニードル・リロード",
+        "passivity_3_description": "Wave開始時、相手単体の<color=#CCAA00>陰防</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率90%]",
+        "passivity_3_icon": "characteristic_icon_16",
+        "passivity_3_name": "仮想陣地：人形の森",
+        "quality": 1222221,
+        "quality_name": "雹嵐",
+        "speed": 1300,
+        "subname": "斑にマーガレット",
+        "total": 7575,
+        "tribe": [
+            3,
+            5,
+            36,
+            52,
+            55,
+            25,
+            56,
+            60,
+            34,
+            54
+        ],
+        "type": 5,
+        "world_group": "L80",
+        "yang_atk": 1095,
+        "yang_def": 950,
+        "yin_atk": 1905,
+        "yin_def": 1250
+    },
+    "chain_character": [
+        5003,
+        6005,
+        3020,
+        4050,
+        3038,
+        5011,
+        5004,
+        8002,
+        3019,
+        5015,
+        5037,
+        8001,
+        4010,
+        6025,
+        4007,
+        5051,
+        6039,
+        10069,
+        16006,
+        8057,
+        7024,
+        4091,
+        10066,
+        12040,
+        12087,
+        10099,
+        12044
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                3,
+                1,
+                4,
+                3
+            ],
+            "b": [
+                4,
+                0,
+                2,
+                1,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                16
+            ],
+            "cd": 5,
+            "name": "ソルシエール・ド・ラフォレ",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                24
+            ],
+            "b": [
+                1,
+                3,
+                2,
+                3,
+                2
+            ],
+            "c": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "cd": 5,
+            "name": "デビルダム・ビーイング",
+            "id": 2
+        },
+        {
+            "a": [
+                2,
+                4,
+                4,
+                4,
+                2
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                4,
+                2
+            ],
+            "c": [
+                6,
+                3,
+                4,
+                4,
+                2
+            ],
+            "cd": 7,
+            "name": "ウィッチ・オブ・デス",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        1,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        9,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "121111121111121111g",
+                "all_order_2": "121314111213141112131411g",
+                "all_order_3": "121314151612131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "黒符「思い出の魔理沙人形」",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.58,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 50943,
+                    "killers": [
+                        1,
+                        7,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "魔理沙人形のMS",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 50944,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔理沙人形のNDL",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.51,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 8,
+                    "id": 50945,
+                    "killers": [
+                        1,
+                        7,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "魔理沙人形渾身のMS",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.16,
+                    "damage_extend": 114,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 50946,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔理沙人形渾身のNDL",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 8,
+                    "id": 50947,
+                    "killers": [
+                        1,
+                        7,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "魔理沙人形悲願のMS",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        64,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 8,
+                    "id": 50948,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔理沙人形悲願のNDL",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12121111111g",
+                "all_order_2": "12121313141415151g",
+                "all_order_3": "1261213131414151516g",
+                "break": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "語り継ぐクロスステッチ",
+                "power_rate": 46,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    119,
+                    123
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.73,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 50931,
+                    "killers": [
+                        5,
+                        36,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "クロスステッチ(七色)",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 105,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 50932,
+                    "killers": [
+                        0
+                    ],
+                    "name": "クロスステッチ(表春)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 3,
+                    "id": 50933,
+                    "killers": [
+                        5,
+                        36,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "クロスステッチ(表夏)",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 7,
+                    "id": 50934,
+                    "killers": [
+                        5,
+                        36,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "クロスステッチ(土用)",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        213,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 119,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 50935,
+                    "killers": [
+                        5,
+                        36,
+                        3,
+                        95,
+                        176
+                    ],
+                    "name": "クロスステッチ(表秋)",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        215,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 123,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 50936,
+                    "killers": [
+                        0
+                    ],
+                    "name": "クロスステッチ(表冬)",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        11,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        6,
+                        3,
+                        1,
+                        3,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        17
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "all_order_1": "12112111121111211111111g",
+                "all_order_2": "121312131112113112113111111g",
+                "all_order_3": "126131213141512141315121513151416141616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "紫符「知識のパチュリー人形」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.07,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 50949,
+                    "killers": [
+                        7,
+                        8,
+                        3,
+                        43,
+                        95,
+                        176
+                    ],
+                    "name": "パチュリー人形のSS",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 2,
+                    "id": 50950,
+                    "killers": [
+                        7,
+                        8,
+                        3,
+                        43,
+                        95,
+                        176
+                    ],
+                    "name": "パチュリー人形苦悩のSS",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.58,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 2,
+                    "id": 50951,
+                    "killers": [
+                        7,
+                        8,
+                        3,
+                        43,
+                        95,
+                        176
+                    ],
+                    "name": "パチュリー人形知識のSS",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 114,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 50952,
+                    "killers": [
+                        7,
+                        8,
+                        3,
+                        43,
+                        95,
+                        176
+                    ],
+                    "name": "パチュリー人形のRF",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 122,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 50953,
+                    "killers": [
+                        7,
+                        8,
+                        3,
+                        43,
+                        95,
+                        176
+                    ],
+                    "name": "パチュリー人形苦悩のRF",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 129,
+                    "effect": [
+                        3,
+                        1,
+                        16,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 50954,
+                    "killers": [
+                        7,
+                        8,
+                        3,
+                        43,
+                        95,
+                        176
+                    ],
+                    "name": "パチュリー人形知識のRF",
+                    "order": 13,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "121211111g",
+                "all_order_2": "1212131314141g",
+                "all_order_3": "12512131361414156g",
+                "break": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "伝え聞くチェーンステッチ",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    126,
+                    132
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        171,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 5.11,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        40
+                    ],
+                    "element": 2,
+                    "id": 50937,
+                    "killers": [
+                        2,
+                        58,
+                        95,
+                        176
+                    ],
+                    "name": "チェーンステッチ(七色)",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        169,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 4,
+                    "id": 50938,
+                    "killers": [
+                        0
+                    ],
+                    "name": "チェーンステッチ(裏冬)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.65,
+                    "damage_extend": 113,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 50939,
+                    "killers": [
+                        0
+                    ],
+                    "name": "チェーンステッチ(裏秋)",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.16,
+                    "damage_extend": 119,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        40
+                    ],
+                    "element": 7,
+                    "id": 50940,
+                    "killers": [
+                        2,
+                        58,
+                        95,
+                        176
+                    ],
+                    "name": "チェーンステッチ(土用)",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.67,
+                    "damage_extend": 126,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 50941,
+                    "killers": [
+                        0
+                    ],
+                    "name": "チェーンステッチ(裏夏)",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 132,
+                    "effect": [],
+                    "element": 5,
+                    "id": 50942,
+                    "killers": [
+                        0
+                    ],
+                    "name": "チェーンステッチ(裏春)",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        4,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        4,
+                        4,
+                        4,
+                        2
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_def_up"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_yin_def_down"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121111121111121111121111g",
+                "all_order_2": "12131411121314111213141112131411g",
+                "all_order_3": "1213141516121314151612131415161213141516g",
+                "break": [
+                    2,
+                    0,
+                    5,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「グランギニョル座の怪人　カーテンコール」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    123,
+                    131
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [
+                        89,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.73,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 50955,
+                    "killers": [
+                        5,
+                        7,
+                        95,
+                        176
+                    ],
+                    "name": "霊夢＆幽香人形",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 50956,
+                    "killers": [
+                        45,
+                        159,
+                        95,
+                        176
+                    ],
+                    "name": "妹紅人形",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.64,
+                    "damage_extend": 108,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        100
+                    ],
+                    "element": 7,
+                    "id": 50957,
+                    "killers": [
+                        7,
+                        121,
+                        95,
+                        176
+                    ],
+                    "name": "成美人形",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.45,
+                    "damage_extend": 116,
+                    "effect": [
+                        4,
+                        100
+                    ],
+                    "element": 8,
+                    "id": 50958,
+                    "killers": [
+                        1,
+                        105,
+                        95,
+                        176
+                    ],
+                    "name": "雛人形",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 123,
+                    "effect": [
+                        1,
+                        1,
+                        14,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 50959,
+                    "killers": [
+                        1,
+                        79,
+                        95,
+                        176
+                    ],
+                    "name": "メディスン人形",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        220,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 131,
+                    "effect": [
+                        5,
+                        120
+                    ],
+                    "element": 4,
+                    "id": 50960,
+                    "killers": [
+                        99,
+                        5,
+                        95,
+                        176
+                    ],
+                    "name": "魔理沙＆パチュリー人形",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

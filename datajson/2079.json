@@ -1,0 +1,1585 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 8,
+        "barrier_status_2": 8,
+        "barrier_status_3": 5,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30207901,
+        "boost_buff": 5,
+        "boost_target": 1,
+        "break_cost": 503,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "スピード連携",
+        "disadvantage_attack": 55,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "赤蛮奇",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>人間</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率80%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "真っ赤なエース",
+        "passivity_2_description": "Wave開始時、相手単体の<color=#CCAA00>陽防</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%]",
+        "passivity_2_icon": "characteristic_icon_14",
+        "passivity_2_name": "奪三振のドクター",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.40<color=#00CC66>上昇</color>  [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "海面下からのルーキー",
+        "quality": 21210211,
+        "quality_name": "夏雲",
+        "speed": 1740,
+        "subname": "渚のデュラハン",
+        "total": 7800,
+        "tribe": [
+            5,
+            178,
+            52,
+            79,
+            131,
+            141,
+            95
+        ],
+        "type": 7,
+        "world_group": "C3",
+        "yang_atk": 1940,
+        "yang_def": 1040,
+        "yin_atk": 1040,
+        "yin_def": 1040
+    },
+    "chain_character": [
+        2115,
+        4009,
+        4051,
+        5050,
+        6003,
+        6004,
+        6056,
+        19001,
+        19002,
+        2076,
+        13002,
+        5010,
+        6011,
+        2089,
+        2066,
+        3024,
+        2065,
+        3054,
+        2087,
+        2025,
+        7005,
+        6037,
+        3091,
+        3097,
+        2096,
+        10003,
+        10004,
+        2077,
+        4030
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                5,
+                2,
+                4,
+                3
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                4,
+                4
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                40
+            ],
+            "cd": 4,
+            "name": "赤のシャットアウト",
+            "id": 1
+        },
+        {
+            "a": [
+                2,
+                2,
+                4,
+                2,
+                2
+            ],
+            "b": [
+                2,
+                9,
+                4,
+                2,
+                3
+            ],
+            "c": [
+                6,
+                2,
+                4,
+                2,
+                3
+            ],
+            "cd": 2,
+            "name": "熱狂ノーヒットノーラン",
+            "id": 2
+        },
+        {
+            "a": [
+                41,
+                5,
+                1,
+                2,
+                2
+            ],
+            "b": [
+                4,
+                0,
+                1,
+                1,
+                3
+            ],
+            "c": [
+                2,
+                9,
+                4,
+                5,
+                2
+            ],
+            "cd": 6,
+            "name": "ラストパーフェクトゲーム",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        6,
+                        2,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        28
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "12121212113131313114141411111g",
+                "all_order_2": "1212121211313131311414141151511g",
+                "all_order_3": "12121212113131313114141411515116g",
+                "break": [
+                    0,
+                    5,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "飛頭「抜け首ナイン」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    119,
+                    125
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 95,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        178,
+                        25
+                    ],
+                    "cri": 3,
+                    "damage": 3.27,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        88,
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22353,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "抜け首投手＆捕手",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 22354,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "抜け首右翼手",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.05,
+                    "damage_extend": 106,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22355,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "抜け首中堅手",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 90,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.25,
+                    "damage_extend": 112,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 22356,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "抜け首左翼手",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        27,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 4.0,
+                    "damage_extend": 119,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22357,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "抜け首一塁手＆二塁手",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.59,
+                    "damage_extend": 125,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 22358,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "抜け首遊撃手＆三塁手",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12121131311411g",
+                "all_order_2": "121211313114151g",
+                "all_order_3": "1212113131141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "潜水艦投法",
+                "power_rate": 52,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    113,
+                    117,
+                    121
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        63,
+                        100,
+                        181,
+                        88
+                    ],
+                    "cri": 3,
+                    "damage": 2.91,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        188
+                    ],
+                    "element": 6,
+                    "id": 22341,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "沿岸型潜水艦投法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.43,
+                    "damage_extend": 104,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22342,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "巡洋型潜水艦投法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.86,
+                    "damage_extend": 108,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22343,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "敷設型潜水艦投法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 90,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.57,
+                    "damage_extend": 113,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22344,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "補給型潜水艦投法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 3.75,
+                    "damage_extend": 117,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 22345,
+                    "killers": [
+                        0
+                    ],
+                    "name": "モニター潜水艦投法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        181,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 121,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 22346,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "潜水空母投法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        6,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        4,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        28
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "121212121414141411111113131313g",
+                "all_order_3": "12612121214141414161615151515131313136g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "飛首「紐付き分身魔球」",
+                "power_rate": 13,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 95,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 3,
+                    "damage": 3.43,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        88,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22359,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "紐付き分身魔球",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        88,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22360,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "高機動型分身魔球",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        87,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 6.5,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22361,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "試作型分身魔球",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        87,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 7.0,
+                    "damage_extend": 113,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22362,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "強行偵察型分身魔球",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        88,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22363,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空間戦型分身魔球",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        27,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.38,
+                    "damage_extend": 127,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22364,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陸戦型分身魔球",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12121313g",
+                "all_order_2": "124124135135g",
+                "all_order_3": "12461241351356g",
+                "break": [
+                    0,
+                    2,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "大魔球６６号",
+                "power_rate": 27,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    118,
+                    124,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [
+                        169,
+                        100,
+                        181,
+                        88
+                    ],
+                    "cri": 3,
+                    "damage": 9.83,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        188,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22347,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "大魔球６６号",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.71,
+                    "damage_extend": 106,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22348,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "高機動型大魔球６６号",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 5.24,
+                    "damage_extend": 112,
+                    "effect": [
+                        1,
+                        1,
+                        3,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22349,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "試作型大魔球６６号",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 5.21,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 1,
+                    "id": 22350,
+                    "killers": [
+                        0
+                    ],
+                    "name": "強行偵察型大魔球６６号",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 8,
+                    "damage": 4.69,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 1,
+                    "id": 22351,
+                    "killers": [
+                        0
+                    ],
+                    "name": "空間戦型大魔球６６号",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        181,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.36,
+                    "damage_extend": 129,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 22352,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "陸戦型大魔球６６号",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        5,
+                        3
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        5,
+                        2
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        5,
+                        2
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        2,
+                        4,
+                        3,
+                        3
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1212121211111111111111111g",
+                "all_order_2": "121212121313131314141414111111111g",
+                "all_order_3": "12121212131313131414141415151515116161616g",
+                "break": [
+                    0,
+                    5,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「怪奇　超俯角天空フォーク」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 95,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 3,
+                    "damage": 4.91,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        188,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22365,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "超俯角天空フォーク",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22366,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "超俯角ナックル",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.64,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22367,
+                    "killers": [
+                        68,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "超俯角カーブフォーク",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.45,
+                    "damage_extend": 115,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22368,
+                    "killers": [
+                        79,
+                        84,
+                        71,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "超俯角シンカーフォーク",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 12.52,
+                    "damage_extend": 122,
+                    "effect": [
+                        5,
+                        188,
+                        9,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22369,
+                    "killers": [
+                        0
+                    ],
+                    "name": "超俯角ジャイロ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 13.36,
+                    "damage_extend": 130,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 22370,
+                    "killers": [
+                        0
+                    ],
+                    "name": "超俯角SFF",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

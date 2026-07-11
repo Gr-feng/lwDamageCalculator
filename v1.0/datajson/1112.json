@@ -1,0 +1,1278 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 1,
+        "barrier_status_2": 1,
+        "barrier_status_3": 0,
+        "barrier_status_4": 1,
+        "barrier_status_5": 0,
+        "bgm": 30111201,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 1,
+        "graze_target": 0,
+        "hp": 6500,
+        "name": "庭渡久侘歌",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>エネルギー弾</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_40",
+        "passivity_1_name": "関所の番頭",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_6",
+        "passivity_2_name": "PiPiPiホイッスル",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率25%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "霊魂整列",
+        "quality": 10111202,
+        "quality_name": "朝焼け",
+        "speed": 1000,
+        "subname": "地獄関所の番頭神",
+        "total": 6450,
+        "tribe": [
+            14,
+            68,
+            142,
+            113,
+            128,
+            129,
+            58,
+            69,
+            52,
+            181
+        ],
+        "type": 3,
+        "world_group": "L1",
+        "yang_atk": 1460,
+        "yang_def": 1110,
+        "yin_atk": 850,
+        "yin_def": 730
+    },
+    "chain_character": [
+        1114,
+        1111,
+        1113,
+        1116,
+        1120
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                3,
+                0,
+                2,
+                1,
+                35
+            ],
+            "b": [
+                1,
+                5,
+                2,
+                2,
+                2
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "「移動して下さーい！」",
+            "id": 1
+        },
+        {
+            "a": [
+                3,
+                0,
+                2,
+                1,
+                45
+            ],
+            "b": [
+                9,
+                0,
+                2,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "「階段は走らなーい！」",
+            "id": 2
+        },
+        {
+            "a": [
+                4,
+                0,
+                2,
+                1,
+                1
+            ],
+            "b": [
+                1,
+                1,
+                1,
+                2,
+                2
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "「最後尾ですよー！」",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [
+                        3,
+                        0,
+                        2,
+                        1,
+                        30
+                    ],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [
+                        "skill_icon_heal"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        2
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "12121212131313131414141411g",
+                "all_order_2": "12512121213131313141414141515g",
+                "all_order_3": "12512121213131313614141461415156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "水符「水配りの極級試煉」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.22,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3343,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ミクマリ灌漑試験",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        69,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 3344,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ニワタリコール",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3345,
+                    "killers": [
+                        8,
+                        90,
+                        99
+                    ],
+                    "name": "水配りぴよちゃん",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.93,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 3346,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ミクマリ治水試験",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        69,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.93,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 5,
+                    "id": 3347,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ニワタリオーダー",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.95,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3348,
+                    "killers": [
+                        8,
+                        90,
+                        99
+                    ],
+                    "name": "水渡しぴよちゃん",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "12121313111g",
+                "all_order_2": "1212131314151g",
+                "all_order_3": "12121313141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "荷渡",
+                "power_rate": 63,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    112,
+                    117,
+                    121
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        69,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 4.41,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 3331,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ぴよぴよデリバリー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.11,
+                    "damage_extend": 104,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3332,
+                    "killers": [
+                        8,
+                        90
+                    ],
+                    "name": "ひよこショッピング",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.77,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 1,
+                    "id": 3333,
+                    "killers": [
+                        22,
+                        1
+                    ],
+                    "name": "ぴよぴよボックス",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 3334,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ぴよぴよ運送",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.17,
+                    "damage_extend": 117,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 3335,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ぴよぴよ置き配",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 5,
+                    "id": 3336,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ひよこ通販",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        7,
+                        3,
+                        2,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "12121212131313131414141515151111g",
+                "all_order_3": "12121212131313131414141515151161616g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "血戦「全霊鬼渡り」",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    125
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.88,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 3349,
+                    "killers": [
+                        22,
+                        1,
+                        113,
+                        154
+                    ],
+                    "name": "人の世行き御案内",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 3350,
+                    "killers": [
+                        0
+                    ],
+                    "name": "鬼の国行き御案内",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 5,
+                    "id": 3351,
+                    "killers": [
+                        113,
+                        154
+                    ],
+                    "name": "鶏ガイダンス",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 5,
+                    "id": 3352,
+                    "killers": [
+                        22,
+                        1
+                    ],
+                    "name": "鶏アナウンス",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 5,
+                    "id": 3353,
+                    "killers": [
+                        22,
+                        1,
+                        113,
+                        154
+                    ],
+                    "name": "鶏インフォメーション",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 125,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3354,
+                    "killers": [
+                        0
+                    ],
+                    "name": "地獄行き御案内",
+                    "order": 31,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12111g",
+                "all_order_2": "12131415g",
+                "all_order_3": "121314156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "三輪足",
+                "power_rate": 33,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    117,
+                    123,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [
+                        67,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 11.43,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 3337,
+                    "killers": [
+                        113,
+                        99,
+                        154
+                    ],
+                    "name": "ひよこトライク",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 106,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 1,
+                    "id": 3338,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ひよこオート三輪",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3339,
+                    "killers": [
+                        113,
+                        154
+                    ],
+                    "name": "ぴよぴよドライラッド",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3340,
+                    "killers": [
+                        154,
+                        99
+                    ],
+                    "name": "ぴよぴよスリーホイラー",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3341,
+                    "killers": [
+                        113,
+                        99
+                    ],
+                    "name": "ぴよぴよトライシクル",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3342,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ひよこ三輪車",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        3,
+                        0,
+                        2,
+                        1,
+                        75
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_heal"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121212121111111111111111g",
+                "all_order_2": "12121212131313131414141415151511111g",
+                "all_order_3": "12121212131313131414141415151516116116g",
+                "break": [
+                    0,
+                    3,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「神鶏長鳴」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.31,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 1,
+                    "id": 3355,
+                    "killers": [
+                        113,
+                        99,
+                        154
+                    ],
+                    "name": "久侘歌ロングコール",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 1,
+                    "id": 3356,
+                    "killers": [
+                        8,
+                        90,
+                        22,
+                        1
+                    ],
+                    "name": "久侘歌ロングソング",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        123,
+                        25
+                    ],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 107,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3357,
+                    "killers": [
+                        0
+                    ],
+                    "name": "神聖な鳴き声",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 114,
+                    "effect": [
+                        11,
+                        25
+                    ],
+                    "element": 5,
+                    "id": 3358,
+                    "killers": [
+                        0
+                    ],
+                    "name": "渾身の鳴き声",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 121,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 1,
+                    "id": 3359,
+                    "killers": [
+                        8,
+                        90,
+                        22,
+                        113,
+                        99,
+                        154
+                    ],
+                    "name": "久侘歌ロングボイス",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 128,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 1,
+                    "id": 3360,
+                    "killers": [
+                        8,
+                        90,
+                        22,
+                        113,
+                        99,
+                        154
+                    ],
+                    "name": "久侘歌ロングポエム",
+                    "order": 32,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

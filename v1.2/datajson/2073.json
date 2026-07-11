@@ -1,0 +1,1396 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 4,
+        "bgm": 30207301,
+        "boost_buff": 8,
+        "boost_target": 1,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 10,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "ルーミア",
+        "passivity_1_description": "体力25%以下で攻撃された時、<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率40%]",
+        "passivity_1_icon": "characteristic_icon_39",
+        "passivity_1_name": "気まぐれ屋",
+        "passivity_2_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_37",
+        "passivity_2_name": "闇の妖怪",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を1.00<color=#00CC66>上昇</color>  [発生率25%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "暗黒エネルギー",
+        "quality": 21111200,
+        "quality_name": "夕闇",
+        "speed": 1225,
+        "subname": "[紅]宵闇の妖怪",
+        "total": 6900,
+        "tribe": [
+            5,
+            52,
+            112
+        ],
+        "type": 8,
+        "world_group": "A6",
+        "yang_atk": 650,
+        "yang_def": 600,
+        "yin_atk": 1750,
+        "yin_def": 1675
+    },
+    "chain_character": [
+        2006,
+        2030,
+        4001,
+        4002,
+        4005,
+        2033,
+        4003,
+        4004,
+        3007,
+        3008,
+        2031,
+        3084,
+        19032,
+        19009,
+        6010,
+        7011,
+        7062,
+        7063,
+        7064,
+        5089,
+        7073,
+        12008
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                5,
+                4,
+                2,
+                2
+            ],
+            "b": [
+                2,
+                9,
+                4,
+                3,
+                2
+            ],
+            "c": [
+                2,
+                11,
+                4,
+                3,
+                2
+            ],
+            "cd": 5,
+            "name": "エバーナイト",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                30
+            ],
+            "b": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "ダークエレメント",
+            "id": 2
+        },
+        {
+            "a": [
+                2,
+                9,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                3,
+                2
+            ],
+            "c": [
+                1,
+                4,
+                2,
+                2,
+                2
+            ],
+            "cd": 4,
+            "name": "ブラックベール",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        11,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121212121111111111111111g",
+                "all_order_2": "1212121213131313111111111111g",
+                "all_order_3": "1212121213131313141414141515151516161616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "月符「ムーンライトレイ」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [
+                        66,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 3.14,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22173,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "月光弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        29,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 6.18,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22174,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "月光線",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        66,
+                        75,
+                        68,
+                        100
+                    ],
+                    "cri": 25,
+                    "damage": 6.81,
+                    "damage_extend": 108,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22175,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "大きな月光弾",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        29,
+                        100
+                    ],
+                    "cri": 35,
+                    "damage": 7.42,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22176,
+                    "killers": [
+                        0
+                    ],
+                    "name": "強い月光線",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 8.35,
+                    "damage_extend": 123,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 2,
+                    "id": 22177,
+                    "killers": [
+                        0
+                    ],
+                    "name": "巨大な月光弾",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 9.28,
+                    "damage_extend": 130,
+                    "effect": [
+                        11,
+                        40
+                    ],
+                    "element": 2,
+                    "id": 22178,
+                    "killers": [
+                        0
+                    ],
+                    "name": "強烈な月光線",
+                    "order": 34,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111111g",
+                "all_order_1": "12121111111111g",
+                "all_order_2": "1212131311111111g",
+                "all_order_3": "1212131311414151511616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ナイトフォール",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    121,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.14,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22161,
+                    "killers": [
+                        0
+                    ],
+                    "name": "夜の帳",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        147,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 2.69,
+                    "damage_extend": 105,
+                    "effect": [
+                        4,
+                        40,
+                        11,
+                        15
+                    ],
+                    "element": 2,
+                    "id": 22162,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "小夜の帳",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 3.09,
+                    "damage_extend": 110,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22163,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大夜の帳",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        147,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 3.48,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 8,
+                    "id": 22164,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "長夜の帳",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 3.91,
+                    "damage_extend": 121,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 2,
+                    "id": 22165,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "永夜の帳",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 4.35,
+                    "damage_extend": 126,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22166,
+                    "killers": [
+                        0
+                    ],
+                    "name": "常夜の帳",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        30
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        3
+                    ],
+                    [
+                        3
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        3
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "121212121313131314141414111111g",
+                "all_order_3": "12121212131313131414141415161515616156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    5
+                ],
+                "first_order": 1,
+                "name": "闇符「ディマーケイション」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.72,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 22179,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "光の境界",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        29,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 4.12,
+                    "damage_extend": 100,
+                    "effect": [
+                        11,
+                        15
+                    ],
+                    "element": 2,
+                    "id": 22180,
+                    "killers": [
+                        0
+                    ],
+                    "name": "闇の境界",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 4.22,
+                    "damage_extend": 107,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 22181,
+                    "killers": [
+                        0
+                    ],
+                    "name": "昼の境界",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        29,
+                        100
+                    ],
+                    "cri": 25,
+                    "damage": 4.54,
+                    "damage_extend": 115,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 2,
+                    "id": 22182,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "夜の境界",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 35,
+                    "damage": 4.64,
+                    "damage_extend": 122,
+                    "effect": [
+                        8,
+                        1,
+                        16,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 22183,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "明の境界",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        29,
+                        100
+                    ],
+                    "cri": 35,
+                    "damage": 4.95,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22184,
+                    "killers": [
+                        0
+                    ],
+                    "name": "暗の境界",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111111g",
+                "all_order_1": "1211211111111g",
+                "all_order_2": "12112113113141511g",
+                "all_order_3": "121121131131415116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "薄明光線",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    107,
+                    113,
+                    120,
+                    126,
+                    133
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 11,
+                    "boost": 0,
+                    "buff": [
+                        145,
+                        35
+                    ],
+                    "cri": 5,
+                    "damage": 2.77,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 2,
+                    "id": 22167,
+                    "killers": [
+                        0
+                    ],
+                    "name": "薄明光線",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        145,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 4.48,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 8,
+                    "id": 22168,
+                    "killers": [
+                        0
+                    ],
+                    "name": "中薄明光線",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        145,
+                        75
+                    ],
+                    "cri": 15,
+                    "damage": 4.41,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 2,
+                    "id": 22169,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "大薄明光線",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 8.82,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 9,
+                    "id": 22170,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "強薄明光線",
+                    "order": 13,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 8.82,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 9,
+                    "id": 22171,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "超薄明光線",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 8.7,
+                    "damage_extend": 133,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 22172,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "極薄明光線",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "12121212121111111111111111g",
+                "all_order_2": "1212121212131313131414141415151511111g",
+                "all_order_3": "1212121212131313131414141415151516116116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "「マルーンナイトデボアリング」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.65,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        30,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22185,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "西洋栗色の夜食",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 7.89,
+                    "damage_extend": 100,
+                    "effect": [
+                        11,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 22186,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "葡萄茶色の夜食",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 30,
+                    "damage": 9.36,
+                    "damage_extend": 108,
+                    "effect": [
+                        4,
+                        30,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22187,
+                    "killers": [
+                        0
+                    ],
+                    "name": "暗赤茶色の夜食",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 30,
+                    "damage": 9.36,
+                    "damage_extend": 116,
+                    "effect": [
+                        4,
+                        30,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22188,
+                    "killers": [
+                        0
+                    ],
+                    "name": "暗褐色の夜食",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 30,
+                    "damage": 12.48,
+                    "damage_extend": 124,
+                    "effect": [
+                        4,
+                        30,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22189,
+                    "killers": [
+                        1,
+                        79,
+                        85
+                    ],
+                    "name": "赤黒色の夜食",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 40,
+                    "damage": 11.93,
+                    "damage_extend": 132,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 22190,
+                    "killers": [
+                        47,
+                        45,
+                        48,
+                        7
+                    ],
+                    "name": "闇紅色の夜食",
+                    "order": 34,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

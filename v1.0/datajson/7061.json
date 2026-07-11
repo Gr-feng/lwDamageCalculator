@@ -1,0 +1,1491 @@
+{
+    "character_info": {
+        "advantage_attack": 40,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 5,
+        "barrier_status_4": 5,
+        "barrier_status_5": 0,
+        "bgm": 30706101,
+        "boost_buff": 8,
+        "boost_target": 0,
+        "break_cost": 503,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 1,
+        "graze_target": 1,
+        "hp": 5000,
+        "name": "鍵山雛",
+        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_5",
+        "passivity_1_name": "河城重工製幻想機",
+        "passivity_2_description": "攻撃された時、<color=#CCAA00>不運に縁がある者</color>から受けるダメージを90%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_2_icon": "characteristic_icon_56",
+        "passivity_2_name": "人形生地α装甲",
+        "passivity_3_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_37",
+        "passivity_3_name": "元気誘導スーツ",
+        "quality": 12211111,
+        "quality_name": "多重渦竜巻",
+        "speed": 1200,
+        "subname": "幻想機ヴォルテクス",
+        "total": 7800,
+        "tribe": [
+            14,
+            5,
+            36,
+            225,
+            69,
+            52,
+            105,
+            95
+        ],
+        "type": 5,
+        "world_group": "C3≧",
+        "yang_atk": 1900,
+        "yang_def": 1700,
+        "yin_atk": 1000,
+        "yin_def": 1000
+    },
+    "chain_character": [
+        14040
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                56,
+                1,
+                1,
+                99,
+                2
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                40
+            ],
+            "cd": 6,
+            "name": "再生可能厄エネルギー",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                2,
+                7,
+                4,
+                3,
+                3
+            ],
+            "cd": 5,
+            "name": "厄神スカート付き",
+            "id": 2
+        },
+        {
+            "a": [
+                16,
+                3,
+                2,
+                1,
+                50
+            ],
+            "b": [
+                1,
+                8,
+                1,
+                3,
+                3
+            ],
+            "c": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "cd": 5,
+            "name": "元気コア駆動",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        4,
+                        4,
+                        3,
+                        4
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        2,
+                        4,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "機符「バイオナビゲーション」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12121211111111111111111g",
+                "all_order_2": "121212111131313111141411115151g",
+                "all_order_3": "1212121111313131111414111151516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        100,
+                        8,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171813,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        22,
+                        1,
+                        14,
+                        100,
+                        69
+                    ],
+                    "name": "バイオナビゲーション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 171814,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイバイオナビゲーション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        60,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 171815,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        92,
+                        1,
+                        8,
+                        75,
+                        69
+                    ],
+                    "name": "メガバイオナビゲーション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 114,
+                    "effect": [
+                        4,
+                        90
+                    ],
+                    "element": 2,
+                    "id": 171816,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ギガバイオナビゲーション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        147,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 121,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171817,
+                    "killers": [
+                        0
+                    ],
+                    "name": "テラバイオナビゲーション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.71,
+                    "damage_extend": 128,
+                    "effect": [
+                        4,
+                        100,
+                        15,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171818,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        92,
+                        1,
+                        14,
+                        100,
+                        69
+                    ],
+                    "name": "ペタバイオナビゲーション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ドリルビーム",
+                "power_rate": 44,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    114,
+                    119,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "12112111111g",
+                "all_order_2": "12112113113141g",
+                "all_order_3": "1211211311314156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        107,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.39,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 3,
+                    "id": 171801,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        1
+                    ],
+                    "name": "ドリルビーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 105,
+                    "effect": [],
+                    "element": 3,
+                    "id": 171802,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイドリルビーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.99,
+                    "damage_extend": 110,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 3,
+                    "id": 171803,
+                    "killers": [
+                        0
+                    ],
+                    "name": "メガドリルビーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.59,
+                    "damage_extend": 114,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 3,
+                    "id": 171804,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        1,
+                        69
+                    ],
+                    "name": "ギガドリルビーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        138,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.2,
+                    "damage_extend": 119,
+                    "effect": [
+                        10,
+                        10
+                    ],
+                    "element": 3,
+                    "id": 171805,
+                    "killers": [
+                        225,
+                        105,
+                        14,
+                        69
+                    ],
+                    "name": "テラドリルビーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        39,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 124,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 3,
+                    "id": 171806,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        1,
+                        69
+                    ],
+                    "name": "ペタドリルビーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        4,
+                        4,
+                        3,
+                        4
+                    ],
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        15
+                    ],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    5,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "機符「ビット流し」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12121212111111111111111111g",
+                "all_order_2": "12121212111313113114141411111111g",
+                "all_order_3": "1212121211131311311414141115151511616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 22,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.08,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 171819,
+                    "killers": [
+                        225,
+                        152,
+                        50,
+                        105,
+                        1,
+                        14,
+                        75,
+                        69
+                    ],
+                    "name": "ビット流し",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 171820,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイビット流し",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        143,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.67,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 2,
+                    "id": 171821,
+                    "killers": [
+                        0
+                    ],
+                    "name": "メガビット流し",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.11,
+                    "damage_extend": 114,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 2,
+                    "id": 171822,
+                    "killers": [
+                        225,
+                        105,
+                        75,
+                        83,
+                        140,
+                        185,
+                        34,
+                        100
+                    ],
+                    "name": "ギガビット流し",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 121,
+                    "effect": [
+                        15,
+                        1,
+                        14,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171823,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        92,
+                        1,
+                        8,
+                        75,
+                        69
+                    ],
+                    "name": "テラビット流し",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        55
+                    ],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 128,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 2,
+                    "id": 171824,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ペタビット流し",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "プラズマ厄災",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "112111111g",
+                "all_order_2": "112113141115g",
+                "all_order_3": "1121131411156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 8,
+                    "boost": 0,
+                    "buff": [
+                        143,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.41,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 3,
+                    "id": 171807,
+                    "killers": [
+                        225,
+                        152,
+                        8,
+                        1
+                    ],
+                    "name": "プラズマ厄災",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 5,
+                    "id": 171808,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイプラズマ厄災",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 3,
+                    "id": 171809,
+                    "killers": [
+                        0
+                    ],
+                    "name": "メガプラズマ厄災",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 119,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 3,
+                    "id": 171810,
+                    "killers": [
+                        225,
+                        50,
+                        105,
+                        1,
+                        17,
+                        34,
+                        115,
+                        60
+                    ],
+                    "name": "ギガプラズマ厄災",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 125,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 3,
+                    "id": 171811,
+                    "killers": [
+                        0
+                    ],
+                    "name": "テラプラズマ厄災",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 132,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 3,
+                    "id": 171812,
+                    "killers": [
+                        225,
+                        152,
+                        14,
+                        69
+                    ],
+                    "name": "ペタプラズマ厄災",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        41,
+                        1,
+                        1,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        3,
+                        3,
+                        4
+                    ],
+                    [
+                        1,
+                        8,
+                        1,
+                        3,
+                        4
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ヴォルテクス・ディザスター」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "121212121211111111111111111111g",
+                "all_order_2": "1212121212111311331131111111111111g",
+                "all_order_3": "1212121212111311331131141414141151515156161616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 25,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        270,
+                        8,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171825,
+                    "killers": [
+                        225,
+                        105,
+                        22,
+                        100,
+                        1,
+                        14,
+                        8,
+                        69
+                    ],
+                    "name": "専用渦状厄弾",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.78,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 171826,
+                    "killers": [
+                        0
+                    ],
+                    "name": "専用渦状大厄弾",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 17.18,
+                    "damage_extend": 108,
+                    "effect": [
+                        4,
+                        200
+                    ],
+                    "element": 3,
+                    "id": 171827,
+                    "killers": [
+                        0
+                    ],
+                    "name": "専用渦状特厄弾",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        147,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 19.64,
+                    "damage_extend": 116,
+                    "effect": [
+                        4,
+                        200,
+                        11,
+                        10,
+                        8,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171828,
+                    "killers": [
+                        225,
+                        105,
+                        1,
+                        22,
+                        140,
+                        44,
+                        17,
+                        60
+                    ],
+                    "name": "専用渦状超厄弾",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        138,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 22.09,
+                    "damage_extend": 124,
+                    "effect": [
+                        4,
+                        200
+                    ],
+                    "element": 3,
+                    "id": 171829,
+                    "killers": [
+                        225,
+                        105,
+                        1,
+                        22,
+                        140,
+                        44,
+                        17,
+                        60
+                    ],
+                    "name": "専用渦状極厄弾",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        147,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 24.55,
+                    "damage_extend": 132,
+                    "effect": [
+                        4,
+                        270,
+                        8,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 171830,
+                    "killers": [
+                        225,
+                        105,
+                        22,
+                        100,
+                        1,
+                        14,
+                        8,
+                        69
+                    ],
+                    "name": "専用渦状最厄弾",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

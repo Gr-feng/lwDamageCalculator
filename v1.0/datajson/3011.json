@@ -1,0 +1,1382 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 25,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30301101,
+        "boost_buff": 2,
+        "boost_target": 1,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "ガード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 1,
+        "graze_target": 1,
+        "hp": 5000,
+        "name": "魂魄妖夢",
+        "passivity_1_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>帯電</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_27",
+        "passivity_1_name": "霊障ショッカー",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陽防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%]",
+        "passivity_2_icon": "characteristic_icon_2",
+        "passivity_2_name": "剣霊ウォール",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.25<color=#00CC66>上昇</color>  [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "亡霊アシスト",
+        "quality": 12111111,
+        "quality_name": "業風",
+        "speed": 1250,
+        "subname": "月戦型ガーデナー",
+        "total": 7350,
+        "tribe": [
+            1,
+            10,
+            8,
+            27,
+            66,
+            58,
+            67,
+            54,
+            45,
+            150,
+            151,
+            152,
+            95
+        ],
+        "type": 6,
+        "world_group": "B3",
+        "yang_atk": 1675,
+        "yang_def": 875,
+        "yin_atk": 1675,
+        "yin_def": 875
+    },
+    "chain_character": [
+        3001,
+        3002,
+        3005,
+        3015,
+        3037,
+        2017,
+        2016,
+        2057,
+        2015,
+        2023,
+        2019,
+        2081,
+        2020,
+        2042,
+        2021,
+        2022,
+        2084,
+        2072,
+        2080,
+        2097,
+        2098,
+        4032,
+        2036,
+        6062,
+        6063,
+        6064,
+        5087,
+        5068,
+        5067,
+        12015,
+        11010,
+        2088,
+        5105,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                2,
+                1,
+                3,
+                2
+            ],
+            "b": [
+                1,
+                5,
+                2,
+                3,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "cd": 5,
+            "name": "play:manic",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                6,
+                2,
+                2,
+                2
+            ],
+            "b": [
+                5,
+                0,
+                1,
+                1,
+                5
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 4,
+            "name": "play:depressive",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                5,
+                0,
+                2,
+                1,
+                5
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "play:illusional",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        2,
+                        1,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        6,
+                        3,
+                        4,
+                        2,
+                        1
+                    ],
+                    [
+                        6,
+                        3,
+                        3,
+                        2,
+                        1
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111g",
+                "all_order_1": "12121212111111111g",
+                "all_order_2": "1212121213131313141414141g",
+                "all_order_3": "125121251213513136131461414614156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "剣伎「桜花閃々」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 13,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.76,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 50313,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "アシスト剣技PGM-z",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.19,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 50314,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "アシスト剣技PGM-z1.1",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.54,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 1,
+                    "id": 50315,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アシスト剣技PGM-z2.1",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.89,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 50316,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "アシスト剣技PGM-z2.2",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        40,
+                        4,
+                        60
+                    ],
+                    "element": 4,
+                    "id": 50317,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アシスト剣技PGM-z3.1",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.59,
+                    "damage_extend": 127,
+                    "effect": [
+                        5,
+                        40,
+                        4,
+                        60
+                    ],
+                    "element": 9,
+                    "id": 50318,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アシスト剣技PGM-z3.2",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "all_order_1": "121212111g",
+                "all_order_2": "124124124135135135g",
+                "all_order_3": "124124124135613561356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "半幽霊",
+                "power_rate": 57,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    118,
+                    122
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.36,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 50301,
+                    "killers": [
+                        0
+                    ],
+                    "name": "半霊ビット限定励起",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 104,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 50302,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "擬似剣撃メソッドA1",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        151,
+                        70
+                    ],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 109,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 50303,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "擬似剣撃メソッドB1",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 50304,
+                    "killers": [
+                        0
+                    ],
+                    "name": "擬似剣撃メソッドB2",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 118,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 1,
+                    "id": 50305,
+                    "killers": [
+                        0
+                    ],
+                    "name": "擬似剣撃メソッドB3",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 9,
+                    "id": 50306,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "擬似剣撃メソッドC1",
+                    "order": 13,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        2,
+                        1,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        6,
+                        3,
+                        4,
+                        2,
+                        1
+                    ],
+                    [
+                        6,
+                        3,
+                        3,
+                        2,
+                        1
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111g",
+                "all_order_1": "1212121212111111111111g",
+                "all_order_2": "1251212125121313513131314141414141515g",
+                "all_order_3": "125121212512131351313136141414614146156156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "転生剣「円心流転斬」",
+                "power_rate": 16,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 17,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 1,
+                    "id": 50319,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "アシスト剣技PGM-e",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.03,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 1,
+                    "id": 50320,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "アシスト剣技PGM-e1.1",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.03,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 50321,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アシスト剣技PGM-e2.1",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.03,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 50322,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "アシスト剣技PGM-e2.2",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.03,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        40,
+                        4,
+                        60
+                    ],
+                    "element": 1,
+                    "id": 50323,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アシスト剣技PGM-e2.3",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.03,
+                    "damage_extend": 126,
+                    "effect": [
+                        5,
+                        40,
+                        4,
+                        60
+                    ],
+                    "element": 4,
+                    "id": 50324,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アシスト剣技PGM-e3.1",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "12131311g",
+                "all_order_3": "12513513146146g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "六道怪奇",
+                "power_rate": 21,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    132
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [
+                        151,
+                        40
+                    ],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 1,
+                    "id": 50307,
+                    "killers": [
+                        0
+                    ],
+                    "name": "天界道怪奇",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 1,
+                    "id": 50308,
+                    "killers": [
+                        0
+                    ],
+                    "name": "人間道怪奇",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.64,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 50309,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "修羅道怪奇",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.73,
+                    "damage_extend": 119,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 50310,
+                    "killers": [
+                        0
+                    ],
+                    "name": "畜生道怪奇",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 125,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 50311,
+                    "killers": [
+                        0
+                    ],
+                    "name": "餓鬼道怪奇",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.91,
+                    "damage_extend": 132,
+                    "effect": [],
+                    "element": 4,
+                    "id": 50312,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "地獄道怪奇",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        2,
+                        1,
+                        3,
+                        4
+                    ],
+                    [
+                        1,
+                        1,
+                        1,
+                        1,
+                        5
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111g",
+                "all_order_1": "1212121211111111g",
+                "all_order_2": "1241212121313131314141414g",
+                "all_order_3": "12412512512513513513136146146146146g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「霊気収束双斬波刀」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.18,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        50,
+                        4,
+                        90
+                    ],
+                    "element": 1,
+                    "id": 50325,
+                    "killers": [
+                        0
+                    ],
+                    "name": "日輪理力剣技PGM-x",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        50,
+                        4,
+                        100
+                    ],
+                    "element": 1,
+                    "id": 50326,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "日輪理力剣技PGM-x1.1",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.35,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        100
+                    ],
+                    "element": 4,
+                    "id": 50327,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "霊性理力剣技PGM-x2.1",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        138,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.77,
+                    "damage_extend": 115,
+                    "effect": [
+                        5,
+                        50,
+                        4,
+                        150
+                    ],
+                    "element": 1,
+                    "id": 50328,
+                    "killers": [
+                        0
+                    ],
+                    "name": "日輪理力剣技PGM-x2.2",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 122,
+                    "effect": [
+                        4,
+                        150
+                    ],
+                    "element": 4,
+                    "id": 50329,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "霊性理力剣技PGM-x3.1",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.17,
+                    "damage_extend": 130,
+                    "effect": [
+                        5,
+                        50,
+                        4,
+                        150
+                    ],
+                    "element": 1,
+                    "id": 50330,
+                    "killers": [
+                        8,
+                        75
+                    ],
+                    "name": "日輪理力剣技PGM-x3.2",
+                    "order": 23,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

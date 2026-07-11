@@ -1,0 +1,1367 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 25,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30303701,
+        "boost_buff": 11,
+        "boost_target": 1,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 10,
+        "graze_target": 1,
+        "hp": 6500,
+        "name": "東風谷早苗",
+        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>回避</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_1_icon": "characteristic_icon_7",
+        "passivity_1_name": "ロードバランサー",
+        "passivity_2_description": "攻撃された時、<color=#CCAA00>神様</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率40%]",
+        "passivity_2_icon": "characteristic_icon_56",
+        "passivity_2_name": "神秘看破解析",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>体力</color>を20%<color=#00CC66>回復</color> [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_30",
+        "passivity_3_name": "モリヤ・ネクサス",
+        "quality": 12111111,
+        "quality_name": "ビル風",
+        "speed": 1200,
+        "subname": "月戦型オラクル",
+        "total": 7350,
+        "tribe": [
+            1,
+            14,
+            37,
+            38,
+            2,
+            54,
+            124,
+            45,
+            150,
+            151,
+            152,
+            95
+        ],
+        "type": 6,
+        "world_group": "B3",
+        "yang_atk": 1725,
+        "yang_def": 875,
+        "yin_atk": 1400,
+        "yin_def": 850
+    },
+    "chain_character": [
+        3001,
+        3002,
+        3005,
+        3011,
+        3015,
+        2017,
+        2016,
+        2057,
+        2039,
+        2015,
+        2023,
+        2019,
+        2081,
+        2020,
+        2042,
+        2021,
+        2022,
+        2084,
+        2072,
+        2080,
+        2097,
+        2098,
+        4032,
+        2036,
+        6062,
+        6063,
+        6064,
+        5087,
+        5068,
+        5067,
+        12015,
+        11010,
+        2088,
+        5105,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                2,
+                9,
+                4,
+                2,
+                2
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                2,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "cd": 5,
+            "name": "儀式フレームの共鳴",
+            "id": 1
+        },
+        {
+            "a": [
+                3,
+                0,
+                2,
+                1,
+                40
+            ],
+            "b": [
+                5,
+                0,
+                1,
+                1,
+                5
+            ],
+            "c": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "cd": 4,
+            "name": "カエル型修繕補給ユニット",
+            "id": 2
+        },
+        {
+            "a": [
+                3,
+                0,
+                2,
+                1,
+                70
+            ],
+            "b": [
+                1,
+                1,
+                2,
+                1,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                5
+            ],
+            "cd": 6,
+            "name": "ヘビ型換装ユニット",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        9,
+                        3,
+                        1,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "121212121213131313141414141g",
+                "all_order_2": "125121212512131313131414141415g",
+                "all_order_3": "125121212512131361313146141414156g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "秘術「忘却の祭儀」",
+                "power_rate": 22,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    119,
+                    125
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 6.71,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 8,
+                    "id": 51093,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "祈願星弾頭(α種第1位)",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 14,
+                    "damage": 4.55,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        50,
+                        2,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51094,
+                    "killers": [
+                        0
+                    ],
+                    "name": "祈願星弾頭(α種第2位)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 14,
+                    "damage": 4.74,
+                    "damage_extend": 106,
+                    "effect": [
+                        5,
+                        60,
+                        2,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51095,
+                    "killers": [
+                        0
+                    ],
+                    "name": "祈願星弾頭(α種第3位)",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 14,
+                    "damage": 4.04,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        60,
+                        2,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51096,
+                    "killers": [
+                        0
+                    ],
+                    "name": "祈願星弾頭(α種第4位)",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 4.08,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 8,
+                    "id": 51097,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "祈願星弾頭(α種第5位)",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 12,
+                    "damage": 2.74,
+                    "damage_extend": 125,
+                    "effect": [
+                        5,
+                        70,
+                        13,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 51098,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "祈願星弾頭(α種第6位)",
+                    "order": 23,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12121111111g",
+                "all_order_2": "12121311411511g",
+                "all_order_3": "121213114115116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "鉄輪レーザー",
+                "power_rate": 42,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    118,
+                    122
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        147,
+                        40
+                    ],
+                    "cri": 15,
+                    "damage": 2.09,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 51081,
+                    "killers": [
+                        0
+                    ],
+                    "name": "第壱光源",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 14,
+                    "damage": 3.55,
+                    "damage_extend": 104,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 5,
+                    "id": 51082,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "第弐光源",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 7.17,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 8,
+                    "id": 51083,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "第参光源",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 7.65,
+                    "damage_extend": 113,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 51084,
+                    "killers": [
+                        0
+                    ],
+                    "name": "第壱予備光源",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 7.65,
+                    "damage_extend": 118,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 51085,
+                    "killers": [
+                        0
+                    ],
+                    "name": "第弐予備光源",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 12,
+                    "damage": 7.71,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 8,
+                    "id": 51086,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "第参予備光源",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        11,
+                        3,
+                        1,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "all_order_1": "12121212111111111111g",
+                "all_order_2": "12121212131313141414151515111g",
+                "all_order_3": "1212121213131314141415151516116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "奇跡「客星の明るすぎる夜」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 3.13,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 5,
+                    "id": 51099,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "祈願星弾頭(β種第1位)",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 14,
+                    "damage": 3.79,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 51100,
+                    "killers": [
+                        0
+                    ],
+                    "name": "祈願星弾頭(β種第2位)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 5.1,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 8,
+                    "id": 51101,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "祈願星弾頭(β種第3位)",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 5.44,
+                    "damage_extend": 113,
+                    "effect": [
+                        5,
+                        50,
+                        2,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 51102,
+                    "killers": [
+                        0
+                    ],
+                    "name": "祈願星弾頭(β種第4位)",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 5.44,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        50,
+                        2,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 51103,
+                    "killers": [
+                        0
+                    ],
+                    "name": "祈願星弾頭(β種第5位)",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 12,
+                    "damage": 8.23,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 9,
+                    "id": 51104,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "祈願星弾頭(β種第6位)",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12121313g",
+                "all_order_2": "1245124135135g",
+                "all_order_3": "1245124613561356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "御柱キャノン",
+                "power_rate": 25,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    118,
+                    124,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [
+                        145,
+                        40
+                    ],
+                    "cri": 15,
+                    "damage": 8.8,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 51087,
+                    "killers": [
+                        0
+                    ],
+                    "name": "Eパック(1基め)",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        146,
+                        50
+                    ],
+                    "cri": 14,
+                    "damage": 5.92,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 8,
+                    "id": 51088,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "Eパック(2基め)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 14,
+                    "damage": 5.43,
+                    "damage_extend": 112,
+                    "effect": [
+                        5,
+                        30,
+                        2,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51089,
+                    "killers": [
+                        0
+                    ],
+                    "name": "Eパック(3基め)",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        144,
+                        70
+                    ],
+                    "cri": 13,
+                    "damage": 5.31,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 9,
+                    "id": 51090,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "Eパック(4基め)",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 3.19,
+                    "damage_extend": 124,
+                    "effect": [
+                        5,
+                        40,
+                        2,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 51091,
+                    "killers": [
+                        0
+                    ],
+                    "name": "Eパック(5基め)",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 12,
+                    "damage": 2.86,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 5,
+                    "id": 51092,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "Eパック(6基め)",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        5,
+                        1,
+                        2,
+                        4
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        3,
+                        0,
+                        2,
+                        1,
+                        80
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_heal"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111g",
+                "all_order_1": "1212121213131313111111111g",
+                "all_order_2": "12121212131313131414141415115115g",
+                "all_order_3": "12121212131313131414141415161516156g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「フルアーマー神装パージ」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 17,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 8.29,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 51105,
+                    "killers": [
+                        0
+                    ],
+                    "name": "奇跡の光を帯びた格闘",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        32,
+                        100
+                    ],
+                    "cri": 14,
+                    "damage": 9.47,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 51106,
+                    "killers": [
+                        0
+                    ],
+                    "name": "再装備シュート",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        235,
+                        100
+                    ],
+                    "cri": 14,
+                    "damage": 8.68,
+                    "damage_extend": 107,
+                    "effect": [
+                        5,
+                        100
+                    ],
+                    "element": 8,
+                    "id": 51107,
+                    "killers": [
+                        13
+                    ],
+                    "name": "奇跡の光を帯びた手刀",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 8.5,
+                    "damage_extend": 114,
+                    "effect": [
+                        5,
+                        125
+                    ],
+                    "element": 5,
+                    "id": 51108,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "再装備バスター",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 13,
+                    "damage": 10.19,
+                    "damage_extend": 121,
+                    "effect": [
+                        5,
+                        125
+                    ],
+                    "element": 5,
+                    "id": 51109,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "奇跡の光を帯びた抜手",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 12,
+                    "damage": 9.14,
+                    "damage_extend": 128,
+                    "effect": [
+                        5,
+                        150,
+                        13,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 51110,
+                    "killers": [
+                        14,
+                        75
+                    ],
+                    "name": "再装備ブラスター",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

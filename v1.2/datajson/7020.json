@@ -1,0 +1,1467 @@
+{
+    "character_info": {
+        "advantage_attack": 35,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 5,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 5,
+        "bgm": 30702001,
+        "boost_buff": 3,
+        "boost_target": 1,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "スピード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 4000,
+        "name": "藤原妹紅",
+        "passivity_1_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.20<color=#00CC66>上昇</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_31",
+        "passivity_1_name": "エンジン「火鼠の皮衣」",
+        "passivity_2_description": "攻撃された時、<color=#CCAA00>月属性</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率35%]",
+        "passivity_2_icon": "characteristic_icon_49",
+        "passivity_2_name": "制御系「仏の御石の鉢」",
+        "passivity_3_description": "体力100%以上で攻撃された時、<color=#CCAA00>受けるダメージ</color>を95%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_38",
+        "passivity_3_name": "微小機械「燕の子安貝」",
+        "quality": 21211111,
+        "quality_name": "熱波",
+        "speed": 1750,
+        "subname": "蓬莱エンジン車持ち",
+        "total": 7350,
+        "tribe": [
+            1,
+            29,
+            36,
+            160,
+            52,
+            71,
+            188,
+            159,
+            95
+        ],
+        "type": 6,
+        "world_group": "T5",
+        "yang_atk": 1000,
+        "yang_def": 1000,
+        "yin_atk": 1750,
+        "yin_def": 1050
+    },
+    "chain_character": [
+        6024,
+        6089,
+        14015
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                1,
+                4,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                5,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                2,
+                7,
+                4,
+                3,
+                3
+            ],
+            "cd": 5,
+            "name": "爆熱ライダー",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                5,
+                4,
+                3,
+                4
+            ],
+            "b": [
+                5,
+                0,
+                1,
+                1,
+                40
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 5,
+            "name": "理想の耐久走者",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                3,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                1,
+                5,
+                2,
+                3,
+                3
+            ],
+            "cd": 5,
+            "name": "蓬莱の玉の燃料",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        12
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "break": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    2
+                ],
+                "first_order": 1,
+                "name": "奇人「忠告ライダーサンジェルマン」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12121211111111111g",
+                "all_order_2": "1212121131313114141415151g",
+                "all_order_3": "121212113131311414141515616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.74,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 3,
+                    "id": 170583,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "変身サンジェルマン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        65,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170584,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大変身サンジェルマン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        70
+                    ],
+                    "element": 3,
+                    "id": 170585,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "特変身サンジェルマン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 113,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170586,
+                    "killers": [
+                        0
+                    ],
+                    "name": "超変身サンジェルマン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        171,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 3,
+                    "id": 170587,
+                    "killers": [
+                        0
+                    ],
+                    "name": "極変身サンジェルマン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 126,
+                    "effect": [
+                        5,
+                        80
+                    ],
+                    "element": 3,
+                    "id": 170588,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "最変身サンジェルマン",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "break": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "火焔ドライブ",
+                "power_rate": 66,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    118,
+                    123
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1211111g",
+                "all_order_2": "121131141g",
+                "all_order_3": "12113114156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.58,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        70
+                    ],
+                    "element": 3,
+                    "id": 170571,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "火焔ドライブ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        171,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.36,
+                    "damage_extend": 105,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 170572,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大火焔ドライブ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.98,
+                    "damage_extend": 109,
+                    "effect": [
+                        5,
+                        70
+                    ],
+                    "element": 6,
+                    "id": 170573,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "特火焔ドライブ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.59,
+                    "damage_extend": 114,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170574,
+                    "killers": [
+                        0
+                    ],
+                    "name": "超火焔ドライブ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.2,
+                    "damage_extend": 118,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170575,
+                    "killers": [
+                        0
+                    ],
+                    "name": "極火焔ドライブ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 123,
+                    "effect": [
+                        5,
+                        70
+                    ],
+                    "element": 3,
+                    "id": 170576,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "最火焔ドライブ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        1,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_burn"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "break": [
+                    3,
+                    0,
+                    0,
+                    0,
+                    5
+                ],
+                "first_order": 1,
+                "name": "惜命「安全なチキンレース」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121212111111111111111g",
+                "all_order_2": "121212111313131114141411111g",
+                "all_order_3": "1212121113131311141414115151616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.55,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 3,
+                    "id": 170589,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "安全なチキンレース",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 6,
+                    "id": 170590,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "大安全なチキンレース",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.67,
+                    "damage_extend": 107,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170591,
+                    "killers": [
+                        0
+                    ],
+                    "name": "特安全なチキンレース",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        173,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.11,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 3,
+                    "id": 170592,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "超安全なチキンレース",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 120,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170593,
+                    "killers": [
+                        0
+                    ],
+                    "name": "極安全なチキンレース",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 127,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 3,
+                    "id": 170594,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "最安全なチキンレース",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "break": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "人体イグニッションコイル",
+                "power_rate": 23,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    132
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "112111g",
+                "all_order_2": "1121311g",
+                "all_order_3": "1121314156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170577,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "人体発火イグニッション",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        173,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 106,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170578,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイイグニッションコイル",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 14.32,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 170579,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "メガイグニッションコイル",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 16.36,
+                    "damage_extend": 119,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170580,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ギガイグニッションコイル",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        180,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 18.41,
+                    "damage_extend": 125,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170581,
+                    "killers": [
+                        0
+                    ],
+                    "name": "テライグニッションコイル",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 20.45,
+                    "damage_extend": 132,
+                    "effect": [
+                        5,
+                        70,
+                        12,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170582,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "ペタイグニッションコイル",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        1,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        2,
+                        4
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111111g",
+                "break": [
+                    2,
+                    0,
+                    0,
+                    0,
+                    5
+                ],
+                "first_order": 1,
+                "name": "「終末のバイクオーナープリンセス」",
+                "power_rate": 11,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1211212211111111111111111111g",
+                "all_order_2": "121121221113113133111141414411111111g",
+                "all_order_3": "121121221113113133111141414411151515161616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 24,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.16,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        200
+                    ],
+                    "element": 3,
+                    "id": 170595,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "二輪車持ちの姫君",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        171,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 14.73,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        120,
+                        12,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170596,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "二輪車持ちの大姫君",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.95,
+                    "damage_extend": 107,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 170597,
+                    "killers": [
+                        0
+                    ],
+                    "name": "二輪車持ちの特姫君",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 17.18,
+                    "damage_extend": 115,
+                    "effect": [
+                        5,
+                        120,
+                        7,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170598,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "二輪車持ちの超姫君",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 24.55,
+                    "damage_extend": 122,
+                    "effect": [
+                        5,
+                        120,
+                        16,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170599,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "二輪車持ちの極姫君",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 26.18,
+                    "damage_extend": 130,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        200,
+                        7,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 170600,
+                    "killers": [
+                        1,
+                        188,
+                        29,
+                        13,
+                        45,
+                        71
+                    ],
+                    "name": "二輪車持ちの最姫君",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

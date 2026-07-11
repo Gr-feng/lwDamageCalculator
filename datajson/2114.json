@@ -1,0 +1,1512 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 5,
+        "barrier_status_2": 5,
+        "barrier_status_3": 5,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30211401,
+        "boost_buff": 6,
+        "boost_target": 1,
+        "break_cost": 505,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "スピード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 3,
+        "graze_target": 1,
+        "hp": 5375,
+        "name": "戎瓔花",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>流体弾</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_40",
+        "passivity_1_name": "クラゲすぎる動物霊",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率60%]",
+        "passivity_2_icon": "characteristic_icon_32",
+        "passivity_2_name": "ゆらゆらすぎる河原暮らし",
+        "passivity_3_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>凍結</color>」を1枚<color=#0066FF>付与</color> (3T) [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_26",
+        "passivity_3_name": "原初神格の過剰顕現",
+        "quality": 20111201,
+        "quality_name": "溶鉄の雨",
+        "speed": 1650,
+        "subname": "[鬼EX]河原のスーパーアイドル水子",
+        "total": 7575,
+        "tribe": [
+            8,
+            122,
+            90,
+            15,
+            14,
+            153,
+            129,
+            128,
+            51,
+            198
+        ],
+        "type": 6,
+        "world_group": "A17&",
+        "yang_atk": 1000,
+        "yang_def": 950,
+        "yin_atk": 1800,
+        "yin_def": 1100
+    },
+    "chain_character": [
+        16004
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                3,
+                4,
+                3,
+                3
+            ],
+            "b": [
+                8,
+                1,
+                2,
+                1,
+                1
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                30
+            ],
+            "cd": 5,
+            "name": "高すぎる石積み",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                2,
+                4,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                5,
+                2,
+                2,
+                4
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 5,
+            "name": "俊敏すぎる早積み",
+            "id": 2
+        },
+        {
+            "a": [
+                41,
+                3,
+                2,
+                2,
+                2
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                4,
+                0,
+                2,
+                1,
+                3
+            ],
+            "cd": 6,
+            "name": "聡明すぎるくらげ先生",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        2,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        3,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ],
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "break": [
+                    0,
+                    2,
+                    3,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "石符「ストーンコニファー」",
+                "power_rate": 13,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "121212111111111111111g",
+                "all_order_2": "121212113131311111111111g",
+                "all_order_3": "121212113131311414141151515161616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.27,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        90
+                    ],
+                    "element": 7,
+                    "id": 23403,
+                    "killers": [
+                        14,
+                        7,
+                        1,
+                        8,
+                        68,
+                        27,
+                        22,
+                        168
+                    ],
+                    "name": "ストーンコニファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 23404,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイストーンコニファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.16,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        85,
+                        14,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 23405,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "メガストーンコニファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        170,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 114,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        85
+                    ],
+                    "element": 7,
+                    "id": 23406,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ギガストーンコニファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.78,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 7,
+                    "id": 23407,
+                    "killers": [
+                        0
+                    ],
+                    "name": "テラストーンコニファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 128,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 7,
+                    "id": 23408,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ペタストーンコニファー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ストーンスタック",
+                "power_rate": 14,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    118,
+                    122
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1212111111111111g",
+                "all_order_2": "12121113131114111511g",
+                "all_order_3": "121211131311141115116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 1.17,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 7,
+                    "id": 23391,
+                    "killers": [
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ストーンスタック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        34,
+                        100,
+                        32,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 104,
+                    "effect": [],
+                    "element": 9,
+                    "id": 23392,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイストーンスタック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        170,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 4,
+                    "id": 23393,
+                    "killers": [
+                        0
+                    ],
+                    "name": "メガストーンスタック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 113,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        60
+                    ],
+                    "element": 7,
+                    "id": 23394,
+                    "killers": [
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ギガストーンスタック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 4,
+                    "id": 23395,
+                    "killers": [
+                        0
+                    ],
+                    "name": "テラストーンスタック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        170,
+                        100,
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 122,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        60
+                    ],
+                    "element": 7,
+                    "id": 23396,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ペタストーンスタック",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        4,
+                        2
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "break": [
+                    0,
+                    4,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "石符「アダルトチルドレンズリンボ」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121212121111111111111111g",
+                "all_order_2": "12121212113131313114141414115151511g",
+                "all_order_3": "12121212113131313114141414115151561616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 7,
+                    "id": 23409,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ヒーローズリンボ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        181,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 4,
+                    "id": 23410,
+                    "killers": [
+                        0
+                    ],
+                    "name": "スケープゴーツリンボ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        170,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 7,
+                    "id": 23411,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ロストワンズリンボ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 113,
+                    "effect": [
+                        1,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 23412,
+                    "killers": [
+                        0
+                    ],
+                    "name": "プラケーターズリンボ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 120,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 7,
+                    "id": 23413,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "マスコッツリンボ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 126,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        80,
+                        14,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 23414,
+                    "killers": [
+                        14,
+                        7,
+                        1,
+                        8,
+                        68,
+                        27,
+                        22,
+                        168
+                    ],
+                    "name": "イネイブラーズリンボ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "リバーサイドワークス",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    119,
+                    125,
+                    131
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12121111111111g",
+                "all_order_2": "121211131311141411g",
+                "all_order_3": "12121113131114141516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 1.99,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 23397,
+                    "killers": [
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "リバーサイドワークス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.09,
+                    "damage_extend": 106,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 23398,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイリバーサイドワークス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        170,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.43,
+                    "damage_extend": 112,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 23399,
+                    "killers": [
+                        0
+                    ],
+                    "name": "メガリバーサイドワークス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.77,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 4,
+                    "id": 23400,
+                    "killers": [
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ギガリバーサイドワークス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.23,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 7,
+                    "id": 23401,
+                    "killers": [
+                        0
+                    ],
+                    "name": "テラリバーサイドワークス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.91,
+                    "damage_extend": 131,
+                    "effect": [
+                        5,
+                        60
+                    ],
+                    "element": 4,
+                    "id": 23402,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "ペタリバーサイドワークス",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        41,
+                        5,
+                        2,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        3,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        3,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111111g",
+                "break": [
+                    0,
+                    2,
+                    3,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「海月水母　太陽の姫」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12121212121111111111111111111g",
+                "all_order_2": "121212121211331313131414141414111111111g",
+                "all_order_3": "1212121212113313131314141414141515151515616161616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 24,
+                    "boost": 0,
+                    "buff": [
+                        182,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.77,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        160
+                    ],
+                    "element": 7,
+                    "id": 23415,
+                    "killers": [
+                        14,
+                        7,
+                        1,
+                        8,
+                        68,
+                        27,
+                        22,
+                        168
+                    ],
+                    "name": "太陽の姫",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 23416,
+                    "killers": [
+                        0
+                    ],
+                    "name": "太陽の大姫",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.51,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        14,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 23417,
+                    "killers": [
+                        0
+                    ],
+                    "name": "太陽の特姫",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        168,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.16,
+                    "damage_extend": 115,
+                    "effect": [
+                        5,
+                        120
+                    ],
+                    "element": 7,
+                    "id": 23418,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "太陽の超姫",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [
+                        170,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 122,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        120
+                    ],
+                    "element": 7,
+                    "id": 23419,
+                    "killers": [
+                        7,
+                        8,
+                        2,
+                        3,
+                        154,
+                        142,
+                        140,
+                        122
+                    ],
+                    "name": "太陽の極姫",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 130,
+                    "effect": [
+                        7,
+                        1,
+                        5,
+                        160
+                    ],
+                    "element": 7,
+                    "id": 23420,
+                    "killers": [
+                        14,
+                        7,
+                        1,
+                        8,
+                        68,
+                        27,
+                        22,
+                        168
+                    ],
+                    "name": "太陽の最姫",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

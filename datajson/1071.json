@@ -1,0 +1,1237 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 3069,
+        "boost_buff": 2,
+        "boost_target": 1,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 8,
+        "graze_target": 1,
+        "hp": 4200,
+        "name": "丁礼田舞",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>神様</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "秘神の権能",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>体力</color>を15%<color=#00CC66>回復</color> [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_30",
+        "passivity_2_name": "バイタルヒール",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_1",
+        "passivity_3_name": "生命補強",
+        "quality": 2121011,
+        "quality_name": "エルニーニョ",
+        "speed": 810,
+        "subname": "危険すぎるバックダンサーズ",
+        "total": 6450,
+        "tribe": [
+            14,
+            58,
+            52,
+            126,
+            181
+        ],
+        "type": 2,
+        "world_group": "L1",
+        "yang_atk": 1450,
+        "yang_def": 1190,
+        "yin_atk": 1150,
+        "yin_def": 1010
+    },
+    "chain_character": [
+        1087,
+        1069,
+        1070,
+        1083,
+        1025,
+        1009,
+        1013,
+        1014,
+        1120
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                7,
+                1,
+                3,
+                2
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "総序の呪歌",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                8,
+                2,
+                2,
+                3
+            ],
+            "b": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "千歳之舞",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                2,
+                2,
+                3,
+                2
+            ],
+            "b": [
+                1,
+                5,
+                2,
+                3,
+                2
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "生命神楽",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        15
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111g",
+                "all_order_1": "12121212131313111111g",
+                "all_order_2": "12121212131313141414151515g",
+                "all_order_3": "1212121213131314141415156156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "竹符「バンブースピアダンス」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 13,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.06,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 2113,
+                    "killers": [
+                        0
+                    ],
+                    "name": "マダケの茎",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 2114,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "モウソウチクの茎",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        33,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 5.36,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2115,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ナリヒラダケの茎",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.88,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 5,
+                    "id": 2116,
+                    "killers": [
+                        0
+                    ],
+                    "name": "キッコウチクの茎",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2117,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "ホテイチクの茎",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 124,
+                    "effect": [
+                        5,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 2118,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "ホウライチクの茎",
+                    "order": 25,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "all_order_1": "12121313111111g",
+                "all_order_2": "1212131311411511g",
+                "all_order_3": "12121313114115116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "星夢",
+                "power_rate": 43,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    112,
+                    117,
+                    121
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        176,
+                        40
+                    ],
+                    "cri": 5,
+                    "damage": 3.09,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 2101,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星の見る夢",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.11,
+                    "damage_extend": 104,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 2102,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "星幽世界の幻",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.77,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 8,
+                    "id": 2103,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星々の見る夢々",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2104,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "星幽世界の幻覚",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.17,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2105,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星幽世界の幻視",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2106,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星幽世界の直視",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111g",
+                "all_order_1": "121212121111111111111g",
+                "all_order_2": "12121212131313131414141411111g",
+                "all_order_3": "1212121213131313141414141515156156166g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "笹符「タナバタスターフェスティバル」",
+                "power_rate": 13,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 17,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.52,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 2119,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "短冊の願い星",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        176,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 2120,
+                    "killers": [
+                        0
+                    ],
+                    "name": "白短冊の願い星",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.13,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2121,
+                    "killers": [
+                        0
+                    ],
+                    "name": "黒短冊の願い星",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.68,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 2122,
+                    "killers": [
+                        0
+                    ],
+                    "name": "青短冊の願い星",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 8,
+                    "id": 2123,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "黄短冊の願い星",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2124,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "赤短冊の願い星",
+                    "order": 31,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "all_order_1": "1211111g",
+                "all_order_2": "1213141511g",
+                "all_order_3": "12131415161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "刃葉",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    117,
+                    123,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.08,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 2107,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "ササの葉",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 2108,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "アズマザサの葉",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 5,
+                    "id": 2109,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "メダケの葉",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2110,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ヤダケの葉",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2111,
+                    "killers": [
+                        0
+                    ],
+                    "name": "スズタケの葉",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 9,
+                    "id": 2112,
+                    "killers": [
+                        0
+                    ],
+                    "name": "インヨウチクの葉",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "12121212121111111111111g",
+                "all_order_2": "12512121251213131313131414141414151515g",
+                "all_order_3": "1251212125121313613131361414146141415615156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「末那識保守のダイモーン」",
+                "power_rate": 13,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 12.19,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        10
+                    ],
+                    "element": 5,
+                    "id": 2125,
+                    "killers": [
+                        0
+                    ],
+                    "name": "稗穀のレーザー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 2126,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "黍穀のレーザー",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 5,
+                    "id": 2127,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "豆穀のレーザー",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 114,
+                    "effect": [
+                        5,
+                        50,
+                        4,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 2128,
+                    "killers": [
+                        0
+                    ],
+                    "name": "粟穀のレーザー",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 5,
+                    "id": 2129,
+                    "killers": [
+                        15,
+                        9,
+                        10
+                    ],
+                    "name": "麦穀のレーザー",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 128,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 8,
+                    "id": 2130,
+                    "killers": [
+                        7,
+                        8
+                    ],
+                    "name": "米穀のレーザー",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

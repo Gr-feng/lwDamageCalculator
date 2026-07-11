@@ -1,0 +1,1471 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 6,
+        "barrier_status_2": 7,
+        "barrier_status_3": 8,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30303801,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 504,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>結界</color>を<color=#00CC66>増加</color>\\n前衛になる時、前衛全体の<color=#CCAA00>結界異常</color>を<color=#00CC66>回復</color>",
+        "chain_name": "シールド連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 6000,
+        "name": "八坂神奈子",
+        "passivity_1_description": "Wave開始時、相手単体の<color=#CCAA00>CRI防御</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率70%]",
+        "passivity_1_icon": "characteristic_icon_21",
+        "passivity_1_name": "御神渡りの道定め",
+        "passivity_2_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>帯電</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率100%]",
+        "passivity_2_icon": "characteristic_icon_27",
+        "passivity_2_name": "氷剣の腕の記憶",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率60%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "仮想陣地：守矢神社",
+        "quality": 10022211,
+        "quality_name": "ボーラ現象",
+        "speed": 905,
+        "subname": "サヨナラはどこか蒼い",
+        "total": 7575,
+        "tribe": [
+            14,
+            15,
+            52,
+            69,
+            88,
+            124
+        ],
+        "type": 6,
+        "world_group": "L80",
+        "yang_atk": 1910,
+        "yang_def": 1105,
+        "yin_atk": 1450,
+        "yin_def": 1005
+    },
+    "chain_character": [
+        5003,
+        3032,
+        6005,
+        3020,
+        4050,
+        5011,
+        5004,
+        8002,
+        3019,
+        5015,
+        5037,
+        8001,
+        4010,
+        6025,
+        4007,
+        5051,
+        6039,
+        10069,
+        16006,
+        8057,
+        7024,
+        4091,
+        10066,
+        12040,
+        12087,
+        10099,
+        12044
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                8,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                6,
+                3,
+                4,
+                3,
+                3
+            ],
+            "cd": 5,
+            "name": "姫大明神",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                40
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 5,
+            "name": "金剛女の宮",
+            "id": 2
+        },
+        {
+            "a": [
+                6,
+                2,
+                1,
+                5,
+                2
+            ],
+            "b": [
+                6,
+                1,
+                1,
+                5,
+                3
+            ],
+            "c": [
+                1,
+                2,
+                2,
+                5,
+                3
+            ],
+            "cd": 7,
+            "name": "高知尾の豊姫",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        2,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        3,
+                        0,
+                        1,
+                        1,
+                        35
+                    ],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_heal"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "12121212131313131111111111g",
+                "all_order_2": "121212121313131314141414111111g",
+                "all_order_3": "12612121213131313141461414151515151616g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "守矢神社「愛娘のような現人神」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        63,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 2.55,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 51123,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星巫女の相伝弾幕",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        70,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 51124,
+                    "killers": [
+                        3,
+                        21,
+                        14,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "風祝の相伝弾幕",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        70,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 4.25,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 51125,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星巫女の相伝大弾幕",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.58,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 51126,
+                    "killers": [
+                        3,
+                        21,
+                        14,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "風祝の相伝大弾幕",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 120,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 51127,
+                    "killers": [
+                        0
+                    ],
+                    "name": "星巫女の相伝超弾幕",
+                    "order": 19,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 126,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51128,
+                    "killers": [
+                        3,
+                        21,
+                        14,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "風祝の相伝超弾幕",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111111g",
+                "all_order_1": "1212111111111g",
+                "all_order_2": "1212131314114151511g",
+                "all_order_3": "121213131411415151616g",
+                "break": [
+                    6,
+                    0,
+                    5,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "オンバシラビームキャノン",
+                "power_rate": 16,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    118,
+                    122
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 11,
+                    "boost": 0,
+                    "buff": [
+                        64,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 1.49,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40,
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 51111,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "ビームキャノン",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        70,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 104,
+                    "effect": [],
+                    "element": 5,
+                    "id": 51112,
+                    "killers": [
+                        0
+                    ],
+                    "name": "春宮一之御柱・二之御柱",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        64,
+                        75,
+                        66,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 109,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 51113,
+                    "killers": [
+                        52,
+                        95,
+                        176
+                    ],
+                    "name": "秋宮一之御柱・二之御柱",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 4,
+                    "id": 51114,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハイビームキャノン",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 118,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51115,
+                    "killers": [
+                        114
+                    ],
+                    "name": "春宮三之御柱・四之御柱",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 122,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 51116,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "秋宮三之御柱・四之御柱",
+                    "order": 19,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        2,
+                        1,
+                        4,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        3,
+                        2,
+                        3
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        2,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        25
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "all_order_1": "121311112131111213111121311g",
+                "all_order_2": "1213141112131411121314111213141g",
+                "all_order_3": "121314151612131415161213141516121314156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "守矢神社「我が背面の土着神」",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [
+                        64,
+                        50,
+                        66,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 3.1,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 51129,
+                    "killers": [
+                        69,
+                        99,
+                        95,
+                        176
+                    ],
+                    "name": "ミシャグジさまの記憶",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 7,
+                    "id": 51130,
+                    "killers": [
+                        69,
+                        99,
+                        95,
+                        176
+                    ],
+                    "name": "赤口さまの記憶",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.87,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 7,
+                    "id": 51131,
+                    "killers": [
+                        69,
+                        99,
+                        95,
+                        176
+                    ],
+                    "name": "御射軍神さまの記憶",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 7,
+                    "id": 51132,
+                    "killers": [
+                        69,
+                        99,
+                        95,
+                        176
+                    ],
+                    "name": "御赤蛇さまの記憶",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        64,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.84,
+                    "damage_extend": 120,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 51133,
+                    "killers": [
+                        0
+                    ],
+                    "name": "御宿神さまの記憶",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 126,
+                    "effect": [
+                        15,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 51134,
+                    "killers": [
+                        0
+                    ],
+                    "name": "御石神さまの記憶",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "121121111g",
+                "all_order_2": "125141214131513g",
+                "all_order_3": "12514121461315136g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "オンバシラレーザーソード",
+                "power_rate": 19,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    118,
+                    124,
+                    130
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        68,
+                        50,
+                        151,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.84,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 51117,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "レーザーソード",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        40,
+                        5,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 51118,
+                    "killers": [
+                        52,
+                        95,
+                        176
+                    ],
+                    "name": "レーザー神度剣",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100,
+                        151,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 112,
+                    "effect": [
+                        4,
+                        40,
+                        5,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 51119,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "レーザー布都御魂",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 4,
+                    "id": 51120,
+                    "killers": [
+                        0
+                    ],
+                    "name": "レーザー天羽々斬",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 4,
+                    "id": 51121,
+                    "killers": [
+                        0
+                    ],
+                    "name": "レーザー天叢雲剣",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        75
+                    ],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 130,
+                    "effect": [],
+                    "element": 5,
+                    "id": 51122,
+                    "killers": [
+                        0
+                    ],
+                    "name": "レーザー天之尾羽張",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        4,
+                        2
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        1,
+                        4,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        2,
+                        2
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_yin_def_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1211111211111211111211111g",
+                "all_order_2": "121314111213141112131411121314111g",
+                "all_order_3": "12131415161213141516121314151612131415116g",
+                "break": [
+                    5,
+                    6,
+                    6,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「決意の守矢大移動」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.68,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        100,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 51135,
+                    "killers": [
+                        52,
+                        95,
+                        176
+                    ],
+                    "name": "失われた柱の信仰",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        64,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 51136,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "失われた風の信仰",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.45,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        75
+                    ],
+                    "element": 6,
+                    "id": 51137,
+                    "killers": [
+                        52,
+                        95,
+                        176
+                    ],
+                    "name": "失われた天の信仰",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 6,
+                    "id": 51138,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "失われた戦の信仰",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 14.73,
+                    "damage_extend": 122,
+                    "effect": [
+                        4,
+                        100,
+                        12,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 51139,
+                    "killers": [
+                        52,
+                        95,
+                        176
+                    ],
+                    "name": "失われた川の信仰",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 16.36,
+                    "damage_extend": 130,
+                    "effect": [
+                        13,
+                        1,
+                        14,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 51140,
+                    "killers": [
+                        14,
+                        2,
+                        124,
+                        95,
+                        176
+                    ],
+                    "name": "失われた湖の信仰",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

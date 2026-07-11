@@ -1,0 +1,1613 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 40,
+        "barrier_status_1": 0,
+        "barrier_status_2": 7,
+        "barrier_status_3": 7,
+        "barrier_status_4": 7,
+        "barrier_status_5": 7,
+        "bgm": 30703801,
+        "boost_buff": 6,
+        "boost_target": 1,
+        "break_cost": 0,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "ガード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 6000,
+        "name": "八坂神奈子",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>神様</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率90%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "形骸神徳",
+        "passivity_2_description": "攻撃された時、陽性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_36",
+        "passivity_2_name": "死後の神",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.90<color=#00CC66>上昇</color>  [発生率70%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "ロストディバイン",
+        "quality": 21111211,
+        "quality_name": "白い颪",
+        "speed": 1200,
+        "subname": "風化山岳の寂びた信仰",
+        "total": 8700,
+        "tribe": [
+            9,
+            14,
+            15,
+            69,
+            88,
+            124,
+            190
+        ],
+        "type": 1,
+        "world_group": "L0g",
+        "yang_atk": 2000,
+        "yang_def": 2100,
+        "yin_atk": 600,
+        "yin_def": 1600
+    },
+    "chain_character": [
+        7037,
+        7039
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                4,
+                0,
+                1,
+                1,
+                1
+            ],
+            "b": [
+                6,
+                4,
+                1,
+                1,
+                3
+            ],
+            "c": [
+                1,
+                2,
+                1,
+                2,
+                2
+            ],
+            "cd": 1,
+            "name": "記憶失踪(神奈子)",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                4,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                4,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                40
+            ],
+            "cd": 4,
+            "name": "真名邂逅(神奈子)",
+            "id": 2
+        },
+        {
+            "a": [
+                54,
+                703801,
+                0,
+                3,
+                30
+            ],
+            "b": [
+                1,
+                8,
+                2,
+                5,
+                2
+            ],
+            "c": [
+                4,
+                0,
+                2,
+                1,
+                3
+            ],
+            "cd": 9,
+            "name": "ロスト守矢神社(神奈子)",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        8,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [
+                        2,
+                        2,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        3,
+                        3,
+                        3
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        30
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "1212121212113313131144114411g",
+                "all_order_2": "1251212121211331313114411441155g",
+                "all_order_3": "1251212121211363131311464114411556g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「コラプスド・マウンテン」",
+                "power_rate": 19,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        120,
+                        11,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171123,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "崩れた山",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.71,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171124,
+                    "killers": [
+                        0
+                    ],
+                    "name": "廃れた山",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 106,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171125,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "削れた山",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 112,
+                    "effect": [
+                        1,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171126,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "剥げた山",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 3.6,
+                    "damage_extend": 118,
+                    "effect": [
+                        4,
+                        60,
+                        15,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 171127,
+                    "killers": [
+                        0
+                    ],
+                    "name": "枯れた山",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 2.4,
+                    "damage_extend": 124,
+                    "effect": [
+                        4,
+                        120
+                    ],
+                    "element": 1,
+                    "id": 171128,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "失われた山",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "all_order_1": "1212131311414111g",
+                "all_order_2": "12121313114141151g",
+                "all_order_3": "121213131141411516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "廃神嵐",
+                "power_rate": 19,
+                "damage_extend": [
+                    100,
+                    104,
+                    108,
+                    112,
+                    116,
+                    120
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        327,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.05,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        90
+                    ],
+                    "element": 6,
+                    "id": 171111,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "ロストストーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 104,
+                    "effect": [],
+                    "element": 1,
+                    "id": 171112,
+                    "killers": [
+                        0
+                    ],
+                    "name": "フェイントストーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.05,
+                    "damage_extend": 108,
+                    "effect": [
+                        1,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171113,
+                    "killers": [
+                        0
+                    ],
+                    "name": "フェイデッドストーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 1.64,
+                    "damage_extend": 112,
+                    "effect": [
+                        4,
+                        90
+                    ],
+                    "element": 1,
+                    "id": 171114,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "ウィークストーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 2.35,
+                    "damage_extend": 116,
+                    "effect": [
+                        1,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171115,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "サイレントストーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        183,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 1.5,
+                    "damage_extend": 120,
+                    "effect": [
+                        4,
+                        90
+                    ],
+                    "element": 6,
+                    "id": 171116,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "デッドストーム",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    [
+                        2,
+                        2,
+                        4,
+                        4,
+                        2
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        30
+                    ],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        3
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [],
+                    [],
+                    [
+                        "skill_icon_yang_def_down"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111g",
+                "all_order_1": "121212121313131311111111111111g",
+                "all_order_2": "12121212131313131141141141151115111g",
+                "all_order_3": "121212121313131311411411411511151116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「今はもう色褪せし威光」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 22,
+                    "boost": 0,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.68,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        140,
+                        11,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171129,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "色褪せし威光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        90
+                    ],
+                    "element": 1,
+                    "id": 171130,
+                    "killers": [
+                        0
+                    ],
+                    "name": "見る影もなき威光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        183,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.6,
+                    "damage_extend": 106,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171131,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "意味なき威光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 4.17,
+                    "damage_extend": 112,
+                    "effect": [
+                        4,
+                        90,
+                        15,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171132,
+                    "killers": [
+                        0
+                    ],
+                    "name": "価値なき威光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        235,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 5.63,
+                    "damage_extend": 118,
+                    "effect": [
+                        1,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 171133,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "廃れた威光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 9.6,
+                    "damage_extend": 124,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        140
+                    ],
+                    "element": 6,
+                    "id": 171134,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "失われし威光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "111212133g",
+                "all_order_2": "1112412513534g",
+                "all_order_3": "111241251353646g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "リーンオンバシラ",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    106,
+                    111,
+                    117,
+                    122,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [
+                        327,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171117,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "傾いた柱",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.09,
+                    "damage_extend": 106,
+                    "effect": [
+                        8,
+                        1,
+                        4,
+                        60
+                    ],
+                    "element": 1,
+                    "id": 171118,
+                    "killers": [
+                        0
+                    ],
+                    "name": "小さな柱",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.75,
+                    "damage_extend": 111,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 1,
+                    "id": 171119,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "折れた柱",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 3.26,
+                    "damage_extend": 117,
+                    "effect": [
+                        8,
+                        1,
+                        7,
+                        1,
+                        4,
+                        70
+                    ],
+                    "element": 6,
+                    "id": 171120,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "朽ちた柱",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 2.93,
+                    "damage_extend": 122,
+                    "effect": [
+                        8,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 171121,
+                    "killers": [
+                        0
+                    ],
+                    "name": "褪せた柱",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 2.5,
+                    "damage_extend": 128,
+                    "effect": [
+                        4,
+                        90,
+                        15,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171122,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "消えた柱",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        41,
+                        1,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        41,
+                        2,
+                        2,
+                        3,
+                        1
+                    ],
+                    [],
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        4,
+                        3,
+                        3
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        3,
+                        0,
+                        2,
+                        1,
+                        60
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_heal"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111111g",
+                "all_order_1": "1211211211211111111111111111g",
+                "all_order_2": "121121121121131131131141141141151115g",
+                "all_order_3": "1211211211211311311311411411411511156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ディケイドオンバシラ」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 24,
+                    "boost": 0,
+                    "buff": [
+                        235,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.45,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        300,
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171135,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "衰退した御柱信仰",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        120,
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171136,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "腐敗した御柱信仰",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        183,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 12.52,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        120,
+                        8,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 171137,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "廃棄された御柱信仰",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 12.52,
+                    "damage_extend": 114,
+                    "effect": [
+                        4,
+                        120,
+                        7,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 171138,
+                    "killers": [
+                        5,
+                        92,
+                        24,
+                        21,
+                        15,
+                        14,
+                        124
+                    ],
+                    "name": "崩壊した御柱信仰",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 18.78,
+                    "damage_extend": 121,
+                    "effect": [
+                        4,
+                        120,
+                        7,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 171139,
+                    "killers": [
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "減衰した御柱信仰",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 36.0,
+                    "damage_extend": 128,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        300
+                    ],
+                    "element": 6,
+                    "id": 171140,
+                    "killers": [
+                        5,
+                        14,
+                        69,
+                        77,
+                        117,
+                        118,
+                        181,
+                        176
+                    ],
+                    "name": "失われた御柱信仰",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

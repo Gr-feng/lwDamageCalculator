@@ -1,0 +1,1612 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 6,
+        "barrier_status_3": 6,
+        "barrier_status_4": 6,
+        "barrier_status_5": 6,
+        "bgm": 30501001,
+        "boost_buff": 8,
+        "boost_target": 1,
+        "break_cost": 503,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 30,
+        "disadvantage_resist": 0,
+        "graze_buff": 10,
+        "graze_target": 0,
+        "hp": 6000,
+        "name": "西行寺幽々子",
+        "passivity_1_description": "ターン開始時、自身の<color=#CCAA00>体力</color>を40%<color=#00CC66>回復</color> [発生率35%]",
+        "passivity_1_icon": "characteristic_icon_30",
+        "passivity_1_name": "フリフリ",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を1.50<color=#00CC66>上昇</color>  [発生率30%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "マヒマヒ",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率65%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "ラウラウ",
+        "quality": 11122021,
+        "quality_name": "冷夏",
+        "speed": 1480,
+        "subname": "水着無縫の亡霊",
+        "total": 7800,
+        "tribe": [
+            9,
+            8,
+            122,
+            178,
+            64,
+            65,
+            57,
+            56,
+            131,
+            159,
+            95
+        ],
+        "type": 8,
+        "world_group": "C3",
+        "yang_atk": 1980,
+        "yang_def": 980,
+        "yin_atk": 1280,
+        "yin_def": 880
+    },
+    "chain_character": [
+        2115,
+        4009,
+        4051,
+        5050,
+        6003,
+        6004,
+        6056,
+        19001,
+        19002,
+        2076,
+        13002,
+        6011,
+        2079,
+        2089,
+        2066,
+        3024,
+        2065,
+        3054,
+        2087,
+        2025,
+        7005,
+        6037,
+        3091,
+        3097,
+        2096,
+        10003,
+        10004,
+        2077,
+        4030
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                8,
+                2,
+                4,
+                2
+            ],
+            "b": [
+                6,
+                2,
+                1,
+                4,
+                2
+            ],
+            "c": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "cd": 4,
+            "name": "カルアピッグ",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                50
+            ],
+            "b": [
+                6,
+                2,
+                4,
+                4,
+                2
+            ],
+            "c": [
+                2,
+                7,
+                4,
+                5,
+                3
+            ],
+            "cd": 7,
+            "name": "モチコチキン",
+            "id": 2
+        },
+        {
+            "a": [
+                49,
+                1,
+                2,
+                2,
+                30
+            ],
+            "b": [
+                41,
+                8,
+                2,
+                2,
+                1
+            ],
+            "c": [
+                4,
+                0,
+                1,
+                1,
+                3
+            ],
+            "cd": 6,
+            "name": "ムスビ",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        6,
+                        2,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        20
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "121212121414141411111113131313g",
+                "all_order_3": "12612121214141414161615151515131313136g",
+                "break": [
+                    0,
+                    6,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "亡郷「亡我郷　‐海上の道‐」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.84,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110283,
+                    "killers": [
+                        0
+                    ],
+                    "name": "M7aの道",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.3,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110284,
+                    "killers": [
+                        68,
+                        142,
+                        7,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "D4の道",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 4.59,
+                    "damage_extend": 107,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110285,
+                    "killers": [
+                        0
+                    ],
+                    "name": "Aの道",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 4.94,
+                    "damage_extend": 115,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110286,
+                    "killers": [
+                        0
+                    ],
+                    "name": "Gの道",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 45,
+                    "damage": 4.32,
+                    "damage_extend": 122,
+                    "effect": [
+                        5,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110287,
+                    "killers": [
+                        72,
+                        75,
+                        113,
+                        117,
+                        154,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "N9bの道",
+                    "order": 23,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 45,
+                    "damage": 4.61,
+                    "damage_extend": 129,
+                    "effect": [
+                        8,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110288,
+                    "killers": [
+                        89,
+                        140,
+                        157,
+                        49,
+                        10,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "B4の道",
+                    "order": 31,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "all_order_1": "121111121111g",
+                "all_order_2": "121314151121314151g",
+                "all_order_3": "1213141511213141516g",
+                "break": [
+                    0,
+                    4,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "スフィアフルーツ",
+                "power_rate": 14,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    120,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        32,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 1.83,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110271,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ココナッツウォーター",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.69,
+                    "damage_extend": 105,
+                    "effect": [
+                        4,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110272,
+                    "killers": [
+                        68,
+                        142,
+                        7,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "ココナッツミルク",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 2.65,
+                    "damage_extend": 110,
+                    "effect": [
+                        4,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110273,
+                    "killers": [
+                        273,
+                        72,
+                        75,
+                        113,
+                        117,
+                        154,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "ココナッツパウダー",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 2.65,
+                    "damage_extend": 115,
+                    "effect": [
+                        8,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110274,
+                    "killers": [
+                        89,
+                        140,
+                        157,
+                        49,
+                        10,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "ココナッツゼリー",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 2.65,
+                    "damage_extend": 120,
+                    "effect": [
+                        4,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110275,
+                    "killers": [
+                        90,
+                        178,
+                        131,
+                        268
+                    ],
+                    "name": "ココナッツパルプ",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 5.01,
+                    "damage_extend": 124,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110276,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ココナッツオイル",
+                    "order": 19,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        4,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        35
+                    ],
+                    [
+                        10,
+                        0,
+                        1,
+                        1,
+                        2
+                    ],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        3
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [
+                        "skill_icon_disenchant"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121111121111121111121111g",
+                "all_order_2": "1213111121311112131111213111g",
+                "all_order_3": "1213141516121314151612131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「デスバイココナッツ」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.29,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110289,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "サメより凶暴なココナッツ",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.46,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110290,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "イーストコーストトール",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 7.41,
+                    "damage_extend": 108,
+                    "effect": [
+                        5,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110291,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "ウェストコーストトール",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 45,
+                    "damage": 6.91,
+                    "damage_extend": 115,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110292,
+                    "killers": [
+                        68,
+                        142,
+                        7,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "レッドドワーフ",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 45,
+                    "damage": 7.77,
+                    "damage_extend": 123,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110293,
+                    "killers": [
+                        72,
+                        75,
+                        113,
+                        117,
+                        154,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "グリーンドワーフ",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        100
+                    ],
+                    "cri": 45,
+                    "damage": 8.64,
+                    "damage_extend": 130,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110294,
+                    "killers": [
+                        89,
+                        140,
+                        157,
+                        49,
+                        10,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "キングドワーフ",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12121111111g",
+                "all_order_2": "12121313141111g",
+                "all_order_3": "1212131314115116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "夏の御挨拶",
+                "power_rate": 11,
+                "damage_extend": [
+                    100,
+                    107,
+                    114,
+                    120,
+                    127,
+                    134
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 4.44,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110277,
+                    "killers": [
+                        68,
+                        142,
+                        7,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "真夏の贈り物",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.72,
+                    "damage_extend": 107,
+                    "effect": [
+                        5,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110278,
+                    "killers": [
+                        72,
+                        75,
+                        113,
+                        117,
+                        154,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "お盆の贈り物",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 7.16,
+                    "damage_extend": 114,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        68,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110279,
+                    "killers": [
+                        89,
+                        140,
+                        157,
+                        49,
+                        10,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "鬼節の贈り物",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 15.43,
+                    "damage_extend": 120,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110280,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "亡人節の贈り物",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 25,
+                    "damage": 15.65,
+                    "damage_extend": 127,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110281,
+                    "killers": [
+                        0
+                    ],
+                    "name": "盂蘭盆節の贈り物",
+                    "order": 13,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 25,
+                    "damage": 16.7,
+                    "damage_extend": 134,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110282,
+                    "killers": [
+                        0
+                    ],
+                    "name": "中元節の贈り物",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        5,
+                        2
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        5,
+                        2
+                    ],
+                    [
+                        6,
+                        2,
+                        4,
+                        4,
+                        3
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_frostbite"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111111g",
+                "all_order_1": "121212121111111111111111111g",
+                "all_order_2": "1212121211313131311111111111111g",
+                "all_order_3": "1212121211313131311414141411515151516161616g",
+                "break": [
+                    0,
+                    3,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「西行椰子　異郷流離」",
+                "power_rate": 3,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    117,
+                    125,
+                    133
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 23,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.77,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        200,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110295,
+                    "killers": [
+                        68,
+                        142,
+                        7,
+                        6,
+                        170,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "晩年に遺された幻想仮説",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.76,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110296,
+                    "killers": [
+                        72,
+                        75,
+                        113,
+                        117,
+                        154,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "椰子の実の漂着",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 30,
+                    "damage": 10.92,
+                    "damage_extend": 108,
+                    "effect": [
+                        1,
+                        1,
+                        8,
+                        1,
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110297,
+                    "killers": [
+                        89,
+                        140,
+                        157,
+                        49,
+                        10,
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "子安貝を求めた海洋民",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 11.13,
+                    "damage_extend": 117,
+                    "effect": [
+                        4,
+                        168,
+                        5,
+                        168,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110298,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "龍宮の神話",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 12.52,
+                    "damage_extend": 125,
+                    "effect": [
+                        5,
+                        200,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 110299,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "鼠たちの極楽浄土",
+                    "order": 29,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        88,
+                        100
+                    ],
+                    "cri": 50,
+                    "damage": 13.91,
+                    "damage_extend": 133,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 110300,
+                    "killers": [
+                        90,
+                        178,
+                        131
+                    ],
+                    "name": "受け継がれる稲作文化",
+                    "order": 37,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1528 @@
+{
+    "character_info": {
+        "advantage_attack": 25,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 5,
+        "barrier_status_3": 0,
+        "barrier_status_4": 5,
+        "barrier_status_5": 5,
+        "bgm": 301505101,
+        "boost_buff": 2,
+        "boost_target": 1,
+        "break_cost": 503,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 15,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5500,
+        "name": "古明地こいし",
+        "passivity_1_description": "Wave開始時、相手単体の<color=#CCAA00>陽防</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_14",
+        "passivity_1_name": "桜の下には？",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.70<color=#00CC66>上昇</color>  [発生率60%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "おたから発見！",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率60%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "おしゃれランドセル",
+        "quality": 12112120,
+        "quality_name": "スロースリップ",
+        "speed": 1400,
+        "subname": "花咲く恋の瞳",
+        "total": 7800,
+        "tribe": [
+            5,
+            98,
+            196,
+            99,
+            100,
+            101,
+            52,
+            43,
+            44,
+            95
+        ],
+        "type": 8,
+        "world_group": "C5>",
+        "yang_atk": 1950,
+        "yang_def": 1300,
+        "yin_atk": 950,
+        "yin_def": 1100
+    },
+    "chain_character": [
+        15004,
+        13056,
+        8055,
+        5131
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                4,
+                4,
+                4,
+                3
+            ],
+            "b": [
+                1,
+                8,
+                2,
+                4,
+                2
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 4,
+            "name": "何の気もない移植ごて",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                1,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                5,
+                0,
+                1,
+                1,
+                50
+            ],
+            "c": [
+                2,
+                9,
+                4,
+                3,
+                3
+            ],
+            "cd": 6,
+            "name": "行き場を失った連絡帳",
+            "id": 2
+        },
+        {
+            "a": [
+                41,
+                10,
+                2,
+                2,
+                1
+            ],
+            "b": [
+                48,
+                4,
+                2,
+                3,
+                15
+            ],
+            "c": [
+                4,
+                0,
+                1,
+                1,
+                2
+            ],
+            "cd": 6,
+            "name": "小石ころ帽子(春)",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        11,
+                        3,
+                        4,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        20
+                    ],
+                    [
+                        10,
+                        0,
+                        1,
+                        1,
+                        1
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [
+                        "skill_icon_disenchant"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "121111121111121111g",
+                "all_order_2": "12113114121314151121314151g",
+                "all_order_3": "1211311412131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ルートレスピンクローズ」",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        80,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411513,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "根無し草な薔薇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.61,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411514,
+                    "killers": [
+                        0
+                    ],
+                    "name": "根無し草なピンク薔薇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        39,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 8.47,
+                    "damage_extend": 107,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 411515,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "根無し草な薄紅薔薇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 45,
+                    "damage": 6.91,
+                    "damage_extend": 114,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 411516,
+                    "killers": [
+                        0
+                    ],
+                    "name": "根無し草な紅薔薇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 45,
+                    "damage": 10.36,
+                    "damage_extend": 122,
+                    "effect": [
+                        5,
+                        100,
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 411517,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "根無し草な赤薔薇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        100
+                    ],
+                    "cri": 45,
+                    "damage": 10.36,
+                    "damage_extend": 129,
+                    "effect": [
+                        9,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411518,
+                    "killers": [
+                        0
+                    ],
+                    "name": "根無し草な春色薔薇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12111121111g",
+                "all_order_2": "12131415121314151g",
+                "all_order_3": "1213141512613141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "お花咲かせ隊",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    120,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.03,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        50,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411501,
+                    "killers": [
+                        0
+                    ],
+                    "name": "お花咲かせ隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.69,
+                    "damage_extend": 105,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411502,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "たがやし隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 2.65,
+                    "damage_extend": 110,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411503,
+                    "killers": [
+                        0
+                    ],
+                    "name": "たねまき隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 2.65,
+                    "damage_extend": 115,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411504,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "おみずあげ隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 2.65,
+                    "damage_extend": 120,
+                    "effect": [
+                        4,
+                        50,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411505,
+                    "killers": [
+                        0
+                    ],
+                    "name": "おひさま当て隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 25,
+                    "damage": 2.5,
+                    "damage_extend": 124,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 411506,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "みまもり隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        2,
+                        2,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        2,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        4,
+                        2,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111g",
+                "all_order_1": "12111111121111121111g",
+                "all_order_2": "12113111112131111213111g",
+                "all_order_3": "12113114151612131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「薔薇色ゲヘナ」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 17,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.58,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        80,
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 411519,
+                    "killers": [
+                        0
+                    ],
+                    "name": "薔薇色の地獄",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        33,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.74,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 411520,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "薔薇色の辺獄",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 6.58,
+                    "damage_extend": 108,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 411521,
+                    "killers": [
+                        0
+                    ],
+                    "name": "薔薇色の煉獄",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 7.52,
+                    "damage_extend": 115,
+                    "effect": [
+                        15,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411522,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "薔薇色の監獄",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 45,
+                    "damage": 6.91,
+                    "damage_extend": 123,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411523,
+                    "killers": [
+                        0
+                    ],
+                    "name": "薔薇色の囚獄",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 45,
+                    "damage": 7.68,
+                    "damage_extend": 130,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411524,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "薔薇色の牢獄",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "11211111g",
+                "all_order_2": "1121131411g",
+                "all_order_3": "112113141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "花壇掘り隊",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    107,
+                    114,
+                    120,
+                    127,
+                    134
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 5.71,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411507,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "花壇掘り隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.45,
+                    "damage_extend": 107,
+                    "effect": [
+                        5,
+                        50,
+                        9,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 411508,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "ちょっと掘り隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 14.33,
+                    "damage_extend": 114,
+                    "effect": [
+                        5,
+                        50,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411509,
+                    "killers": [
+                        0
+                    ],
+                    "name": "かなり掘り隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 15.43,
+                    "damage_extend": 120,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411510,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "だいぶ掘り隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 16.53,
+                    "damage_extend": 127,
+                    "effect": [
+                        1,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411511,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "めっちゃ掘り隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 16.7,
+                    "damage_extend": 134,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 411512,
+                    "killers": [
+                        0
+                    ],
+                    "name": "もっと掘り隊",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        3
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        2,
+                        3
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        2,
+                        3
+                    ],
+                    [
+                        6,
+                        4,
+                        4,
+                        2,
+                        2
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        30
+                    ]
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ]
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111g",
+                "all_order_1": "121121111121111121111121111g",
+                "all_order_2": "12112113114121314151121314151121314151g",
+                "all_order_3": "12112113114121314151612131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    3,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ピンキースパイキーローズガーデン」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 22,
+                    "boost": 0,
+                    "buff": [
+                        39,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.65,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        120,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411525,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "薔薇色の茨庭",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.61,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 7,
+                    "id": 411526,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "ピンクな茨庭",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        123,
+                        100
+                    ],
+                    "cri": 30,
+                    "damage": 9.36,
+                    "damage_extend": 108,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1,
+                        15,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411527,
+                    "killers": [
+                        0
+                    ],
+                    "name": "刺々しい茨庭",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 30,
+                    "damage": 9.36,
+                    "damage_extend": 116,
+                    "effect": [
+                        5,
+                        120,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411528,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "むせ返るような茨庭",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 30,
+                    "damage": 12.48,
+                    "damage_extend": 124,
+                    "effect": [
+                        5,
+                        120,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 411529,
+                    "killers": [
+                        14,
+                        69,
+                        75,
+                        113,
+                        26,
+                        44,
+                        196
+                    ],
+                    "name": "衝撃的ピンクな茨庭",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 11.13,
+                    "damage_extend": 132,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 411530,
+                    "killers": [
+                        68,
+                        124,
+                        42,
+                        64,
+                        136,
+                        154,
+                        147
+                    ],
+                    "name": "深く突き刺さる茨庭",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

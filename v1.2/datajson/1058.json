@@ -1,0 +1,1256 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 3057,
+        "boost_buff": 8,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 10,
+        "graze_target": 0,
+        "hp": 4800,
+        "name": "クラウンピース",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>月の民</color>から受けるダメージを20%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "地獄の生命力",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率40%]",
+        "passivity_2_icon": "characteristic_icon_3",
+        "passivity_2_name": "負けず嫌い",
+        "passivity_3_description": "Wave開始時、相手単体の<color=#CCAA00>CRI回避</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率60%]",
+        "passivity_3_icon": "characteristic_icon_23",
+        "passivity_3_name": "リトル・ハーレクイン",
+        "quality": 2102111,
+        "quality_name": "ヒートアイランド",
+        "speed": 1000,
+        "subname": "地獄の妖精",
+        "total": 6000,
+        "tribe": [
+            7,
+            113,
+            53,
+            52,
+            54,
+            118,
+            58,
+            181
+        ],
+        "type": 8,
+        "world_group": "L1",
+        "yang_atk": 840,
+        "yang_def": 700,
+        "yin_atk": 1450,
+        "yin_def": 1050
+    },
+    "chain_character": [
+        1066,
+        1033,
+        1034,
+        1035,
+        1001,
+        1002,
+        1030,
+        1031,
+        1012,
+        1056,
+        1057,
+        1107,
+        1121,
+        1122,
+        1089,
+        1130,
+        1131
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                9,
+                2,
+                2,
+                3
+            ],
+            "b": [
+                1,
+                11,
+                2,
+                2,
+                3
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "ニンフクラフト",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                5,
+                4,
+                1,
+                3
+            ],
+            "b": [
+                1,
+                8,
+                4,
+                2,
+                2
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "女神のジェスター",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                10,
+                1,
+                1,
+                3
+            ],
+            "b": [
+                1,
+                8,
+                1,
+                1,
+                3
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "更なる狂気",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        3,
+                        1,
+                        3
+                    ],
+                    [
+                        1,
+                        1,
+                        3,
+                        1,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "1212111111111111g",
+                "all_order_2": "121211131311111111g",
+                "all_order_3": "121211131314141151511616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "獄符「ヘルエクリプス」",
+                "power_rate": 14,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.7,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1723,
+                    "killers": [
+                        0
+                    ],
+                    "name": "光線模倣弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1724,
+                    "killers": [
+                        75
+                    ],
+                    "name": "光線擬態弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.71,
+                    "damage_extend": 108,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 1725,
+                    "killers": [
+                        75
+                    ],
+                    "name": "地獄の太陽",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 17.01,
+                    "damage_extend": 115,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 1726,
+                    "killers": [
+                        0
+                    ],
+                    "name": "地獄の月",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 19.14,
+                    "damage_extend": 123,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 1727,
+                    "killers": [
+                        0
+                    ],
+                    "name": "狂気の太陽",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 21.27,
+                    "damage_extend": 130,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 1728,
+                    "killers": [
+                        75
+                    ],
+                    "name": "狂気の月",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "1212121111g",
+                "all_order_2": "1212121313141g",
+                "all_order_3": "121212131314156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "苦悩の川",
+                "power_rate": 16,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    120,
+                    125
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.29,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1711,
+                    "killers": [
+                        0
+                    ],
+                    "name": "死者の嘆き",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.83,
+                    "damage_extend": 105,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1712,
+                    "killers": [
+                        0
+                    ],
+                    "name": "地獄の川",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.04,
+                    "damage_extend": 110,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1713,
+                    "killers": [
+                        0
+                    ],
+                    "name": "死者の苦悩",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 4,
+                    "id": 1714,
+                    "killers": [
+                        75
+                    ],
+                    "name": "地獄の奔流",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 6.65,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1715,
+                    "killers": [
+                        75
+                    ],
+                    "name": "地獄の熱気",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 7.09,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1716,
+                    "killers": [
+                        0
+                    ],
+                    "name": "地獄の熱風",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        1,
+                        2,
+                        3
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111g",
+                "all_order_1": "12121111111g",
+                "all_order_2": "1212131311111g",
+                "all_order_3": "1212131314141515166g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「フェイクアポロ」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.88,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1729,
+                    "killers": [
+                        0
+                    ],
+                    "name": "模倣衛星弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        34,
+                        40
+                    ],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1730,
+                    "killers": [
+                        12
+                    ],
+                    "name": "模倣光線",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        34,
+                        45
+                    ],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 2,
+                    "id": 1731,
+                    "killers": [
+                        12
+                    ],
+                    "name": "偽物の月",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        41,
+                        45
+                    ],
+                    "cri": 25,
+                    "damage": 11.34,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 8,
+                    "id": 1732,
+                    "killers": [
+                        12
+                    ],
+                    "name": "偽物の衛星光",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        39,
+                        50
+                    ],
+                    "cri": 25,
+                    "damage": 12.76,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 2,
+                    "id": 1733,
+                    "killers": [
+                        12
+                    ],
+                    "name": "捏造の月",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        39,
+                        50
+                    ],
+                    "cri": 25,
+                    "damage": 14.18,
+                    "damage_extend": 130,
+                    "effect": [],
+                    "element": 8,
+                    "id": 1734,
+                    "killers": [
+                        12
+                    ],
+                    "name": "捏造の衛星光",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "12131411g",
+                "all_order_3": "1213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "狂気の松明",
+                "power_rate": 20,
+                "damage_extend": [
+                    100,
+                    107,
+                    114,
+                    120,
+                    127,
+                    134
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.0,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1717,
+                    "killers": [
+                        0
+                    ],
+                    "name": "狂気の松明",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        173,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 5,
+                    "id": 1718,
+                    "killers": [
+                        0
+                    ],
+                    "name": "混迷の松明",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.19,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1719,
+                    "killers": [
+                        13
+                    ],
+                    "name": "激情の松明",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 16.36,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1720,
+                    "killers": [
+                        13
+                    ],
+                    "name": "譫妄の松明",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        173,
+                        40
+                    ],
+                    "cri": 25,
+                    "damage": 16.62,
+                    "damage_extend": 127,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1721,
+                    "killers": [
+                        0
+                    ],
+                    "name": "狂乱の松明",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 17.72,
+                    "damage_extend": 134,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1722,
+                    "killers": [
+                        0
+                    ],
+                    "name": "蠱惑の松明",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        8,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        11,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "121212111111111111g",
+                "all_order_2": "121212131313111111111g",
+                "all_order_3": "121212131313141414141515151561666g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ウェルカム・トゥ・アンダーワールド」",
+                "power_rate": 12,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    117,
+                    125,
+                    133
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 1735,
+                    "killers": [
+                        45
+                    ],
+                    "name": "地底深層の星の光",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        1,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 22.44,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 1736,
+                    "killers": [
+                        0
+                    ],
+                    "name": "地底深層の月の光",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        8,
+                        50,
+                        3,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 26.18,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 1,
+                    "id": 1737,
+                    "killers": [
+                        13
+                    ],
+                    "name": "地底深層の太陽の光",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        10,
+                        60
+                    ],
+                    "cri": 25,
+                    "damage": 21.27,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 8,
+                    "id": 1738,
+                    "killers": [
+                        13,
+                        12
+                    ],
+                    "name": "地獄の星の光",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        8,
+                        60
+                    ],
+                    "cri": 25,
+                    "damage": 23.93,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 2,
+                    "id": 1739,
+                    "killers": [
+                        12
+                    ],
+                    "name": "地獄の月の光",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        8,
+                        80,
+                        10,
+                        80
+                    ],
+                    "cri": 50,
+                    "damage": 24.0,
+                    "damage_extend": 133,
+                    "effect": [],
+                    "element": 1,
+                    "id": 1740,
+                    "killers": [
+                        45
+                    ],
+                    "name": "地獄の太陽の光",
+                    "order": 29,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

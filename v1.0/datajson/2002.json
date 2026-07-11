@@ -1,0 +1,1283 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 1,
+        "barrier_status_2": 1,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 32002,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 25,
+        "disadvantage_resist": 25,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5600,
+        "name": "霧雨魔理沙",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>異変解決に縁がある者</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "凶星の禍",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.30<color=#00CC66>上昇</color>  [発生率70%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "宿星の加護",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_10",
+        "passivity_3_name": "星詠み",
+        "quality": 22110112,
+        "quality_name": "魃",
+        "speed": 1130,
+        "subname": "紅夢の魔女",
+        "total": 7350,
+        "tribe": [
+            3,
+            5,
+            52,
+            55,
+            48,
+            56,
+            47,
+            95,
+            85,
+            59
+        ],
+        "type": 8,
+        "world_group": "Z1",
+        "yang_atk": 1500,
+        "yang_def": 900,
+        "yin_atk": 1700,
+        "yin_def": 1000
+    },
+    "chain_character": [
+        1005,
+        1007,
+        1006,
+        1004,
+        1001,
+        1003,
+        1008,
+        1002,
+        1032,
+        1084,
+        8032,
+        11003,
+        11050
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                15
+            ],
+            "b": [
+                1,
+                1,
+                1,
+                2,
+                2
+            ],
+            "c": [
+                1,
+                3,
+                1,
+                2,
+                2
+            ],
+            "cd": 5,
+            "name": "BD -03 353",
+            "id": 1
+        },
+        {
+            "a": [
+                4,
+                0,
+                1,
+                1,
+                1
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                1,
+                2
+            ],
+            "c": [
+                2,
+                7,
+                4,
+                1,
+                2
+            ],
+            "cd": 5,
+            "name": "HD 29139",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                10,
+                1,
+                1,
+                2
+            ],
+            "b": [
+                1,
+                8,
+                1,
+                1,
+                2
+            ],
+            "c": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "cd": 5,
+            "name": "LTT14184",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [
+                        1,
+                        3,
+                        1,
+                        2,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [
+                        6,
+                        1,
+                        4,
+                        2,
+                        1
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [
+                        "skill_icon_barrier_burn"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "121212111111111111g",
+                "all_order_2": "12121213131314141111111g",
+                "all_order_3": "121212131313141415115116116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "赤偏「アルタースパーク」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.49,
+                    "damage_extend": 100,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 20043,
+                    "killers": [
+                        0
+                    ],
+                    "name": "赤色マスタースパーク弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        41,
+                        30
+                    ],
+                    "cri": 15,
+                    "damage": 5.72,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 20044,
+                    "killers": [
+                        0
+                    ],
+                    "name": "火焔マスタースパーク弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        41,
+                        40
+                    ],
+                    "cri": 20,
+                    "damage": 5.94,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 8,
+                    "id": 20045,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅色マスタースパーク弾",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        41,
+                        50
+                    ],
+                    "cri": 25,
+                    "damage": 9.22,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 8,
+                    "id": 20046,
+                    "killers": [
+                        0
+                    ],
+                    "name": "赫色マスタースパーク弾",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 100,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 1,
+                    "damage": 8.55,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 3,
+                    "id": 20047,
+                    "killers": [
+                        59
+                    ],
+                    "name": "爆燃マスタースパーク弾",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 100,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 0,
+                    "damage": 9.22,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 3,
+                    "id": 20048,
+                    "killers": [
+                        59
+                    ],
+                    "name": "熱暴マスタースパーク弾",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "all_order_1": "12121111111g",
+                "all_order_2": "12121313131111g",
+                "all_order_3": "12121313131441451551666g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "八卦ファイア",
+                "power_rate": 21,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    121,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.71,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 20031,
+                    "killers": [
+                        0
+                    ],
+                    "name": "天火弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 4.02,
+                    "damage_extend": 105,
+                    "effect": [],
+                    "element": 9,
+                    "id": 20032,
+                    "killers": [
+                        59
+                    ],
+                    "name": "沢火弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 100,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 3,
+                    "damage": 2.45,
+                    "damage_extend": 110,
+                    "effect": [],
+                    "element": 3,
+                    "id": 20033,
+                    "killers": [
+                        59
+                    ],
+                    "name": "雷火弾",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 3.29,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 9,
+                    "id": 20034,
+                    "killers": [
+                        59
+                    ],
+                    "name": "風火弾",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 3.43,
+                    "damage_extend": 121,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 20035,
+                    "killers": [
+                        0
+                    ],
+                    "name": "山火弾",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 3.43,
+                    "damage_extend": 126,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 20036,
+                    "killers": [
+                        0
+                    ],
+                    "name": "地火弾",
+                    "order": 21,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        20
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [
+                        6,
+                        1,
+                        4,
+                        3,
+                        1
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [
+                        "skill_icon_barrier_burn"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111g",
+                "all_order_1": "1221211111111g",
+                "all_order_2": "12212313314414411111g",
+                "all_order_3": "1221231331441441155155166166g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "巨星「アンタレス」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 20049,
+                    "killers": [
+                        0
+                    ],
+                    "name": "赤星弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        39,
+                        30
+                    ],
+                    "cri": 15,
+                    "damage": 5.72,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 7,
+                    "id": 20050,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大火弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        39,
+                        40
+                    ],
+                    "cri": 20,
+                    "damage": 5.94,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 8,
+                    "id": 20051,
+                    "killers": [
+                        0
+                    ],
+                    "name": "豊年星弾",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        39,
+                        50
+                    ],
+                    "cri": 25,
+                    "damage": 4.61,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 8,
+                    "id": 20052,
+                    "killers": [
+                        0
+                    ],
+                    "name": "酒酔星弾",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 100,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 1,
+                    "damage": 4.28,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 7,
+                    "id": 20053,
+                    "killers": [
+                        54
+                    ],
+                    "name": "流火弾",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 100,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 0,
+                    "damage": 4.61,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 7,
+                    "id": 20054,
+                    "killers": [
+                        54
+                    ],
+                    "name": "蠍心弾",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "all_order_1": "12211111g",
+                "all_order_2": "1221331111g",
+                "all_order_3": "1221331441451551666g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "コールドインフェルノ",
+                "power_rate": 11,
+                "damage_extend": [
+                    100,
+                    107,
+                    114,
+                    121,
+                    128,
+                    135
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [
+                        149,
+                        30
+                    ],
+                    "cri": 10,
+                    "damage": 5.84,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 4,
+                    "id": 20037,
+                    "killers": [
+                        0
+                    ],
+                    "name": "凍傷弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 100,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 4,
+                    "damage": 5.19,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 20038,
+                    "killers": [
+                        0
+                    ],
+                    "name": "冷気弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        149,
+                        30
+                    ],
+                    "cri": 20,
+                    "damage": 7.5,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 4,
+                    "id": 20039,
+                    "killers": [
+                        0
+                    ],
+                    "name": "凍瘡弾",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 100,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 2,
+                    "damage": 4.71,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 9,
+                    "id": 20040,
+                    "killers": [
+                        0
+                    ],
+                    "name": "凍気弾",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 100,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 1,
+                    "damage": 5.35,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 9,
+                    "id": 20041,
+                    "killers": [
+                        54
+                    ],
+                    "name": "氷獄弾",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 100,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 0,
+                    "damage": 6.0,
+                    "damage_extend": 135,
+                    "effect": [],
+                    "element": 9,
+                    "id": 20042,
+                    "killers": [
+                        54
+                    ],
+                    "name": "凍獄弾",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        10,
+                        1,
+                        5,
+                        2
+                    ],
+                    [
+                        1,
+                        8,
+                        1,
+                        5,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111g",
+                "all_order_1": "12212313314414111111g",
+                "all_order_2": "122123133144141115515511g",
+                "all_order_3": "1221231331441411155155166166g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ガーネットスター」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 11,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.2,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 20055,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ミーティア弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        140,
+                        50
+                    ],
+                    "cri": 15,
+                    "damage": 14.31,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 20056,
+                    "killers": [
+                        0
+                    ],
+                    "name": "恒星弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        140,
+                        50
+                    ],
+                    "cri": 20,
+                    "damage": 16.0,
+                    "damage_extend": 108,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 20057,
+                    "killers": [
+                        0
+                    ],
+                    "name": "コメット弾",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        145,
+                        50
+                    ],
+                    "cri": 25,
+                    "damage": 17.55,
+                    "damage_extend": 115,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 20058,
+                    "killers": [
+                        0
+                    ],
+                    "name": "脈動変光星弾",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 70,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        312,
+                        50
+                    ],
+                    "cri": 35,
+                    "damage": 13.71,
+                    "damage_extend": 123,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 20059,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アステロイド弾",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 70,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        312,
+                        50,
+                        310,
+                        50
+                    ],
+                    "cri": 50,
+                    "damage": 13.71,
+                    "damage_extend": 130,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 1,
+                    "id": 20060,
+                    "killers": [
+                        0
+                    ],
+                    "name": "赤色超巨星弾",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1245 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 0,
+        "boost_buff": 6,
+        "boost_target": 1,
+        "break_cost": 0,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "ゆっくりアリス",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖精</color>から受けるダメージを20%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "ゆっくりデコイ",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率25%]",
+        "passivity_2_icon": "characteristic_icon_32",
+        "passivity_2_name": "恥ずかし人形",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.30<color=#00CC66>上昇</color> [発生率25%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "ぬいぬい属性",
+        "quality": 21121010,
+        "quality_name": "ひょう！",
+        "speed": 100,
+        "subname": "ゆっくりしていってね",
+        "total": 4500,
+        "tribe": [
+            204,
+            52,
+            55
+        ],
+        "type": 2,
+        "world_group": "AA",
+        "yang_atk": 900,
+        "yang_def": 750,
+        "yin_atk": 950,
+        "yin_def": 800
+    },
+    "chain_character": [
+        50001,
+        50002,
+        50030,
+        51002,
+        50004,
+        50037,
+        50003,
+        50011
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                2,
+                5,
+                4,
+                3,
+                3
+            ],
+            "b": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "チェンジリングの怒り",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                3,
+                2,
+                3,
+                1
+            ],
+            "b": [
+                5,
+                0,
+                2,
+                1,
+                16
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "まぼろし訂正",
+            "id": 2
+        },
+        {
+            "a": [
+                55,
+                6,
+                2,
+                1,
+                4
+            ],
+            "b": [
+                1,
+                10,
+                2,
+                3,
+                2
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "ゆっくりゆっくり人形",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        1
+                    ],
+                    [
+                        2,
+                        5,
+                        4,
+                        3,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_speed_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        1
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ゆるふ「おらんだにんぎょう」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    125
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1212111111111112g",
+                "all_order_2": "12121313131414151511112g",
+                "all_order_3": "1212131313141415151616112g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 13,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.5,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460943,
+                    "killers": [
+                        3
+                    ],
+                    "name": "おらんだふれいむ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460944,
+                    "killers": [
+                        0
+                    ],
+                    "name": "本気のフレアスカート",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460945,
+                    "killers": [
+                        204
+                    ],
+                    "name": "ぼうぼうぐるぐる",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 113,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460946,
+                    "killers": [
+                        0
+                    ],
+                    "name": "められーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460947,
+                    "killers": [
+                        0
+                    ],
+                    "name": "反時計回りの十字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 125,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460948,
+                    "killers": [
+                        204
+                    ],
+                    "name": "れーざーのこ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ゆっくりみすてりー",
+                "power_rate": 67,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    117,
+                    122
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "112111g",
+                "all_order_2": "11213141g",
+                "all_order_3": "1121314156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.8,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460931,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅だま",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 104,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460932,
+                    "killers": [
+                        3
+                    ],
+                    "name": "つやつやだま",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 8.91,
+                    "damage_extend": 109,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460933,
+                    "killers": [
+                        3
+                    ],
+                    "name": "まぶしいだま",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.6,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460934,
+                    "killers": [
+                        0
+                    ],
+                    "name": "硬質だま",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 10.29,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460935,
+                    "killers": [
+                        204
+                    ],
+                    "name": "ゆっくり人形の顔",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460936,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ミサイルだま",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        8,
+                        1,
+                        3,
+                        1
+                    ],
+                    [
+                        2,
+                        11,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ゆるふ「しーかーどーるず」",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "111212121213131313111111g",
+                "all_order_2": "111212121213131313141414151515g",
+                "all_order_3": "111212121213131313141414156156156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [
+                        3,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.17,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460949,
+                    "killers": [
+                        204
+                    ],
+                    "name": "X軸れーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460950,
+                    "killers": [
+                        0
+                    ],
+                    "name": "びりびりれーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.03,
+                    "damage_extend": 106,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460951,
+                    "killers": [
+                        3
+                    ],
+                    "name": "Y軸れーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 7.31,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460952,
+                    "killers": [
+                        3
+                    ],
+                    "name": "人形との赤い糸",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 118,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460953,
+                    "killers": [
+                        0
+                    ],
+                    "name": "Z軸れーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460954,
+                    "killers": [
+                        204
+                    ],
+                    "name": "かちかちれーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ゆっくりにんぎょう",
+                "power_rate": 18,
+                "damage_extend": [
+                    100,
+                    106,
+                    111,
+                    117,
+                    122,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "12312311111g",
+                "all_order_2": "123123145145111g",
+                "all_order_3": "12312314514516161g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.35,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460937,
+                    "killers": [
+                        3
+                    ],
+                    "name": "ぴかれーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460938,
+                    "killers": [
+                        0
+                    ],
+                    "name": "対まりされーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.29,
+                    "damage_extend": 111,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460939,
+                    "killers": [
+                        3
+                    ],
+                    "name": "ふわれーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.71,
+                    "damage_extend": 117,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460940,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ぬいぐるびーむ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.14,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460941,
+                    "killers": [
+                        3
+                    ],
+                    "name": "ばちばちの光",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 4.57,
+                    "damage_extend": 128,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460942,
+                    "killers": [
+                        204
+                    ],
+                    "name": "ゆっくり赤れーざー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ゆっくりぐらんぎにょる」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "112121221121313131313111111111g",
+                "all_order_2": "11212122112131313131314141414151515151g",
+                "all_order_3": "11212122112131313131314141414151561561561g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460955,
+                    "killers": [
+                        204
+                    ],
+                    "name": "あびきょうかんの人形劇",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460956,
+                    "killers": [
+                        3
+                    ],
+                    "name": "第一幕の裏舞台",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.05,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460957,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ゆっくり降り注ぐ人形",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460958,
+                    "killers": [
+                        204
+                    ],
+                    "name": "第二幕の裏舞台",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.23,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1460959,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ぬいぐるみの観客",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        65,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 9.75,
+                    "damage_extend": 127,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1460960,
+                    "killers": [
+                        204
+                    ],
+                    "name": "かーてんこーる",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1395 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 30111701,
+        "boost_buff": 7,
+        "boost_target": 1,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 8,
+        "graze_target": 1,
+        "hp": 5250,
+        "name": "豪徳寺ミケ",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>通常弾</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_40",
+        "passivity_1_name": "バレットディーラー",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>CRI攻撃</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_8",
+        "passivity_2_name": "ピンチはチャンス",
+        "passivity_3_description": "攻撃された時、<color=#CCAA00>受けるダメージ</color>を25%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_35",
+        "passivity_3_name": "リスクヘッジ",
+        "quality": 2011121,
+        "quality_name": "夕立",
+        "speed": 1025,
+        "subname": "商売繁盛の縁起物",
+        "total": 6450,
+        "tribe": [
+            6,
+            68,
+            69,
+            52,
+            175,
+            181
+        ],
+        "type": 2,
+        "world_group": "L1",
+        "yang_atk": 1400,
+        "yang_def": 1325,
+        "yin_atk": 825,
+        "yin_def": 825
+    },
+    "chain_character": [
+        1118,
+        1122,
+        1044,
+        1045,
+        1046,
+        1048,
+        1049,
+        1025,
+        1059,
+        1060,
+        1026,
+        1047,
+        1061,
+        1040,
+        1082,
+        1120,
+        1119,
+        1121,
+        1123,
+        1124,
+        1107,
+        1127
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                5,
+                0,
+                2,
+                1,
+                15
+            ],
+            "b": [
+                1,
+                7,
+                2,
+                3,
+                3
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "ミケのお店",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                15
+            ],
+            "b": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "独学販促法",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                1,
+                2,
+                3,
+                2
+            ],
+            "b": [
+                1,
+                8,
+                2,
+                3,
+                2
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "商売上手な招き猫",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        7,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [
+                        "skill_icon_dodge_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111g",
+                "all_order_1": "1213121312131213111g",
+                "all_order_2": "124135124135124135121314151g",
+                "all_order_3": "1241351241351241351261361415616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "招符「弾幕万来」",
+                "power_rate": 21,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 11,
+                    "boost": 0,
+                    "buff": [
+                        33,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 8.98,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 3493,
+                    "killers": [
+                        0
+                    ],
+                    "name": "集客の費用",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        38,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 3494,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "広告の費用",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        38,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 6.03,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 3495,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "宣伝の費用",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        32,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 112,
+                    "effect": [
+                        11,
+                        10
+                    ],
+                    "element": 8,
+                    "id": 3496,
+                    "killers": [
+                        0
+                    ],
+                    "name": "集客の光弾",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        32,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 4.94,
+                    "damage_extend": 118,
+                    "effect": [
+                        11,
+                        10
+                    ],
+                    "element": 8,
+                    "id": 3497,
+                    "killers": [
+                        0
+                    ],
+                    "name": "広告の光弾",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 124,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 3498,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "宣伝の光弾",
+                    "order": 21,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "121211111g",
+                "all_order_2": "1212131314141g",
+                "all_order_3": "12512131361414156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "千客娘来",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    117,
+                    122
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        38,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.29,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 3481,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "派手めな集客弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        212,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 104,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 6,
+                    "id": 3482,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色集客弾(白)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        217,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 2.97,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3483,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "虹色集客弾(黒)",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        363,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 3.2,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 3484,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色集客弾(青)",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.43,
+                    "damage_extend": 117,
+                    "effect": [],
+                    "element": 3,
+                    "id": 3485,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "虹色集客弾(赤)",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 122,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 7,
+                    "id": 3486,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色集客弾(黄)",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        15
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1211112111121111121111g",
+                "all_order_2": "121314112131411213141112131411g",
+                "all_order_3": "12613141512613141512131415161213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "招符「弾災招福」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        33,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 2.84,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        70
+                    ],
+                    "element": 6,
+                    "id": 3499,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "レバレッジ弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        149,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 3500,
+                    "killers": [
+                        0
+                    ],
+                    "name": "費用対効果弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        32,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 4.75,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 3501,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "リスクヘッジ弾",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        149,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 5.12,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 8,
+                    "id": 3502,
+                    "killers": [
+                        0
+                    ],
+                    "name": "危機回避弾",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 119,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 3503,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "インシュアランス弾",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        149,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 8,
+                    "id": 3504,
+                    "killers": [
+                        0
+                    ],
+                    "name": "損害保険弾",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "121314151g",
+                "all_order_3": "1213141516g",
+                "break": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "除災猫福",
+                "power_rate": 10,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    117,
+                    123,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [
+                        38,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.1,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 6,
+                    "id": 3487,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "虹色集金弾(白)",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        32,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 4,
+                    "id": 3488,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "虹色集金弾(黒)",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        217,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 112,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 3489,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "虹色集金弾(青)",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        211,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 117,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 3490,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色集金弾(赤)",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 123,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 7,
+                    "id": 3491,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色集金弾(黄)",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 129,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3492,
+                    "killers": [
+                        0
+                    ],
+                    "name": "派手めな集金弾",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        7,
+                        2,
+                        2,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_dodge_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121111121111121111121111g",
+                "all_order_2": "12131411121314111213141112131411g",
+                "all_order_3": "1213141516121314151612131415161213141516g",
+                "break": [
+                    0,
+                    5,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「雨降らずして虹は無し」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.4,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 6,
+                    "id": 3505,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "寺院門下の招き猫",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 3506,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "突然のにわか雨弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.89,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        60,
+                        5,
+                        30
+                    ],
+                    "element": 6,
+                    "id": 3507,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39
+                    ],
+                    "name": "福猫の招き弾",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        32,
+                        100,
+                        33,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 12.8,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 1,
+                    "id": 3508,
+                    "killers": [
+                        0
+                    ],
+                    "name": "雨上がりの陽光弾",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 121,
+                    "effect": [
+                        13,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 3509,
+                    "killers": [
+                        68,
+                        140,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "突然の夕立弾",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 1,
+                    "id": 3510,
+                    "killers": [
+                        1,
+                        56,
+                        175,
+                        39,
+                        68,
+                        90,
+                        7,
+                        10
+                    ],
+                    "name": "市場開きの虹弾",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

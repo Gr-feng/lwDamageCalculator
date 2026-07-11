@@ -1,0 +1,1181 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 3029,
+        "boost_buff": 3,
+        "boost_target": 1,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 4,
+        "graze_target": 1,
+        "hp": 5350,
+        "name": "アリス・マーガトロイド",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖精</color>から受けるダメージを20%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "デコイドール",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率15%]",
+        "passivity_2_icon": "characteristic_icon_24",
+        "passivity_2_name": "妨害人形",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を1.00<color=#00CC66>上昇</color>  [発生率25%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "人形クラフター",
+        "quality": 21121010,
+        "quality_name": "雹",
+        "speed": 1280,
+        "subname": "七色の人形使い",
+        "total": 6450,
+        "tribe": [
+            3,
+            5,
+            36,
+            52,
+            55,
+            25,
+            56,
+            60,
+            34,
+            54,
+            181
+        ],
+        "type": 6,
+        "world_group": "L1",
+        "yang_atk": 890,
+        "yang_def": 910,
+        "yin_atk": 1080,
+        "yin_def": 1220
+    },
+    "chain_character": [
+        1001,
+        1002,
+        1006,
+        1009,
+        1033,
+        1034,
+        1035,
+        1037,
+        1003,
+        1005,
+        1010,
+        1011,
+        1030,
+        1036,
+        1084,
+        1048,
+        1054,
+        1083,
+        2002,
+        1061,
+        1100,
+        1128,
+        3072
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                2,
+                12,
+                1,
+                3,
+                3
+            ],
+            "b": [],
+            "c": [],
+            "cd": 4,
+            "name": "アリスの人形劇",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                11,
+                2,
+                2,
+                2
+            ],
+            "b": [],
+            "c": [],
+            "cd": 5,
+            "name": "幻視",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                6,
+                2,
+                2,
+                2
+            ],
+            "b": [
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "アシストドール",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        2,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111g",
+                "all_order_1": "12112111111111g",
+                "all_order_2": "1211211313111111g",
+                "all_order_3": "1211211313141415151616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "紅符「和蘭人形」",
+                "power_rate": 21,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 943,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 944,
+                    "killers": [
+                        3
+                    ],
+                    "name": "対盗人レーザー",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 15.36,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 945,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 17.55,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 946,
+                    "killers": [
+                        3
+                    ],
+                    "name": "対盗人レーザー",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 19.75,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 9,
+                    "id": 947,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 21.94,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 9,
+                    "id": 948,
+                    "killers": [
+                        3
+                    ],
+                    "name": "対盗人レーザー",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "1212121111g",
+                "all_order_2": "1212121313131g",
+                "all_order_3": "124124125135135613561466g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "スペクトルミステリー",
+                "power_rate": 40,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    119,
+                    123
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.94,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 931,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 105,
+                    "effect": [],
+                    "element": 9,
+                    "id": 932,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅球",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.2,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 9,
+                    "id": 933,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅弾",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 934,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅球",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.09,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 9,
+                    "id": 935,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅弾",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.43,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 9,
+                    "id": 936,
+                    "killers": [
+                        0
+                    ],
+                    "name": "紅球",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_def_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111g",
+                "all_order_1": "1212111g",
+                "all_order_2": "12412131314g",
+                "all_order_3": "124125135136146g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "偵符「シーカードールズ」",
+                "power_rate": 45,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 15.36,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 949,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 950,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ポジレーザー",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.26,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 951,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 15.36,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 952,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ポジレーザー",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 16.46,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 9,
+                    "id": 953,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 17.55,
+                    "damage_extend": 127,
+                    "effect": [],
+                    "element": 9,
+                    "id": 954,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ポジレーザー",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111g",
+                "all_order_1": "1211g",
+                "all_order_2": "121313g",
+                "all_order_3": "124513461356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "上海人形",
+                "power_rate": 29,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    132
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.43,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 937,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.71,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 938,
+                    "killers": [
+                        3
+                    ],
+                    "name": "対盗人レーザー",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.0,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 939,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 9,
+                    "id": 940,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ポジレーザー",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.29,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 9,
+                    "id": 941,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネガレーザー",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.43,
+                    "damage_extend": 132,
+                    "effect": [],
+                    "element": 9,
+                    "id": 942,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ポジレーザー",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "all_order_1": "1212121111111111111g",
+                "all_order_2": "121212111313131141411111g",
+                "all_order_3": "1212121113131311414115151616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「グランギニョル座の怪人」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.0,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 955,
+                    "killers": [
+                        0
+                    ],
+                    "name": "血塗られた人形劇",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 956,
+                    "killers": [
+                        0
+                    ],
+                    "name": "第一幕の舞台",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 15.85,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 957,
+                    "killers": [
+                        0
+                    ],
+                    "name": "血塗られた人形劇",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 25.6,
+                    "damage_extend": 115,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 958,
+                    "killers": [
+                        0
+                    ],
+                    "name": "第二幕の舞台",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 27.43,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 9,
+                    "id": 959,
+                    "killers": [
+                        0
+                    ],
+                    "name": "血塗られた人形劇",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 29.26,
+                    "damage_extend": 130,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 960,
+                    "killers": [
+                        0
+                    ],
+                    "name": "終幕の舞台",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

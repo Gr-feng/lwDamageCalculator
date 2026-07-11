@@ -1,0 +1,1223 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 6,
+        "barrier_status_5": 6,
+        "bgm": 3024,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 4900,
+        "name": "本居小鈴",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを20%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "妖魔本コレクター",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率25%]",
+        "passivity_2_icon": "characteristic_icon_10",
+        "passivity_2_name": "飽くなき好奇心",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_6",
+        "passivity_3_name": "鈴奈庵の看板娘",
+        "quality": 2121011,
+        "quality_name": "長雨",
+        "speed": 900,
+        "subname": "判読眼のビブロフィリア",
+        "total": 6000,
+        "tribe": [
+            1,
+            52,
+            79,
+            25,
+            23,
+            175,
+            181
+        ],
+        "type": 8,
+        "world_group": "L1",
+        "yang_atk": 980,
+        "yang_def": 1020,
+        "yin_atk": 1280,
+        "yin_def": 840
+    },
+    "chain_character": [
+        1001,
+        1002,
+        1029,
+        1037,
+        1009,
+        1082,
+        1087,
+        1044,
+        1079,
+        1122,
+        1117,
+        1123,
+        1124
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                7,
+                1,
+                2,
+                2
+            ],
+            "b": [
+                1,
+                12,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "客寄せ",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                3,
+                1,
+                2,
+                2
+            ],
+            "b": [
+                2,
+                1,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "古代天狗語の書",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                10,
+                1,
+                2,
+                2
+            ],
+            "b": [
+                2,
+                11,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 6,
+            "name": "妖魔本朗読",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111g",
+                "all_order_1": "12121211313111111g",
+                "all_order_2": "12121211313111414151g",
+                "all_order_3": "121212113131114141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "飛書「ゼカリヤ第六の幻視」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 763,
+                    "killers": [
+                        0
+                    ],
+                    "name": "飛行メギッラー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 764,
+                    "killers": [
+                        0
+                    ],
+                    "name": "異視",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.05,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 5,
+                    "id": 765,
+                    "killers": [
+                        0
+                    ],
+                    "name": "飛行メギッラー",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        42,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 7.31,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 766,
+                    "killers": [
+                        0
+                    ],
+                    "name": "幻視",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 5,
+                    "id": 767,
+                    "killers": [
+                        0
+                    ],
+                    "name": "飛行メギッラー",
+                    "order": 19,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        42,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 11.7,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 9,
+                    "id": 768,
+                    "killers": [
+                        0
+                    ],
+                    "name": "幻視",
+                    "order": 21,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "121213131g",
+                "all_order_2": "1241251351314g",
+                "all_order_3": "124125135136146g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "お箸の付喪神",
+                "power_rate": 52,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    114,
+                    119,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 85,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.45,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 751,
+                    "killers": [
+                        0
+                    ],
+                    "name": "片口箸",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 85,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.63,
+                    "damage_extend": 105,
+                    "effect": [],
+                    "element": 9,
+                    "id": 752,
+                    "killers": [
+                        0
+                    ],
+                    "name": "両口箸",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 85,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.33,
+                    "damage_extend": 110,
+                    "effect": [],
+                    "element": 5,
+                    "id": 753,
+                    "killers": [
+                        0
+                    ],
+                    "name": "青竹箸",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 85,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.03,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 754,
+                    "killers": [
+                        0
+                    ],
+                    "name": "黒文字箸",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 85,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.72,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 9,
+                    "id": 755,
+                    "killers": [
+                        0
+                    ],
+                    "name": "利久箸",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 85,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.42,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 5,
+                    "id": 756,
+                    "killers": [
+                        0
+                    ],
+                    "name": "天削箸",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111g",
+                "all_order_1": "121213131111g",
+                "all_order_2": "1212131314141515g",
+                "all_order_3": "121213131414156156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "原書「ホツマツタヱ」",
+                "power_rate": 31,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 8,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 12.07,
+                    "damage_extend": 100,
+                    "effect": [
+                        10,
+                        10
+                    ],
+                    "element": 4,
+                    "id": 769,
+                    "killers": [
+                        60
+                    ],
+                    "name": "アのヒマキ",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.11,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 770,
+                    "killers": [
+                        0
+                    ],
+                    "name": "朗読",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        65,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 11.81,
+                    "damage_extend": 107,
+                    "effect": [
+                        10,
+                        10
+                    ],
+                    "element": 4,
+                    "id": 771,
+                    "killers": [
+                        60
+                    ],
+                    "name": "ワのヒマキ",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.76,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 772,
+                    "killers": [
+                        0
+                    ],
+                    "name": "朗読",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        65,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 9.66,
+                    "damage_extend": 121,
+                    "effect": [
+                        10,
+                        10
+                    ],
+                    "element": 4,
+                    "id": 773,
+                    "killers": [
+                        60
+                    ],
+                    "name": "ヤのヒマキ",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.4,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 9,
+                    "id": 774,
+                    "killers": [
+                        0
+                    ],
+                    "name": "朗読",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12121313g",
+                "all_order_2": "124124135135g",
+                "all_order_3": "12412413561356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    4
+                ],
+                "first_order": 1,
+                "name": "邪龍の魚拓",
+                "power_rate": 10,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    126,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 65,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.44,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 757,
+                    "killers": [
+                        0
+                    ],
+                    "name": "封じられしオーラ",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.03,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 758,
+                    "killers": [
+                        0
+                    ],
+                    "name": "恩返し",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.62,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 759,
+                    "killers": [
+                        0
+                    ],
+                    "name": "封じられしオーラ",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.2,
+                    "damage_extend": 119,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 760,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魚拓の墨",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.78,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 9,
+                    "id": 761,
+                    "killers": [
+                        0
+                    ],
+                    "name": "封じられしオーラ",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.36,
+                    "damage_extend": 132,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 762,
+                    "killers": [
+                        0
+                    ],
+                    "name": "龍の恩返し",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        8,
+                        1,
+                        3,
+                        1
+                    ],
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        1
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        3
+                    ],
+                    [
+                        3
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "12121213131111111111g",
+                "all_order_2": "12121213131114141115111g",
+                "all_order_3": "121212131311141411151116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「私家版百鬼夜行絵巻最終章補遺」",
+                "power_rate": 8,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    131
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 65,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 11.08,
+                    "damage_extend": 100,
+                    "effect": [
+                        10,
+                        30,
+                        2,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 775,
+                    "killers": [
+                        0
+                    ],
+                    "name": "朧気な百鬼の記憶",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 65,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 16.11,
+                    "damage_extend": 100,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 776,
+                    "killers": [
+                        0
+                    ],
+                    "name": "絵巻のレプリカ",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 22.15,
+                    "damage_extend": 108,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 777,
+                    "killers": [
+                        0
+                    ],
+                    "name": "最終章のレプリカ",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 20.14,
+                    "damage_extend": 115,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 778,
+                    "killers": [
+                        0
+                    ],
+                    "name": "最終章のレプリカ",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 36.25,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 5,
+                    "id": 779,
+                    "killers": [
+                        93,
+                        23,
+                        36
+                    ],
+                    "name": "補遺のレプリカ",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 32.22,
+                    "damage_extend": 131,
+                    "effect": [],
+                    "element": 5,
+                    "id": 780,
+                    "killers": [
+                        93,
+                        23,
+                        36
+                    ],
+                    "name": "補遺のレプリカ",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

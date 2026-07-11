@@ -1,0 +1,1256 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 3056,
+        "boost_buff": 10,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 25,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 4900,
+        "name": "純狐",
+        "passivity_1_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率25%]",
+        "passivity_1_icon": "characteristic_icon_37",
+        "passivity_1_name": "還元",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率35%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "真空崩壊",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率60%]",
+        "passivity_3_icon": "characteristic_icon_1",
+        "passivity_3_name": "狂気ブースター",
+        "quality": 11111111,
+        "quality_name": "無雲",
+        "speed": 720,
+        "total": 6900,
+        "tribe": [
+            15,
+            14,
+            21,
+            118,
+            159,
+            181
+        ],
+        "type": 8,
+        "world_group": "L1",
+        "yang_atk": 1620,
+        "yang_def": 980,
+        "yin_atk": 1620,
+        "yin_def": 980
+    },
+    "chain_character": [
+        1015,
+        1048,
+        1058,
+        1056,
+        1020
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                8,
+                1,
+                2,
+                3
+            ],
+            "b": [
+                1,
+                10,
+                1,
+                2,
+                3
+            ],
+            "c": [
+                2,
+                2,
+                1,
+                2,
+                2
+            ],
+            "cd": 4,
+            "name": "幻の黒髪",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                5,
+                1,
+                3,
+                2
+            ],
+            "b": [
+                1,
+                4,
+                1,
+                3,
+                2
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "九尾狐のトーテム",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                3,
+                1,
+                3,
+                2
+            ],
+            "b": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "純化",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        20
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1212121211111111111111111g",
+                "all_order_2": "1212121213131311111111111111g",
+                "all_order_3": "121212121313131411411411511511511616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「掌の純光」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [
+                        41,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 2.44,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1693,
+                    "killers": [
+                        0
+                    ],
+                    "name": "原初の光",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        15
+                    ],
+                    "element": 3,
+                    "id": 1694,
+                    "killers": [
+                        0
+                    ],
+                    "name": "原初の赤色光",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.48,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 4,
+                    "id": 1695,
+                    "killers": [
+                        45,
+                        54,
+                        7,
+                        89
+                    ],
+                    "name": "原初の青色光",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 6.62,
+                    "damage_extend": 115,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1696,
+                    "killers": [
+                        0
+                    ],
+                    "name": "始原の光",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 7.09,
+                    "damage_extend": 123,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1697,
+                    "killers": [
+                        0
+                    ],
+                    "name": "原初の残光",
+                    "order": 25,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 11.34,
+                    "damage_extend": 130,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1698,
+                    "killers": [
+                        0
+                    ],
+                    "name": "最古の光子",
+                    "order": 34,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "all_order_1": "121211111111g",
+                "all_order_2": "121213131414151511g",
+                "all_order_3": "12121313141415151616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "羅睺",
+                "power_rate": 34,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    120,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1681,
+                    "killers": [
+                        0
+                    ],
+                    "name": "龍頭弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        39,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 4.11,
+                    "damage_extend": 105,
+                    "effect": [],
+                    "element": 4,
+                    "id": 1682,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大龍頭弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.21,
+                    "damage_extend": 110,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1683,
+                    "killers": [
+                        45,
+                        54,
+                        7,
+                        89
+                    ],
+                    "name": "悪惑星",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.21,
+                    "damage_extend": 115,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1684,
+                    "killers": [
+                        0
+                    ],
+                    "name": "巨龍頭弾",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 3.99,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1685,
+                    "killers": [
+                        0
+                    ],
+                    "name": "邪惑星",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 3.99,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1686,
+                    "killers": [
+                        0
+                    ],
+                    "name": "凶惑星",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        3,
+                        4,
+                        2,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_down"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        3
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "121212111111111111111g",
+                "all_order_2": "121212111131313111111111g",
+                "all_order_3": "1212121111313131141414115151616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「純粋なる狂気」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        139,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 2.84,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1699,
+                    "killers": [
+                        0
+                    ],
+                    "name": "未知の光",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1700,
+                    "killers": [
+                        45,
+                        54,
+                        7,
+                        89
+                    ],
+                    "name": "不可視の光",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.48,
+                    "damage_extend": 108,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1701,
+                    "killers": [
+                        0
+                    ],
+                    "name": "神秘の光",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        137,
+                        60
+                    ],
+                    "cri": 25,
+                    "damage": 6.62,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1702,
+                    "killers": [
+                        0
+                    ],
+                    "name": "狂気の光",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 10.63,
+                    "damage_extend": 123,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1703,
+                    "killers": [
+                        0
+                    ],
+                    "name": "観測不能の光",
+                    "order": 25,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 11.34,
+                    "damage_extend": 130,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1704,
+                    "killers": [
+                        0
+                    ],
+                    "name": "不可知の光",
+                    "order": 29,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12111g",
+                "all_order_2": "12131415g",
+                "all_order_3": "121314156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "計都",
+                "power_rate": 11,
+                "damage_extend": [
+                    100,
+                    107,
+                    113,
+                    120,
+                    126,
+                    133
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.62,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 9,
+                    "id": 1687,
+                    "killers": [
+                        0
+                    ],
+                    "name": "龍尾弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        145,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1688,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大龍尾弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.35,
+                    "damage_extend": 113,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1689,
+                    "killers": [
+                        0
+                    ],
+                    "name": "悪彗星",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.35,
+                    "damage_extend": 120,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1690,
+                    "killers": [
+                        0
+                    ],
+                    "name": "邪彗星",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 8.86,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1691,
+                    "killers": [
+                        0
+                    ],
+                    "name": "巨龍尾弾",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 65,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 8.86,
+                    "damage_extend": 133,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1692,
+                    "killers": [
+                        0
+                    ],
+                    "name": "凶彗星",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        10,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        3,
+                        1,
+                        2,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "all_order_1": "121212121211111111111111g",
+                "all_order_2": "12121212121313131313111111111g",
+                "all_order_3": "12121212121313131313144144144155155155166166166g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「始まりのロゴス」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    117,
+                    125,
+                    133
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [
+                        67,
+                        30
+                    ],
+                    "cri": 5,
+                    "damage": 8.66,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 1705,
+                    "killers": [
+                        0
+                    ],
+                    "name": "命名札",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        39,
+                        40
+                    ],
+                    "cri": 10,
+                    "damage": 13.46,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 1706,
+                    "killers": [
+                        0
+                    ],
+                    "name": "強制命名札",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        39,
+                        60
+                    ],
+                    "cri": 10,
+                    "damage": 15.71,
+                    "damage_extend": 108,
+                    "effect": [],
+                    "element": 3,
+                    "id": 1707,
+                    "killers": [
+                        45,
+                        54,
+                        7,
+                        89
+                    ],
+                    "name": "除名札",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 6,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 14.18,
+                    "damage_extend": 117,
+                    "effect": [
+                        9,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1708,
+                    "killers": [
+                        0
+                    ],
+                    "name": "流名札",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 6,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 15.95,
+                    "damage_extend": 125,
+                    "effect": [
+                        9,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 1709,
+                    "killers": [
+                        0
+                    ],
+                    "name": "改名札",
+                    "order": 31,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 6,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 16.0,
+                    "damage_extend": 133,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 8,
+                    "id": 1710,
+                    "killers": [
+                        45,
+                        54,
+                        7,
+                        89
+                    ],
+                    "name": "強化強制命名札",
+                    "order": 40,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

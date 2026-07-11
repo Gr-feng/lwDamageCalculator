@@ -1,0 +1,1568 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 5,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 3,
+        "bgm": 30509401,
+        "boost_buff": 4,
+        "boost_target": 0,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "鬼人正邪",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>人間</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "秘密結社首魁",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率50%]",
+        "passivity_2_icon": "characteristic_icon_3",
+        "passivity_2_name": "反則マスター",
+        "passivity_3_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>暗闇</color>」を1枚<color=#0066FF>付与</color> (3T) [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_29",
+        "passivity_3_name": "究極反則生命体の名残り",
+        "quality": 12111112,
+        "quality_name": "震天動地",
+        "speed": 1050,
+        "subname": "地下秘密結社の首魁",
+        "total": 7350,
+        "tribe": [
+            5,
+            146,
+            14,
+            186,
+            152,
+            160,
+            99,
+            182,
+            95,
+            95
+        ],
+        "type": 8,
+        "world_group": "B3",
+        "yang_atk": 1150,
+        "yang_def": 1000,
+        "yin_atk": 1650,
+        "yin_def": 1500
+    },
+    "chain_character": [
+        2016,
+        2017,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2042,
+        2054,
+        2055,
+        2081,
+        3001,
+        3002,
+        3005,
+        3011,
+        3015,
+        3037,
+        5056,
+        5067,
+        5068,
+        5087,
+        5105,
+        6112,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                2,
+                9,
+                4,
+                4,
+                2
+            ],
+            "b": [
+                1,
+                6,
+                1,
+                3,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "cd": 5,
+            "name": "妖刀「朧切」",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                5,
+                4,
+                2,
+                3
+            ],
+            "b": [
+                1,
+                4,
+                2,
+                4,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 5,
+            "name": "命がけの二枚舌",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                3,
+                1,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                10,
+                1,
+                3,
+                3
+            ],
+            "c": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "cd": 6,
+            "name": "偽装神格「アメノサグメ」",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        5,
+                        4,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        4,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [
+                        "skill_icon_yin_def_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "義務「姉妹、私は幸福です」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1212121111111111111g",
+                "all_order_2": "121212113131311414141151511g",
+                "all_order_3": "12121211313131141414115151616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [
+                        109,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 112803,
+                    "killers": [
+                        1,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "幸福です",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        35,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.74,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112804,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大幸福です",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        3,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 5.64,
+                    "damage_extend": 107,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 112805,
+                    "killers": [
+                        0
+                    ],
+                    "name": "特幸福です",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 5.64,
+                    "damage_extend": 114,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 112806,
+                    "killers": [
+                        8,
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "超幸福です",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 8.47,
+                    "damage_extend": 122,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 112807,
+                    "killers": [
+                        0
+                    ],
+                    "name": "極幸福です",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 7.42,
+                    "damage_extend": 129,
+                    "effect": [
+                        3,
+                        1,
+                        16,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 112808,
+                    "killers": [
+                        8,
+                        1,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "最幸福です",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "楽しい奉仕",
+                "power_rate": 36,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    120,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "111212111111g",
+                "all_order_2": "111212113114115g",
+                "all_order_3": "1112121131141156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        274,
+                        100,
+                        6,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 112791,
+                    "killers": [
+                        152,
+                        102,
+                        39,
+                        26,
+                        75,
+                        182,
+                        161,
+                        147
+                    ],
+                    "name": "楽しい奉仕",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        4,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.03,
+                    "damage_extend": 105,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 9,
+                    "id": 112792,
+                    "killers": [
+                        1,
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "楽しい大奉仕",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 7.94,
+                    "damage_extend": 110,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112793,
+                    "killers": [
+                        0
+                    ],
+                    "name": "楽しい特奉仕",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 7.94,
+                    "damage_extend": 115,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 5,
+                    "id": 112794,
+                    "killers": [
+                        0
+                    ],
+                    "name": "楽しい超奉仕",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 7.94,
+                    "damage_extend": 120,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 112795,
+                    "killers": [
+                        0
+                    ],
+                    "name": "楽しい極奉仕",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 7.51,
+                    "damage_extend": 124,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 112796,
+                    "killers": [
+                        152,
+                        102,
+                        39,
+                        26,
+                        75,
+                        182,
+                        161,
+                        147
+                    ],
+                    "name": "楽しい最奉仕",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        3,
+                        2,
+                        3
+                    ],
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    5
+                ],
+                "first_order": 1,
+                "name": "機密「知らないし、知ることはないだろう」",
+                "power_rate": 10,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "121212111111111111111g",
+                "all_order_2": "121212113131311111111111g",
+                "all_order_3": "121212113131311414141151515161616g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        34,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 112809,
+                    "killers": [
+                        8,
+                        1,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "クリアランスIR",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.61,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        5,
+                        45
+                    ],
+                    "element": 4,
+                    "id": 112810,
+                    "killers": [
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "クリアランスR",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 9.88,
+                    "damage_extend": 108,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112811,
+                    "killers": [
+                        0
+                    ],
+                    "name": "クリアランスO",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        109,
+                        100
+                    ],
+                    "cri": 35,
+                    "damage": 9.89,
+                    "damage_extend": 115,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        4,
+                        45
+                    ],
+                    "element": 4,
+                    "id": 112812,
+                    "killers": [
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "クリアランスB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 11.13,
+                    "damage_extend": 123,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        16,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112813,
+                    "killers": [
+                        0
+                    ],
+                    "name": "クリアランスV",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 12.37,
+                    "damage_extend": 130,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        5,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 112814,
+                    "killers": [
+                        8,
+                        1,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "クリアランスUV",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "反逆者がいるぞ！",
+                "power_rate": 12,
+                "damage_extend": [
+                    100,
+                    107,
+                    114,
+                    120,
+                    127,
+                    134
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1211111111g",
+                "all_order_2": "121131141111g",
+                "all_order_3": "12113114115116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        178,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 4.44,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 112797,
+                    "killers": [
+                        1,
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "反逆者がいるぞ！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        38,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 13.45,
+                    "damage_extend": 107,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 112798,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大反逆者がいるぞ！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 14.33,
+                    "damage_extend": 114,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 112799,
+                    "killers": [
+                        0
+                    ],
+                    "name": "特反逆者がいるぞ！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 15.43,
+                    "damage_extend": 120,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        20
+                    ],
+                    "element": 3,
+                    "id": 112800,
+                    "killers": [
+                        152,
+                        102,
+                        39,
+                        26,
+                        75,
+                        182,
+                        161,
+                        147
+                    ],
+                    "name": "超反逆者がいるぞ！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 15.65,
+                    "damage_extend": 127,
+                    "effect": [
+                        3,
+                        1,
+                        4,
+                        20
+                    ],
+                    "element": 4,
+                    "id": 112801,
+                    "killers": [
+                        1,
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "極反逆者がいるぞ！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 16.7,
+                    "damage_extend": 134,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 112802,
+                    "killers": [
+                        0
+                    ],
+                    "name": "最反逆者がいるぞ！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        4,
+                        2,
+                        4
+                    ],
+                    [
+                        1,
+                        3,
+                        2,
+                        2,
+                        4
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        4,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「偉大にして親愛なるシニアシスター様！」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1212121211111111111111111111g",
+                "all_order_2": "121212121111313131111414141111515111g",
+                "all_order_3": "1212121211113131311114141411115151116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 24,
+                    "boost": 0,
+                    "buff": [
+                        109,
+                        100,
+                        34,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 6.1,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        4,
+                        140
+                    ],
+                    "element": 2,
+                    "id": 112815,
+                    "killers": [
+                        8,
+                        1,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "ＳＳ様万歳！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 73,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        66,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.76,
+                    "damage_extend": 100,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112816,
+                    "killers": [
+                        1,
+                        54,
+                        10,
+                        152,
+                        102,
+                        75,
+                        161,
+                        147
+                    ],
+                    "name": "ＳＳ様万々歳！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        176,
+                        100
+                    ],
+                    "cri": 25,
+                    "damage": 12.98,
+                    "damage_extend": 108,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 2,
+                    "id": 112817,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ＳＳ様万々々歳！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 71,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 12.98,
+                    "damage_extend": 116,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 112818,
+                    "killers": [
+                        8,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "ＳＳ様万々々々歳！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 71,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 19.47,
+                    "damage_extend": 124,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 112819,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ＳＳ様万々々々々歳！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 69,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 33.39,
+                    "damage_extend": 132,
+                    "effect": [
+                        3,
+                        1,
+                        8,
+                        1,
+                        4,
+                        140
+                    ],
+                    "element": 2,
+                    "id": 112820,
+                    "killers": [
+                        8,
+                        1,
+                        54,
+                        10,
+                        26,
+                        182,
+                        39
+                    ],
+                    "name": "ＳＳ様万々々々々々歳！",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

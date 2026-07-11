@@ -1,0 +1,1367 @@
+{
+    "character_info": {
+        "advantage_attack": 25,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 6,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 7,
+        "bgm": 30112001,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5250,
+        "name": "玉造魅須丸",
+        "passivity_1_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率35%]",
+        "passivity_1_icon": "characteristic_icon_37",
+        "passivity_1_name": "硬質陰陽玉(陰)",
+        "passivity_2_description": "攻撃された時、陽性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率35%]",
+        "passivity_2_icon": "characteristic_icon_36",
+        "passivity_2_name": "硬質陰陽玉(陽)",
+        "passivity_3_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>暗闇</color>」を1枚<color=#0066FF>付与</color>  (3T) [発生率80%]",
+        "passivity_3_icon": "characteristic_icon_29",
+        "passivity_3_name": "低酸素幻覚",
+        "quality": 22001111,
+        "quality_name": "塵煙霧",
+        "speed": 750,
+        "subname": "本物の勾玉制作職人",
+        "total": 6900,
+        "tribe": [
+            14,
+            162,
+            69,
+            172,
+            52,
+            181
+        ],
+        "type": 6,
+        "world_group": "L1",
+        "yang_atk": 1625,
+        "yang_def": 925,
+        "yin_atk": 1625,
+        "yin_def": 925
+    },
+    "chain_character": [
+        1001,
+        1002,
+        1005,
+        1037,
+        1119,
+        1113,
+        1112,
+        1124,
+        1121,
+        1122,
+        1009,
+        1013,
+        1014,
+        1025,
+        1069,
+        1070,
+        1071,
+        1083,
+        1117,
+        1123,
+        1127
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                4,
+                0,
+                1,
+                1,
+                1
+            ],
+            "b": [
+                6,
+                5,
+                1,
+                3,
+                2
+            ],
+            "c": [
+                1,
+                2,
+                2,
+                3,
+                2
+            ],
+            "cd": 6,
+            "name": "とある伊弉諾物質",
+            "id": 1
+        },
+        {
+            "a": [
+                2,
+                9,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                6,
+                1,
+                1,
+                3,
+                2
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "神璽呪術",
+            "id": 2
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                2,
+                2
+            ],
+            "c": [],
+            "cd": 5,
+            "name": "神秘のレガリア",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        2,
+                        2,
+                        3,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        4,
+                        3,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_yin_def_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1211121112111111211111g",
+                "all_order_2": "1213141213141213141511121511151g",
+                "all_order_3": "121314121314121314151112151611516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "玉符「陰陽神玉」",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        169,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 4.88,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 3583,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "人間の陽玉",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        171,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        80,
+                        5,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 3584,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "神官男子の陽玉",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 8,
+                    "id": 3585,
+                    "killers": [
+                        45,
+                        14,
+                        6
+                    ],
+                    "name": "妖怪退治者の陽玉",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        120
+                    ],
+                    "element": 7,
+                    "id": 3586,
+                    "killers": [
+                        0
+                    ],
+                    "name": "妖怪の陰玉",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        120
+                    ],
+                    "element": 7,
+                    "id": 3587,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔物女子の陰玉",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3588,
+                    "killers": [
+                        0
+                    ],
+                    "name": "異変首謀者の陰玉",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111g",
+                "all_order_1": "121211111g",
+                "all_order_2": "125121313141415g",
+                "all_order_3": "12512131361414156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    2
+                ],
+                "first_order": 1,
+                "name": "御統神具",
+                "power_rate": 24,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    118,
+                    122
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [
+                        67,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 2.61,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3571,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "勾玉の御統",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 104,
+                    "effect": [
+                        5,
+                        60,
+                        16,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 3572,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "管玉の御統",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 109,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 7,
+                    "id": 3573,
+                    "killers": [
+                        0
+                    ],
+                    "name": "平玉の御統",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3574,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "赤玉の御統",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3575,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "白玉の御統",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 122,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 3576,
+                    "killers": [
+                        0
+                    ],
+                    "name": "青玉の御統",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 1,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "121111212111121111g",
+                "all_order_2": "12413141123121314112131411g",
+                "all_order_3": "1241351461561231261314151213141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "女王珠「虹の扉の向こうに」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 3.66,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 7,
+                    "id": 3589,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "虹色の陰玉",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        64,
+                        75,
+                        66,
+                        75,
+                        67,
+                        75
+                    ],
+                    "cri": 5,
+                    "damage": 4.39,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 3590,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色の陽玉",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.75,
+                    "damage_extend": 107,
+                    "effect": [
+                        5,
+                        80
+                    ],
+                    "element": 7,
+                    "id": 3591,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "虹色の大陰玉",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.12,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 3592,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色の大陽玉",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        120
+                    ],
+                    "element": 7,
+                    "id": 3593,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "虹色の巨大陰玉",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        40
+                    ],
+                    "cri": 5,
+                    "damage": 5.85,
+                    "damage_extend": 127,
+                    "effect": [
+                        4,
+                        120
+                    ],
+                    "element": 8,
+                    "id": 3594,
+                    "killers": [
+                        0
+                    ],
+                    "name": "虹色の巨大陽玉",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "1211113g",
+                "all_order_3": "1246141515136g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    4,
+                    0
+                ],
+                "first_order": 1,
+                "name": "豊玉造",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [
+                        64,
+                        50,
+                        66,
+                        50
+                    ],
+                    "cri": 5,
+                    "damage": 4.57,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 3577,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "勾玉造",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 106,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 3578,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "管玉造",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        64,
+                        100,
+                        66,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 10.67,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 7,
+                    "id": 3579,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "平玉造",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.1,
+                    "damage_extend": 119,
+                    "effect": [
+                        15,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 3580,
+                    "killers": [
+                        0
+                    ],
+                    "name": "赤玉造",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 125,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3581,
+                    "killers": [
+                        0
+                    ],
+                    "name": "白玉造",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.62,
+                    "damage_extend": 132,
+                    "effect": [],
+                    "element": 9,
+                    "id": 3582,
+                    "killers": [
+                        0
+                    ],
+                    "name": "青玉造",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121111121111121111121111g",
+                "all_order_2": "1213111121311112131111213111g",
+                "all_order_3": "1213141516121314151612131415161213141516g",
+                "break": [
+                    3,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "「陰陽惑星」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    115,
+                    123,
+                    130
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 3595,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "陰陽微小惑星",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        70,
+                        5,
+                        70
+                    ],
+                    "element": 7,
+                    "id": 3596,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "陰陽小惑星",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 12.8,
+                    "damage_extend": 108,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 3597,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陰陽惑星",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 115,
+                    "effect": [
+                        4,
+                        100,
+                        5,
+                        100
+                    ],
+                    "element": 8,
+                    "id": 3598,
+                    "killers": [
+                        45,
+                        14
+                    ],
+                    "name": "陰陽恒星",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 16.46,
+                    "damage_extend": 123,
+                    "effect": [
+                        4,
+                        120,
+                        5,
+                        120
+                    ],
+                    "element": 8,
+                    "id": 3599,
+                    "killers": [
+                        162,
+                        160,
+                        36,
+                        121,
+                        93,
+                        23
+                    ],
+                    "name": "陰陽銀河",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 18.29,
+                    "damage_extend": 130,
+                    "effect": [
+                        12,
+                        1,
+                        16,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 3600,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陰陽大宇宙",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

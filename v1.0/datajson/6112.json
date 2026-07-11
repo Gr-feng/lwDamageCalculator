@@ -1,0 +1,1470 @@
+{
+    "character_info": {
+        "advantage_attack": 25,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 8,
+        "barrier_status_2": 0,
+        "barrier_status_3": 7,
+        "barrier_status_4": 7,
+        "barrier_status_5": 0,
+        "bgm": 30611201,
+        "boost_buff": 3,
+        "boost_target": 1,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>結界</color>を<color=#00CC66>増加</color>\\n前衛になる時、前衛全体の<color=#CCAA00>結界異常</color>を<color=#00CC66>回復</color>",
+        "chain_name": "シールド連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5500,
+        "name": "庭渡久侘歌",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>霊的存在</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "鉄道航空隊",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.60<color=#00CC66>上昇</color> [発生率35%]",
+        "passivity_2_icon": "characteristic_icon_31",
+        "passivity_2_name": "レイルレーション",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "ピヨちゃんコーチング",
+        "quality": 12111112,
+        "quality_name": "東雲",
+        "speed": 1250,
+        "subname": "地下廃区画のアライナー",
+        "total": 7350,
+        "tribe": [
+            14,
+            68,
+            142,
+            186,
+            152,
+            99,
+            113,
+            58,
+            182,
+            95
+        ],
+        "type": 6,
+        "world_group": "B3",
+        "yang_atk": 1350,
+        "yang_def": 800,
+        "yin_atk": 1900,
+        "yin_def": 950
+    },
+    "chain_character": [
+        2055,
+        2054,
+        4032,
+        2036,
+        6062,
+        6063,
+        6064,
+        2018,
+        2016,
+        2017,
+        2023,
+        2021,
+        2022,
+        2081,
+        2019,
+        2072,
+        2080,
+        2084,
+        2088,
+        2097,
+        2098,
+        5056,
+        5087,
+        5068,
+        5067,
+        12015,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                6,
+                1,
+                4,
+                3
+            ],
+            "b": [
+                1,
+                3,
+                2,
+                2,
+                1
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 4,
+            "name": "マージソート",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                25
+            ],
+            "b": [
+                6,
+                3,
+                1,
+                3,
+                3
+            ],
+            "c": [
+                8,
+                1,
+                2,
+                1,
+                1
+            ],
+            "cd": 4,
+            "name": "クイックソート",
+            "id": 2
+        },
+        {
+            "a": [
+                2,
+                9,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                2,
+                4,
+                4,
+                3,
+                2
+            ],
+            "c": [
+                6,
+                1,
+                4,
+                2,
+                4
+            ],
+            "cd": 5,
+            "name": "ヒープソート",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        10,
+                        0,
+                        2,
+                        1,
+                        1
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_disenchant"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "12121212131313131414141515151111g",
+                "all_order_3": "12121212131313131414141515151161616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "長鳴「目覚めよ、葬られた幽霊達よ」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [
+                        43,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.91,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 143343,
+                    "killers": [
+                        0
+                    ],
+                    "name": "目覚ましボイス",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 6,
+                    "id": 143344,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "目覚ましソング",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 5,
+                    "id": 143345,
+                    "killers": [
+                        0
+                    ],
+                    "name": "死者蘇生ボイス",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 113,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 6,
+                    "id": 143346,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "死者蘇生ソング",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 120,
+                    "effect": [
+                        15,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 143347,
+                    "killers": [
+                        0
+                    ],
+                    "name": "岩戸開きボイス",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        80
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 126,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 6,
+                    "id": 143348,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "岩戸開きソング",
+                    "order": 31,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111111g",
+                "all_order_1": "1212111111111g",
+                "all_order_2": "12121313141411111g",
+                "all_order_3": "1212131314141151116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ウイングセマフォ",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    118,
+                    123
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 11,
+                    "boost": 0,
+                    "buff": [
+                        35,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 1.3,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 143331,
+                    "killers": [
+                        0
+                    ],
+                    "name": "起信信号",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 105,
+                    "effect": [
+                        5,
+                        25
+                    ],
+                    "element": 5,
+                    "id": 143332,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "発動信号",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.66,
+                    "damage_extend": 109,
+                    "effect": [
+                        4,
+                        25
+                    ],
+                    "element": 6,
+                    "id": 143333,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "消信信号",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        35,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.86,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 143334,
+                    "killers": [
+                        0
+                    ],
+                    "name": "終信信号",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 118,
+                    "effect": [
+                        5,
+                        25
+                    ],
+                    "element": 5,
+                    "id": 143335,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "解信信号",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 123,
+                    "effect": [
+                        4,
+                        25
+                    ],
+                    "element": 6,
+                    "id": 143336,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "応信信号",
+                    "order": 19,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        30
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111g",
+                "all_order_1": "121212121111111111111111g",
+                "all_order_2": "12121212131313131414141411111111g",
+                "all_order_3": "1212121213131313141414141515151516161616g",
+                "break": [
+                    4,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "笛符「幽霊達よ、居るべき場所に還れ」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 20,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.29,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 5,
+                    "id": 143349,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ホーム待機列の整列",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.93,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 6,
+                    "id": 143350,
+                    "killers": [
+                        0
+                    ],
+                    "name": "乗り換え待機列の整列",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.25,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 6,
+                    "id": 143351,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "券売機待機列の整列",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.58,
+                    "damage_extend": 113,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 143352,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "案内所待機列の整列",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        36,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 6,
+                    "id": 143353,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "立ち食いそば屋の整列",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 127,
+                    "effect": [
+                        5,
+                        20
+                    ],
+                    "element": 5,
+                    "id": 143354,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "幽霊列車の整列",
+                    "order": 34,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "12111g",
+                "all_order_2": "121341314g",
+                "all_order_3": "1261341351456g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "アライメントホイッスル",
+                "power_rate": 26,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    119,
+                    125,
+                    131
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.95,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        25
+                    ],
+                    "element": 6,
+                    "id": 143337,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "PiPiPiホイッスル",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        145,
+                        70
+                    ],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        25
+                    ],
+                    "element": 6,
+                    "id": 143338,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "進行合図",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.65,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 6,
+                    "id": 143339,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "幅寄せ合図",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        145,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.16,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 6,
+                    "id": 143340,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "徐行合図",
+                    "order": 5,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.67,
+                    "damage_extend": 125,
+                    "effect": [
+                        5,
+                        25
+                    ],
+                    "element": 5,
+                    "id": 143341,
+                    "killers": [
+                        0
+                    ],
+                    "name": "後進合図",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        80
+                    ],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 131,
+                    "effect": [],
+                    "element": 9,
+                    "id": 143342,
+                    "killers": [
+                        0
+                    ],
+                    "name": "停止合図",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        4,
+                        1,
+                        4,
+                        3
+                    ],
+                    [
+                        2,
+                        4,
+                        3,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        9,
+                        3,
+                        4,
+                        3
+                    ],
+                    [
+                        6,
+                        1,
+                        4,
+                        3,
+                        2
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_yin_def_down"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_burn"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111g",
+                "all_order_1": "121212121211111111111111111g",
+                "all_order_2": "121212121213131313141414141515151511111g",
+                "all_order_3": "121212121213131313141414141515151516116116g",
+                "break": [
+                    3,
+                    0,
+                    0,
+                    5,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「輪廻解脱の大終点」",
+                "power_rate": 13,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 22,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.93,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        70,
+                        5,
+                        70
+                    ],
+                    "element": 6,
+                    "id": 143355,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "五蘊尽きし終点",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 11.78,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        100,
+                        5,
+                        100
+                    ],
+                    "element": 6,
+                    "id": 143356,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "色蘊尽きし終点",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 14.73,
+                    "damage_extend": 107,
+                    "effect": [
+                        12,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 143357,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "受蘊尽きし終点",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 14.73,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 6,
+                    "id": 143358,
+                    "killers": [
+                        170,
+                        10,
+                        9,
+                        27,
+                        93,
+                        22,
+                        122
+                    ],
+                    "name": "想蘊尽きし終点",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 14.73,
+                    "damage_extend": 122,
+                    "effect": [
+                        15,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 143359,
+                    "killers": [
+                        8,
+                        75,
+                        161,
+                        13,
+                        12
+                    ],
+                    "name": "行蘊尽きし終点",
+                    "order": 28,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 19.64,
+                    "damage_extend": 129,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        125,
+                        5,
+                        125
+                    ],
+                    "element": 6,
+                    "id": 143360,
+                    "killers": [
+                        0
+                    ],
+                    "name": "識蘊尽きし終点",
+                    "order": 36,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

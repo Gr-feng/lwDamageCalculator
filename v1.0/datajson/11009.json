@@ -1,0 +1,1369 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 7,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 7,
+        "bgm": 301100901,
+        "boost_buff": 6,
+        "boost_target": 1,
+        "break_cost": 0,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "ガード連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 30,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "八雲紫",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを30%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "人と妖の名鑑",
+        "passivity_2_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率40%]",
+        "passivity_2_icon": "characteristic_icon_37",
+        "passivity_2_name": "天狗の個人誌",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率45%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "六十年越しの紫香花",
+        "quality": 10112102,
+        "quality_name": "- 気質不詳 -",
+        "speed": 1000,
+        "subname": "ワードスミス50号",
+        "total": 7350,
+        "tribe": [
+            5,
+            179,
+            25,
+            213
+        ],
+        "type": 5,
+        "world_group": "L50ws",
+        "yang_atk": 1150,
+        "yang_def": 1050,
+        "yin_atk": 1700,
+        "yin_def": 1450
+    },
+    "chain_character": [],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                3,
+                1,
+                3,
+                3
+            ],
+            "b": [
+                6,
+                5,
+                4,
+                3,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                30
+            ],
+            "cd": 4,
+            "name": "異界の撮影記録",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                4,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                2,
+                4,
+                4,
+                3,
+                2
+            ],
+            "c": [
+                6,
+                5,
+                1,
+                3,
+                2
+            ],
+            "cd": 5,
+            "name": "とある魔法使いの魔導書",
+            "id": 2
+        },
+        {
+            "a": [
+                58,
+                14,
+                2,
+                3,
+                20
+            ],
+            "b": [
+                1,
+                8,
+                1,
+                3,
+                2
+            ],
+            "c": [
+                1,
+                6,
+                2,
+                3,
+                3
+            ],
+            "cd": 6,
+            "name": "幻に存る神籤",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        2
+                    ],
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        1
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "「吸血鬼条約」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "11121111211111121111g",
+                "all_order_2": "1112113112131411112131411g",
+                "all_order_3": "11121131121314151611213141516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 17,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.7,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 290253,
+                    "killers": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "「夢幻夜行絵巻」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290254,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「湖上の魔精」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.67,
+                    "damage_extend": 107,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290255,
+                    "killers": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "「紅色の境」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        184,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.16,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290256,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「暗闇の館」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        241,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 121,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 290257,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「紅い月に瀟洒な従者を」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.47,
+                    "damage_extend": 128,
+                    "effect": [
+                        16,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290258,
+                    "killers": [
+                        5,
+                        1
+                    ],
+                    "name": "「エリュシオンに血の雨」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "幻想郷縁起改め",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    119,
+                    123
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12111121111111g",
+                "all_order_2": "121131121131141151g",
+                "all_order_3": "1211311211311411516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [
+                        274,
+                        100,
+                        3,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 1.36,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 290241,
+                    "killers": [
+                        3,
+                        2
+                    ],
+                    "name": "幻想郷縁起改め",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 105,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 290242,
+                    "killers": [
+                        0
+                    ],
+                    "name": "妖怪図鑑の頁",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 109,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 290243,
+                    "killers": [
+                        3,
+                        2
+                    ],
+                    "name": "英雄伝の頁",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290244,
+                    "killers": [
+                        0
+                    ],
+                    "name": "危険区域案内の頁",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 119,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290245,
+                    "killers": [
+                        0
+                    ],
+                    "name": "独白の頁",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        69,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 123,
+                    "effect": [
+                        9,
+                        1,
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 290246,
+                    "killers": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "未解決資料の頁",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        5,
+                        3,
+                        3,
+                        4
+                    ],
+                    [
+                        2,
+                        9,
+                        3,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        15
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "「本当は近い月の裏側」",
+                "power_rate": 16,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1112112111112111112111g",
+                "all_order_2": "11121312131415112131415112131415g",
+                "all_order_3": "11121312131415161213141516121314156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.36,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 290259,
+                    "killers": [
+                        5,
+                        1
+                    ],
+                    "name": "「蛍火の行方」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290260,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「人間の消える道」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290261,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「歴史喰いの懐郷」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 114,
+                    "effect": [
+                        9,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 290262,
+                    "killers": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "「魔力を含む土の下」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290263,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「穢き世の美しき檻」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        241,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 128,
+                    "effect": [
+                        16,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 290264,
+                    "killers": [
+                        5,
+                        1
+                    ],
+                    "name": "「姫を隠す夜空の珠」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "命名決闘法案改め",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    107,
+                    113,
+                    120,
+                    127,
+                    133
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1211111111g",
+                "all_order_2": "12113111111g",
+                "all_order_3": "12113114115116g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 9,
+                    "boost": 0,
+                    "buff": [
+                        3,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.27,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 5,
+                    "id": 290247,
+                    "killers": [
+                        3,
+                        2
+                    ],
+                    "name": "命名決闘法案改め",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 290248,
+                    "killers": [
+                        3,
+                        2
+                    ],
+                    "name": "決闘美条項",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.55,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290249,
+                    "killers": [
+                        0
+                    ],
+                    "name": "決闘回数条項",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        69,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.91,
+                    "damage_extend": 120,
+                    "effect": [
+                        9,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 290250,
+                    "killers": [
+                        0
+                    ],
+                    "name": "意味力条項",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 127,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290251,
+                    "killers": [
+                        0
+                    ],
+                    "name": "勝敗条項",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.64,
+                    "damage_extend": 133,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290252,
+                    "killers": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "契約条項",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        8,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "「コンピュータの彼岸」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "121111112111111211111121111g",
+                "all_order_2": "1213111112131111121311111213111g",
+                "all_order_3": "1213141516112131415161121314151611213141516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 23,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.27,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        150
+                    ],
+                    "element": 5,
+                    "id": 290265,
+                    "killers": [
+                        5,
+                        1
+                    ],
+                    "name": "「白銀の春」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        140,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 290266,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「マヨヒガの黒猫」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        69,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.45,
+                    "damage_extend": 108,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290267,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「人形租界の夜」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 116,
+                    "effect": [
+                        4,
+                        100
+                    ],
+                    "element": 5,
+                    "id": 290268,
+                    "killers": [
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "「雲の上の桜花結界」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 14.73,
+                    "damage_extend": 124,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 290269,
+                    "killers": [
+                        0
+                    ],
+                    "name": "「白玉楼階段の幻闘」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        72,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 16.36,
+                    "damage_extend": 132,
+                    "effect": [
+                        16,
+                        1,
+                        4,
+                        150
+                    ],
+                    "element": 5,
+                    "id": 290270,
+                    "killers": [
+                        5,
+                        1,
+                        3,
+                        2
+                    ],
+                    "name": "「彼の世に嬢の亡骸」",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 4,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

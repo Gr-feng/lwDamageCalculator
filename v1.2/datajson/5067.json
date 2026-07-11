@@ -1,0 +1,1495 @@
+{
+    "character_info": {
+        "advantage_attack": 25,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 5,
+        "barrier_status_3": 0,
+        "barrier_status_4": 7,
+        "barrier_status_5": 0,
+        "bgm": 30506701,
+        "boost_buff": 6,
+        "boost_target": 0,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "九十九弁々",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>付喪神</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "強襲用アンプ",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陽防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率75%]",
+        "passivity_2_icon": "characteristic_icon_2",
+        "passivity_2_name": "オートチューナー",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を1.00<color=#00CC66>上昇</color>  [発生率40%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "専用ビワベース",
+        "quality": 12111112,
+        "quality_name": "花天月地",
+        "speed": 1050,
+        "subname": "デバイスドライバーの姉",
+        "total": 7350,
+        "tribe": [
+            14,
+            23,
+            16,
+            186,
+            152,
+            52,
+            99,
+            102,
+            39,
+            42,
+            182,
+            95
+        ],
+        "type": 4,
+        "world_group": "B3",
+        "yang_atk": 1800,
+        "yang_def": 1200,
+        "yin_atk": 1100,
+        "yin_def": 1200
+    },
+    "chain_character": [
+        5087,
+        2018,
+        2015,
+        2016,
+        2017,
+        2023,
+        2021,
+        2022,
+        2081,
+        2019,
+        2057,
+        2020,
+        2042,
+        3001,
+        3002,
+        3005,
+        3011,
+        3015,
+        3037,
+        2036,
+        4032,
+        6063,
+        6064,
+        6062,
+        6112,
+        2055,
+        2054,
+        5068,
+        12015,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                6,
+                4,
+                4,
+                2,
+                3
+            ],
+            "b": [
+                2,
+                1,
+                4,
+                3,
+                3
+            ],
+            "c": [
+                2,
+                9,
+                4,
+                4,
+                2
+            ],
+            "cd": 4,
+            "name": "ガレージロック",
+            "id": 1
+        },
+        {
+            "a": [
+                2,
+                7,
+                4,
+                4,
+                2
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                4,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 4,
+            "name": "パンクロック",
+            "id": 2
+        },
+        {
+            "a": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "b": [
+                2,
+                2,
+                4,
+                4,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "cd": 6,
+            "name": "ニューウェイヴ",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        4,
+                        3,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        3,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        20
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "121311121311121311121g",
+                "all_order_2": "121314151213141512131415121g",
+                "all_order_3": "12131415121314151213141512616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "弦楽「嵐のアンサンブル・琵琶」",
+                "power_rate": 18,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.31,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 111993,
+                    "killers": [
+                        0
+                    ],
+                    "name": "SE琵琶セトリNo.1",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 111994,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "SE琵琶セトリNo.2",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.2,
+                    "damage_extend": 106,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 111995,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "SE琵琶セトリNo.3",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 112,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 111996,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "SE琵琶セトリNo.4",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 118,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 111997,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "SE琵琶セトリNo.5",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 124,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 111998,
+                    "killers": [
+                        0
+                    ],
+                    "name": "SE琵琶アンコール",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111111111g",
+                "all_order_1": "12111111211111g",
+                "all_order_2": "121314111121314111g",
+                "all_order_3": "121314151112131415161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ビワフリークス",
+                "power_rate": 27,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    117,
+                    122
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 1.79,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 111981,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "琵琶ノーツA",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.68,
+                    "damage_extend": 104,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 111982,
+                    "killers": [
+                        0
+                    ],
+                    "name": "琵琶ノーツB",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.99,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 5,
+                    "id": 111983,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "琵琶ノーツC",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.3,
+                    "damage_extend": 113,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 111984,
+                    "killers": [
+                        0
+                    ],
+                    "name": "琵琶ノーツD",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.6,
+                    "damage_extend": 117,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 111985,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "琵琶ノーツE",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 122,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 111986,
+                    "killers": [
+                        0
+                    ],
+                    "name": "琵琶ノーツF",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        4,
+                        4,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        1,
+                        1,
+                        2
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "all_order_1": "1211111211111211111g",
+                "all_order_2": "1213141112131411121314111g",
+                "all_order_3": "1213141516121314151612131415161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "両吟「星降る唄・琵琶」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.86,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        50
+                    ],
+                    "element": 4,
+                    "id": 111999,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "SS琵琶セトリNo.1",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.24,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        50
+                    ],
+                    "element": 8,
+                    "id": 112000,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "SS琵琶セトリNo.2",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.67,
+                    "damage_extend": 106,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 112001,
+                    "killers": [
+                        0
+                    ],
+                    "name": "SS琵琶セトリNo.3",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.11,
+                    "damage_extend": 113,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 112002,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "SS琵琶セトリNo.4",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.55,
+                    "damage_extend": 119,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112003,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "SS琵琶セトリNo.5",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.98,
+                    "damage_extend": 126,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        60,
+                        15,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 112004,
+                    "killers": [
+                        0
+                    ],
+                    "name": "SS琵琶アンコール",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111g",
+                "all_order_1": "12113112131111g",
+                "all_order_2": "1211311213141511g",
+                "all_order_3": "12113112131415161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ウーファーボット",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    106,
+                    111,
+                    117,
+                    122,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.07,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 4,
+                    "id": 111987,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "ウーファー波動A",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.09,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 4,
+                    "id": 111988,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "ウーファー波動B",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.75,
+                    "damage_extend": 111,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 111989,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ウーファー波動C",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.82,
+                    "damage_extend": 117,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 111990,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "ウーファー波動D",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.14,
+                    "damage_extend": 122,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 111991,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "ウーファー波動E",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.45,
+                    "damage_extend": 128,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 111992,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ウーファー波動F",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        9,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        4,
+                        2
+                    ],
+                    [
+                        6,
+                        4,
+                        4,
+                        2,
+                        3
+                    ],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_barrier_poison"
+                    ],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111111g",
+                "all_order_1": "12111211111211111121111111g",
+                "all_order_2": "121311213141112131411112131411111g",
+                "all_order_3": "12131121314151121314151611213141516111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    6,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ベンベン・U・コンストラクション」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 22,
+                    "boost": 0,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 5.21,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        150
+                    ],
+                    "element": 7,
+                    "id": 112005,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "BUC琵琶セトリNo.1",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112006,
+                    "killers": [
+                        0
+                    ],
+                    "name": "BUC琵琶セトリNo.2",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        63,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 10.64,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 112007,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "BUC琵琶セトリNo.3",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 15.27,
+                    "damage_extend": 114,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 112008,
+                    "killers": [
+                        0
+                    ],
+                    "name": "BUC琵琶セトリNo.4",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 16.36,
+                    "damage_extend": 121,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 112009,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "BUC琵琶セトリNo.5",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 26.18,
+                    "damage_extend": 128,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        150,
+                        15,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112010,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "BUC琵琶アンコール",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

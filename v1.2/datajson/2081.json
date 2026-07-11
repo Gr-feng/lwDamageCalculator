@@ -1,0 +1,1406 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 3,
+        "barrier_status_4": 0,
+        "barrier_status_5": 3,
+        "bgm": 30208101,
+        "boost_buff": 1,
+        "boost_target": 1,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 6,
+        "graze_target": 1,
+        "hp": 5625,
+        "name": "稀神サグメ",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "対怪獣防衛",
+        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>結界異常</color>を1枚<color=#00CC66>回復</color>  [発生率75%]",
+        "passivity_2_icon": "characteristic_icon_34",
+        "passivity_2_name": "死穢フィルター",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率50%]",
+        "passivity_3_icon": "characteristic_icon_32",
+        "passivity_3_name": "タブーの境界",
+        "quality": 11111121,
+        "quality_name": "コーディレフスキー雲",
+        "speed": 1285,
+        "subname": "正統と清廉の真理院",
+        "total": 7350,
+        "tribe": [
+            13,
+            75,
+            45,
+            14,
+            15,
+            119,
+            26,
+            142,
+            162,
+            161,
+            95
+        ],
+        "type": 2,
+        "world_group": "B3",
+        "yang_atk": 1795,
+        "yang_def": 905,
+        "yin_atk": 1315,
+        "yin_def": 925
+    },
+    "chain_character": [
+        2017,
+        2016,
+        2057,
+        2015,
+        2023,
+        2019,
+        3001,
+        3002,
+        3005,
+        3011,
+        3015,
+        3037,
+        2020,
+        2042,
+        2021,
+        2022,
+        2084,
+        2072,
+        2080,
+        2097,
+        2098,
+        2055,
+        6112,
+        2054,
+        4032,
+        2036,
+        6062,
+        6063,
+        6064,
+        5087,
+        5068,
+        5067,
+        12015,
+        2088,
+        5105,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                4,
+                0,
+                2,
+                1,
+                1
+            ],
+            "b": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                1,
+                4,
+                2,
+                3,
+                3
+            ],
+            "cd": 5,
+            "name": "好塩基陰陽玉",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                2,
+                1,
+                20
+            ],
+            "b": [
+                1,
+                10,
+                1,
+                3,
+                3
+            ],
+            "c": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "cd": 6,
+            "name": "好酸陰陽玉",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                1,
+                2,
+                2,
+                2
+            ],
+            "b": [
+                1,
+                3,
+                2,
+                2,
+                3
+            ],
+            "c": [
+                1,
+                8,
+                2,
+                2,
+                3
+            ],
+            "cd": 4,
+            "name": "好中陰陽玉",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        6,
+                        3,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_barrier_electricshock"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111g",
+                "all_order_1": "1212121212131313131311g",
+                "all_order_2": "12412412412512513513513513131414g",
+                "all_order_3": "1241241241251251351351356136136146146g",
+                "break": [
+                    0,
+                    0,
+                    4,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "玉符「穢身探知型機雷　改」",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    112,
+                    118,
+                    124
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 12,
+                    "boost": 0,
+                    "buff": [
+                        86,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.91,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        20
+                    ],
+                    "element": 8,
+                    "id": 22413,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145
+                    ],
+                    "name": "穢身探知陰陽玉・甲",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        184,
+                        25
+                    ],
+                    "cri": 10,
+                    "damage": 3.14,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22414,
+                    "killers": [
+                        0
+                    ],
+                    "name": "穢身探知陰陽玉・乙",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.88,
+                    "damage_extend": 106,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22415,
+                    "killers": [
+                        0
+                    ],
+                    "name": "穢身探知陰陽玉・丙",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.62,
+                    "damage_extend": 112,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 22416,
+                    "killers": [
+                        5,
+                        68
+                    ],
+                    "name": "穢身探知陰陽玉・丁",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 2,
+                    "buff": [
+                        184,
+                        35
+                    ],
+                    "cri": 10,
+                    "damage": 2.36,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22417,
+                    "killers": [
+                        1,
+                        145
+                    ],
+                    "name": "穢身探知陰陽玉・戊",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 8,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.09,
+                    "damage_extend": 124,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22418,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145
+                    ],
+                    "name": "穢身探知陰陽玉・己",
+                    "order": 25,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111g",
+                "all_order_1": "1212111111g",
+                "all_order_2": "1212131314141515g",
+                "all_order_3": "121213131414156156g",
+                "break": [
+                    0,
+                    0,
+                    2,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "レギュラトリー陰陽玉",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    117,
+                    121
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 8,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.05,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 22401,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145
+                    ],
+                    "name": "制御型陰陽玉・甲",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        64,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 104,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 22402,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145
+                    ],
+                    "name": "制御型陰陽玉・乙",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22403,
+                    "killers": [
+                        0
+                    ],
+                    "name": "制御型陰陽玉・丙",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 113,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22404,
+                    "killers": [
+                        0
+                    ],
+                    "name": "制御型陰陽玉・丁",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 117,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22405,
+                    "killers": [
+                        0
+                    ],
+                    "name": "制御型陰陽玉・戊",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        182,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 2.45,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 5,
+                    "id": 22406,
+                    "killers": [
+                        0
+                    ],
+                    "name": "制御型陰陽玉・己",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        15
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "all_order_1": "12121212111111111111g",
+                "all_order_2": "1212121213131313141414141111g",
+                "all_order_3": "121212121313131314141414156156156156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    3
+                ],
+                "first_order": 1,
+                "name": "玉符「神々の光り輝く弾冠」",
+                "power_rate": 12,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [
+                        86,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 4.3,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 22419,
+                    "killers": [
+                        127,
+                        21,
+                        23,
+                        16
+                    ],
+                    "name": "穢れ代行陰陽玉・甲",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        182,
+                        35
+                    ],
+                    "cri": 10,
+                    "damage": 5.89,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 6,
+                    "id": 22420,
+                    "killers": [
+                        127,
+                        21,
+                        23,
+                        16
+                    ],
+                    "name": "穢れ代行陰陽玉・乙",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.38,
+                    "damage_extend": 106,
+                    "effect": [
+                        16,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22421,
+                    "killers": [
+                        0
+                    ],
+                    "name": "穢れ代行陰陽玉・丙",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 6.87,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22422,
+                    "killers": [
+                        0
+                    ],
+                    "name": "穢れ代行陰陽玉・丁",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        182,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 7.36,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 6,
+                    "id": 22423,
+                    "killers": [
+                        127,
+                        21
+                    ],
+                    "name": "穢れ代行陰陽玉・戊",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 7.85,
+                    "damage_extend": 126,
+                    "effect": [],
+                    "element": 6,
+                    "id": 22424,
+                    "killers": [
+                        23,
+                        16
+                    ],
+                    "name": "穢れ代行陰陽玉・己",
+                    "order": 27,
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "all_order_1": "1211111g",
+                "all_order_2": "121314111g",
+                "all_order_3": "12131415116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "キラー陰陽玉",
+                "power_rate": 7,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    118,
+                    124,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 3.98,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        40
+                    ],
+                    "element": 2,
+                    "id": 22407,
+                    "killers": [
+                        127,
+                        21,
+                        23,
+                        16
+                    ],
+                    "name": "排除型陰陽玉・甲",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 8.18,
+                    "damage_extend": 106,
+                    "effect": [
+                        3,
+                        1,
+                        5,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 22408,
+                    "killers": [
+                        0
+                    ],
+                    "name": "排除型陰陽玉・乙",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 8.86,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 6,
+                    "id": 22409,
+                    "killers": [
+                        127,
+                        21
+                    ],
+                    "name": "排除型陰陽玉・丙",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 9.55,
+                    "damage_extend": 118,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22410,
+                    "killers": [
+                        23,
+                        16
+                    ],
+                    "name": "排除型陰陽玉・丁",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.23,
+                    "damage_extend": 124,
+                    "effect": [],
+                    "element": 2,
+                    "id": 22411,
+                    "killers": [
+                        0
+                    ],
+                    "name": "排除型陰陽玉・戊",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.91,
+                    "damage_extend": 129,
+                    "effect": [
+                        3,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 22412,
+                    "killers": [
+                        0
+                    ],
+                    "name": "排除型陰陽玉・己",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        2,
+                        2,
+                        2,
+                        3
+                    ],
+                    [
+                        1,
+                        8,
+                        2,
+                        2,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_up"
+                    ],
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "121212121313131314141414111111g",
+                "all_order_3": "12121212131313131414141415151615616156g",
+                "break": [
+                    0,
+                    0,
+                    3,
+                    0,
+                    3
+                ],
+                "first_order": 1,
+                "name": "「好奇心を探る目」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 80,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 6.36,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        100,
+                        5,
+                        100
+                    ],
+                    "element": 2,
+                    "id": 22425,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145,
+                        127,
+                        21,
+                        23,
+                        16
+                    ],
+                    "name": "ワードファクトスキャン",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 9.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        100,
+                        5,
+                        100
+                    ],
+                    "element": 2,
+                    "id": 22426,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ハートファクトスキャン",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 10.64,
+                    "damage_extend": 107,
+                    "effect": [
+                        14,
+                        1,
+                        16,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 22427,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145
+                    ],
+                    "name": "ブレインファクトスキャン",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        169,
+                        100
+                    ],
+                    "cri": 10,
+                    "damage": 11.45,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 6,
+                    "id": 22428,
+                    "killers": [
+                        127,
+                        21,
+                        23,
+                        16
+                    ],
+                    "name": "ソウルハッシュ",
+                    "order": 18,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 12.27,
+                    "damage_extend": 121,
+                    "effect": [
+                        4,
+                        120
+                    ],
+                    "element": 6,
+                    "id": 22429,
+                    "killers": [
+                        5,
+                        68,
+                        1,
+                        145
+                    ],
+                    "name": "マインドハッシュ",
+                    "order": 26,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 80,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 13.09,
+                    "damage_extend": 128,
+                    "effect": [
+                        5,
+                        120
+                    ],
+                    "element": 6,
+                    "id": 22430,
+                    "killers": [
+                        127,
+                        21,
+                        23,
+                        16
+                    ],
+                    "name": "リコグニションハッシュ",
+                    "order": 30,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

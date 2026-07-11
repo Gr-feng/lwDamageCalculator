@@ -1,0 +1,1537 @@
+{
+    "character_info": {
+        "advantage_attack": 40,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 5,
+        "barrier_status_2": 0,
+        "barrier_status_3": 5,
+        "barrier_status_4": 5,
+        "barrier_status_5": 0,
+        "bgm": 301200201,
+        "boost_buff": 8,
+        "boost_target": 1,
+        "break_cost": 503,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 8,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "霧雨魔理沙",
+        "passivity_1_description": "攻撃された時、<color=#CCAA00>幻想郷に住む者</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_icon": "characteristic_icon_56",
+        "passivity_1_name": "スターシステムの研究",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%]",
+        "passivity_2_icon": "characteristic_icon_3",
+        "passivity_2_name": "ファウンドの研究",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.45<color=#00CC66>上昇</color> [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "ワードラーニング",
+        "quality": 2122111,
+        "quality_name": "煙雨",
+        "speed": 1200,
+        "subname": "星降る夜の魔術師",
+        "total": 7800,
+        "tribe": [
+            1,
+            48,
+            36,
+            52,
+            55,
+            3,
+            56,
+            54,
+            175,
+            95
+        ],
+        "type": 8,
+        "world_group": "F1",
+        "yang_atk": 1150,
+        "yang_def": 950,
+        "yin_atk": 1950,
+        "yin_def": 1550
+    },
+    "chain_character": [
+        2001,
+        2051,
+        19037
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                46,
+                3,
+                1,
+                3,
+                25
+            ],
+            "b": [
+                1,
+                6,
+                1,
+                3,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                30
+            ],
+            "cd": 4,
+            "name": "菌糸宇宙論",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                310,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                6,
+                1,
+                4,
+                3,
+                3
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 5,
+            "name": "オールアイテム",
+            "id": 2
+        },
+        {
+            "a": [
+                48,
+                3,
+                2,
+                3,
+                100
+            ],
+            "b": [
+                2,
+                11,
+                4,
+                3,
+                2
+            ],
+            "c": [
+                1,
+                4,
+                2,
+                3,
+                3
+            ],
+            "cd": 6,
+            "name": "ミス・マーガトロイド",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        3,
+                        0,
+                        1,
+                        1,
+                        35
+                    ],
+                    [
+                        6,
+                        1,
+                        3,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        1,
+                        1,
+                        25
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_heal"
+                    ],
+                    [
+                        "skill_icon_barrier_burn"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "break": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "森符「バイオレントトリコローマ」",
+                "power_rate": 13,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "11121111221111111211g",
+                "all_order_2": "1112131411223111141131213144g",
+                "all_order_3": "111213141516223111141513612131445566g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 4.7,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 5,
+                    "id": 320043,
+                    "killers": [
+                        52,
+                        75,
+                        136,
+                        64,
+                        154,
+                        171,
+                        81
+                    ],
+                    "name": "暴力シメジ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 68,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        143,
+                        100
+                    ],
+                    "cri": 17,
+                    "damage": 6.52,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 320044,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "暴力大シメジ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 66,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        180,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 7.09,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 4,
+                    "id": 320045,
+                    "killers": [
+                        0
+                    ],
+                    "name": "暴力特大シメジ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 66,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 7.64,
+                    "damage_extend": 115,
+                    "effect": [
+                        4,
+                        70
+                    ],
+                    "element": 4,
+                    "id": 320046,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "暴力超大シメジ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 64,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 45,
+                    "damage": 6.98,
+                    "damage_extend": 122,
+                    "effect": [
+                        7,
+                        1,
+                        12,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 320047,
+                    "killers": [
+                        0
+                    ],
+                    "name": "暴力極大シメジ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 64,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        80
+                    ],
+                    "cri": 45,
+                    "damage": 7.45,
+                    "damage_extend": 129,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 5,
+                    "id": 320048,
+                    "killers": [
+                        52,
+                        75,
+                        136,
+                        64,
+                        154,
+                        171,
+                        81
+                    ],
+                    "name": "暴力最大シメジ",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111111111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ウィッチレイライン",
+                "power_rate": 33,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    114,
+                    119,
+                    124
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "11211311211311111g",
+                "all_order_2": "1121131121131141151g",
+                "all_order_3": "11211311211311411516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 13,
+                    "boost": 0,
+                    "buff": [
+                        109,
+                        100
+                    ],
+                    "cri": 15,
+                    "damage": 2.32,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 320031,
+                    "killers": [
+                        49,
+                        48,
+                        142,
+                        73,
+                        34,
+                        140,
+                        169
+                    ],
+                    "name": "魔女の直列遺跡",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 68,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 17,
+                    "damage": 4.07,
+                    "damage_extend": 105,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 320032,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔女の直列大遺跡",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 68,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 3.64,
+                    "damage_extend": 110,
+                    "effect": [],
+                    "element": 8,
+                    "id": 320033,
+                    "killers": [
+                        49,
+                        48,
+                        142,
+                        73,
+                        34,
+                        140,
+                        169
+                    ],
+                    "name": "魔女の直列特大遺跡",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 66,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 6.82,
+                    "damage_extend": 114,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 4,
+                    "id": 320034,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "魔女の直列超大遺跡",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 66,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 6.14,
+                    "damage_extend": 119,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 320035,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔女の直列極大遺跡",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 64,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 5.4,
+                    "damage_extend": 124,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 320036,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "魔女の直列最大遺跡",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        1,
+                        4,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        15
+                    ],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_burn"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        1
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111111g",
+                "break": [
+                    6,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "星符「シュート・ザ・ビーストキング」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "12111211111211111121111g",
+                "all_order_2": "1211314211314151213141511121314151g",
+                "all_order_3": "1211314211314156121314151161213141516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 19,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 3.01,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 320049,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "獣王撃",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 68,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        34,
+                        100,
+                        180,
+                        100
+                    ],
+                    "cri": 17,
+                    "damage": 4.34,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 3,
+                    "id": 320050,
+                    "killers": [
+                        0
+                    ],
+                    "name": "大獣王撃",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 66,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        180,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 4.36,
+                    "damage_extend": 107,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        70
+                    ],
+                    "element": 8,
+                    "id": 320051,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "特大獣王撃",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 66,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        70,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 4.36,
+                    "damage_extend": 114,
+                    "effect": [],
+                    "element": 3,
+                    "id": 320052,
+                    "killers": [
+                        0
+                    ],
+                    "name": "超大獣王撃",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 66,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 5.82,
+                    "damage_extend": 122,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 320053,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "極大獣王撃",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 64,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        60
+                    ],
+                    "cri": 45,
+                    "damage": 4.97,
+                    "damage_extend": 129,
+                    "effect": [
+                        7,
+                        1,
+                        12,
+                        1,
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 320054,
+                    "killers": [
+                        52,
+                        75,
+                        136,
+                        64,
+                        154,
+                        171,
+                        81
+                    ],
+                    "name": "最大獣王撃",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 10,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "マジカル産廃再利用ボム",
+                "power_rate": 21,
+                "damage_extend": [
+                    100,
+                    107,
+                    113,
+                    120,
+                    126,
+                    133
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                "all_order_1": "1112111g",
+                "all_order_2": "1112131415g",
+                "all_order_3": "11121314156g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 7.45,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 8,
+                    "id": 320037,
+                    "killers": [
+                        49,
+                        48,
+                        142,
+                        73,
+                        34,
+                        140,
+                        169
+                    ],
+                    "name": "リサイクル魔法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 68,
+                    "amt": 1,
+                    "boost": 1,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 17,
+                    "damage": 13.57,
+                    "damage_extend": 107,
+                    "effect": [
+                        4,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 320038,
+                    "killers": [
+                        49,
+                        48,
+                        142,
+                        73,
+                        34,
+                        140,
+                        169
+                    ],
+                    "name": "リサイクル大魔法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 66,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 13.64,
+                    "damage_extend": 113,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        60
+                    ],
+                    "element": 4,
+                    "id": 320039,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "リサイクル特大魔法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 66,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        68,
+                        100
+                    ],
+                    "cri": 20,
+                    "damage": 13.64,
+                    "damage_extend": 120,
+                    "effect": [],
+                    "element": 4,
+                    "id": 320040,
+                    "killers": [
+                        0
+                    ],
+                    "name": "リサイクル超大魔法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 66,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 20,
+                    "damage": 13.64,
+                    "damage_extend": 126,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 8,
+                    "id": 320041,
+                    "killers": [
+                        0
+                    ],
+                    "name": "リサイクル極大魔法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 64,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 13.5,
+                    "damage_extend": 133,
+                    "effect": [
+                        1,
+                        1,
+                        4,
+                        60
+                    ],
+                    "element": 8,
+                    "id": 320042,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "リサイクル最大魔法",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        42,
+                        9,
+                        4,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        6,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        2,
+                        7,
+                        4,
+                        3,
+                        4
+                    ],
+                    [
+                        2,
+                        11,
+                        4,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        1,
+                        4,
+                        3,
+                        4
+                    ]
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_def_down"
+                    ],
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [
+                        "skill_icon_dodge_down"
+                    ],
+                    [
+                        "skill_icon_cri_dodge_down"
+                    ],
+                    [
+                        "skill_icon_barrier_burn"
+                    ]
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "break": [
+                    5,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「試験使い魔からのフォレストスパーク」",
+                "power_rate": 4,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    116,
+                    124,
+                    132
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ],
+                "all_order_1": "1121112111112111112111111g",
+                "all_order_2": "112131412131411121314111213141111g",
+                "all_order_3": "11213141213141516121314151612131415161516g"
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 70,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 15,
+                    "damage": 5.96,
+                    "damage_extend": 100,
+                    "effect": [
+                        4,
+                        200
+                    ],
+                    "element": 5,
+                    "id": 320055,
+                    "killers": [
+                        52,
+                        75,
+                        136,
+                        64,
+                        154,
+                        171,
+                        81
+                    ],
+                    "name": "魔法の森レーザー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 68,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 17,
+                    "damage": 10.86,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 320056,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔法の森ハイレーザー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 66,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        174,
+                        100
+                    ],
+                    "cri": 35,
+                    "damage": 10.51,
+                    "damage_extend": 108,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 320057,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "魔法の森メガレーザー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 66,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 35,
+                    "damage": 11.31,
+                    "damage_extend": 116,
+                    "effect": [
+                        4,
+                        80
+                    ],
+                    "element": 8,
+                    "id": 320058,
+                    "killers": [
+                        6,
+                        68,
+                        7,
+                        36,
+                        3,
+                        17,
+                        56,
+                        25
+                    ],
+                    "name": "魔法の森ギガレーザー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 64,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 11.25,
+                    "damage_extend": 124,
+                    "effect": [
+                        7,
+                        1,
+                        12,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 320059,
+                    "killers": [
+                        0
+                    ],
+                    "name": "魔法の森テラレーザー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 64,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        123,
+                        100
+                    ],
+                    "cri": 50,
+                    "damage": 12.0,
+                    "damage_extend": 132,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        200
+                    ],
+                    "element": 5,
+                    "id": 320060,
+                    "killers": [
+                        52,
+                        75,
+                        136,
+                        64,
+                        154,
+                        171,
+                        81
+                    ],
+                    "name": "魔法の森ペタレーザー",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1266 @@
+{
+    "character_info": {
+        "advantage_attack": 0,
+        "re": "True",
+        "advantage_resist": 20,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 3050,
+        "boost_buff": 3,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_name": "アタック連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 6000,
+        "name": "古明地こいし",
+        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>CRI攻撃</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率30%]",
+        "passivity_1_icon": "characteristic_icon_8",
+        "passivity_1_name": "条件反射",
+        "passivity_2_description": "攻撃された時、<color=#CCAA00>日属性</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率80%]",
+        "passivity_2_icon": "characteristic_icon_48",
+        "passivity_2_name": "心頭滅却",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color>  [発生率25%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "テンション上げ",
+        "quality": 2210111,
+        "quality_name": "地震雲",
+        "speed": 900,
+        "subname": "閉じた恋の瞳",
+        "total": 6900,
+        "tribe": [
+            5,
+            98,
+            99,
+            100,
+            101,
+            52,
+            43,
+            181
+        ],
+        "type": 8,
+        "world_group": "L1",
+        "yang_atk": 1210,
+        "yang_def": 1050,
+        "yin_atk": 1390,
+        "yin_def": 1150
+    },
+    "chain_character": [
+        1050,
+        1052,
+        1053,
+        1049,
+        1101,
+        1106,
+        1105,
+        1087,
+        1002,
+        1024,
+        1065,
+        1013,
+        1075,
+        1043,
+        1103,
+        1104,
+        1129,
+        1131
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                8,
+                1,
+                3,
+                3
+            ],
+            "b": [],
+            "c": [],
+            "cd": 4,
+            "name": "自動思考",
+            "id": 1
+        },
+        {
+            "a": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "b": [],
+            "c": [],
+            "cd": 6,
+            "name": "興味津々",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                10,
+                1,
+                1,
+                3
+            ],
+            "b": [
+                8,
+                2,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "クローズド・アイ",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111g",
+                "all_order_1": "121212121313131311111g",
+                "all_order_2": "12121212131313513514514141415g",
+                "all_order_3": "121212121313135135145146146146156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "表象「弾幕パラノイア」",
+                "power_rate": 17,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    128
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 13,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 7.6,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1513,
+                    "killers": [
+                        0
+                    ],
+                    "name": "水ぶくれの自我",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        143,
+                        50,
+                        32,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 6.73,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1514,
+                    "killers": [
+                        0
+                    ],
+                    "name": "見られている！",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        147,
+                        50,
+                        34,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 6.17,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1515,
+                    "killers": [
+                        0
+                    ],
+                    "name": "続・見られている！",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 5.32,
+                    "damage_extend": 114,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1516,
+                    "killers": [
+                        0
+                    ],
+                    "name": "洪水の如き攻撃性",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        178,
+                        70
+                    ],
+                    "cri": 25,
+                    "damage": 4.79,
+                    "damage_extend": 121,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1517,
+                    "killers": [
+                        0
+                    ],
+                    "name": "水面のナルシス",
+                    "order": 20,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        174,
+                        80,
+                        70,
+                        80
+                    ],
+                    "cri": 50,
+                    "damage": 3.84,
+                    "damage_extend": 128,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1518,
+                    "killers": [
+                        0
+                    ],
+                    "name": "終・見られている！",
+                    "order": 24,
+                    "rate": 1.0,
+                    "type": 9,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111g",
+                "all_order_1": "1212111111g",
+                "all_order_2": "121213131111g",
+                "all_order_3": "121213135145146146156g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "背景通信",
+                "power_rate": 12,
+                "damage_extend": [
+                    100,
+                    105,
+                    110,
+                    115,
+                    121,
+                    126
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 8,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.71,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1501,
+                    "killers": [
+                        0
+                    ],
+                    "name": "背景処理",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 2.81,
+                    "damage_extend": 105,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1502,
+                    "killers": [
+                        0
+                    ],
+                    "name": "通信",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 3.1,
+                    "damage_extend": 110,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1503,
+                    "killers": [
+                        0
+                    ],
+                    "name": "高速背景処理",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 60,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 2.13,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1504,
+                    "killers": [
+                        0
+                    ],
+                    "name": "高速通信",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 60,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 2.4,
+                    "damage_extend": 121,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1505,
+                    "killers": [
+                        0
+                    ],
+                    "name": "広域通信",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 2.67,
+                    "damage_extend": 126,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1506,
+                    "killers": [
+                        0
+                    ],
+                    "name": "遠距離通信",
+                    "order": 15,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "11111g",
+                "all_order_1": "12121211g",
+                "all_order_2": "123124124134134g",
+                "all_order_3": "123512456124561345613466g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "記憶「DNAの瑕」",
+                "power_rate": 11,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 5,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.24,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1519,
+                    "killers": [
+                        0
+                    ],
+                    "name": "アデニン弾",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 5.98,
+                    "damage_extend": 100,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1520,
+                    "killers": [
+                        0
+                    ],
+                    "name": "古い瑕疵弾",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 65,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        138,
+                        40
+                    ],
+                    "cri": 25,
+                    "damage": 6.14,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 4,
+                    "id": 1521,
+                    "killers": [
+                        0
+                    ],
+                    "name": "シトシン弾",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 65,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [
+                        140,
+                        40
+                    ],
+                    "cri": 25,
+                    "damage": 4.96,
+                    "damage_extend": 115,
+                    "effect": [],
+                    "element": 4,
+                    "id": 1522,
+                    "killers": [
+                        0
+                    ],
+                    "name": "新しい瑕疵弾",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 60,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [
+                        145,
+                        50
+                    ],
+                    "cri": 50,
+                    "damage": 4.8,
+                    "damage_extend": 122,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1523,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ウラシル弾",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 5,
+                    "boost": 3,
+                    "buff": [
+                        145,
+                        50
+                    ],
+                    "cri": 50,
+                    "damage": 4.1,
+                    "damage_extend": 129,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1524,
+                    "killers": [
+                        0
+                    ],
+                    "name": "グアニン弾",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "1241241313g",
+                "all_order_2": "124124135135g",
+                "all_order_3": "12412413561356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "エンブリオダンス",
+                "power_rate": 10,
+                "damage_extend": [
+                    100,
+                    106,
+                    113,
+                    119,
+                    125,
+                    131
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.52,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1507,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ダンス！",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 4.68,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1508,
+                    "killers": [
+                        0
+                    ],
+                    "name": "胎児踊り",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.9,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 9,
+                    "id": 1509,
+                    "killers": [
+                        0
+                    ],
+                    "name": "胎児の舞",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 70,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 10,
+                    "damage": 3.12,
+                    "damage_extend": 119,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1510,
+                    "killers": [
+                        0
+                    ],
+                    "name": "胎児音頭",
+                    "order": 8,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 65,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 25,
+                    "damage": 2.22,
+                    "damage_extend": 125,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 1511,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ダンス！ダンス！",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 50,
+                    "damage": 1.33,
+                    "damage_extend": 131,
+                    "effect": [
+                        11,
+                        35
+                    ],
+                    "element": 9,
+                    "id": 1512,
+                    "killers": [
+                        0
+                    ],
+                    "name": "みんなで胎児音頭",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        6,
+                        1,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        10,
+                        1,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111g",
+                "all_order_1": "121212111111111111111g",
+                "all_order_2": "121212113131311111111111g",
+                "all_order_3": "121212113131311414141151515161616g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「ブランブリーローズガーデン」",
+                "power_rate": 10,
+                "damage_extend": [
+                    100,
+                    100,
+                    108,
+                    117,
+                    125,
+                    133
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 18,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 9.14,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1,
+                        11,
+                        20
+                    ],
+                    "element": 4,
+                    "id": 1525,
+                    "killers": [
+                        0
+                    ],
+                    "name": "無意識の庭",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 70,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        237,
+                        50
+                    ],
+                    "cri": 10,
+                    "damage": 22.44,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 1526,
+                    "killers": [
+                        0
+                    ],
+                    "name": "嫉妬の薔薇",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 65,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        237,
+                        50
+                    ],
+                    "cri": 25,
+                    "damage": 24.81,
+                    "damage_extend": 108,
+                    "effect": [
+                        8,
+                        1,
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 1527,
+                    "killers": [
+                        0
+                    ],
+                    "name": "無意識の花園",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 60,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        68,
+                        70
+                    ],
+                    "cri": 50,
+                    "damage": 25.6,
+                    "damage_extend": 117,
+                    "effect": [
+                        2,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 1528,
+                    "killers": [
+                        0
+                    ],
+                    "name": "純潔の薔薇",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 60,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        68,
+                        80
+                    ],
+                    "cri": 50,
+                    "damage": 28.8,
+                    "damage_extend": 125,
+                    "effect": [
+                        11,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 1529,
+                    "killers": [
+                        0
+                    ],
+                    "name": "無意識の楽土",
+                    "order": 23,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 60,
+                    "amt": 3,
+                    "boost": 3,
+                    "buff": [
+                        68,
+                        80,
+                        220,
+                        20
+                    ],
+                    "cri": 50,
+                    "damage": 32.0,
+                    "damage_extend": 133,
+                    "effect": [
+                        11,
+                        30
+                    ],
+                    "element": 5,
+                    "id": 1530,
+                    "killers": [
+                        0
+                    ],
+                    "name": "無邪気の薔薇",
+                    "order": 29,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

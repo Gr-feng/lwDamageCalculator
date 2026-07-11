@@ -1,0 +1,1229 @@
+{
+    "character_info": {
+        "advantage_attack": 30,
+        "re": "True",
+        "advantage_resist": 0,
+        "barrier_status_1": 0,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 0,
+        "bgm": 3016,
+        "boost_buff": 0,
+        "boost_target": 0,
+        "break_cost": 501,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 6500,
+        "name": "綿月豊姫",
+        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率25%]",
+        "passivity_1_icon": "characteristic_icon_10",
+        "passivity_1_name": "事象の確定",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率30%]",
+        "passivity_2_icon": "characteristic_icon_3",
+        "passivity_2_name": "量子解析",
+        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>命中</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率30%]",
+        "passivity_3_icon": "characteristic_icon_6",
+        "passivity_3_name": "不確定な玉手箱",
+        "quality": 21011120,
+        "quality_name": "望月",
+        "speed": 850,
+        "subname": "海と山を繋ぐ月の姫",
+        "total": 6900,
+        "tribe": [
+            13,
+            28,
+            51,
+            42,
+            57,
+            75,
+            45,
+            181
+        ],
+        "type": 5,
+        "world_group": "L1",
+        "yang_atk": 1000,
+        "yang_def": 950,
+        "yin_atk": 1500,
+        "yin_def": 1300
+    },
+    "chain_character": [
+        1017,
+        1018,
+        1023,
+        1015,
+        1019,
+        1081
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                3,
+                1,
+                2,
+                3
+            ],
+            "b": [
+                8,
+                1,
+                1,
+                1,
+                1
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "量子転移",
+            "id": 1
+        },
+        {
+            "a": [
+                1,
+                6,
+                1,
+                2,
+                2
+            ],
+            "b": [],
+            "c": [],
+            "cd": 4,
+            "name": "須臾の組紐[制限]",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                10,
+                1,
+                1,
+                2
+            ],
+            "b": [
+                1,
+                6,
+                1,
+                1,
+                2
+            ],
+            "c": [],
+            "cd": 4,
+            "name": "浄化の扇子[制限]",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        6,
+                        1,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_hit_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111g",
+                "all_order_1": "12121313111111g",
+                "all_order_2": "1212131311411511g",
+                "all_order_3": "12121313114115116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "約束「海陸相通わしめし中道」",
+                "power_rate": 14,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 10,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.58,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 4,
+                    "id": 463,
+                    "killers": [
+                        0
+                    ],
+                    "name": "タイダルアイランド現象",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.78,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 464,
+                    "killers": [
+                        5
+                    ],
+                    "name": "満ち潮",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 8.05,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 465,
+                    "killers": [
+                        0
+                    ],
+                    "name": "満ち潮",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 113,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 466,
+                    "killers": [
+                        5
+                    ],
+                    "name": "月の起潮力",
+                    "order": 11,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 120,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 467,
+                    "killers": [
+                        5
+                    ],
+                    "name": "引き潮",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.7,
+                    "damage_extend": 127,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 468,
+                    "killers": [
+                        5
+                    ],
+                    "name": "引き潮",
+                    "order": 17,
+                    "rate": 1.0,
+                    "type": 6,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111111g",
+                "all_order_1": "121212131313g",
+                "all_order_2": "12451245124134135135g",
+                "all_order_3": "124512451246134613561356g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "プリンセスビーム",
+                "power_rate": 59,
+                "damage_extend": [
+                    100,
+                    105,
+                    109,
+                    114,
+                    118,
+                    123
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 6,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.14,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 451,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陰性レーザー",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.74,
+                    "damage_extend": 105,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 452,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陽性コアレーザー",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 2.51,
+                    "damage_extend": 109,
+                    "effect": [],
+                    "element": 6,
+                    "id": 453,
+                    "killers": [
+                        5
+                    ],
+                    "name": "ネクターハイレーザー",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.71,
+                    "damage_extend": 114,
+                    "effect": [
+                        8,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 454,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陰性コアレーザー",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.54,
+                    "damage_extend": 118,
+                    "effect": [],
+                    "element": 9,
+                    "id": 455,
+                    "killers": [
+                        5
+                    ],
+                    "name": "陽性ハイレーザー",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 4,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 1.37,
+                    "damage_extend": 123,
+                    "effect": [],
+                    "element": 6,
+                    "id": 456,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ネクターレーザー",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 2,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        3,
+                        1,
+                        3,
+                        2
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111g",
+                "all_order_1": "12121313111g",
+                "all_order_2": "1212131314151g",
+                "all_order_3": "12121313141516g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "法度「辱しめの灯火櫛」",
+                "power_rate": 46,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 7,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.11,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 469,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ファタ・モルガナ現象",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.17,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 470,
+                    "killers": [
+                        0
+                    ],
+                    "name": "逃げ水現象",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 12.07,
+                    "damage_extend": 107,
+                    "effect": [],
+                    "element": 9,
+                    "id": 471,
+                    "killers": [
+                        0
+                    ],
+                    "name": "逃げ水現象",
+                    "order": 6,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 21.94,
+                    "damage_extend": 113,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 2,
+                    "id": 472,
+                    "killers": [
+                        1
+                    ],
+                    "name": "月のノバヤゼムリャ現象",
+                    "order": 10,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 19.75,
+                    "damage_extend": 120,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 473,
+                    "killers": [
+                        1
+                    ],
+                    "name": "浮島現象",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 17.55,
+                    "damage_extend": 127,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 474,
+                    "killers": [
+                        1
+                    ],
+                    "name": "浮島現象",
+                    "order": 14,
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "111g",
+                "all_order_1": "1231213g",
+                "all_order_2": "12351245134g",
+                "all_order_3": "1235124513466g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "シャークグレネード",
+                "power_rate": 36,
+                "damage_extend": [
+                    100,
+                    106,
+                    112,
+                    119,
+                    125,
+                    131
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 17.14,
+                    "damage_extend": 100,
+                    "effect": [],
+                    "element": 9,
+                    "id": 457,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陰性グレネード",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.86,
+                    "damage_extend": 106,
+                    "effect": [],
+                    "element": 9,
+                    "id": 458,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陽性ハイグレネード",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 6.29,
+                    "damage_extend": 112,
+                    "effect": [],
+                    "element": 4,
+                    "id": 459,
+                    "killers": [
+                        0
+                    ],
+                    "name": "桃缶グレネード",
+                    "order": 3,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.71,
+                    "damage_extend": 119,
+                    "effect": [],
+                    "element": 9,
+                    "id": 460,
+                    "killers": [
+                        52
+                    ],
+                    "name": "陰性ハイグレネード",
+                    "order": 4,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.14,
+                    "damage_extend": 125,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 9,
+                    "id": 461,
+                    "killers": [
+                        0
+                    ],
+                    "name": "陽性コアグレネード",
+                    "order": 7,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 4.57,
+                    "damage_extend": 131,
+                    "effect": [
+                        7,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 462,
+                    "killers": [
+                        52
+                    ],
+                    "name": "桃缶ハイグレネード",
+                    "order": 12,
+                    "rate": 1.0,
+                    "type": 11,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        10,
+                        1,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        3,
+                        1,
+                        2,
+                        2
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_hit_up"
+                    ],
+                    [
+                        "skill_icon_yin_atk_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111g",
+                "all_order_1": "121212113131311111111g",
+                "all_order_2": "121212113131311411411511g",
+                "all_order_3": "1212121131313114114115116g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "「トヨタマヒメイア・マチカネンシス」",
+                "power_rate": 9,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    115,
+                    122,
+                    129
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 75,
+                    "amt": 15,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 100,
+                    "effect": [
+                        8,
+                        1,
+                        4,
+                        15
+                    ],
+                    "element": 5,
+                    "id": 475,
+                    "killers": [
+                        1
+                    ],
+                    "name": "ヤヒロワニ化現象",
+                    "order": 1,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 100,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        20
+                    ],
+                    "element": 9,
+                    "id": 476,
+                    "killers": [
+                        0
+                    ],
+                    "name": "ヤヒロワニの体当たり",
+                    "order": 2,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 75,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 13.41,
+                    "damage_extend": 107,
+                    "effect": [
+                        8,
+                        1,
+                        4,
+                        25
+                    ],
+                    "element": 9,
+                    "id": 477,
+                    "killers": [
+                        52
+                    ],
+                    "name": "復活を待つ海中龍骨",
+                    "order": 9,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 18.29,
+                    "damage_extend": 115,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        30
+                    ],
+                    "element": 2,
+                    "id": 478,
+                    "killers": [
+                        52
+                    ],
+                    "name": "境界渡りの龍宮使節",
+                    "order": 16,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 32.91,
+                    "damage_extend": 122,
+                    "effect": [
+                        8,
+                        1,
+                        4,
+                        35
+                    ],
+                    "element": 9,
+                    "id": 479,
+                    "killers": [
+                        52
+                    ],
+                    "name": "復活を待つ海中龍骨",
+                    "order": 22,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 29.26,
+                    "damage_extend": 129,
+                    "effect": [
+                        7,
+                        1,
+                        4,
+                        40
+                    ],
+                    "element": 5,
+                    "id": 480,
+                    "killers": [
+                        52
+                    ],
+                    "name": "龍乙女の沐浴",
+                    "order": 25,
+                    "rate": 1.0,
+                    "type": 3,
+                    "yinyang": 0,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}

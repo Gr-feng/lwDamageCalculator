@@ -1,0 +1,1506 @@
+{
+    "character_info": {
+        "advantage_attack": 25,
+        "re": "False",
+        "advantage_resist": 0,
+        "barrier_status_1": 5,
+        "barrier_status_2": 0,
+        "barrier_status_3": 0,
+        "barrier_status_4": 0,
+        "barrier_status_5": 6,
+        "bgm": 30508701,
+        "boost_buff": 1,
+        "boost_target": 0,
+        "break_cost": 502,
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
+        "chain_name": "パワー連携",
+        "disadvantage_attack": 0,
+        "disadvantage_resist": 0,
+        "graze_buff": 0,
+        "graze_target": 0,
+        "hp": 5000,
+        "name": "秦こころ",
+        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>回避</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%]",
+        "passivity_1_icon": "characteristic_icon_7",
+        "passivity_1_name": "プロ感情コントローラー",
+        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率90%]",
+        "passivity_2_icon": "characteristic_icon_5",
+        "passivity_2_name": "32連射",
+        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.30<color=#00CC66>上昇</color>  [発生率100%]",
+        "passivity_3_icon": "characteristic_icon_31",
+        "passivity_3_name": "真偽不明の裏技",
+        "quality": 12111112,
+        "quality_name": "逃げ水",
+        "speed": 1400,
+        "subname": "マルチディスプレイヤー",
+        "total": 7350,
+        "tribe": [
+            14,
+            23,
+            16,
+            186,
+            152,
+            52,
+            99,
+            125,
+            102,
+            39,
+            182,
+            95
+        ],
+        "type": 7,
+        "world_group": "B3",
+        "yang_atk": 1700,
+        "yang_def": 1150,
+        "yin_atk": 950,
+        "yin_def": 1150
+    },
+    "chain_character": [
+        2018,
+        2015,
+        2016,
+        2017,
+        2023,
+        2021,
+        2022,
+        2081,
+        2019,
+        2057,
+        2020,
+        2042,
+        3001,
+        3002,
+        3005,
+        3011,
+        3015,
+        3037,
+        2036,
+        4032,
+        6063,
+        6064,
+        6062,
+        6112,
+        2055,
+        2054,
+        5067,
+        5068,
+        12015,
+        5094,
+        6095
+    ],
+    "costumes": {},
+    "skills": [
+        {
+            "a": [
+                1,
+                5,
+                2,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                7,
+                2,
+                4,
+                2
+            ],
+            "c": [
+                6,
+                5,
+                1,
+                2,
+                3
+            ],
+            "cd": 4,
+            "name": "MOD作成",
+            "id": 1
+        },
+        {
+            "a": [
+                6,
+                5,
+                4,
+                3,
+                2
+            ],
+            "b": [
+                1,
+                6,
+                2,
+                4,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                20
+            ],
+            "cd": 5,
+            "name": "マクロ組成",
+            "id": 2
+        },
+        {
+            "a": [
+                1,
+                1,
+                1,
+                3,
+                3
+            ],
+            "b": [
+                1,
+                10,
+                2,
+                4,
+                2
+            ],
+            "c": [
+                5,
+                0,
+                2,
+                1,
+                10
+            ],
+            "cd": 5,
+            "name": "パッチノート朗読",
+            "id": 3
+        }
+    ],
+    "attack_skills": {
+        "1": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        5,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        1,
+                        2,
+                        3,
+                        3
+                    ],
+                    [
+                        6,
+                        5,
+                        4,
+                        3,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_barrier_blind"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "1111111111111111g",
+                "all_order_1": "1121112111111211111g",
+                "all_order_2": "112131121314111121314111g",
+                "all_order_3": "1121311213141516112131415161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    3
+                ],
+                "first_order": 1,
+                "name": "憂符「サッド・エモーティコン」",
+                "power_rate": 6,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    113,
+                    120,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 95,
+                    "amt": 16,
+                    "boost": 0,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 2.6,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 112593,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "悲しみの顔文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        38,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 5.02,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        60,
+                        9,
+                        1
+                    ],
+                    "element": 6,
+                    "id": 112594,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "憂いの顔文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 4,
+                    "damage": 6.0,
+                    "damage_extend": 107,
+                    "effect": [
+                        1,
+                        1,
+                        16,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112595,
+                    "killers": [
+                        0
+                    ],
+                    "name": "心配の顔文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 4,
+                    "damage": 9.69,
+                    "damage_extend": 113,
+                    "effect": [],
+                    "element": 4,
+                    "id": 112596,
+                    "killers": [
+                        0
+                    ],
+                    "name": "不安の顔文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        91,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 10.97,
+                    "damage_extend": 120,
+                    "effect": [
+                        5,
+                        70
+                    ],
+                    "element": 6,
+                    "id": 112597,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "悲哀の顔文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 11.7,
+                    "damage_extend": 127,
+                    "effect": [
+                        9,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 6,
+                    "id": 112598,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "哀愁の顔文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "1c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "11111111111111g",
+                "all_order_1": "121131121131111111g",
+                "all_order_2": "12113112113114115111g",
+                "all_order_3": "121131121131141151161g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "ミャオミャオディスプレイ",
+                "power_rate": 33,
+                "damage_extend": [
+                    100,
+                    104,
+                    109,
+                    113,
+                    117,
+                    122
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 14,
+                    "boost": 0,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 1,
+                    "damage": 1.72,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 112581,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "猫画面",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 3.53,
+                    "damage_extend": 104,
+                    "effect": [
+                        5,
+                        30
+                    ],
+                    "element": 4,
+                    "id": 112582,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "8C猫画面",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 2,
+                    "damage": 3.24,
+                    "damage_extend": 109,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112583,
+                    "killers": [
+                        0
+                    ],
+                    "name": "6C猫画面",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 4,
+                    "damage": 6.49,
+                    "damage_extend": 113,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 112584,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "8Z猫画面",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 0,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 4,
+                    "damage": 5.84,
+                    "damage_extend": 117,
+                    "effect": [
+                        2,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112585,
+                    "killers": [
+                        0
+                    ],
+                    "name": "6Z猫画面",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 5.49,
+                    "damage_extend": 122,
+                    "effect": [],
+                    "element": 5,
+                    "id": 112586,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "4Z猫画面",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        8,
+                        1,
+                        3,
+                        3
+                    ],
+                    [
+                        1,
+                        7,
+                        2,
+                        3,
+                        3
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [
+                        5,
+                        0,
+                        2,
+                        1,
+                        16
+                    ],
+                    [],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_cri_atk_up"
+                    ],
+                    [
+                        "skill_icon_dodge_up"
+                    ],
+                    [],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [
+                        "skill_icon_sprit_powerup"
+                    ],
+                    [],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111g",
+                "all_order_1": "1121121131111213111121311111g",
+                "all_order_2": "112112113114112131415112131415111g",
+                "all_order_3": "1121121131141121314151121314151611g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "怒符「アングリー・エモジ」",
+                "power_rate": 15,
+                "damage_extend": [
+                    100,
+                    100,
+                    106,
+                    113,
+                    119,
+                    126
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 95,
+                    "amt": 21,
+                    "boost": 0,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 3.82,
+                    "damage_extend": 100,
+                    "effect": [
+                        5,
+                        70,
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 112599,
+                    "killers": [
+                        0
+                    ],
+                    "name": "怒りの絵文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 4,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 5.65,
+                    "damage_extend": 100,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 112600,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "憤りの絵文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 2,
+                    "damage": 6.9,
+                    "damage_extend": 106,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112601,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "激怒の絵文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 80,
+                    "amt": 3,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 4,
+                    "damage": 6.92,
+                    "damage_extend": 113,
+                    "effect": [
+                        5,
+                        80
+                    ],
+                    "element": 3,
+                    "id": 112602,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "憤怒の絵文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [],
+                    "cri": 4,
+                    "damage": 9.35,
+                    "damage_extend": 119,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 3,
+                    "id": 112603,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "憤慨の絵文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 17.55,
+                    "damage_extend": 126,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112604,
+                    "killers": [
+                        0
+                    ],
+                    "name": "義憤の絵文字",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "2c": {
+            "global_attributes": {
+                "effect_before": [],
+                "effect_after": [],
+                "icon_before": [],
+                "icon_after": [],
+                "type_before": [],
+                "type_after": [],
+                "all_order_0": "1111g",
+                "all_order_1": "1234112341g",
+                "all_order_2": "123415123415g",
+                "all_order_3": "12341561234156g",
+                "break": [
+                    0,
+                    0,
+                    6,
+                    0,
+                    0
+                ],
+                "first_order": 1,
+                "name": "自爆コマンド",
+                "power_rate": 29,
+                "damage_extend": [
+                    100,
+                    106,
+                    111,
+                    117,
+                    123,
+                    129
+                ],
+                "target": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 100,
+                    "amt": 4,
+                    "boost": 0,
+                    "buff": [],
+                    "cri": 1,
+                    "damage": 11.14,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112587,
+                    "killers": [
+                        0
+                    ],
+                    "name": "自爆コマンド",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 5.88,
+                    "damage_extend": 106,
+                    "effect": [
+                        5,
+                        40
+                    ],
+                    "element": 9,
+                    "id": 112588,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "自爆コマンド(WW)",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 0,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 2,
+                    "damage": 4.9,
+                    "damage_extend": 111,
+                    "effect": [
+                        1,
+                        1
+                    ],
+                    "element": 5,
+                    "id": 112589,
+                    "killers": [
+                        0
+                    ],
+                    "name": "自爆コマンド(SS)",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 2,
+                    "damage": 3.92,
+                    "damage_extend": 117,
+                    "effect": [
+                        9,
+                        1,
+                        5,
+                        50
+                    ],
+                    "element": 5,
+                    "id": 112590,
+                    "killers": [
+                        0
+                    ],
+                    "name": "自爆コマンド(ADAD)",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 2,
+                    "boost": 2,
+                    "buff": [
+                        38,
+                        100
+                    ],
+                    "cri": 4,
+                    "damage": 3.25,
+                    "damage_extend": 123,
+                    "effect": [
+                        9,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112591,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "自爆コマンド(BA)",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 2,
+                    "boost": 3,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 5,
+                    "damage": 2.29,
+                    "damage_extend": 129,
+                    "effect": [
+                        14,
+                        1
+                    ],
+                    "element": 4,
+                    "id": 112592,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "自爆コマンド(失敗！)",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 5,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        },
+        "5": {
+            "global_attributes": {
+                "effect_before": [
+                    [
+                        1,
+                        1,
+                        1,
+                        2,
+                        4
+                    ],
+                    [
+                        2,
+                        2,
+                        4,
+                        3,
+                        2
+                    ],
+                    [
+                        1,
+                        5,
+                        2,
+                        4,
+                        3
+                    ],
+                    [],
+                    []
+                ],
+                "effect_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        4,
+                        0,
+                        2,
+                        1,
+                        2
+                    ],
+                    []
+                ],
+                "icon_before": [
+                    [
+                        "skill_icon_yang_atk_up"
+                    ],
+                    [
+                        "skill_icon_yang_def_down"
+                    ],
+                    [
+                        "skill_icon_speed_up"
+                    ],
+                    [],
+                    []
+                ],
+                "icon_after": [
+                    [],
+                    [],
+                    [],
+                    [
+                        "skill_icon_barrier_plus"
+                    ],
+                    []
+                ],
+                "type_before": [
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "type_after": [
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        0
+                    ],
+                    [
+                        2
+                    ],
+                    [
+                        0
+                    ]
+                ],
+                "all_order_0": "111111111111111111111111111g",
+                "all_order_1": "1121121131121121131141121131141111111g",
+                "all_order_2": "11211211311211211311411211311411511111g",
+                "all_order_3": "112112113112112113114112113114115116111g",
+                "break": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    6
+                ],
+                "first_order": 1,
+                "name": "「サイコロスト・ダークゾーン」",
+                "power_rate": 5,
+                "damage_extend": [
+                    100,
+                    100,
+                    107,
+                    114,
+                    121,
+                    127
+                ],
+                "target": [
+                    2,
+                    2,
+                    2,
+                    2,
+                    2,
+                    2
+                ]
+            },
+            "attack_count": 6,
+            "attacks": [
+                {
+                    "acc": 95,
+                    "amt": 27,
+                    "boost": 0,
+                    "buff": [
+                        91,
+                        100,
+                        72,
+                        80
+                    ],
+                    "cri": 2,
+                    "damage": 5.5,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1,
+                        5,
+                        80
+                    ],
+                    "element": 7,
+                    "id": 112605,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "新世代暗黒能楽",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 1
+                },
+                {
+                    "acc": 90,
+                    "amt": 5,
+                    "boost": 1,
+                    "buff": [
+                        272,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 7.53,
+                    "damage_extend": 100,
+                    "effect": [
+                        1,
+                        1,
+                        9,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 112606,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "楽の憑依",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 2
+                },
+                {
+                    "acc": 90,
+                    "amt": 3,
+                    "boost": 1,
+                    "buff": [
+                        67,
+                        100
+                    ],
+                    "cri": 2,
+                    "damage": 10.46,
+                    "damage_extend": 107,
+                    "effect": [
+                        9,
+                        1,
+                        5,
+                        100
+                    ],
+                    "element": 4,
+                    "id": 112607,
+                    "killers": [
+                        10,
+                        147,
+                        152,
+                        102,
+                        39
+                    ],
+                    "name": "哀の憑依",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 3
+                },
+                {
+                    "acc": 90,
+                    "amt": 2,
+                    "boost": 1,
+                    "buff": [],
+                    "cri": 2,
+                    "damage": 12.55,
+                    "damage_extend": 114,
+                    "effect": [
+                        9,
+                        1,
+                        5,
+                        100
+                    ],
+                    "element": 5,
+                    "id": 112608,
+                    "killers": [
+                        0
+                    ],
+                    "name": "喜の憑依",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 4
+                },
+                {
+                    "acc": 80,
+                    "amt": 1,
+                    "boost": 2,
+                    "buff": [
+                        37,
+                        100
+                    ],
+                    "cri": 4,
+                    "damage": 20.77,
+                    "damage_extend": 121,
+                    "effect": [
+                        1,
+                        1,
+                        5,
+                        130
+                    ],
+                    "element": 7,
+                    "id": 112609,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161
+                    ],
+                    "name": "怒の憑依",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 5
+                },
+                {
+                    "acc": 75,
+                    "amt": 1,
+                    "boost": 3,
+                    "buff": [],
+                    "cri": 5,
+                    "damage": 14.63,
+                    "damage_extend": 127,
+                    "effect": [
+                        5,
+                        160,
+                        16,
+                        1
+                    ],
+                    "element": 7,
+                    "id": 112610,
+                    "killers": [
+                        8,
+                        1,
+                        75,
+                        161,
+                        10,
+                        147,
+                        152,
+                        102
+                    ],
+                    "name": "喜怒哀楽の憑依",
+                    "order": "",
+                    "rate": 1.0,
+                    "type": 7,
+                    "yinyang": 1,
+                    "attack_id": 6
+                }
+            ]
+        }
+    }
+}
