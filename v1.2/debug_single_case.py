@@ -6,10 +6,10 @@ import os
 from dataclasses import asdict, is_dataclass
 from typing import Any, Dict, List, Optional
 
-from character import CharacterInstanceManager, Barrier, Buff
-from battle_op_state import BattleOpStateManager
-from attack_order import get_ally_front_attack_order, parse_attack_segment_order
-from damage_pipeline_skeleton import execute_attack_phase_for_attacker
+from backend.core.character import CharacterInstanceManager, Barrier, Buff
+from backend.core.battle_op_state import BattleOpStateManager
+from backend.core.attack_order import get_ally_front_attack_order, parse_attack_segment_order
+from backend.core.damage_pipeline_skeleton import execute_attack_phase_for_attacker
 
 
 # -----------------------------

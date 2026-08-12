@@ -31,7 +31,7 @@
         "passivity_3_name": "CMB吸収",
         "quality": 11111111,
         "quality_name": "夜嵐",
-        "speed": 975,
+        "speed": 1020,
         "subname": "狂気の宇宙妖怪",
         "total": 7350,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 1,
         "world_group": "B5",
-        "yang_atk": 725,
-        "yang_def": 1400,
-        "yin_atk": 1550,
-        "yin_def": 1700
+        "yang_atk": 745,
+        "yang_def": 1420,
+        "yin_atk": 1670,
+        "yin_def": 1820
     },
     "chain_character": [
         2017,
@@ -115,7 +115,8 @@
             ],
             "cd": 4,
             "name": "広角電磁装甲",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -141,7 +142,8 @@
             ],
             "cd": 5,
             "name": "マインドドープ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -167,7 +169,8 @@
             ],
             "cd": 6,
             "name": "防衛的侵略",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

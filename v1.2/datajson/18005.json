@@ -92,7 +92,8 @@
             ],
             "cd": 3,
             "name": "冬場のメイド服",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             "c": [],
             "cd": 3,
             "name": "スカーレットモップ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 4,
             "name": "春奪いの森羅結界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

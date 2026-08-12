@@ -84,7 +84,8 @@
             "c": [],
             "cd": 3,
             "name": "宀水",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             "c": [],
             "cd": 3,
             "name": "旡火",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 4,
             "name": "日寺",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

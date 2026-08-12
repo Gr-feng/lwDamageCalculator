@@ -1,36 +1,112 @@
 {
     "character_info": {
+        "ability_description": "能力無し",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "",
+        "ability_effect_d3": "",
+        "ability_effect_d4": "",
+        "ability_effect_d5": "",
+        "ability_name": "能力無し",
         "advantage_attack": 0,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
         "barrier_status_3": 0,
         "barrier_status_4": 0,
         "barrier_status_5": 0,
-        "bgm": 301008501,
+        "bgm": "邪聖戴道",
         "boost_buff": 0,
         "boost_target": 0,
         "break_cost": 505,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "ガード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color>强度上升的一部分(3回合)",
+        "chain_name": "防御连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "またお会いしましたね。本物の仙人、霍青娥です。貴方を芳香の新たなボディに……そう、貴方が芳香になるんだよ。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
+        "jp_name": "かくせいが",
+        "lines1": "やあ！ またまた来ちゃいました。改めまして、私は青娥娘々。実の名は霍青娥です。さて、既に魔理沙さんと早苗さん、そして妖夢さんの入信が決まりましたので、責任を持って立派な仙人へ改造しますね。でも貴方は……仙骨をお持ちでないので、可愛い芳香の新しいボディに活用します。そして余った霊魂は、この邪宝貝『龍虎座』のようなアイテムの材料に。そんなことを言って心が痛まないのかって？ あらあら、御冗談？ この国の精神……つまり宗教観は、既に私がほじくり終わった後の成れの果てだといいますのに。",
+        "lines10": "あのヘンテコ神が秦のお師匠？ 御冗談を。乳部の監督機関『斑鳩』を実質支配していた人物ですよ？ 骨相も違いますし。",
+        "lines11": "阿羅本によって波斯教が大陸へ伝来するよりも早く、秦のお師匠は西方の聖人伝説を用いて豊聡耳様の権威強化を画策していました。いったいどこで『景』を会得したのやら。",
+        "lines12": "いいんですよ。豊聡耳様は道を選びましたし、三つも復活サンプルを得られました。すべて私の思惑通り。不死川のお師匠はどうだったって？ ああ、あのお痛いお方。",
+        "lines13": "暖かくなると帯電体質な亡霊や呑気な尸解仙は元気になるようですね。豊聡耳様の大切な幼なじみ、無下にはしませんよ。うふふ。",
+        "lines14": "不死川のお師匠は秦のお師匠と大喧嘩して、木っ端微塵にされました。霊的な意味で。丁度、暑い季節のことでしたね。",
+        "lines15": "豊聡耳様に群がっては朽ちる、欲望の小神霊たち。幼少の豊聡耳様にたかる荒神たちを祓っていたのは秦のお師匠でしたが、祓った後の神霊はどうなったんでしょう……？",
+        "lines16": "死に際を看取る者が欲しいようでは、自らの願いを叶えるのは難しい。人に媚びるのではなく、己が実力で魅了せよ。……おっと、豊聡耳様と間違えました。",
+        "lines17": "お勉強を見て差し上げましょう。さあ、私の膝へいらっしゃい。",
+        "lines18": "あら、お勉強完璧です。ご褒美は……むぎゅ—ってします？ それともよしよし？",
+        "lines19": "いつの間に伝書が？ まるで天馬が届けたかのように。",
+        "lines2": "少し、お話をしましょうか。",
+        "lines20": "お散歩、楽しかったですね。うふふ。",
+        "lines21": "使いが帰ったようです。",
+        "lines22": "お眠いのです？ さあ、私の胸の中でお眠りなさい。",
+        "lines23": "芳香も、豊聡耳様も、他の皆さんも、こうして私が寝かせたものです。",
+        "lines24": "よしよし。……この寝顔、あの子に似て……いえ、そんなハズはない。",
+        "lines25": "復活を拒もうとする者を、根絶やしにせよ",
+        "lines26": "妖怪を恐れない仙人もいますよ",
+        "lines27": "残念でした。さあ死霊ども、この者を好きにするといい",
+        "lines28": "あららら、お見事です。腕が立ちますね—",
+        "lines29": "芳香は",
+        "lines3": "私が大陸で生を受けた頃、豊聡耳様はこの島国ですでに薨去された後でした。",
+        "lines30": "無意味じゃあ",
+        "lines31": "ないのよねえ",
+        "lines32": "貴方",
+        "lines33": "いい仙人に",
+        "lines34": "なれそうねえ",
+        "lines35": "あら！",
+        "lines36": "うふふ",
+        "lines37": "なになに？",
+        "lines38": "ふむふむ",
+        "lines39": "それは名案！",
+        "lines4": "豊聡耳様なき島国に渡ったところで、力は示せない。ですから私は時空の穴を開きました。憧れの何仙姑様すらまだ生まれていない時代へ。",
+        "lines40": "死体も死霊も死にません",
+        "lines41": "お任せしますよ",
+        "lines42": "やあやあ、お呼びです？",
+        "lines43": "それそれ～",
+        "lines44": "いかがです？",
+        "lines45": "私のキョンシ—はタフさが売りだもん\nやられたら一回休み？　知りませんね",
+        "lines46": "芳香を作るのには　苦労したものです　\nああ腐ってて可愛い　私の芳香",
+        "lines47": "入魔「ゾウフォルゥモォ」",
+        "lines48": "悪の大王の妖怪一味を滅せよ　\nあの方の復活を拒む　すべての者たちを",
+        "lines49": "覚悟はいい？　私のあけた穴に　\nお前らをねじ込んでやる",
+        "lines5": "時空の転移……特に時間遡行は、タブ—というより不可能。たとえ時間を操る程度の能力を用いようと、一定より過去には戻れない。私がやったことも正当な時空転移ではなく、ただの邪道です。",
+        "lines50": "道符「タオ胎動」",
+        "lines51": "目覚めよ　偽りの宝貝『龍虎座』　\n元の名を　……試製芳香第拾参廃棄",
+        "lines52": "世を救うは神秘にも品格にも非ず　力である　\n神仙に道具を寡占させるな　これは　私の芳香だ",
+        "lines53": "「蠢く神胎の龍虎座」",
+        "lines54": "あんっ",
+        "lines55": "およしになって～",
+        "lines56": "甘えてます？",
+        "lines57": "貴方も仙人になりませんか？",
+        "lines58": "あら、素敵！",
+        "lines59": "金剛不壊のこの私が～！？",
+        "lines6": "世界には、霊界と呼ばれる階層に、霊魂の通り道……霊道があります。それに沿って穴をあければ、擬似的な時空転移が可能。正確に言うと、記憶の集合を再生しているだけですが。それでも真贋の区別は、誰にもできませんので。",
+        "lines60": "東方ロストワ—ド",
+        "lines61": "いいですね",
+        "lines62": "やめますね",
+        "lines63": "助かりますわ",
+        "lines64": "仙人入門、いつでも歓迎です。",
+        "lines65": "いつから芳香を作り始めたか？ それは……秘密です。",
+        "lines7": "力を示せるなら、そして力ある者と共にいられるなら、私は何でもします。貴方が豊聡耳様のように未来の王たりえるなら、そのそばには私がいないとおかしいんです。王をつくる者、それが私ですので。……ふふふ。",
+        "lines8": "芳香の新しい札を開発しました。そろそろ16ビットかしら。",
+        "lines9": "私は芳香の調整をしますので、貴方は『龍虎座』を見ていて下さい。邪悪な死霊どもを縫い合わせたものですが、犬猫のように懐きますよ。",
         "name": "霍青娥",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_description": "被攻击时，受到来自<color=#CCAA00>妖怪</color>的伤害<color=#0066FF>下降</color>25% [发生率100%]",
         "passivity_1_icon": "characteristic_icon_56",
-        "passivity_1_name": "妖怪退治の専門家",
-        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%]",
+        "passivity_1_name": "妖怪退治的专家",
+        "passivity_2_description": "被攻击后，自身<color=#CCAA00>仇恨值</color><color=#FF6600>上升</color>1等级 (3回合) [发生率70%]",
         "passivity_2_icon": "characteristic_icon_12",
-        "passivity_2_name": "博麗の巫女",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率35%]",
+        "passivity_2_name": "博丽巫女",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率35%]",
         "passivity_3_icon": "characteristic_icon_32",
-        "passivity_3_name": "結界の巫女",
+        "passivity_3_name": "结界巫女",
         "quality": 2210201,
+        "quality_description": "少女祈祷中",
         "quality_name": "金環皆既日食",
+        "short_name": "青娥",
         "speed": 1000,
         "subname": "_TEST",
         "total": 6000,
@@ -47,46 +123,27 @@
             198
         ],
         "type": 8,
+        "vocal1": "少女祈祷中",
+        "vocal2": "少女祈祷中",
+        "vocal3": "少女祈祷中",
+        "voice1": "少女祈祷中",
+        "voice2": "少女祈祷中",
+        "voice3": "少女祈祷中",
         "world_group": "少女祈祷中",
+        "world_group_description": "少女祈祷中",
+        "world_group_name": "少女祈祷中",
         "yang_atk": 1000,
         "yang_def": 1000,
         "yin_atk": 1000,
-        "yin_def": 1000
+        "yin_def": 1000,
+        "id": 10085
     },
-    "chain_character": {},
+    "chain_character": [],
     "costumes": {},
-    "skills": {},
+    "skills": [],
     "attack_skills": {
         "1": {
             "global_attributes": {
-                "effect_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "type_before": [
                     [
                         0
@@ -122,6 +179,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111111g",
+                "all_order_1": "12121212111111111111111111g",
+                "all_order_2": "121212121111313131111414111115511g",
+                "all_order_3": "1212121211113131311114141111155116g",
                 "break": [
                     0,
                     0,
@@ -129,6 +189,7 @@
                     0,
                     0
                 ],
+                "description": "少女祈祷中",
                 "first_order": 1,
                 "name": "入魔「ゾウフォルゥモォ」",
                 "power_rate": 4,
@@ -147,14 +208,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121212111111111111111111g",
-                "all_order_2": "121212121111313131111414111115511g",
-                "all_order_3": "1212121211113131311114141111155116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 22,
                     "boost": 0,
@@ -169,13 +228,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 4,
                     "boost": 1,
@@ -190,13 +250,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -211,13 +272,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -232,13 +294,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -253,13 +316,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -274,23 +338,20 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111111111g",
+                "all_order_1": "12121111111111g",
+                "all_order_2": "121211311314141111g",
+                "all_order_3": "1212113113141415151616g",
                 "break": [
                     0,
                     0,
@@ -298,6 +359,7 @@
                     0,
                     0
                 ],
+                "description": "少女祈祷中",
                 "first_order": 1,
                 "name": "邪気功",
                 "power_rate": 10,
@@ -316,14 +378,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121111111111g",
-                "all_order_2": "121211311314141111g",
-                "all_order_3": "1212113113141415151616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 12,
                     "boost": 0,
@@ -338,13 +398,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 2,
                     "boost": 1,
@@ -359,13 +420,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -380,13 +442,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -401,13 +464,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -422,13 +486,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -443,248 +508,20 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 6
-                }
-            ]
-        },
-        "2": {
-            "global_attributes": {
-                "effect_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "type_before": [
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ]
-                ],
-                "type_after": [
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ]
-                ],
-                "all_order_0": "111111111111111111111111g",
-                "break": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "first_order": 1,
-                "name": "道符「タオ胎動」",
-                "power_rate": 9,
-                "damage_extend": [
-                    100,
-                    100,
-                    107,
-                    115,
-                    122,
-                    129
-                ],
-                "target": [
-                    1,
-                    1,
-                    1,
-                    1,
-                    1,
-                    1
-                ],
-                "all_order_1": "1212121211111111111111111111g",
-                "all_order_2": "12121212111313131311114414111111111g",
-                "all_order_3": "12121212111313131311114414111511551161166g"
-            },
-            "attack_count": 6,
-            "attacks": [
-                {
-                    "acc": 75,
-                    "amt": 24,
-                    "boost": 0,
-                    "buff": [],
-                    "cri": 5,
-                    "damage": 3.2,
-                    "damage_extend": 100,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262539,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 1
-                },
-                {
-                    "acc": 73,
-                    "amt": 4,
-                    "boost": 1,
-                    "buff": [],
-                    "cri": 10,
-                    "damage": 6.46,
-                    "damage_extend": 100,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262540,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 2
-                },
-                {
-                    "acc": 71,
-                    "amt": 4,
-                    "boost": 2,
-                    "buff": [],
-                    "cri": 15,
-                    "damage": 6.88,
-                    "damage_extend": 107,
-                    "effect": [],
-                    "element": 7,
-                    "id": 262541,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 3
-                },
-                {
-                    "acc": 71,
-                    "amt": 3,
-                    "boost": 2,
-                    "buff": [],
-                    "cri": 15,
-                    "damage": 9.88,
-                    "damage_extend": 115,
-                    "effect": [],
-                    "element": 6,
-                    "id": 262542,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 4
-                },
-                {
-                    "acc": 69,
-                    "amt": 3,
-                    "boost": 3,
-                    "buff": [],
-                    "cri": 35,
-                    "damage": 9.28,
-                    "damage_extend": 122,
-                    "effect": [],
-                    "element": 5,
-                    "id": 262543,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
-                },
-                {
-                    "acc": 69,
-                    "amt": 3,
-                    "boost": 3,
-                    "buff": [],
-                    "cri": 35,
-                    "damage": 9.89,
-                    "damage_extend": 129,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262544,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111111g",
+                "all_order_1": "12111111111g",
+                "all_order_2": "121131111111g",
+                "all_order_3": "121131141151116g",
                 "break": [
                     0,
                     0,
@@ -692,6 +529,7 @@
                     0,
                     0
                 ],
+                "description": "少女祈祷中",
                 "first_order": 1,
                 "name": "盤根錯節の道",
                 "power_rate": 4,
@@ -710,14 +548,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12111111111g",
-                "all_order_2": "121131111111g",
-                "all_order_3": "121131141151116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 10,
                     "boost": 0,
@@ -732,13 +568,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 1,
                     "boost": 1,
@@ -753,13 +590,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -774,13 +612,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -795,13 +634,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -816,13 +656,14 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -837,236 +678,11 @@
                         0
                     ],
                     "name": "少女祈祷中",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 6
-                }
-            ]
-        },
-        "5": {
-            "global_attributes": {
-                "effect_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "type_before": [
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ]
-                ],
-                "type_after": [
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ],
-                    [
-                        0
-                    ]
-                ],
-                "all_order_0": "1111111111111111111111111111g",
-                "break": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "first_order": 1,
-                "name": "「蠢く神胎の龍虎座」",
-                "power_rate": 3,
-                "damage_extend": [
-                    100,
-                    100,
-                    108,
-                    116,
-                    124,
-                    132
-                ],
-                "target": [
-                    2,
-                    2,
-                    2,
-                    2,
-                    2,
-                    2
-                ],
-                "all_order_1": "121211221121111111111111111111111g",
-                "all_order_2": "12121122112113131313111144114411111111111g",
-                "all_order_3": "12121122112113131313111144114411151155111161616g"
-            },
-            "attack_count": 6,
-            "attacks": [
-                {
-                    "acc": 75,
-                    "amt": 28,
-                    "boost": 0,
-                    "buff": [],
-                    "cri": 10,
-                    "damage": 4.36,
-                    "damage_extend": 100,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262545,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 1
-                },
-                {
-                    "acc": 73,
-                    "amt": 5,
-                    "boost": 1,
-                    "buff": [],
-                    "cri": 15,
-                    "damage": 8.23,
-                    "damage_extend": 100,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262546,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 2
-                },
-                {
-                    "acc": 71,
-                    "amt": 4,
-                    "boost": 2,
-                    "buff": [],
-                    "cri": 25,
-                    "damage": 10.55,
-                    "damage_extend": 108,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262547,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 3
-                },
-                {
-                    "acc": 71,
-                    "amt": 4,
-                    "boost": 2,
-                    "buff": [],
-                    "cri": 25,
-                    "damage": 11.36,
-                    "damage_extend": 116,
-                    "effect": [],
-                    "element": 4,
-                    "id": 262548,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 4
-                },
-                {
-                    "acc": 69,
-                    "amt": 3,
-                    "boost": 3,
-                    "buff": [],
-                    "cri": 50,
-                    "damage": 13.91,
-                    "damage_extend": 124,
-                    "effect": [],
-                    "element": 4,
-                    "id": 262549,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
-                },
-                {
-                    "acc": 69,
-                    "amt": 3,
-                    "boost": 3,
-                    "buff": [],
-                    "cri": 50,
-                    "damage": 14.84,
-                    "damage_extend": 132,
-                    "effect": [],
-                    "element": 8,
-                    "id": 262550,
-                    "killers": [
-                        0
-                    ],
-                    "name": "少女祈祷中",
-                    "order": "",
-                    "rate": 1.0,
-                    "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

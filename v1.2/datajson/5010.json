@@ -111,7 +111,8 @@
             ],
             "cd": 4,
             "name": "カルアピッグ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -137,7 +138,8 @@
             ],
             "cd": 7,
             "name": "モチコチキン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -163,7 +165,8 @@
             ],
             "cd": 6,
             "name": "ムスビ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

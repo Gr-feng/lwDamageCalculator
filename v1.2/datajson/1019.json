@@ -31,7 +31,7 @@
         "passivity_3_name": "論理の回廊",
         "quality": 21111200,
         "quality_name": "十五夜",
-        "speed": 990,
+        "speed": 1020,
         "subname": "永遠と須臾の罪人",
         "total": 6900,
         "tribe": [
@@ -50,10 +50,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1480,
-        "yang_def": 1010,
-        "yin_atk": 1390,
-        "yin_def": 950
+        "yang_atk": 1810,
+        "yang_def": 1085,
+        "yin_atk": 1570,
+        "yin_def": 975
     },
     "chain_character": [
         1015,
@@ -88,7 +88,8 @@
             "c": [],
             "cd": 5,
             "name": "流刑姫",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             "c": [],
             "cd": 5,
             "name": "須臾の決意",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -128,7 +130,8 @@
             "c": [],
             "cd": 5,
             "name": "永遠の難題",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

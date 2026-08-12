@@ -108,7 +108,8 @@
             ],
             "cd": 4,
             "name": "現人神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 5,
             "name": "風祝",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 6,
             "name": "奇跡の巫女",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_storage_type03"
         }
     ],
     "attack_skills": {

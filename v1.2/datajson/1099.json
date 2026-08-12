@@ -31,7 +31,7 @@
         "passivity_3_name": "反転願掛け",
         "quality": 10111202,
         "quality_name": "乾風",
-        "speed": 905,
+        "speed": 1030,
         "subname": "地殻の下の嫉妬心",
         "total": 6450,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1185,
-        "yang_def": 795,
-        "yin_atk": 1495,
-        "yin_def": 1045
+        "yang_atk": 1250,
+        "yang_def": 825,
+        "yin_atk": 1925,
+        "yin_def": 1110
     },
     "chain_character": [
         1030,
@@ -80,7 +80,8 @@
             "c": [],
             "cd": 5,
             "name": "人形祈祷",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 7,
             "name": "ジェラシーサプライ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -120,7 +122,8 @@
             "c": [],
             "cd": 5,
             "name": "水神の障り",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

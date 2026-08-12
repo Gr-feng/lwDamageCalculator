@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "大兔明神の霊気",
         "quality": 2121011,
         "quality_name": "海軟風",
-        "speed": 950,
+        "speed": 1280,
         "subname": "[永]地上の兎",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 8,
         "world_group": "A8",
-        "yang_atk": 1500,
-        "yang_def": 800,
-        "yin_atk": 1850,
-        "yin_def": 800
+        "yang_atk": 1520,
+        "yang_def": 820,
+        "yin_atk": 1945,
+        "yin_def": 875
     },
     "chain_character": [
         4015,
@@ -81,7 +81,8 @@
             ],
             "cd": 4,
             "name": "淤岐島からの帰還",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_dodge_down"
         },
         {
             "a": [
@@ -101,7 +102,8 @@
             "c": [],
             "cd": 4,
             "name": "霊験あらたかなる蒲黄",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -127,7 +129,8 @@
             ],
             "cd": 6,
             "name": "竹林の兎の首長",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_blind"
         }
     ],
     "attack_skills": {

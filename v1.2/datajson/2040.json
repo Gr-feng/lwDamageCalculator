@@ -78,7 +78,8 @@
             "c": [],
             "cd": 4,
             "name": "退役人形",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 4,
             "name": "野生化式神",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -124,7 +126,8 @@
             "c": [],
             "cd": 5,
             "name": "護法童子の末裔",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

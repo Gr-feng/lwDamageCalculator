@@ -89,7 +89,8 @@
             "c": [],
             "cd": 4,
             "name": "厄除け",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_down"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             "c": [],
             "cd": 6,
             "name": "ペインドレイン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_down"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             "c": [],
             "cd": 4,
             "name": "不幸の渦",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_down"
         }
     ],
     "attack_skills": {

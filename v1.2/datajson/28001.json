@@ -78,7 +78,8 @@
             ],
             "cd": 5,
             "name": "身の丈に合わないお祓い棒",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 5,
             "name": "幼き青の祈祷師",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_dodge_down"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 6,
             "name": "チビカラサポート(先行型)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_add_yin_atk_yang_atk"
         }
     ],
     "attack_skills": {

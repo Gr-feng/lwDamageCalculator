@@ -79,7 +79,8 @@
             ],
             "cd": 5,
             "name": "純魔法「造人」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -105,7 +106,8 @@
             ],
             "cd": 6,
             "name": "純魔法「民事不介入」",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -131,7 +133,8 @@
             ],
             "cd": 8,
             "name": "「魔界創世」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_resonance"
         }
     ],
     "attack_skills": {

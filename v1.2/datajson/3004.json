@@ -31,7 +31,7 @@
         "passivity_3_name": "スカーレットの血族",
         "quality": 1121111,
         "quality_name": "脈動オーロラ",
-        "speed": 1215,
+        "speed": 1250,
         "subname": "ハンター狩りの吸血鬼",
         "total": 7350,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 5,
         "world_group": "E1",
-        "yang_atk": 1235,
-        "yang_def": 900,
-        "yin_atk": 1750,
-        "yin_def": 1200
+        "yang_atk": 1270,
+        "yang_def": 935,
+        "yin_atk": 1970,
+        "yin_def": 1225
     },
     "chain_character": [
         2003,
@@ -88,7 +88,8 @@
             ],
             "cd": 5,
             "name": "ソウルドレイン",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             ],
             "cd": 5,
             "name": "ゴーストイグニッション",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -140,7 +142,8 @@
             ],
             "cd": 4,
             "name": "ヒートデス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

@@ -78,7 +78,8 @@
             ],
             "cd": 4,
             "name": "博麗霊夢-スキルA",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 5,
             "name": "博麗霊夢-スキルB",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 5,
             "name": "博麗霊夢-スキルC",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

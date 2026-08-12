@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "ガレージロック",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 4,
             "name": "パンクロック",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_down"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 6,
             "name": "ニューウェイヴ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_fast"
         }
     ],
     "attack_skills": {

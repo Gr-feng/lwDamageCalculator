@@ -88,7 +88,8 @@
             ],
             "cd": 3,
             "name": "西門神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             ],
             "cd": 3,
             "name": "酒呑童子の右腕",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -140,7 +142,8 @@
             ],
             "cd": 6,
             "name": "鬼の仁王(吽形)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -83,7 +83,8 @@
             "c": [],
             "cd": 4,
             "name": "ジャミングパイプ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -103,7 +104,8 @@
             "c": [],
             "cd": 4,
             "name": "突撃ラッパ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             "c": [],
             "cd": 4,
             "name": "オールナイト騒音",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_down"
         }
     ],
     "attack_skills": {

@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "这是四季错乱的世界中高丽野阿吽所拥有的能力（东方归言录原创）。\n据观察，这一能力与原本高丽野阿吽的能力相比没有显著变化。\n\n第16次长期化异变，发生于四季异变未能终结的世界。\n摩多罗隐岐奈开始寻找二童子的后继者，同时也将逐渐松弛的幻想乡体制好好敲打一番。\n隐岐奈也是贤者的一员，应该是被敲打的一方吧——这种话可不能明说。\n『依靠隐匿方能维系的神格』与『若不主动示人就无法确保信仰的神明』——秘神，作为这矛盾两极的结合体，仅是显现在眼前就应当视作一种恩赐了。\n注定要大白于天下的秘密，与即便如此依旧盘踞不去的谜团……不如说，隐岐奈的神性远胜于任何神明。\n眼下的问题在于，高丽野阿吽是经由隐岐奈之手获得力量的狛犬。\n而阿吽本人似乎对此完全不以为意，反而一直在我行我素延长异变。\n\n二童子的能力本就源自隐岐奈，二童子也等于是隐岐奈的一部分。\n因此可以认为，爱塔妮缇拉尔瓦、坂田合欢、高丽野阿吽、矢田寺成美四人都是经由隐岐奈之手取得了力量。\n二童子之中，丁礼田舞似乎会主动出击招揽人才，而尔子田里乃则较为慎重。两人截然相反的性格或许是隐岐奈本人内心的反映。\n上述四人为何会成为二童子的继任者候选，目前尚不明确。不过就阿吽而言，可能是身为『成双成对的神兽』这一点让她得到了候选资格。\n然而，拉尔瓦身为妖精却得到了招揽（琪露诺却不行），而合欢甚至完全看不出资质何在（也许并没有人招揽她，合欢不过是凭借自己天生的力量和性质进行了弹幕游戏而已）。\n说到底，招揽人才也许本来就没有什么明确的方针吧……。\n\n这个世界的阿吽主观上没有半点妨碍异变解决的意图，但就结果而言确实成了异变长期化的罪魁祸首。\n尤其是对博丽灵梦而言，她的影响格外显著。\n她在守护博丽神社的时候被误认为可疑分子，并被打倒了……原本应该是这样的。\n然而力量过于强大的守护神兽，化作了碾压一切、无法应对的怪兽。\n没错，现在的她简直就是超级保护过度的妈妈。\n尤其是在面对灵梦的时候。\n正如大多数人无论如何回忆童年都无法想起懂事开窍之前的经历，阿吽觉醒之前的记忆也很模糊。\n明明是这样——不，也许正因为是这样，阿吽对这段时期的记忆似乎被大幅篡改了。\n记忆一旦被篡改，当事人便会将修改后的记忆视为真相，而唯有当事人知道的事项也会因此变得面目全非（这是极其危险的局面）。\n不请自来的妈妈，以灵梦之母自居。\n斩钉截铁的自述，就好像亲眼见过先代巫女一般。\n……不过，她所说的一切也可能都是事实，只是没有凭据罢了。",
+        "ability_effect_d1": "从有利属性<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>30%",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>30%",
+        "ability_effect_d3": "免疫结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>冻结</color>」「<color=#CCAA00>毒雾</color>」",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "使用擦弹时，己方全体<color=#CCAA00>阳防</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_name": "「发现神佛程度的能力（长期化）」",
         "advantage_attack": 30,
-        "re": "False",
         "advantage_resist": 30,
         "barrier_status_1": 1,
         "barrier_status_2": 1,
         "barrier_status_3": 0,
         "barrier_status_4": 1,
         "barrier_status_5": 0,
-        "bgm": 30208301,
+        "bgm": "狛犬ファイト！",
         "boost_buff": 5,
         "boost_target": 1,
         "break_cost": 505,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "ガード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color>强度上升的一部分(3回合)",
+        "chain_name": "防御连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是谁？ 真是的，我是高丽野阿吽。是狛犬哦～！ 我是灵梦小姐事实上的妈妈！",
         "graze_buff": 2,
         "graze_target": 1,
         "hp": 3375,
-        "name": "高麗野あうん",
-        "passivity_1_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率60%]",
+        "jp_name": "こまのあうん",
+        "lines1": "神社与寺庙的守护者，高丽野阿吽在此登场！ 就算是名为异界的飞地我也不在乎！ 灵梦小姐，您这样可没法解决异变。我来陪您修行。狛犬很弱，您如果连我都打不过的话……咦？ 你是谁？春天的气息怎么变弱了？我就不在意细节了！ 我相当于灵梦小姐的妈妈。如果说你也是神社的孩子，那我也是你的妈妈！ 什么？ 你想知道关于先代巫女的事情？ 这件事嘛……我待会儿偷偷告诉你！",
+        "lines10": "我作为狛犬一直在静静守望灵梦小姐与神社……但不知为何我突然想跑出来。",
+        "lines11": "出发时要说我出门了！ 回来时要说我回来了！ 怎么样，我是不是跟妈妈一样？",
+        "lines12": "据说狛犬是在飞鸟时代来到了日本。寺庙被烧毁的祖先？的记忆在不断涌出……！",
+        "lines13": "春天就是棒！ 我都心浮气躁到想跑出神社了。明明我喜欢呆在角落—。",
+        "lines14": "夏天真是要烧死人了！ 让我想起了被烧毁的神社。而且不知为何我脑海中浮现出了凤蝶之神……！",
+        "lines15": "这个季节守矢神社的红叶非常美丽。但其实山姥也在偷偷观察我们。我可是亲眼看见了！",
+        "lines16": "你知道冬天的笠地藏吗？ 据说是站在魔法森林。同样作为石像，我会有一种亲近感！",
+        "lines17": "做作业了吗—？ 现在开始做—？ 那你快点—！",
+        "lines18": "做作业辛苦了！ 来，尝尝我的双重拥抱吧—！",
+        "lines19": "来信了！ 这是寄给你的。",
+        "lines2": "我可以分身，所以最多能照顾两个人！",
+        "lines20": "什么，我长翅膀了？ 这怎么可能—。那我就不是狛犬，是麒麟了～！ 不对，麒麟也不长翅膀诶。",
+        "lines21": "有人回来了。欢迎回家—！",
+        "lines22": "守矢神社的妈妈是诹访子小姐呢—。",
+        "lines23": "命莲寺的妈妈值是白莲小姐压倒性得高，但其他人也有当妈妈的素养。所以命莲寺是事实上的妈妈寺！",
+        "lines24": "不知不觉中在我的膝盖上睡着了。乖孩子乖孩子。",
+        "lines25": "现在的我感觉能从强敌手中守护神社与寺庙！",
+        "lines26": "入侵者为零—！ 请放心前进吧",
+        "lines27": "一路走好！ 请问几点回博丽神社？",
+        "lines28": "啊呜呜！ 这样我可没法平平安安地送您出发！",
+        "lines29": "不为人知地",
+        "lines3": "我从灵梦小姐这么小的时候就一直在守护她。",
+        "lines30": "做出贡献",
+        "lines31": "正是狗妈妈的职责！",
+        "lines32": "我不会让",
+        "lines33": "任何人进家",
+        "lines34": "看家就交给我吧～！",
+        "lines35": "不要受伤哦",
+        "lines36": "不疼吧—？",
+        "lines37": "我觉得很好！",
+        "lines38": "我赞成！",
+        "lines39": "我来守护！",
+        "lines4": "果然最大的威胁是紫小姐。她全身都散发着妈妈的气息。华扇小姐看似是大姐姐，但内心是妈妈属性。我不能掉以轻心！",
+        "lines40": "别想一直呆在神社！",
+        "lines41": "我去守护一下",
+        "lines42": "反对暴力—！",
+        "lines43": "我要守护神社了—！",
+        "lines44": "我要守护寺庙了—！",
+        "lines45": "你不觉得我的毛\n卷卷得很可爱吗～？",
+        "lines46": "我的祖先大人是什么样的发型呢　\n我记得是埃及出身来着？",
+        "lines47": "陀螺「蜷缩而死」",
+        "lines48": "小阿和小吽？　\n不，这两个都是我！",
+        "lines49": "有角的和没有角的才是一对？　\n我们都有角哦～！",
+        "lines5": "魅须丸小姐来送阴阳玉的那一天也好，天狗记者鬼鬼祟祟的那一天也好，打铁妖怪来锻造封魔针的那一天也好，全都记得。因为我从一开始就在守护灵梦小姐！",
+        "lines50": "狛符「单人式阿吽的呼吸」",
+        "lines51": "春天是开始也是结束　\n和博丽神社一样　是位于境界之上的季节",
+        "lines52": "我一直在守望灵梦小姐　\n我是事实上的双份妈妈！",
+        "lines53": "「阿尔法兼欧米伽的季节」",
+        "lines54": "可恶！",
+        "lines55": "好过分—！",
+        "lines56": "我来守护！",
+        "lines57": "立刻给我出去—！",
+        "lines58": "我们一起守护吧！",
+        "lines59": "被揍扁了—",
+        "lines6": "最近的威胁是魔理沙小姐和早苗小姐。她们明明和灵梦小姐年龄相近，有时候却跟妈妈一样。我都看在了眼里。自诩灵梦小姐妈妈的我可不能坐视不管！",
+        "lines60": "东方归言录",
+        "lines61": "好主意！",
+        "lines62": "那算了！",
+        "lines63": "非常感谢！",
+        "lines64": "我明明只是在守护神社。",
+        "lines65": "只不过是妖精有些亢奋而已，并没有危险的入侵者。",
+        "lines7": "原来如此，因为我太强了，所以灵梦小姐她们无法前进吗。但前面一定会有更强的敌人在等待灵梦小姐，所以我必须培养她……我知道你的意思。守望孩子的成长，也是母亲的职责。我这次一定能忍住……！",
+        "lines8": "力量在从我微微发烫的后背涌出！",
+        "lines9": "……关于先代巫女就是这样了。打那之后有好多人自诩灵梦小姐的妈妈。我必须提防她们！",
+        "name": "高丽野阿吽",
+        "passivity_1_description": "回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率60%]",
         "passivity_1_icon": "characteristic_icon_32",
-        "passivity_1_name": "覚醒したてすぎる忠犬",
-        "passivity_2_description": "攻撃された時、陰性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率30%]",
+        "passivity_1_name": "刚刚觉醒的忠犬",
+        "passivity_2_description": "被攻击时，受到来自<color=#CCAA00>阴性</color>的伤害<color=#0066FF>下降</color>100% [发生率30%]",
         "passivity_2_icon": "characteristic_icon_37",
-        "passivity_2_name": "堅牢すぎる石像",
-        "passivity_3_description": "攻撃された時、陽性の<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率30%]",
+        "passivity_2_name": "过于牢固的石像",
+        "passivity_3_description": "被攻击时，受到来自<color=#CCAA00>阳性</color>的伤害<color=#0066FF>下降</color>100% [发生率30%]",
         "passivity_3_icon": "characteristic_icon_36",
-        "passivity_3_name": "過剰解放神獣",
+        "passivity_3_name": "过剩解放神兽",
         "quality": 1210112,
+        "quality_description": "四季絮乱世界的高丽野阿吽的气质(东方归言录原创)。\n“映幻日”指映日左右两侧的线状彩虹般的光带。\n是符合过于崇拜神佛的阿吽的气质。\n阿吽同时具备守护多座神社寺庙的包容力的气质（土行）与神兽的气质（日精），并在此基础之上获得了解放的气质（星精）。\n\n象征着包容与再生的土行，由于“火生土”对火行具备抗性，由于“木克土”而对木行不利。\n象征着绝对魅力与傲慢的日精对象征着多样性与特立独行的星精具备抗性，不擅长应对象征着协调性以及优柔寡断的月精。\n象征着多样性与特立独行的星精对象征着协调性与优柔寡断的月精具备抗性，不擅长应对象征着绝对魅力与傲慢的日精。\n日＋星精抵消了对月精的抗性与弱点。",
         "quality_name": "映幻日",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "天之卷轴-一",
+        "rank_up_lv0_3_value": 30,
+        "rank_up_lv0_4_name": "真南蛮",
+        "rank_up_lv0_4_value": 20,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "鸟之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "天之卷轴-一",
+        "rank_up_lv1_1_value": 25,
+        "rank_up_lv1_2_name": "梅之华片-二",
+        "rank_up_lv1_2_value": 15,
+        "rank_up_lv1_3_name": "天之卷轴-二",
+        "rank_up_lv1_3_value": 15,
+        "rank_up_lv1_4_name": "竹之华片-二",
+        "rank_up_lv1_4_value": 15,
+        "rank_up_lv1_5_name": "梅之华片-一",
+        "rank_up_lv1_5_value": 25,
+        "rank_up_lv1_6_name": "鸟之卷轴-二",
+        "rank_up_lv1_6_value": 15,
+        "rank_up_lv2_1_name": "梅之华片-二",
+        "rank_up_lv2_1_value": 30,
+        "rank_up_lv2_2_name": "梅之华片-三",
+        "rank_up_lv2_2_value": 30,
+        "rank_up_lv2_3_name": "天之卷轴-三",
+        "rank_up_lv2_3_value": 30,
+        "rank_up_lv2_4_name": "天之卷轴-二",
+        "rank_up_lv2_4_value": 30,
+        "rank_up_lv2_5_name": "防御指南书-二",
+        "rank_up_lv2_5_value": 30,
+        "rank_up_lv2_6_name": "鸟之卷轴-三",
+        "rank_up_lv2_6_value": 30,
+        "rank_up_lv3_1_name": "龙之卷轴-二",
+        "rank_up_lv3_1_value": 45,
+        "rank_up_lv3_2_name": "梅之华片-三",
+        "rank_up_lv3_2_value": 35,
+        "rank_up_lv3_3_name": "天之卷轴-三",
+        "rank_up_lv3_3_value": 35,
+        "rank_up_lv3_4_name": "竹之华片-三",
+        "rank_up_lv3_4_value": 35,
+        "rank_up_lv3_5_name": "防御指南书-二",
+        "rank_up_lv3_5_value": 45,
+        "rank_up_lv3_6_name": "鸟之卷轴-三",
+        "rank_up_lv3_6_value": 35,
+        "rank_up_lv4_1_name": "竹之华片-三",
+        "rank_up_lv4_1_value": 50,
+        "rank_up_lv4_2_name": "龙之卷轴-三",
+        "rank_up_lv4_2_value": 50,
+        "rank_up_lv4_3_name": "天之卷轴-三",
+        "rank_up_lv4_3_value": 50,
+        "rank_up_lv4_4_name": "梅之华片-三",
+        "rank_up_lv4_4_value": 50,
+        "rank_up_lv4_5_name": "防御指南书-三",
+        "rank_up_lv4_5_value": 50,
+        "rank_up_lv4_6_name": "鸟之卷轴-三",
+        "rank_up_lv4_6_value": 50,
+        "short_name": "阿吽",
         "speed": 1800,
-        "subname": "[天EX]神仏に心酔しすぎた守護神獣",
+        "subname": "[天EX]过度沉溺于神佛的守护神兽",
         "total": 7575,
         "tribe": [
             6,
@@ -48,20 +184,38 @@
             198
         ],
         "type": 1,
+        "vocal1": "小針彩希",
+        "vocal2": "大下菜摘",
+        "vocal3": "小孫さくら",
+        "voice1": "守护过头程度的声音",
+        "voice2": "尽力过头程度的声音",
+        "voice3": "过于反对暴力程度的声音",
         "world_group": "A16&",
+        "world_group_description": "“A系列的世界团（A世界团）”中的世界群之一。\n“A16世界群”是“A世界团”中的第16个世界群。\n和其他符号不同，“A”与偏离度无关。\n“A16&世界群”是派生自“A16世界群”的特殊的世界群。\n“A”符号的含义尚未明确。\n\n【主要的分歧点】\n起因于“A16分歧点群”。\n“A16&世界群”在此基础之上存在出现“远点个体”的因素。\n\n【主要的汇合点】\n这个世界几乎不会汇合（发散倾向）。",
+        "world_group_name": "A16&世界群",
         "yang_atk": 1500,
         "yang_def": 1800,
         "yin_atk": 1500,
-        "yin_def": 300
+        "yin_def": 300,
+        "id": 2083
     },
     "chain_character": [
-        10107,
         2070,
-        2071
+        2071,
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "四季絮乱世界的阿吽的常服。\n好像多了一点南方要素诶？",
+            "costume_name1": "[天EX]过度沉溺于神佛的守护神兽"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 1,
                 2,
@@ -84,10 +238,12 @@
                 30
             ],
             "cd": 5,
-            "name": "尖りすぎたツノ",
-            "id": 1
+            "name": "过于尖的角",
+            "description": "成对的狛犬有一只长角，有一只不长角。\n但据说不一定是这样。",
+            "icon": "skill_icon_yang_def_up"
         },
         {
+            "id": 2,
             "a": [
                 6,
                 2,
@@ -110,10 +266,12 @@
                 10
             ],
             "cd": 5,
-            "name": "守りすぎた獣",
-            "id": 2
+            "name": "守护过头的神兽",
+            "description": "张着嘴且不长角的是狮子。\n也有这么一种说法。",
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 2,
@@ -136,8 +294,9 @@
                 4
             ],
             "cd": 6,
-            "name": "ひとりすぎるふたり",
-            "id": 3
+            "name": "过度的二位一体",
+            "description": "风狮爷、斯芬克斯、拉玛苏。\n二位一体的守护灵兽拥有漫长的历史。",
+            "icon": "skill_icon_yang_def_up"
         }
     ],
     "attack_skills": {
@@ -238,6 +397,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111g",
+                "all_order_1": "121122121131313114141111g",
+                "all_order_2": "12112212113131311414115151g",
+                "all_order_3": "121122121131313114141151516g",
                 "break": [
                     0,
                     6,
@@ -245,8 +407,9 @@
                     0,
                     0
                 ],
+                "description": "四季絮乱世界的高丽野阿吽的符卡。\n在春日庭院尽情奔跑的狛犬与旋转翻腾的卷毛的弹幕。\n狛犬，以及与其成对的狮子。\n狛犬原本是包括狮子在内的二位一体的存在，起源是中国或北非或中近东。\n如我们所知，中国也好，北非也好，中近东也好……都是神兽的乐园。",
                 "first_order": 1,
-                "name": "独楽「カールアップアンドダイ」",
+                "name": "陀螺「蜷缩而死」",
                 "power_rate": 8,
                 "damage_extend": [
                     100,
@@ -263,14 +426,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121122121131313114141111g",
-                "all_order_2": "12112212113131311414115151g",
-                "all_order_3": "121122121131313114141151516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 15,
                     "boost": 0,
@@ -296,14 +457,15 @@
                         105,
                         44
                     ],
-                    "name": "巻毛のコマ犬",
-                    "order": "",
+                    "name": "卷毛狛犬",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -320,14 +482,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大巻毛のコマ犬",
-                    "order": "",
+                    "name": "大卷毛狛犬",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -344,14 +507,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "特巻毛のコマ犬",
-                    "order": "",
+                    "name": "特卷毛狛犬",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -378,14 +542,15 @@
                         105,
                         44
                     ],
-                    "name": "超巻毛のコマ犬",
-                    "order": "",
+                    "name": "超卷毛狛犬",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -405,14 +570,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極巻毛のコマ犬",
-                    "order": "",
+                    "name": "极卷毛狛犬",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -437,24 +603,21 @@
                         105,
                         44
                     ],
-                    "name": "最巻毛のコマ犬",
-                    "order": "",
+                    "name": "最卷毛狛犬",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111111g",
+                "all_order_1": "121121131131411g",
+                "all_order_2": "1211211311314151g",
+                "all_order_3": "12112113113141516g",
                 "break": [
                     0,
                     0,
@@ -462,8 +625,9 @@
                     0,
                     0
                 ],
+                "description": "四季絮乱世界的高丽野阿吽的扩散射击(东方归言录原创)。\n作为守矢神社的狛犬生活时的弹幕。\n目前没有在任何真书中确认到高丽野阿吽曾守护过守矢神社的信息。\n但考虑到她本人说过自己在偷偷守护神社寺庙，那么她或许在守矢神社以及命莲寺不为人知地生活过。\n话说回来，她在博丽神社生活的事情都没有被发现（恐怕狛犬像的存在本身都没有被注意到）。\n反而言之，就是说她曾不为人知地转移到了其他神社寺庙……？",
                 "first_order": 1,
-                "name": "守矢神社居候記",
+                "name": "守矢神社寄居记录",
                 "power_rate": 49,
                 "damage_extend": [
                     100,
@@ -480,14 +644,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "121121131131411g",
-                "all_order_2": "1211211311314151g",
-                "all_order_3": "12112113113141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 10,
                     "boost": 0,
@@ -511,14 +673,15 @@
                         105,
                         44
                     ],
-                    "name": "守矢神社居候記",
-                    "order": "",
+                    "name": "守矢神社寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -538,14 +701,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "守矢神社大居候記",
-                    "order": "",
+                    "name": "守矢神社大寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -567,14 +731,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "守矢神社特居候記",
-                    "order": "",
+                    "name": "守矢神社特寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -599,14 +764,15 @@
                         105,
                         44
                     ],
-                    "name": "守矢神社超居候記",
-                    "order": "",
+                    "name": "守矢神社超寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -626,14 +792,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "守矢神社極居候記",
-                    "order": "",
+                    "name": "守矢神社极寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -657,12 +824,12 @@
                         105,
                         44
                     ],
-                    "name": "守矢神社最居候記",
-                    "order": "",
+                    "name": "守矢神社最寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -763,6 +930,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111g",
+                "all_order_1": "12121122111111111111111g",
+                "all_order_2": "121211221131133131141414115151511g",
+                "all_order_3": "121211221131133131141414115151561616g",
                 "break": [
                     0,
                     6,
@@ -770,8 +940,9 @@
                     0,
                     0
                 ],
+                "description": "四季絮乱世界的高丽野阿吽的符卡。\n一人饰演两角的弹幕。\n狛犬是从丝绸之路或相当于丝绸之路的陆地·海洋路线远道而来的，神兽们的后裔。\n正如其读音所示，“阿吽”是象征“开始与结束”，以及由此延伸出的“万物”的词汇。在幻想乡对应着位于东端的日出之地博丽神社，以及四季中的春季。\n春天令春夏秋冬构成圆环，日出令朝昼夕夜构成圆环。\n同时，连接着丝绸之路的起点与终点的狛犬，可以理解为象征着整个世界的存在。",
                 "first_order": 1,
-                "name": "狛符「独り阿吽の呼吸」",
+                "name": "狛符「单人式阿吽的呼吸」",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -788,14 +959,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121122111111111111111g",
-                "all_order_2": "121211221131133131141414115151511g",
-                "all_order_3": "121211221131133131141414115151561616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 19,
                     "boost": 0,
@@ -823,14 +992,15 @@
                         105,
                         44
                     ],
-                    "name": "独り阿吽の呼吸",
-                    "order": "",
+                    "name": "单人式阿吽的呼吸",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -857,14 +1027,15 @@
                         105,
                         44
                     ],
-                    "name": "独り阿吽の大呼吸",
-                    "order": "",
+                    "name": "单人式阿吽的大呼吸",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -881,14 +1052,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "独り阿吽の特呼吸",
-                    "order": "",
+                    "name": "单人式阿吽的特呼吸",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -912,14 +1084,15 @@
                         105,
                         44
                     ],
-                    "name": "独り阿吽の超呼吸",
-                    "order": "",
+                    "name": "单人式阿吽的超呼吸",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -936,14 +1109,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "独り阿吽の極呼吸",
-                    "order": "",
+                    "name": "单人式阿吽的极呼吸",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -968,24 +1142,21 @@
                         105,
                         44
                     ],
-                    "name": "独り阿吽の最呼吸",
-                    "order": "",
+                    "name": "单人式阿吽的最呼吸",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111111g",
+                "all_order_1": "1212113113111g",
+                "all_order_2": "121211311314151g",
+                "all_order_3": "1212113113141516g",
                 "break": [
                     0,
                     0,
@@ -993,8 +1164,9 @@
                     0,
                     0
                 ],
+                "description": "四季絮乱世界的高丽野阿吽的集中射击(东方归言录原创)。\n作为命莲寺的狛犬生活时的弹幕。\n命莲寺有狛犬这种东西吗……？\n恐怕是有的。\n狛犬本身就是和寺庙一直延续到今天的文化。\n神社中的狛犬恐怕是神佛习合时代的遗留文化。\n然而现如今没有多少寺庙摆放着狛犬。\n狛犬一直穿梭于宗教之中。\n难道说……狛犬具备瞬移能力？\n第一只前往宇宙的动物也是狗。难道说狗有穿越异界的天赋？",
                 "first_order": 1,
-                "name": "命蓮寺居候記",
+                "name": "命莲寺寄居记录",
                 "power_rate": 16,
                 "damage_extend": [
                     100,
@@ -1011,14 +1183,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212113113111g",
-                "all_order_2": "121211311314151g",
-                "all_order_3": "1212113113141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 9,
                     "boost": 0,
@@ -1041,14 +1211,15 @@
                         105,
                         44
                     ],
-                    "name": "命蓮寺居候記",
-                    "order": "",
+                    "name": "命莲寺寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -1075,14 +1246,15 @@
                         105,
                         44
                     ],
-                    "name": "命蓮寺大居候記",
-                    "order": "",
+                    "name": "命莲寺大寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -1099,14 +1271,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "命蓮寺特居候記",
-                    "order": "",
+                    "name": "命莲寺特寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1131,14 +1304,15 @@
                         105,
                         44
                     ],
-                    "name": "命蓮寺超居候記",
-                    "order": "",
+                    "name": "命莲寺超寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1158,14 +1332,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "命蓮寺極居候記",
-                    "order": "",
+                    "name": "命莲寺极寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1189,12 +1364,12 @@
                         105,
                         44
                     ],
-                    "name": "命蓮寺最居候記",
-                    "order": "",
+                    "name": "命莲寺最寄居记录",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1231,13 +1406,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_speed_up"
@@ -1251,13 +1419,6 @@
                     [
                         "skill_icon_cri_atk_up"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -1295,6 +1456,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111g",
+                "all_order_1": "12121212121111111111111111111g",
+                "all_order_2": "121212121211313131313114141414115151515111g",
+                "all_order_3": "121212121211313131313114141414115151515161616g",
                 "break": [
                     0,
                     6,
@@ -1302,8 +1466,9 @@
                     0,
                     0
                 ],
+                "description": "四季絮乱世界的高丽野阿吽的终符(东方归言录原创)。\n最初与最后连接起来的，莫比乌斯环的弹幕。\n两尊一组的狛犬之间的空间，是通往神的道路。\n是相当于N极与S极，正电荷与负电荷……磁悬浮轨道或传送门的空间。\n然而在“基点”，狛犬（准确地说是狮子）之间存在第三只灵兽。\n那就是麒麟。\n而且，是长翅膀的麒麟。\n这正是某种意义上相当于东西融合的集大成的雕像。",
                 "first_order": 1,
-                "name": "「アルファにしてオメガの季節」",
+                "name": "「阿尔法兼欧米伽的季节」",
                 "power_rate": 4,
                 "damage_extend": [
                     100,
@@ -1320,14 +1485,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121212121111111111111111111g",
-                "all_order_2": "121212121211313131313114141414115151515111g",
-                "all_order_3": "121212121211313131313114141414115151515161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 24,
                     "boost": 0,
@@ -1352,14 +1515,15 @@
                         105,
                         44
                     ],
-                    "name": "アルファの季節",
-                    "order": "",
+                    "name": "阿尔法的季节",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 5,
                     "boost": 1,
@@ -1386,14 +1550,15 @@
                         105,
                         44
                     ],
-                    "name": "アルファの大季節",
-                    "order": "",
+                    "name": "阿尔法的大季节",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 5,
                     "boost": 2,
@@ -1413,14 +1578,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "アルファの特季節",
-                    "order": "",
+                    "name": "阿尔法的特季节",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1440,14 +1606,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "オメガの超季節",
-                    "order": "",
+                    "name": "阿尔法的超季节",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1474,14 +1641,15 @@
                         105,
                         44
                     ],
-                    "name": "オメガの極季節",
-                    "order": "",
+                    "name": "阿尔法的极季节",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -1508,12 +1676,12 @@
                         105,
                         44
                     ],
-                    "name": "オメガの最季節",
-                    "order": "",
+                    "name": "阿尔法的最季节",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

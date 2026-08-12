@@ -107,7 +107,8 @@
             ],
             "cd": 1,
             "name": "近似アルゴリズム",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -133,7 +134,8 @@
             ],
             "cd": 4,
             "name": "乱択アルゴリズム",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -159,7 +161,8 @@
             ],
             "cd": 4,
             "name": "遺伝的アルゴリズム",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_blind"
         }
     ],
     "attack_skills": {

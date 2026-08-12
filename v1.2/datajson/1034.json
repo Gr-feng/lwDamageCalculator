@@ -47,10 +47,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 900,
-        "yang_def": 1000,
-        "yin_atk": 1700,
-        "yin_def": 1300
+        "yang_atk": 920,
+        "yang_def": 1020,
+        "yin_atk": 1820,
+        "yin_def": 1400
     },
     "chain_character": [
         1030,
@@ -89,7 +89,8 @@
             "c": [],
             "cd": 4,
             "name": "隠密行動",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             "c": [],
             "cd": 4,
             "name": "ダークムーン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -129,7 +131,8 @@
             "c": [],
             "cd": 4,
             "name": "ノイズキャンセル",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_attract_down"
         }
     ],
     "attack_skills": {

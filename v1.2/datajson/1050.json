@@ -31,7 +31,7 @@
         "passivity_3_name": "思考看破",
         "quality": 2011121,
         "quality_name": "地震発光現象",
-        "speed": 900,
+        "speed": 940,
         "subname": "怨霊も恐れ怯む少女",
         "total": 6900,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1390,
-        "yang_def": 1150,
-        "yin_atk": 1210,
-        "yin_def": 1050
+        "yang_atk": 1820,
+        "yang_def": 1180,
+        "yin_atk": 1270,
+        "yin_def": 1080
     },
     "chain_character": [
         1051,
@@ -90,7 +90,8 @@
             "c": [],
             "cd": 5,
             "name": "読書の知識",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_down"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             "c": [],
             "cd": 5,
             "name": "動物たちの協力",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_down"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             "c": [],
             "cd": 4,
             "name": "第三の目",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {

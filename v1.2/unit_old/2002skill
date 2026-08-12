@@ -1,0 +1,36 @@
+1:a
+5,0,1,1,15
+1:b
+1,1,1,2,2
+1:c
+1,3,1,2,2
+1:cd
+5
+1:icon
+skill_icon_sprit_powerup
+1:name
+BD -03 353
+2:a
+4,0,1,1,1
+2:b
+2,11,4,1,2
+2:c
+2,7,4,1,2
+2:cd
+5
+2:icon
+skill_icon_barrier_plus
+2:name
+HD 29139
+3:a
+1,10,1,1,2
+3:b
+1,8,1,1,2
+3:c
+8,2,1,1,1
+3:cd
+5
+3:icon
+skill_icon_cri_hit_up
+3:name
+LTT14184

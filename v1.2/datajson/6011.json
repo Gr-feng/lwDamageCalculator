@@ -112,7 +112,8 @@
             ],
             "cd": 7,
             "name": "納豆軍艦",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_rapid_skill"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 4,
             "name": "ツナマヨ軍艦",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 5,
             "name": "コーン軍艦",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_frostbite"
         }
     ],
     "attack_skills": {

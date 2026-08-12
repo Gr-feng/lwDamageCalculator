@@ -79,7 +79,8 @@
             "c": [],
             "cd": 5,
             "name": "月の羽衣",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 6,
             "name": "強化薬づくり",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -119,7 +121,8 @@
             "c": [],
             "cd": 6,
             "name": "透視薬づくり",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

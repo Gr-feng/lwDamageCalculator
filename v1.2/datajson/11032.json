@@ -86,7 +86,8 @@
             ],
             "cd": 2,
             "name": "壁際の原型師",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 2,
             "name": "定刻どおりの搬入搬出",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 6,
             "name": "〆切(ガレキ)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

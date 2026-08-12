@@ -90,7 +90,8 @@
             "c": [],
             "cd": 5,
             "name": "ニンフクラフト",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_up"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             "c": [],
             "cd": 4,
             "name": "女神のジェスター",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             "c": [],
             "cd": 5,
             "name": "更なる狂気",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

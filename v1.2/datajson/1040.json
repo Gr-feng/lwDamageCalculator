@@ -97,7 +97,8 @@
             "c": [],
             "cd": 5,
             "name": "光学迷彩マント",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_down"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             "c": [],
             "cd": 5,
             "name": "失敗試作品",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -125,7 +127,8 @@
             "c": [],
             "cd": 4,
             "name": "水陸両用チャフ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {

@@ -113,7 +113,8 @@
             ],
             "cd": 4,
             "name": "ガチャガチャ魔蓮掌",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -139,7 +140,8 @@
             ],
             "cd": 5,
             "name": "ポチポチ魔蓮掌",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -165,7 +167,8 @@
             ],
             "cd": 6,
             "name": "魔蓮掌にチョップ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_up"
         }
     ],
     "attack_skills": {

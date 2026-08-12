@@ -31,7 +31,7 @@
         "passivity_3_name": "龍の預言",
         "quality": 21121010,
         "quality_name": "台風",
-        "speed": 1305,
+        "speed": 1470,
         "subname": "美しき緋の衣",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 7,
         "world_group": "L1",
-        "yang_atk": 1455,
-        "yang_def": 985,
-        "yin_atk": 1355,
-        "yin_def": 915
+        "yang_atk": 1590,
+        "yang_def": 1020,
+        "yin_atk": 1415,
+        "yin_def": 1020
     },
     "chain_character": [
         1082,
@@ -80,7 +80,8 @@
             "c": [],
             "cd": 3,
             "name": "宏観異常現象",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 4,
             "name": "電磁誘導",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 5,
             "name": "大電磁界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

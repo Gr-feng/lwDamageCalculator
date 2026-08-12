@@ -80,7 +80,8 @@
             "c": [],
             "cd": 5,
             "name": "月の地獄",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 5,
             "name": "異界の地獄",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 5,
             "name": "地球の地獄",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

@@ -85,7 +85,8 @@
             ],
             "cd": 4,
             "name": "医療用ペン",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             ],
             "cd": 5,
             "name": "秘密のカルテ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             ],
             "cd": 5,
             "name": "アストラル・ドアー(看護)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_atk_up_type2"
         }
     ],
     "attack_skills": {

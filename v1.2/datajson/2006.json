@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "属性相乗",
         "quality": 11222220,
         "quality_name": "鰊曇",
-        "speed": 750,
+        "speed": 770,
         "subname": "[紅]知識と日陰の少女",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "A6",
-        "yang_atk": 1825,
-        "yang_def": 800,
-        "yin_atk": 1850,
-        "yin_def": 825
+        "yang_atk": 1845,
+        "yang_def": 910,
+        "yin_atk": 1920,
+        "yin_def": 1145
     },
     "chain_character": [
         4001,
@@ -95,7 +95,8 @@
             "c": [],
             "cd": 5,
             "name": "マイティウィンド",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -121,7 +122,8 @@
             ],
             "cd": 6,
             "name": "カレイジャスファイア",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -141,7 +143,8 @@
             "c": [],
             "cd": 7,
             "name": "ロバストアース",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "産土ジェネレーター",
         "quality": 21210110,
         "quality_name": "五月雨",
-        "speed": 1050,
+        "speed": 1270,
         "subname": "[風]土着神の頂点",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 8,
         "world_group": "A10",
-        "yang_atk": 1875,
-        "yang_def": 925,
-        "yin_atk": 1200,
-        "yin_def": 850
+        "yang_atk": 2000,
+        "yang_def": 1030,
+        "yin_atk": 1255,
+        "yin_def": 915
     },
     "chain_character": [
         4037,
@@ -78,7 +78,8 @@
             "c": [],
             "cd": 5,
             "name": "氏神の怒り",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 5,
             "name": "対入諏防衛戦線",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 5,
             "name": "守屋山神",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

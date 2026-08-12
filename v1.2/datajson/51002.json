@@ -81,7 +81,8 @@
             ],
             "cd": 3,
             "name": "かしおぺや座あーる星",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_delay_spellcard"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 5,
             "name": "おうし座あるふぁー星",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 6,
             "name": "ゆっくりうちわ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_union"
         }
     ],
     "attack_skills": {

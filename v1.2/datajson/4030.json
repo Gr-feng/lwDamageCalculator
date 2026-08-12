@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "陶醉于常夏世界的琪露诺的能力(东方归言录原创)。\n能力和其他世界的琪露诺相比几乎没有区别。\n和其他世界一样，这个世界的妖精也是微不足道的存在。\n但是……和其他世界一样，这个世界的妖精也没那么简单。\n\n冰精琪露诺陷入了烦恼。\n自己确实喜欢夏天。\n但一直是夏天的话，大家的感激之情将逐渐消失。\n此处的感激对象不是指夏天，而是冰凉的冰精。\n大家时不时会呆在自己身边乘凉。这件事本身令琪露诺很满意。\n但是……感觉大家“习惯”了。\n感觉大家……已经腻了？\n不，难道是老娘开始厌倦夏天了吗……！？\n这怎么可能。\n在烈日下撒野撒到皮肤晒得黑黑的老娘，正是盛夏的王者。\n如果被如此伟大的老娘玩腻了，那夏天也太可怜了。\n\n……嗯？\n说起来老娘以前也突然晒黑过诶。\n当时……是怎么了来着？\n话说夏天是从什么时候开始的？\n\n算了。\n细节就交给弱者们在意吧。\n听说她们要去调查什么东西。\n比起这种事情，老娘知道该怎么让夏天变得更有趣了！\n这比做调查要重要得多，是值得老娘挑战的伟业。\n蕾蒂说她不知道该怎么制作大量的冰激凌……那就轮到老娘出马了！\n\n于是琪露诺的大作战开始了。\n作战非常成功！\n很久之后……\n\n“琪露诺酱琪露诺酱。”\n“怎么了，大酱。”\n“我们在这里做这种事情……真的没问题吗？”\n这里是指海边的沙滩，这种事情是指把冰激凌分成两半并一个接一个地吃进肚子里。\n没问题……是指什么呢？\n“琪露诺酱琪露诺酱。”\n大酱的语气比刚才重了一些。\n“我们的皮肤……真的能恢复原状吗？”",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>30%",
+        "ability_effect_d3": "免疫结界异常「<color=#CCAA00>冻结</color>」「<color=#CCAA00>感电</color>」「<color=#CCAA00>毒雾</color>」「<color=#CCAA00>黑暗</color>」且<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.20",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「操纵冷气程度的能力(海)」",
         "advantage_attack": 30,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 5,
         "barrier_status_3": 5,
         "barrier_status_4": 5,
         "barrier_status_5": 5,
-        "bgm": 30403001,
+        "bgm": "常夏☆Holiday",
         "boost_buff": 6,
         "boost_target": 1,
         "break_cost": 503,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "スピード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>速度、命中、回避</color>强度上升的一部分(3回合)",
+        "chain_name": "速度连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "老娘是琪露诺！ 喂，喂！若鹭姬！ 在陆地跳来跳去会有危险的！",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 6000,
-        "name": "チルノ",
-        "passivity_1_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>凍結</color>」を1枚<color=#0066FF>付与</color> (3T) [発生率100%]",
+        "jp_name": "ちるの",
+        "lines1": "若鹭姬又快成鱼干了！你等着，老娘来救你！看我的特制冰激凌弹幕！ 看招！ ――好，赶上了。太好了。……最强的老娘，必须守护老娘以外的存在。这是盛夏的太阳告诉老娘的，笨蛋也知道的宿命。没错，老娘正是充满勇气的妖精英雄，琪露诺。你看起来也很热呢，尝尝冰激凌吧。话说回来……老娘为什么会在博丽神社？",
+        "lines10": "之所以老娘的世界一直都是夏天，一定是因为叫做隐岐奈？的神明！这是最强的直觉！",
+        "lines11": "给老娘材料，老娘就给你做冰激凌。老娘总是会给大酱做冰激凌吃。她可喜欢老娘的冰激凌了。",
+        "lines12": "……老娘晒得有那么黑吗？ 大酱也好桑尼也好露娜也好斯塔也好皮丝也好拉尔瓦也好莉莉也好……都和老娘差不多诶。",
+        "lines13": "天气暖和起来了～！ 若鹭姬差不多又该在陆地晒成干了。老娘得看着她！",
+        "lines14": "夏天！ 泳装！ 大海！ 皮丝总和老娘炫耀月之海的事情。好羡慕。……对了，老娘就飞到月亮吧！",
+        "lines15": "烤红薯太美味了。你是不是也这么觉得？那我告诉你一个好消息。烤红薯配上香草冰激凌会更好吃！",
+        "lines16": "冬天原本就很冷，所以老娘会显得不起眼。闲来无事散步时人类问老娘冷不冷。稍微有点开心呢。",
+        "lines17": "你在做作业吗？那么奖励是冰激凌。",
+        "lines18": "做完作业了？ 你要不要老娘吃了一半的冰激凌？",
+        "lines19": "航空信？ 那是什么？",
+        "lines2": "老娘会战胜大海。因为老娘是最强！",
+        "lines20": "今天也发了好多冰激凌！ 好开心～！",
+        "lines21": "有人回来了。用带回来的食材做冰激凌吧！",
+        "lines22": "躺在若鹭姬的膝盖上睡觉时，她会感到又凉又舒服。",
+        "lines23": "若鹭姬又温柔又柔软……等等，你怎么躺在老娘的膝盖上睡着了！？",
+        "lines24": "算了，老娘的膝盖也是最强……好孩子好孩子。",
+        "lines25": "老娘一个人就能冻住大海！",
+        "lines26": "大，大海还有多大？",
+        "lines27": "虽然大海很大，但看这架势马上就都冻上了！",
+        "lines28": "呼……呼……大海是超乎老娘想象的大水坑诶",
+        "lines29": "冰凉",
+        "lines3": "雾之湖沉在了海底。但老娘没有放弃。",
+        "lines30": "美味",
+        "lines31": "特大冰激凌！",
+        "lines32": "冰糕",
+        "lines33": "雪糕",
+        "lines34": "冰激凌！",
+        "lines35": "你吃吗？",
+        "lines36": "好吃吗？",
+        "lines37": "好啊！",
+        "lines38": "看老娘的厉害！",
+        "lines39": "要上喽—！",
+        "lines4": "“新·雾之湖”的生活也不错，但老娘还是想取回原本的生活。这当然是最理想的结果！",
+        "lines40": "和澳洲牛肉一起冷冻保存",
+        "lines41": "给老娘也来一份！",
+        "lines42": "给你冰激凌！",
+        "lines43": "是碳酸口味！",
+        "lines44": "统统都是冰激凌！",
+        "lines45": "蕾蒂！　谢谢你教老娘　\n怎么做冰激凌！",
+        "lines46": "多亏了你　大家可开心了　\n夏天！　冰激凌！　町田房藏！",
+        "lines47": "冰符「究极冰激凌」",
+        "lines48": "咦？　大酱好像晒黑了？　\n奇怪！？　老娘的皮肤也黑了！",
+        "lines49": "以前好像也发生过类似的事情诶？　\n算了！　吃两口冰激凌就好了！",
+        "lines5": "取回雾之湖的方法？很简单。……哼哼，看来你也终究不过是小孩子呢。老娘来教你。海水上来了，所以雾之湖沉了。那让海水下去就行了！",
+        "lines50": "「冰棍好凉！！！」",
+        "lines51": "谁在尖叫？　\n难道若鹭姬　又陷入了危机吗！？",
+        "lines52": "老娘是最强　所以绝不抠门\n一倍　二倍　不……是三倍！",
+        "lines53": "「永夏冰激凌」",
+        "lines54": "呜",
+        "lines55": "呜咕！",
+        "lines56": "老娘没事！",
+        "lines57": "要，要融化了！",
+        "lines58": "太好了～！",
+        "lines59": "你不想要冰激凌吗？ 真奇怪",
+        "lines6": "老娘和慧音讲了这个方案后，她说让水作为冰留在陆地上的话海面确实可能会下降。……虽，虽然不是很懂，但不愧是老娘！ 好，老娘就叫上桑尼和大酱她们一起展开行动吧！",
+        "lines60": "东方归言录",
+        "lines61": "好",
+        "lines62": "那算了",
+        "lines63": "谢了！",
+        "lines64": "大酱的泳装好可爱！",
+        "lines65": "桑尼、皮丝。你们不要逞强。最成熟的……大概是拉尔瓦。",
+        "lines7": "这样吗，大海比老娘想象中的要棘手呢。看来得和大家一起制定计划。……你觉得很意外？老娘有时候也会找伙伴帮忙。有时候合作会带来更好的结果。什么？你是想说老娘很聪明？诶嘿嘿，你才发现吗～？",
+        "lines8": "老娘是不是晒得更黑了？感觉好奇怪～！",
+        "lines9": "若鹭姬不光是怕热，在水以外的地方也难以生存。但她却总是想从水里跳出去。为了安全起见，老娘决定跟着她。而且她会给我漂亮的石头。",
+        "name": "琪露诺",
+        "passivity_1_description": "战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>冻结</color>」 (3回合) [发生率100%]",
         "passivity_1_icon": "characteristic_icon_26",
-        "passivity_1_name": "本物そっくりスイカ味",
-        "passivity_2_description": "体力100%以上で攻撃された時、<color=#CCAA00>受けるダメージ</color>を99%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_name": "西瓜味冰激凌",
+        "passivity_2_description": "体力在100%以上遭到攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>99% [发生率100%]",
         "passivity_2_icon": "characteristic_icon_38",
-        "passivity_2_name": "メロン型のメロン味",
-        "passivity_3_description": "Wave開始時、相手単体の<color=#CCAA00>回避</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%]",
+        "passivity_2_name": "蜜瓜型冰激凌",
+        "passivity_3_description": "战斗开始时，敌方单体<color=#CCAA00>回避</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%]",
         "passivity_3_icon": "characteristic_icon_19",
-        "passivity_3_name": "本物を使ったリンゴ味",
+        "passivity_3_name": "苹果冰激凌",
         "quality": 21221011,
-        "quality_name": "流氷",
+        "quality_description": "陶醉于常夏世界的琪露诺的气质(东方归言录原创)。\n“流冰”指漂浮在海上的冰块。\n是完美符合在常夏世界晒黑的冰精的气质。\n\n琪露诺超喜欢夏天。\n因为冰凉的冰精在盛夏大受欢迎。\n晒得黑黑的肌肤是夏日的勋章（日精），而且冰精根本不怕热（火行），还能用冰激凌补充水分（水行）。\n把冰激凌的费用交出来（金行）？为什么？\n\n琪露诺有几种获取冰激凌的方式。\n她可以自己做，也可以买（买？）已经做好的冰激凌。\n做冰激凌时有时会使用天然的水果，有时候会使用“冰淇淋粉”。\n你问琪露诺最喜欢哪种冰激凌？\n当然是全都喜欢！",
+        "quality_name": "流冰",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 20,
+        "rank_up_lv0_2_name": "虎之卷轴-一",
+        "rank_up_lv0_2_value": 30,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "真南蛮",
+        "rank_up_lv0_4_value": 20,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "鸟之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "菊之华片-二",
+        "rank_up_lv1_1_value": 20,
+        "rank_up_lv1_2_name": "虎之卷轴-二",
+        "rank_up_lv1_2_value": 20,
+        "rank_up_lv1_3_name": "鸟之卷轴-一",
+        "rank_up_lv1_3_value": 30,
+        "rank_up_lv1_4_name": "竹之华片-二",
+        "rank_up_lv1_4_value": 20,
+        "rank_up_lv1_5_name": "菊之华片-一",
+        "rank_up_lv1_5_value": 30,
+        "rank_up_lv1_6_name": "鸟之卷轴-二",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "菊之华片-三",
+        "rank_up_lv2_1_value": 40,
+        "rank_up_lv2_2_name": "虎之卷轴-三",
+        "rank_up_lv2_2_value": 40,
+        "rank_up_lv2_3_name": "菊之华片-二",
+        "rank_up_lv2_3_value": 40,
+        "rank_up_lv2_4_name": "鸟之卷轴-二",
+        "rank_up_lv2_4_value": 40,
+        "rank_up_lv2_5_name": "攻击指南书-二",
+        "rank_up_lv2_5_value": 40,
+        "rank_up_lv2_6_name": "鸟之卷轴-三",
+        "rank_up_lv2_6_value": 40,
+        "rank_up_lv3_1_name": "菊之华片-三",
+        "rank_up_lv3_1_value": 50,
+        "rank_up_lv3_2_name": "虎之卷轴-三",
+        "rank_up_lv3_2_value": 50,
+        "rank_up_lv3_3_name": "地之卷轴-二",
+        "rank_up_lv3_3_value": 60,
+        "rank_up_lv3_4_name": "竹之华片-三",
+        "rank_up_lv3_4_value": 50,
+        "rank_up_lv3_5_name": "攻击指南书-二",
+        "rank_up_lv3_5_value": 60,
+        "rank_up_lv3_6_name": "鸟之卷轴-三",
+        "rank_up_lv3_6_value": 50,
+        "rank_up_lv4_1_name": "地之卷轴-三",
+        "rank_up_lv4_1_value": 70,
+        "rank_up_lv4_2_name": "虎之卷轴-三",
+        "rank_up_lv4_2_value": 70,
+        "rank_up_lv4_3_name": "竹之华片-三",
+        "rank_up_lv4_3_value": 70,
+        "rank_up_lv4_4_name": "菊之华片-三",
+        "rank_up_lv4_4_value": 70,
+        "rank_up_lv4_5_name": "攻击指南书-三",
+        "rank_up_lv4_5_value": 70,
+        "rank_up_lv4_6_name": "鸟之卷轴-三",
+        "rank_up_lv4_6_value": 70,
+        "short_name": "琪露诺",
         "speed": 1800,
-        "subname": "海上の氷精",
+        "subname": "海上的冰精",
         "total": 7800,
         "tribe": [
             7,
@@ -46,14 +182,22 @@
             95
         ],
         "type": 7,
+        "vocal1": "藤代侑李",
+        "vocal2": "河井晴菜",
+        "vocal3": "飯田ヒカル",
+        "voice1": "不会融化的冰菓程度的声音",
+        "voice2": "盛夏的冰激凌程度的声音",
+        "voice3": "夏天超有人气程度的声音",
         "world_group": "C3",
+        "world_group_description": "从属于“C系列世界团(C世界团)”的世界群之一。\n“C3世界群”更为特殊，在“C世界团”中偏差度约为“3”，属于特殊要素十分突出的一类。\n一般认为“C”这一记号意为“Colloquialism”，即“俗语”。\n\n【主要分歧点】\n不明(与众多分歧点群相关)。\n所属C世界团的世界基本上都被大量的水充满，与其相似的世界几乎不存在，难以判断其起源和发展过程。\n\n【主要收束点】\n不明(严重缺乏情报)。\n现在可知的是，该世界群不只和其他世界群，还和其他世界团有着显著的合流倾向。",
+        "world_group_name": "C3世界群",
         "yang_atk": 1750,
         "yang_def": 1000,
         "yin_atk": 1050,
-        "yin_def": 1000
+        "yin_def": 1000,
+        "id": 4030
     },
     "chain_character": [
-        3097,
         2096,
         10003,
         10004,
@@ -81,11 +225,21 @@
         2087,
         2077,
         7005,
-        6037
+        6037,
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "陶醉于常夏世界的琪露诺的常服。\n使用的是海之家的收费泳圈。",
+            "costume_name1": "海上的冰精"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 2,
@@ -108,10 +262,12 @@
                 3
             ],
             "cd": 6,
-            "name": "さわやかオレンジ味",
-            "id": 1
+            "name": "清爽橘子味",
+            "description": "令人联想到夏天的柑橘。\n夏天就是得吃酸爽可口的东西！",
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
+            "id": 2,
             "a": [
                 8,
                 1,
@@ -134,10 +290,12 @@
                 40
             ],
             "cd": 4,
-            "name": "あじわいグレープ味",
-            "id": 2
+            "name": "浓郁葡萄味",
+            "description": "浓厚的味道与浓郁的香气。\n有一种大人的感觉诶ー。",
+            "icon": "skill_icon_fast"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 1,
@@ -160,8 +318,9 @@
                 4
             ],
             "cd": 5,
-            "name": "人気のソーダ味",
-            "id": 3
+            "name": "高人气苏打味",
+            "description": "苏打味就是棒！\n来，张嘴！给你一半。",
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {
@@ -262,6 +421,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111g",
+                "all_order_1": "12121211111111111g",
+                "all_order_2": "121212113131141411111g",
+                "all_order_3": "121212113131141411515116g",
                 "break": [
                     0,
                     6,
@@ -269,8 +431,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常夏世界的琪露诺的符卡(东方归言录原创)。\n炫耀究极冰激凌的弹幕。\n正如琪露诺期待的那样，冰激凌一口气就在幻想乡流行起来了。\n蕾蒂总是会收到关于版权使用费的报告和新作的商谈。\n那么琪露诺收到了什么样的好处呢？答案是蕾蒂会向她免费提供冰激凌。\n因为对蕾蒂来讲，琪露诺无疑是恩人。",
                 "first_order": 1,
-                "name": "氷符「アルティメットソフトクリーム」",
+                "name": "冰符「究极冰激凌」",
                 "power_rate": 17,
                 "damage_extend": [
                     100,
@@ -287,14 +450,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "12121211111111111g",
-                "all_order_2": "121212113131141411111g",
-                "all_order_3": "121212113131141411515116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 14,
                     "boost": 0,
@@ -317,14 +478,15 @@
                         178,
                         90
                     ],
-                    "name": "究極のソフトクリーム",
-                    "order": "",
+                    "name": "究极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 3,
                     "boost": 1,
@@ -344,14 +506,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "究極のハイソフトクリーム",
-                    "order": "",
+                    "name": "High究极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 85,
                     "amt": 2,
                     "boost": 2,
@@ -368,14 +531,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "究極のメガソフトクリーム",
-                    "order": "",
+                    "name": "Mega究极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 85,
                     "amt": 2,
                     "boost": 2,
@@ -402,14 +566,15 @@
                         178,
                         90
                     ],
-                    "name": "究極のギガソフトクリーム",
-                    "order": "",
+                    "name": "Giga究极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -430,14 +595,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "究極のテラソフトクリーム",
-                    "order": "",
+                    "name": "Tera究极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -467,24 +633,21 @@
                         178,
                         90
                     ],
-                    "name": "究極のペタソフトクリーム",
-                    "order": "",
+                    "name": "Peta究极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111111111g",
+                "all_order_1": "1212113131111111g",
+                "all_order_2": "121211313114115111g",
+                "all_order_3": "1212113131141151161g",
                 "break": [
                     0,
                     6,
@@ -492,8 +655,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常夏世界的琪露诺的扩散射击(东方归言录原创)。\n冰激凌版平时的弹幕。\n在漫长的夏日中，需要给人生换换口味。\n说到夏日美食，我们自然会想到冰激凌。\n那如果每天都能想吃多少冰激凌就能吃多少冰激凌的话？\n于是琪露诺的大作战开始了。",
                 "first_order": 1,
-                "name": "パーフェクトサマーアイス(菓)",
+                "name": "完美的夏日冰激凌",
                 "power_rate": 38,
                 "damage_extend": [
                     100,
@@ -510,14 +674,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212113131111111g",
-                "all_order_2": "121211313114115111g",
-                "all_order_3": "1212113131141151161g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 12,
                     "boost": 0,
@@ -539,14 +701,15 @@
                         178,
                         90
                     ],
-                    "name": "完全なる夏の氷(菓)",
-                    "order": "",
+                    "name": "完美的夏日冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 2,
                     "boost": 1,
@@ -566,14 +729,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "完全なる夏の大氷(菓)",
-                    "order": "",
+                    "name": "完美的夏日大冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 2,
                     "boost": 1,
@@ -593,14 +757,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "完全なる夏の特氷(菓)",
-                    "order": "",
+                    "name": "完美的夏日特冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -621,14 +786,15 @@
                         178,
                         90
                     ],
-                    "name": "完全なる夏の超氷(菓)",
-                    "order": "",
+                    "name": "完美的夏日超冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -645,14 +811,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "完全なる夏の極氷(菓)",
-                    "order": "",
+                    "name": "完美的夏日极冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -679,12 +846,12 @@
                         178,
                         90
                     ],
-                    "name": "完全なる夏の最氷(菓)",
-                    "order": "",
+                    "name": "完美的夏日最冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -721,13 +888,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_barrier_frostbite"
@@ -741,13 +901,6 @@
                     [
                         "skill_icon_cri_def_down"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -785,6 +938,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111g",
+                "all_order_1": "112212121113131311141411111g",
+                "all_order_2": "1122121211131313111414111511g",
+                "all_order_3": "11221212111313131114141115116g",
                 "break": [
                     0,
                     6,
@@ -792,8 +948,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常夏世界的琪露诺的符卡(东方归言录原创)。\n不分对象提供连冰精都觉得凉的冰棍的弹幕。\n桑尼”你要给我冰激凌吃？话说每次见面时琪露诺你都会给我冰激凌呢。是有什么秘密吗？“\n露娜”这不是蕾蒂的冰激凌吗！我一直想吃吃看……！但你为什么会有这种东西？“\n斯塔”原来如此，免费获得冰激凌的方法吗。想不到你还会动脑子！“\n莉莉”春天都不见了，我现在顾不上这种问题。但给我我就要……有没有樱饼味的冰激凌？“\n皮丝”小孩子才吃冰棍。成熟的我要吃盒装冰激凌。……有大的和小的？那我要大的！“\n拉尔瓦”我们下次一起做冰激凌吧！蕾蒂的冰激凌制作器可有人气了！你说我很兴奋？那当然了，因为一直都是夏天！哼哼哼……！“",
                 "first_order": 1,
-                "name": "「アイスキャンディ冷たぁぁぁい！」",
+                "name": "「冰棍好凉！！！」",
                 "power_rate": 7,
                 "damage_extend": [
                     100,
@@ -810,14 +967,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "112212121113131311141411111g",
-                "all_order_2": "1122121211131313111414111511g",
-                "all_order_3": "11221212111313131114141115116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 18,
                     "boost": 0,
@@ -844,14 +999,15 @@
                         178,
                         90
                     ],
-                    "name": "二番目に冷たい氷菓",
-                    "order": "",
+                    "name": "第二凉的冰菓",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 4,
                     "boost": 1,
@@ -868,14 +1024,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "二番目に冷たい大氷菓",
-                    "order": "",
+                    "name": "第二凉的大冰菓",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 3,
                     "boost": 1,
@@ -896,14 +1053,15 @@
                         178,
                         90
                     ],
-                    "name": "二番目に冷たい特氷菓",
-                    "order": "",
+                    "name": "第二凉的特冰菓",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 90,
                     "amt": 2,
                     "boost": 1,
@@ -925,14 +1083,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "二番目に冷たい超氷菓",
-                    "order": "",
+                    "name": "第二凉的超冰菓",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 85,
                     "amt": 1,
                     "boost": 2,
@@ -956,14 +1115,15 @@
                         178,
                         90
                     ],
-                    "name": "二番目に冷たい極氷菓",
-                    "order": "",
+                    "name": "第二凉的极冰菓",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -989,24 +1149,21 @@
                         178,
                         90
                     ],
-                    "name": "二番目に冷たい最氷菓",
-                    "order": "",
+                    "name": "第二凉的最冰菓",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111g",
+                "all_order_1": "11112134g",
+                "all_order_2": "111121345g",
+                "all_order_3": "1111213456g",
                 "break": [
                     0,
                     6,
@@ -1014,8 +1171,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常夏世界的琪露诺的集中射击(东方归言录原创)。\n冰激凌版平时的弹幕。\n老娘和蕾蒂合作的话能制作好多超凉的冰。\n蕾蒂能用这些冰做各种各样的冰激凌。\n蕾蒂的冰激凌超好吃，所以一定会超有人气，销量会超火爆。\n过不了多久，山童之类的家伙恐怕就会借用蕾蒂的名号大量生产冰激凌。\n幻想乡将迎来冰激凌热潮！\n到时候山童以外的家伙也会做冰激凌。\n但蕾蒂也会为了对抗她们卖更多的冰激凌，所以会越来越流行吃冰激凌！",
                 "first_order": 1,
-                "name": "真夏のスノーマン(菓)",
+                "name": "盛夏雪人(冰菓)",
                 "power_rate": 31,
                 "damage_extend": [
                     100,
@@ -1032,14 +1190,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "11112134g",
-                "all_order_2": "111121345g",
-                "all_order_3": "1111213456g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 5,
                     "boost": 0,
@@ -1060,14 +1216,15 @@
                         178,
                         90
                     ],
-                    "name": "真夏のスノーマン(菓)",
-                    "order": "",
+                    "name": "盛夏冰人(冰菓)",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -1087,14 +1244,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "真夏のハイスノーマン(菓)",
-                    "order": "",
+                    "name": "High盛夏冰人(冰菓)",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -1111,14 +1269,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "真夏のメガスノーマン(菓)",
-                    "order": "",
+                    "name": "Mega盛夏冰人(冰菓)",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -1143,14 +1302,15 @@
                         178,
                         90
                     ],
-                    "name": "真夏のギガスノーマン(菓)",
-                    "order": "",
+                    "name": "Giga盛夏冰人(冰菓)",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1175,14 +1335,15 @@
                         178,
                         90
                     ],
-                    "name": "真夏のテラスノーマン(菓)",
-                    "order": "",
+                    "name": "Tera盛夏冰人(冰菓)",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -1205,12 +1366,12 @@
                         178,
                         90
                     ],
-                    "name": "真夏のペタスノーマン(菓)",
-                    "order": "",
+                    "name": "Peta盛夏冰人(冰菓)",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -1253,13 +1414,6 @@
                         3
                     ]
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_speed_up"
@@ -1276,13 +1430,6 @@
                     [
                         "skill_icon_cri_dodge_down"
                     ]
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
                 ],
                 "type_before": [
                     [
@@ -1319,6 +1466,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111111111g",
+                "all_order_1": "1121212121211111111111111111111g",
+                "all_order_2": "112121212121113133113111414141411111111g",
+                "all_order_3": "112121212121113133113111414141411515151161616g",
                 "break": [
                     0,
                     6,
@@ -1326,8 +1476,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常夏世界的琪露诺的终符(东方归言录原创)。\n用冰激凌冻结永不结束的夏日回忆的弹幕。\n蕾蒂每天都会给琪露诺多到吃不下的冰激凌。\n琪露诺的计划非常成功。\n夏天稍微凉快了一点，而且更有趣了。\n把蕾蒂的儿童向新款冰淇淋一分为二后，明显一个大一个小。\n旁边的大酱笑了起来。\n老娘也不禁笑了起来。\n这或许，就是所谓的夏日。",
                 "first_order": 1,
-                "name": "「エターナルサマーアイスクリーム」",
+                "name": "「永夏冰激凌」",
                 "power_rate": 4,
                 "damage_extend": [
                     100,
@@ -1344,14 +1495,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1121212121211111111111111111111g",
-                "all_order_2": "112121212121113133113111414141411111111g",
-                "all_order_3": "112121212121113133113111414141411515151161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 26,
                     "boost": 0,
@@ -1377,14 +1526,15 @@
                         178,
                         90
                     ],
-                    "name": "永夏のアイスクリーム",
-                    "order": "",
+                    "name": "永夏冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 95,
                     "amt": 5,
                     "boost": 1,
@@ -1409,14 +1559,15 @@
                         178,
                         90
                     ],
-                    "name": "永夏の半分アイスクリーム",
-                    "order": "",
+                    "name": "永夏之半份冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 4,
                     "boost": 2,
@@ -1436,14 +1587,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "永夏の等倍アイスクリーム",
-                    "order": "",
+                    "name": "永夏之等倍冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 90,
                     "amt": 4,
                     "boost": 2,
@@ -1471,14 +1623,15 @@
                         178,
                         90
                     ],
-                    "name": "永夏の1倍アイスクリーム",
-                    "order": "",
+                    "name": "永夏之1倍冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 85,
                     "amt": 3,
                     "boost": 3,
@@ -1498,14 +1651,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "永夏の2倍アイスクリーム",
-                    "order": "",
+                    "name": "永夏之2倍冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 85,
                     "amt": 3,
                     "boost": 3,
@@ -1533,12 +1687,12 @@
                         178,
                         90
                     ],
-                    "name": "永夏の3倍アイスクリーム",
-                    "order": "",
+                    "name": "永夏之3倍冰激凌",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         }

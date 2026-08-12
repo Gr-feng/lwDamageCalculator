@@ -76,7 +76,8 @@
             ],
             "cd": 6,
             "name": "萃めすぎた鬼の力",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -102,7 +103,8 @@
             ],
             "cd": 4,
             "name": "散らしすぎた怪しさ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -128,7 +130,8 @@
             ],
             "cd": 6,
             "name": "永すぎる宴会",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

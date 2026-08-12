@@ -86,7 +86,8 @@
             "c": [],
             "cd": 5,
             "name": "厚手の巫女服",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 5,
             "name": "雪祓いのお祓い棒",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 4,
             "name": "春呼びの森羅結界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

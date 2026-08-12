@@ -31,7 +31,7 @@
         "passivity_3_name": "賢将",
         "quality": 10111202,
         "quality_name": "光芒",
-        "speed": 1225,
+        "speed": 1370,
         "subname": "ダウザーの小さな大将",
         "total": 6450,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 2,
         "world_group": "L1",
-        "yang_atk": 1540,
-        "yang_def": 715,
-        "yin_atk": 915,
-        "yin_def": 1155
+        "yang_atk": 1830,
+        "yang_def": 820,
+        "yin_atk": 1030,
+        "yin_def": 1220
     },
     "chain_character": [
         1024,
@@ -90,7 +90,8 @@
             "c": [],
             "cd": 4,
             "name": "毘沙門バックアップ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             "c": [],
             "cd": 5,
             "name": "アシスタントマウス",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             "c": [],
             "cd": 6,
             "name": "レア度鑑定",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

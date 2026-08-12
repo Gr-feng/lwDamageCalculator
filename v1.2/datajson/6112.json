@@ -109,7 +109,8 @@
             ],
             "cd": 4,
             "name": "マージソート",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 4,
             "name": "クイックソート",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 5,
             "name": "ヒープソート",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {

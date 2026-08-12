@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "フォトシンセシス",
         "quality": 2121011,
         "quality_name": "花嵐",
-        "speed": 1160,
+        "speed": 1240,
         "subname": "四季のフラワーマスター",
         "total": 6900,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1440,
-        "yang_def": 910,
-        "yin_atk": 1400,
-        "yin_def": 990
+        "yang_atk": 1720,
+        "yang_def": 1020,
+        "yin_atk": 1470,
+        "yin_def": 1020
     },
     "chain_character": [
         2002,
@@ -86,7 +86,8 @@
             "c": [],
             "cd": 5,
             "name": "キャピラリィアクション",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             "c": [],
             "cd": 5,
             "name": "アルカロイド",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 6,
             "name": "棘無きは薔薇に非ず",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -116,7 +116,8 @@
             ],
             "cd": 5,
             "name": "経絡治水術",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -142,7 +143,8 @@
             ],
             "cd": 5,
             "name": "戦略治水術",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -168,7 +170,8 @@
             ],
             "cd": 2,
             "name": "巫山神女の鬼神召喚",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {

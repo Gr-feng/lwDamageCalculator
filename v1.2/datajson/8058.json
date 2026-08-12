@@ -78,7 +78,8 @@
             ],
             "cd": 4,
             "name": "燃えすぎる松明",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 4,
             "name": "地獄すぎる道化",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 6,
             "name": "おしゃれすぎるリーダー",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 20,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "幽々子専属警護役",
         "quality": 2011121,
         "quality_name": "青空",
-        "speed": 1190,
+        "speed": 1220,
         "subname": "[妖]幽人の庭師",
         "total": 6900,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 8,
         "world_group": "A7",
-        "yang_atk": 1460,
-        "yang_def": 890,
-        "yin_atk": 1460,
-        "yin_def": 890
+        "yang_atk": 1710,
+        "yang_def": 920,
+        "yin_atk": 1710,
+        "yin_def": 920
     },
     "chain_character": [
         2013,
@@ -88,7 +88,8 @@
             "c": [],
             "cd": 4,
             "name": "未熟な剣術",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             "c": [],
             "cd": 4,
             "name": "妖忌の教え",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             ],
             "cd": 5,
             "name": "春集め",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

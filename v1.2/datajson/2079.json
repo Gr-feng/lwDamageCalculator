@@ -107,7 +107,8 @@
             ],
             "cd": 4,
             "name": "赤のシャットアウト",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -133,7 +134,8 @@
             ],
             "cd": 2,
             "name": "熱狂ノーヒットノーラン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -159,7 +161,8 @@
             ],
             "cd": 6,
             "name": "ラストパーフェクトゲーム",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

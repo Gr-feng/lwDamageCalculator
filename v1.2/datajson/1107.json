@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "野次馬根性",
         "quality": 10102112,
         "quality_name": "バタフライ効果",
-        "speed": 1150,
+        "speed": 1370,
         "subname": "神に近づく蝶の妖精",
         "total": 6000,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 2,
         "world_group": "L1",
-        "yang_atk": 695,
-        "yang_def": 900,
-        "yin_atk": 1500,
-        "yin_def": 715
+        "yang_atk": 720,
+        "yang_def": 1020,
+        "yin_atk": 1870,
+        "yin_def": 970
     },
     "chain_character": [
         1058,
@@ -87,7 +87,8 @@
             "c": [],
             "cd": 4,
             "name": "完全変態",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             "c": [],
             "cd": 4,
             "name": "急速成長",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -127,7 +129,8 @@
             "c": [],
             "cd": 6,
             "name": "生命再生",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

@@ -108,7 +108,8 @@
             ],
             "cd": 5,
             "name": "ソルシエール・ド・ラフォレ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 5,
             "name": "デビルダム・ビーイング",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 7,
             "name": "ウィッチ・オブ・デス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

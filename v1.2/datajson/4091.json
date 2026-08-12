@@ -110,7 +110,8 @@
             ],
             "cd": 4,
             "name": "伝説の聖徳王",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -136,7 +137,8 @@
             ],
             "cd": 5,
             "name": "全能の道士",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -162,7 +164,8 @@
             ],
             "cd": 6,
             "name": "大宇宙の仙人",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

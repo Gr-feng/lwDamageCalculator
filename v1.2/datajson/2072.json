@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 3,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "怪獣細胞(幻)",
         "quality": 2111211,
         "quality_name": "リリス",
-        "speed": 1000,
+        "speed": 1100,
         "subname": "異聞異説怪獣",
         "total": 7350,
         "tribe": [
@@ -53,10 +53,10 @@
         ],
         "type": 2,
         "world_group": "H5",
-        "yang_atk": 1250,
-        "yang_def": 1000,
-        "yin_atk": 1900,
-        "yin_def": 1100
+        "yang_atk": 1280,
+        "yang_def": 1020,
+        "yin_atk": 2070,
+        "yin_def": 1140
     },
     "chain_character": [
         2020,
@@ -112,7 +112,8 @@
             ],
             "cd": 3,
             "name": "フレーム・バイ・フレーム",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 3,
             "name": "ファスト・フォワード",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 4,
             "name": "カセット・イジェクション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

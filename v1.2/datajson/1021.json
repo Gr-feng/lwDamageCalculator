@@ -31,7 +31,7 @@
         "passivity_3_name": "4式撹乱幕",
         "quality": 21121010,
         "quality_name": "ブルーアワー",
-        "speed": 1300,
+        "speed": 1360,
         "subname": "浅葱色のイーグルラヴィ",
         "total": 6450,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1020,
-        "yang_def": 980,
-        "yin_atk": 1110,
-        "yin_def": 1060
+        "yang_atk": 1120,
+        "yang_def": 1020,
+        "yin_atk": 1620,
+        "yin_def": 1120
     },
     "chain_character": [
         1022,
@@ -74,7 +74,8 @@
             "c": [],
             "cd": 4,
             "name": "4式撹乱弾",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_down"
         },
         {
             "a": [
@@ -88,7 +89,8 @@
             "c": [],
             "cd": 5,
             "name": "情報操作",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_hit_down"
         },
         {
             "a": [
@@ -108,7 +110,8 @@
             "c": [],
             "cd": 5,
             "name": "ウェポンブレイク",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_down"
         }
     ],
     "attack_skills": {

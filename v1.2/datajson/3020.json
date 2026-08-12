@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 30,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 1,
         "barrier_status_2": 1,
@@ -31,7 +31,7 @@
         "passivity_3_name": "リレイヤリング",
         "quality": 10221111,
         "quality_name": "天気輪",
-        "speed": 1250,
+        "speed": 1320,
         "subname": "白銀の風",
         "total": 7575,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 3,
         "world_group": "L80",
-        "yang_atk": 1905,
-        "yang_def": 900,
-        "yin_atk": 1150,
-        "yin_def": 870
+        "yang_atk": 2025,
+        "yang_def": 970,
+        "yin_atk": 1170,
+        "yin_def": 890
     },
     "chain_character": [
         5003,
@@ -104,7 +104,8 @@
             ],
             "cd": 4,
             "name": "炎の蓬莱人",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -130,7 +131,8 @@
             ],
             "cd": 5,
             "name": "燃える証拠",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -156,7 +158,8 @@
             ],
             "cd": 8,
             "name": "焼き付く罪業",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {

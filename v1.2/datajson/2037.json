@@ -88,7 +88,8 @@
             ],
             "cd": 4,
             "name": "試作ロボYHT-05-1",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             ],
             "cd": 5,
             "name": "春色ヘア(早苗)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -140,7 +142,8 @@
             ],
             "cd": 5,
             "name": "アイアン御弊",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {

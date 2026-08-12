@@ -78,7 +78,8 @@
             ],
             "cd": 4,
             "name": "異界渡りの試練(F1早苗)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 5,
             "name": "補修された奇跡",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 6,
             "name": "石膏包帯パージ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_add_yang_def_yang_atk"
         }
     ],
     "attack_skills": {

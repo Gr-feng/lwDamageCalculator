@@ -86,7 +86,8 @@
             "c": [],
             "cd": 5,
             "name": "巻き上げ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             "c": [],
             "cd": 5,
             "name": "他人の金で豪遊",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 5,
             "name": "厚顔無恥",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

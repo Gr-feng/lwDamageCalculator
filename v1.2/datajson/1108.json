@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "霊長園の信仰心",
         "quality": 11201111,
         "quality_name": "人工気象実験",
-        "speed": 1150,
+        "speed": 1220,
         "subname": "孤立無援が誂えた造形神",
         "total": 6900,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1500,
-        "yang_def": 1000,
-        "yin_atk": 1200,
-        "yin_def": 950
+        "yang_atk": 1770,
+        "yang_def": 1100,
+        "yin_atk": 1320,
+        "yin_def": 1020
     },
     "chain_character": [],
     "costumes": {},
@@ -73,7 +73,8 @@
             "c": [],
             "cd": 5,
             "name": "企画・制作",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -93,7 +94,8 @@
             "c": [],
             "cd": 6,
             "name": "造形神の神威",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -119,7 +121,8 @@
             ],
             "cd": 4,
             "name": "アイドライゼーション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

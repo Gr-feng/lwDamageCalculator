@@ -31,7 +31,7 @@
         "passivity_3_name": "湿気ったマジックボム",
         "quality": 1120112,
         "quality_name": "冷夏暖冬",
-        "speed": 980,
+        "speed": 1020,
         "subname": "逆襲のあまのじゃく",
         "total": 6900,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1140,
-        "yang_def": 1100,
-        "yin_atk": 1330,
-        "yin_def": 1190
+        "yang_atk": 1260,
+        "yang_def": 1170,
+        "yin_atk": 1620,
+        "yin_def": 1270
     },
     "chain_character": [
         1095,
@@ -77,7 +77,8 @@
             "c": [],
             "cd": 4,
             "name": "微力残るデコイ人形",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -97,7 +98,8 @@
             "c": [],
             "cd": 6,
             "name": "小槌のレプリカのレプリカ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             ],
             "cd": 5,
             "name": "調子の悪い身代わり地蔵",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_up"
         }
     ],
     "attack_skills": {

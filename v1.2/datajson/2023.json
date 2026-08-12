@@ -31,7 +31,7 @@
         "passivity_3_name": "穢れクリーナー",
         "quality": 11111121,
         "quality_name": "ボイド時間",
-        "speed": 1285,
+        "speed": 1330,
         "subname": "帝都の平和維持隊員",
         "total": 7350,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 2,
         "world_group": "B3",
-        "yang_atk": 1755,
-        "yang_def": 1415,
-        "yin_atk": 1015,
-        "yin_def": 825
+        "yang_atk": 1870,
+        "yang_def": 1470,
+        "yin_atk": 1070,
+        "yin_def": 870
     },
     "chain_character": [
         2017,
@@ -119,7 +119,8 @@
             ],
             "cd": 5,
             "name": "防護ペイロード",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_up"
         },
         {
             "a": [
@@ -145,7 +146,8 @@
             ],
             "cd": 5,
             "name": "援護ペイロード",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -171,7 +173,8 @@
             ],
             "cd": 4,
             "name": "補給ペイロード",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

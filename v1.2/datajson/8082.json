@@ -77,7 +77,8 @@
             ],
             "cd": 4,
             "name": "第一種接近すぎる遭遇",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -103,7 +104,8 @@
             ],
             "cd": 4,
             "name": "第二種接近すぎる遭遇",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -129,7 +131,8 @@
             ],
             "cd": 5,
             "name": "第三種接近すぎる遭遇",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

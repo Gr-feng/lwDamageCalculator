@@ -78,7 +78,8 @@
             "c": [],
             "cd": 5,
             "name": "寺子屋の教え",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -92,7 +93,8 @@
             "c": [],
             "cd": 5,
             "name": "阿礼乙女の見識",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -106,7 +108,8 @@
             "c": [],
             "cd": 6,
             "name": "御阿礼神事",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

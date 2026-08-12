@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 4,
         "barrier_status_2": 4,
@@ -31,7 +31,7 @@
         "passivity_3_name": "水に入る前の準備運動",
         "quality": 21112102,
         "quality_name": "慈雨",
-        "speed": 1305,
+        "speed": 1380,
         "subname": "バカンスの魔法使い",
         "total": 7800,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 2,
         "world_group": "C3",
-        "yang_atk": 1945,
-        "yang_def": 1000,
-        "yin_atk": 1600,
-        "yin_def": 850
+        "yang_atk": 2020,
+        "yang_def": 1035,
+        "yin_atk": 1620,
+        "yin_def": 885
     },
     "chain_character": [
         19001,
@@ -109,7 +109,8 @@
             ],
             "cd": 2,
             "name": "スポーツきのこドリンク",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 5,
             "name": "魔法のボード",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 5,
             "name": "ミニ八卦炉(超防水)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

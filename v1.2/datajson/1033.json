@@ -88,7 +88,8 @@
             "c": [],
             "cd": 3,
             "name": "目くらまし",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             "c": [],
             "cd": 6,
             "name": "ランダム撹乱",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_hit_down"
         },
         {
             "a": [
@@ -128,7 +130,8 @@
             "c": [],
             "cd": 6,
             "name": "ライトコントロール",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {

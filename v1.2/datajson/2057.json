@@ -31,7 +31,7 @@
         "passivity_3_name": "恩讐の境界",
         "quality": 11111111,
         "quality_name": "スカイパンチ",
-        "speed": 950,
+        "speed": 1020,
         "subname": "名もなき宇宙恐怖",
         "total": 7350,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 5,
         "world_group": "B2",
-        "yang_atk": 1375,
-        "yang_def": 825,
-        "yin_atk": 1775,
-        "yin_def": 1525
+        "yang_atk": 1420,
+        "yang_def": 850,
+        "yin_atk": 2010,
+        "yin_def": 1550
     },
     "chain_character": [
         2017,
@@ -109,7 +109,8 @@
             ],
             "cd": 5,
             "name": "恐怖の純化",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 5,
             "name": "穢れの純化",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 6,
             "name": "怨みの純化",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

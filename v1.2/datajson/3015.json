@@ -31,7 +31,7 @@
         "passivity_3_name": "オートメディック",
         "quality": 12111111,
         "quality_name": "磁気嵐",
-        "speed": 1225,
+        "speed": 1270,
         "subname": "月戦型ソルジャー",
         "total": 7350,
         "tribe": [
@@ -51,10 +51,10 @@
         ],
         "type": 6,
         "world_group": "B3",
-        "yang_atk": 1700,
-        "yang_def": 825,
-        "yin_atk": 1550,
-        "yin_def": 1050
+        "yang_atk": 1870,
+        "yang_def": 870,
+        "yin_atk": 1580,
+        "yin_def": 1120
     },
     "chain_character": [
         3001,
@@ -119,7 +119,8 @@
             ],
             "cd": 5,
             "name": "メディカルポイズン",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_down"
         },
         {
             "a": [
@@ -145,7 +146,8 @@
             ],
             "cd": 4,
             "name": "スナイピング",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -171,7 +173,8 @@
             ],
             "cd": 6,
             "name": "フェイズシフター",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

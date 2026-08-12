@@ -31,7 +31,7 @@
         "passivity_3_name": "粛清",
         "quality": 11111121,
         "quality_name": "クルースン",
-        "speed": 1320,
+        "speed": 1370,
         "subname": "穏和と敬虔の平和院",
         "total": 7350,
         "tribe": [
@@ -51,10 +51,10 @@
         ],
         "type": 5,
         "world_group": "B3",
-        "yang_atk": 1800,
-        "yang_def": 1050,
-        "yin_atk": 1230,
-        "yin_def": 880
+        "yang_atk": 2020,
+        "yang_def": 1070,
+        "yin_atk": 1270,
+        "yin_def": 910
     },
     "chain_character": [
         2015,
@@ -122,7 +122,8 @@
             ],
             "cd": 4,
             "name": "蕃神「韋天将軍」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -148,7 +149,8 @@
             ],
             "cd": 5,
             "name": "奇神「釈契此」",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -174,7 +176,8 @@
             ],
             "cd": 4,
             "name": "異神「摩多羅」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

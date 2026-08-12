@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 3,
@@ -31,7 +31,7 @@
         "passivity_3_name": "ガイアの意思",
         "quality": 11111201,
         "quality_name": "小風",
-        "speed": 1025,
+        "speed": 1070,
         "subname": "[紅]名もなき大きな妖精",
         "total": 6900,
         "tribe": [
@@ -41,10 +41,10 @@
         ],
         "type": 4,
         "world_group": "A6",
-        "yang_atk": 950,
-        "yang_def": 900,
-        "yin_atk": 1650,
-        "yin_def": 1325
+        "yang_atk": 980,
+        "yang_def": 1000,
+        "yin_atk": 1820,
+        "yin_def": 1520
     },
     "chain_character": [
         2006,
@@ -96,7 +96,8 @@
             ],
             "cd": 4,
             "name": "始まりのノーナ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -116,7 +117,8 @@
             "c": [],
             "cd": 3,
             "name": "中継ぎのデキマ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -142,7 +144,8 @@
             ],
             "cd": 5,
             "name": "終わりのモルタ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_electricshock"
         }
     ],
     "attack_skills": {

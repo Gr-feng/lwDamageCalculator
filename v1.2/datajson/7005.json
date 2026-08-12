@@ -107,7 +107,8 @@
             ],
             "cd": 4,
             "name": "謎の水中メガネ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -133,7 +134,8 @@
             ],
             "cd": 5,
             "name": "謎の足ヒレ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -159,7 +161,8 @@
             ],
             "cd": 6,
             "name": "謎の潜水服",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_atk_up_type6"
         }
     ],
     "attack_skills": {

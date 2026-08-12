@@ -31,7 +31,7 @@
         "passivity_3_name": "名居守の眷属",
         "quality": 21111101,
         "quality_name": "極光",
-        "speed": 810,
+        "speed": 870,
         "subname": "非想非非想天の娘",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1540,
-        "yang_def": 1450,
-        "yin_atk": 1140,
-        "yin_def": 790
+        "yang_atk": 1820,
+        "yang_def": 1690,
+        "yin_atk": 1170,
+        "yin_def": 820
     },
     "chain_character": [
         1001,
@@ -87,7 +87,8 @@
             "c": [],
             "cd": 5,
             "name": "緋想の剣(調節)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             "c": [],
             "cd": 5,
             "name": "仙果",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 5,
             "name": "比那名居の要石術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_up"
         }
     ],
     "attack_skills": {

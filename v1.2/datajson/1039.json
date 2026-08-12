@@ -79,7 +79,8 @@
             "c": [],
             "cd": 6,
             "name": "空からの力",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -93,7 +94,8 @@
             "c": [],
             "cd": 3,
             "name": "天竜川の藤",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_down"
         },
         {
             "a": [
@@ -113,7 +115,8 @@
             "c": [],
             "cd": 4,
             "name": "タタリ神",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

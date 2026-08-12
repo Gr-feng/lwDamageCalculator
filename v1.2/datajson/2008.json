@@ -31,7 +31,7 @@
         "passivity_3_name": "ノーブルバトラー",
         "quality": 1111211,
         "quality_name": "春霧",
-        "speed": 1100,
+        "speed": 1120,
         "subname": "高等魔法の集大成",
         "total": 7350,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 3,
         "world_group": "E1",
-        "yang_atk": 1450,
-        "yang_def": 950,
-        "yin_atk": 1800,
-        "yin_def": 950
+        "yang_atk": 1520,
+        "yang_def": 970,
+        "yin_atk": 1970,
+        "yin_def": 970
     },
     "chain_character": [
         2003,
@@ -84,7 +84,8 @@
             ],
             "cd": 5,
             "name": "イビルヒーリング",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             ],
             "cd": 3,
             "name": "マジックサプライ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             ],
             "cd": 4,
             "name": "ディーリングブレイズ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_burn"
         }
     ],
     "attack_skills": {

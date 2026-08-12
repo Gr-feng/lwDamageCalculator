@@ -82,7 +82,8 @@
             "c": [],
             "cd": 4,
             "name": "狂乱の眼差し",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -102,7 +103,8 @@
             "c": [],
             "cd": 6,
             "name": "無垢なる暴走",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -122,7 +124,8 @@
             "c": [],
             "cd": 6,
             "name": "急所探知",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

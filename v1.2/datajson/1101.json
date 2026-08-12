@@ -31,7 +31,7 @@
         "passivity_3_name": "デストラクション",
         "quality": 21102110,
         "quality_name": "集中豪雨",
-        "speed": 1050,
+        "speed": 1180,
         "subname": "恐るべき井戸の怪",
         "total": 6450,
         "tribe": [
@@ -43,10 +43,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1050,
-        "yang_def": 785,
-        "yin_atk": 1445,
-        "yin_def": 1200
+        "yang_atk": 1070,
+        "yang_def": 820,
+        "yin_atk": 1920,
+        "yin_def": 1270
     },
     "chain_character": [
         1049,
@@ -83,7 +83,8 @@
             "c": [],
             "cd": 3,
             "name": "内気",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -103,7 +104,8 @@
             "c": [],
             "cd": 4,
             "name": "心安らぐ狭所",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             "c": [],
             "cd": 4,
             "name": "白骨投げ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

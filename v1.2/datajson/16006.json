@@ -105,7 +105,8 @@
             ],
             "cd": 4,
             "name": "エレメンタルウィッチ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -131,7 +132,8 @@
             ],
             "cd": 5,
             "name": "知識の魔法使い",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -157,7 +159,8 @@
             ],
             "cd": 7,
             "name": "動く動かない大図書館",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_storage_type02"
         }
     ],
     "attack_skills": {

@@ -31,7 +31,7 @@
         "passivity_3_name": "内勁反応",
         "quality": 2121011,
         "quality_name": "黄砂",
-        "speed": 920,
+        "speed": 1030,
         "subname": "華人小娘",
         "total": 6450,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1190,
-        "yang_def": 990,
-        "yin_atk": 1230,
-        "yin_def": 960
+        "yang_atk": 1410,
+        "yang_def": 1170,
+        "yin_atk": 1410,
+        "yin_def": 1120
     },
     "chain_character": [
         1003,
@@ -77,7 +77,8 @@
             "c": [],
             "cd": 4,
             "name": "マーシャルアーツ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -97,7 +98,8 @@
             "c": [],
             "cd": 4,
             "name": "門番の意地",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             ],
             "cd": 5,
             "name": "一動全動",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

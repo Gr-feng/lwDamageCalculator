@@ -79,7 +79,8 @@
             ],
             "cd": 4,
             "name": "鴉の濡羽",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_down"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 4,
             "name": "疾風の下駄",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_down"
         },
         {
             "a": [
@@ -125,7 +127,8 @@
             ],
             "cd": 5,
             "name": "風神少女",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -10,7 +10,7 @@ import webview
 from server import RequestHandler, _ensure_runtime_dirs, _log
 
 
-APP_TITLE = "东方归言录伤害计算器 v1.2"
+APP_TITLE = "东方归言录伤害计算器 v1.2 By 绿意吟风"
 
 
 def parse_args() -> argparse.Namespace:

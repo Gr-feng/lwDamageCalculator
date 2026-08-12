@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 20,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "ロイヤルガード",
         "quality": 21102110,
         "quality_name": "月暈",
-        "speed": 1325,
+        "speed": 1435,
         "subname": "[永]月の頭脳",
         "total": 6900,
         "tribe": [
@@ -51,10 +51,10 @@
         ],
         "type": 6,
         "world_group": "A8",
-        "yang_atk": 850,
-        "yang_def": 900,
-        "yin_atk": 1730,
-        "yin_def": 1060
+        "yang_atk": 870,
+        "yang_def": 1020,
+        "yin_atk": 1800,
+        "yin_def": 1280
     },
     "chain_character": [
         4015,
@@ -81,7 +81,8 @@
             "c": [],
             "cd": 4,
             "name": "ドラヒェンブルート",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 6,
             "name": "スラー・ウィズ・ソーダ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 4,
             "name": "ジェネリック五石散",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

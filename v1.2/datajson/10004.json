@@ -112,7 +112,8 @@
             ],
             "cd": 5,
             "name": "100円トイガン",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_fast"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 5,
             "name": "最後の傘",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_fast"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 5,
             "name": "専属妖精メイド",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_fast"
         }
     ],
     "attack_skills": {

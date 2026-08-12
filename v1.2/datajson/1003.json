@@ -99,7 +99,8 @@
             "c": [],
             "cd": 5,
             "name": "魔力増強",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -119,7 +120,8 @@
             "c": [],
             "cd": 5,
             "name": "悪魔の眼差し",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_down"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             "c": [],
             "cd": 4,
             "name": "運命操作",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

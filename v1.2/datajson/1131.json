@@ -98,7 +98,8 @@
             "c": [],
             "cd": 5,
             "name": "破戒の説法",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -124,7 +125,8 @@
             ],
             "cd": 4,
             "name": "虚無の未来",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -150,7 +152,8 @@
             ],
             "cd": 5,
             "name": "地獄の人鬼",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

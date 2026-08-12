@@ -31,7 +31,7 @@
         "passivity_3_name": "疑似信仰",
         "quality": 12111110,
         "quality_name": "明けの明星",
-        "speed": 1475,
+        "speed": 1540,
         "subname": "伝説の吸血鬼ハンター",
         "total": 7350,
         "tribe": [
@@ -41,10 +41,10 @@
         ],
         "type": 8,
         "world_group": "E1",
-        "yang_atk": 1880,
-        "yang_def": 905,
-        "yin_atk": 1210,
-        "yin_def": 815
+        "yang_atk": 2020,
+        "yang_def": 940,
+        "yin_atk": 1270,
+        "yin_def": 840
     },
     "chain_character": [
         2003,
@@ -80,7 +80,8 @@
             ],
             "cd": 4,
             "name": "疑似聖水",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             ],
             "cd": 6,
             "name": "狂った懐中時計",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 5,
             "name": "シルバークロス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

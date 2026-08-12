@@ -92,7 +92,8 @@
             "c": [],
             "cd": 4,
             "name": "ホワイトアウト",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -118,7 +119,8 @@
             ],
             "cd": 5,
             "name": "過冷却水流",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -144,7 +146,8 @@
             ],
             "cd": 4,
             "name": "スルースゲート",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

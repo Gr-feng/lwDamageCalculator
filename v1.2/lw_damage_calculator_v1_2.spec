@@ -6,30 +6,49 @@ from pathlib import Path
 SPEC_DIR = Path.cwd()
 
 
+def existing_datas():
+    required = [
+        ("web", "web"),
+        ("assets", "assets"),
+        ("datajson", "datajson"),
+        ("data_tables", "data_tables"),
+        ("presets", "presets"),
+        ("gui/resources", "gui/resources"),
+        ("local_translations.json", "."),
+        ("equipment_data.json", "."),
+    ]
+    optional = [
+        ("LW全技能总览.xlsx", "."),
+        ("../LW全技能总览.xlsx", "."),
+        ("擂台敌人数据详情.xlsx", "."),
+        ("../擂台敌人数据详情.xlsx", "."),
+        ("绘卷buff03-26.txt", "."),
+        ("../绘卷buff03-26.txt", "."),
+        ("../v1.0/绘卷buff03-26.txt", "."),
+        ("绘卷buff04-04国服.txt", "."),
+        ("../v1.0/绘卷buff04-04国服.txt", "."),
+        ("D绘卷.txt", "."),
+        ("../v1.0/D绘卷.txt", "."),
+        ("复灵敌人数据06-19.lua", "."),
+        ("../复灵敌人数据06-19.lua", "."),
+        ("擂台敌人数据07-12.txt", "."),
+    ]
+    out = list(required)
+    seen = {(Path(source).name, target) for source, target in required}
+    for source, target in optional:
+        path = SPEC_DIR / source
+        key = (Path(source).name, target)
+        if path.exists() and key not in seen:
+            out.append((source, target))
+            seen.add(key)
+    return out
+
+
 a = Analysis(
     ["desktop_app.py"],
     pathex=[str(SPEC_DIR)],
     binaries=[],
-    datas=[
-        ("web", "web"),
-        ("assets", "assets"),
-        ("datajson", "datajson"),
-        ("presets", "presets"),
-        ("gui/resources", "gui/resources"),
-        ("characters.csv", "."),
-        ("touhou_characters_translated.csv", "."),
-        ("tribe_extracted.csv", "."),
-        ("buff_translation.csv", "."),
-        ("local_translations.json", "."),
-        ("equipment_data.json", "."),
-        ("recommended.csv", "."),
-        ("attack5_candidates.csv", "."),
-        ("LW全技能总览.xlsx", "."),
-        ("绘卷buff03-26.txt", "."),
-        ("绘卷buff04-04国服.txt", "."),
-        ("D绘卷.txt", "."),
-        ("../复灵敌人数据06-19.lua", "."),
-    ],
+    datas=existing_datas(),
     hiddenimports=[
         "webview",
         "webview.platforms.winforms",
@@ -49,7 +68,6 @@ a = Analysis(
         "tkinter",
         "_tkinter",
         "numpy",
-        "openpyxl",
         "pandas",
         "PIL",
         "pygame",

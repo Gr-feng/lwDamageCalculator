@@ -367,7 +367,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -398,7 +398,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -791,7 +791,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -822,7 +822,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -859,7 +859,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -890,7 +890,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -992,7 +992,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          7,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -1014,7 +1023,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          7,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1016": {
@@ -1181,7 +1199,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -1212,7 +1230,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -1317,7 +1335,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -1348,7 +1366,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -1605,7 +1623,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -1636,7 +1654,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -1670,7 +1688,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          2,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -1692,7 +1719,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          2,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1026": {
@@ -1723,7 +1759,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -1754,7 +1790,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -1788,7 +1824,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          7,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -1810,7 +1855,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          7,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1030": {
@@ -2001,9 +2055,9 @@
   },
   "1033": {
     "character_id": 1033,
-    "name": "桑尼米尔克(1033)",
-    "world_group": "",
-    "type_label": "",
+    "name": "桑妮·米尔克",
+    "world_group": "L1",
+    "type_label": "攻击",
     "weekly1": {
       "stat_overrides": {
         "yang_atk": 9240,
@@ -2027,7 +2081,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -2058,7 +2112,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -2095,7 +2149,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -2126,7 +2180,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -2409,9 +2463,9 @@
   },
   "1039": {
     "character_id": 1039,
-    "name": "洩矢诹访子(1039)",
-    "world_group": "",
-    "type_label": "",
+    "name": "泄矢诹访子",
+    "world_group": "L1",
+    "type_label": "攻击",
     "weekly1": {
       "stat_overrides": {
         "yang_atk": 9240,
@@ -2503,7 +2557,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -2534,7 +2588,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -3029,7 +3083,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -3060,7 +3114,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -3165,7 +3219,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -3196,7 +3250,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -3641,7 +3695,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -3672,7 +3726,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -3706,7 +3760,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          3,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -3728,7 +3791,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          3,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1060": {
@@ -3759,7 +3831,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -3790,7 +3862,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -3824,7 +3896,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          6,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -3846,7 +3927,16 @@
         0,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          6,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1062": {
@@ -4131,7 +4221,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -4162,7 +4252,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -4267,7 +4357,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -4298,7 +4388,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -4385,7 +4475,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -4416,7 +4506,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -4793,7 +4883,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -4824,7 +4914,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -4997,7 +5087,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -5028,7 +5118,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -5133,7 +5223,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -5164,7 +5254,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -5405,7 +5495,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -5436,7 +5526,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -5541,7 +5631,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -5572,7 +5662,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -5606,7 +5696,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          4,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -5628,7 +5727,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          4,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1089": {
@@ -5727,7 +5835,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -5758,7 +5866,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -5792,7 +5900,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          5,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -5814,7 +5931,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          5,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "1092": {
@@ -6049,7 +6175,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -6080,7 +6206,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -6117,7 +6243,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -6148,7 +6274,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -6405,7 +6531,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -6436,7 +6562,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -6473,7 +6599,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -6504,7 +6630,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -6745,7 +6871,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -6776,7 +6902,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -6813,7 +6939,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -6844,7 +6970,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -7067,7 +7193,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -7098,7 +7224,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -7407,7 +7533,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -7438,7 +7564,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -7475,7 +7601,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -7506,7 +7632,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -7543,7 +7669,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -7574,7 +7700,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -7611,7 +7737,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -7642,7 +7768,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -7747,7 +7873,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -7778,7 +7904,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -7883,7 +8009,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -7914,7 +8040,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -8075,6 +8201,56 @@
       ]
     }
   },
+  "1127": {
+    "character_id": 1127,
+    "name": "孫美天",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
   "1128": {
     "character_id": 1128,
     "name": "三头慧之子",
@@ -8125,18 +8301,18 @@
       "enemy_skill_effects": []
     }
   },
-  "1131": {
-    "character_id": 1131,
-    "name": "日白残无",
-    "world_group": "L1",
-    "type_label": "回复",
+  "1129": {
+    "character_id": 1129,
+    "name": "天火人ちやり",
+    "world_group": "",
+    "type_label": "",
     "weekly1": {
       "stat_overrides": {
         "yang_atk": 9240,
         "yang_def": 4998,
         "yin_atk": 7140,
         "yin_def": 9240,
-        "speed": 5040
+        "speed": 5250
       },
       "barrier_count": 7,
       "quality": [
@@ -8158,7 +8334,7 @@
         "yang_def": 9240,
         "yin_atk": 9240,
         "yin_def": 4998,
-        "speed": 5040
+        "speed": 5250
       },
       "barrier_count": 7,
       "quality": [
@@ -8169,6 +8345,106 @@
         1,
         1,
         1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "1130": {
+    "character_id": 1130,
+    "name": "豫母都日狭美",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "1131": {
+    "character_id": 1131,
+    "name": "日白残无",
+    "world_group": "L1",
+    "type_label": "回复",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5040
+      },
+      "barrier_count": 7,
+      "quality": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5040
+      },
+      "barrier_count": 7,
+      "quality": [
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        2,
         1,
         1
       ],
@@ -8253,7 +8529,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -8284,7 +8560,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -8541,7 +8817,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -8572,7 +8848,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -8745,7 +9021,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -8776,7 +9052,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -9085,7 +9361,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -9116,7 +9392,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -9153,7 +9429,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -9184,7 +9460,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -9289,7 +9565,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -9320,7 +9596,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -9425,7 +9701,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -9456,7 +9732,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -9737,6 +10013,56 @@
       ]
     }
   },
+  "2034": {
+    "character_id": 2034,
+    "name": "ルナチャイルド",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
   "2036": {
     "character_id": 2036,
     "name": "梅蒂欣·梅兰可莉(2036)",
@@ -9803,6 +10129,56 @@
           50
         ]
       ]
+    }
+  },
+  "2037": {
+    "character_id": 2037,
+    "name": "東風谷早苗",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "2038": {
@@ -9901,7 +10277,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -9932,7 +10308,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -9969,7 +10345,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -10000,7 +10376,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -10037,7 +10413,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -10068,7 +10444,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -10143,6 +10519,56 @@
           50
         ]
       ]
+    }
+  },
+  "2048": {
+    "character_id": 2048,
+    "name": "伊吹萃香",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "2050": {
@@ -10445,7 +10871,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -10476,7 +10902,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -10757,6 +11183,72 @@
       ]
     }
   },
+  "2088": {
+    "character_id": 2088,
+    "name": "蕾迪·霍瓦特洛克",
+    "world_group": "H5",
+    "type_label": "防御",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          2,
+          4,
+          1,
+          2
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        2,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          2,
+          4,
+          1,
+          2
+        ]
+      ]
+    }
+  },
   "2091": {
     "character_id": 2091,
     "name": "丰聪耳神子(2091)",
@@ -10961,6 +11453,56 @@
       ]
     }
   },
+  "2118": {
+    "character_id": 2118,
+    "name": "山城たかね",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
   "3001": {
     "character_id": 3001,
     "name": "博丽灵梦(3001)",
@@ -10989,7 +11531,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -11020,7 +11562,7 @@
       "enemy_skill_effects": [
         [
           12,
-          3,
+          2,
           2,
           1,
           65,
@@ -11397,7 +11939,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -11428,7 +11970,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -11465,7 +12007,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -11496,7 +12038,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -11601,7 +12143,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -11632,7 +12174,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -11759,6 +12301,72 @@
       ]
     }
   },
+  "3030": {
+    "character_id": 3030,
+    "name": "琪露诺",
+    "world_group": "A7",
+    "type_label": "攻击",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        0,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          2,
+          4,
+          1,
+          2
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        0,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          2,
+          4,
+          1,
+          2
+        ]
+      ]
+    }
+  },
   "3037": {
     "character_id": 3037,
     "name": "东风谷早苗(3037)",
@@ -11787,7 +12395,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -11818,7 +12426,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -11855,7 +12463,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -11886,7 +12494,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -11923,7 +12531,7 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
@@ -11954,13 +12562,113 @@
       "enemy_skill_effects": [
         [
           12,
-          7,
+          6,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "3069": {
+    "character_id": 3069,
+    "name": "摩多羅隠岐奈",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "3072": {
+    "character_id": 3072,
+    "name": "上白沢慧音",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "3084": {
@@ -11991,7 +12699,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -12022,7 +12730,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -12192,7 +12900,16 @@
         1,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          2,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -12214,7 +12931,16 @@
         1,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          2,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "4004": {
@@ -12242,7 +12968,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          7,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     },
     "weekly2": {
       "stat_overrides": {
@@ -12264,7 +12999,16 @@
         2,
         1
       ],
-      "enemy_skill_effects": []
+      "enemy_skill_effects": [
+        [
+          13,
+          7,
+          2,
+          1,
+          50,
+          100
+        ]
+      ]
     }
   },
   "4005": {
@@ -12363,7 +13107,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -12394,13 +13138,63 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "4013": {
+    "character_id": 4013,
+    "name": "八雲藍",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "4015": {
@@ -12635,7 +13429,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -12666,7 +13460,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -12703,7 +13497,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -12734,7 +13528,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -12877,6 +13671,106 @@
           50
         ]
       ]
+    }
+  },
+  "5029": {
+    "character_id": 5029,
+    "name": "稗田阿求",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "5031": {
+    "character_id": 5031,
+    "name": "大妖精",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "5046": {
@@ -13115,6 +14009,172 @@
       ]
     }
   },
+  "5067": {
+    "character_id": 5067,
+    "name": "九十九弁々",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "5068": {
+    "character_id": 5068,
+    "name": "九十九八橋",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "5087": {
+    "character_id": 5087,
+    "name": "秦心",
+    "world_group": "B3",
+    "type_label": "速攻",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          4,
+          4,
+          1,
+          2
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        2,
+        1,
+        1,
+        2,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          4,
+          4,
+          1,
+          2
+        ]
+      ]
+    }
+  },
   "5089": {
     "character_id": 5089,
     "name": "比那名居天子(5089)",
@@ -13183,6 +14243,156 @@
       ]
     }
   },
+  "5094": {
+    "character_id": 5094,
+    "name": "鬼人正邪",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "5105": {
+    "character_id": 5105,
+    "name": "堀川雷鼓",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "5125": {
+    "character_id": 5125,
+    "name": "茨木童子の腕",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
   "6001": {
     "character_id": 6001,
     "name": "博丽灵梦(6001)",
@@ -13211,7 +14421,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -13242,7 +14452,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -13347,7 +14557,7 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
@@ -13378,13 +14588,63 @@
       "enemy_skill_effects": [
         [
           12,
-          10,
+          9,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "6022": {
+    "character_id": 6022,
+    "name": "鈴瑚",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "6024": {
@@ -13483,7 +14743,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -13514,7 +14774,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -13551,7 +14811,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -13582,7 +14842,7 @@
       "enemy_skill_effects": [
         [
           12,
-          4,
+          3,
           2,
           1,
           65,
@@ -13687,7 +14947,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -13718,7 +14978,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -13755,7 +15015,7 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
@@ -13786,11 +15046,77 @@
       "enemy_skill_effects": [
         [
           12,
-          9,
+          8,
           2,
           1,
           65,
           100
+        ]
+      ]
+    }
+  },
+  "6086": {
+    "character_id": 6086,
+    "name": "宫古芳香",
+    "world_group": "A13",
+    "type_label": "干扰",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          2,
+          4,
+          4,
+          1,
+          5
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        1,
+        2,
+        2,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          2,
+          4,
+          4,
+          1,
+          5
         ]
       ]
     }
@@ -13891,7 +15217,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -13922,13 +15248,63 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "6092": {
+    "character_id": 6092,
+    "name": "物部布都",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "6094": {
@@ -13997,6 +15373,56 @@
           50
         ]
       ]
+    }
+  },
+  "6095": {
+    "character_id": 6095,
+    "name": "少名針妙丸",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "6112": {
@@ -14095,7 +15521,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -14126,13 +15552,63 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "7020": {
+    "character_id": 7020,
+    "name": "藤原妹紅",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "7042": {
@@ -14367,7 +15843,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -14398,7 +15874,7 @@
       "enemy_skill_effects": [
         [
           12,
-          12,
+          11,
           2,
           1,
           65,
@@ -14503,7 +15979,7 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
@@ -14534,13 +16010,63 @@
       "enemy_skill_effects": [
         [
           12,
-          6,
+          5,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "7089": {
+    "character_id": 7089,
+    "name": "比那名居天子",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "7095": {
@@ -14639,7 +16165,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -14670,7 +16196,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -14775,7 +16301,7 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
@@ -14806,13 +16332,229 @@
       "enemy_skill_effects": [
         [
           12,
-          11,
+          10,
           2,
           1,
           65,
           100
         ]
       ]
+    }
+  },
+  "8076": {
+    "character_id": 8076,
+    "name": "多々良小傘",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "8092": {
+    "character_id": 8092,
+    "name": "物部布都",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "8099": {
+    "character_id": 8099,
+    "name": "水桥帕露西",
+    "world_group": "W3",
+    "type_label": "技巧",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        0,
+        2,
+        2,
+        0,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          12,
+          10,
+          2,
+          1,
+          65
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        0,
+        2,
+        2,
+        0,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          12,
+          10,
+          2,
+          1,
+          65
+        ]
+      ]
+    }
+  },
+  "10030": {
+    "character_id": 10030,
+    "name": "チルノ",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
     }
   },
   "11003": {
@@ -14883,6 +16625,172 @@
       ]
     }
   },
+  "11010": {
+    "character_id": 11010,
+    "name": "西行寺幽幽子",
+    "world_group": "B5",
+    "type_label": "干扰",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        0,
+        2,
+        0,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          3,
+          4,
+          1,
+          2
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        0,
+        2,
+        0,
+        2,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          6,
+          3,
+          4,
+          1,
+          2
+        ]
+      ]
+    }
+  },
+  "11040": {
+    "character_id": 11040,
+    "name": "河城にとり",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "11050": {
+    "character_id": 11050,
+    "name": "古明地さとり",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
   "12004": {
     "character_id": 12004,
     "name": "フランドール·スカーレット(12004)",
@@ -14951,6 +16859,306 @@
       ]
     }
   },
+  "12015": {
+    "character_id": 12015,
+    "name": "铃仙·优昙华院·因幡",
+    "world_group": "B1",
+    "type_label": "攻击",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        1,
+        1,
+        2,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "13007": {
+    "character_id": 13007,
+    "name": "紅美鈴",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "14006": {
+    "character_id": 14006,
+    "name": "パチュリー・ノーレッジ",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "14009": {
+    "character_id": 14009,
+    "name": "八雲紫",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "14015": {
+    "character_id": 14015,
+    "name": "鈴仙・優曇華院・イナバ",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
+  "17051": {
+    "character_id": 17051,
+    "name": "古明地こいし",
+    "world_group": "",
+    "type_label": "",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 10290,
+        "yin_atk": 7140,
+        "yin_def": 20328,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 20328,
+        "yin_atk": 9240,
+        "yin_def": 10290,
+        "speed": 5250
+      },
+      "barrier_count": 4,
+      "quality": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "enemy_skill_effects": []
+    }
+  },
   "18005": {
     "character_id": 18005,
     "name": "十六夜咲夜(18005)",
@@ -14979,7 +17187,7 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
@@ -15010,11 +17218,77 @@
       "enemy_skill_effects": [
         [
           12,
-          5,
+          4,
           2,
           1,
           65,
           100
+        ]
+      ]
+    }
+  },
+  "19003": {
+    "character_id": 19003,
+    "name": "蕾米莉亚·斯卡雷特",
+    "world_group": "E1",
+    "type_label": "支援",
+    "weekly1": {
+      "stat_overrides": {
+        "yang_atk": 9240,
+        "yang_def": 4998,
+        "yin_atk": 7140,
+        "yin_def": 9240,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        1,
+        0,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          12,
+          9,
+          2,
+          1,
+          65
+        ]
+      ]
+    },
+    "weekly2": {
+      "stat_overrides": {
+        "yang_atk": 7140,
+        "yang_def": 9240,
+        "yin_atk": 9240,
+        "yin_def": 4998,
+        "speed": 5250
+      },
+      "barrier_count": 7,
+      "quality": [
+        0,
+        1,
+        2,
+        1,
+        2,
+        1,
+        0,
+        1,
+        1
+      ],
+      "enemy_skill_effects": [
+        [
+          12,
+          9,
+          2,
+          1,
+          65
         ]
       ]
     }
@@ -15047,7 +17321,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,
@@ -15078,7 +17352,7 @@
       "enemy_skill_effects": [
         [
           12,
-          8,
+          7,
           2,
           1,
           65,

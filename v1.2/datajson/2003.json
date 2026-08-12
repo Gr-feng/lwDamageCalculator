@@ -31,7 +31,7 @@
         "passivity_3_name": "カースド・ブラッド",
         "quality": 1211111,
         "quality_name": "紅霧",
-        "speed": 1310,
+        "speed": 1340,
         "subname": "小さな悪魔令嬢",
         "total": 7350,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 8,
         "world_group": "E9",
-        "yang_atk": 1245,
-        "yang_def": 720,
-        "yin_atk": 1760,
-        "yin_def": 1305
+        "yang_atk": 1270,
+        "yang_def": 770,
+        "yin_atk": 1950,
+        "yin_def": 1370
     },
     "chain_character": [
         2007,
@@ -87,7 +87,8 @@
             ],
             "cd": 4,
             "name": "印章魔術",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 4,
             "name": "紅霧結界",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 5,
             "name": "紅の幻想入り",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

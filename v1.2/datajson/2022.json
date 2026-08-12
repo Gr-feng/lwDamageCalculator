@@ -119,7 +119,8 @@
             ],
             "cd": 5,
             "name": "帝都のはぐれ兎",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -145,7 +146,8 @@
             ],
             "cd": 4,
             "name": "宇宙張り込み",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_down"
         },
         {
             "a": [
@@ -171,7 +173,8 @@
             ],
             "cd": 5,
             "name": "パワーディテクション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

@@ -82,7 +82,8 @@
             ],
             "cd": 5,
             "name": "お掃除技法",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             ],
             "cd": 4,
             "name": "お洗濯奏法",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             ],
             "cd": 6,
             "name": "メイドボイス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_showtime"
         }
     ],
     "attack_skills": {

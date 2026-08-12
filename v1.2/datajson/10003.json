@@ -112,7 +112,8 @@
             ],
             "cd": 5,
             "name": "ノーブルハート号",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 5,
             "name": "ドハマり麦茶",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 5,
             "name": "ゴブども(海洋仕様)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

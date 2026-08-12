@@ -101,7 +101,8 @@
             ],
             "cd": 5,
             "name": "夢幻の焔",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -121,7 +122,8 @@
             "c": [],
             "cd": 3,
             "name": "芽条変異",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -147,7 +149,8 @@
             ],
             "cd": 7,
             "name": "虫癭",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disenchant"
         }
     ],
     "attack_skills": {

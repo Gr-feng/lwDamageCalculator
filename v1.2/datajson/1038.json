@@ -45,10 +45,10 @@
         ],
         "type": 1,
         "world_group": "L1",
-        "yang_atk": 1200,
+        "yang_atk": 1400,
         "yang_def": 1400,
-        "yin_atk": 990,
-        "yin_def": 1250
+        "yin_atk": 1000,
+        "yin_def": 1215
     },
     "chain_character": [
         1037,
@@ -82,10 +82,17 @@
                 1,
                 1
             ],
-            "c": [5,0,1,1,25],
+            "c": [
+                5,
+                0,
+                1,
+                1,
+                25
+            ],
             "cd": 4,
             "name": "神のオーラ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -105,7 +112,8 @@
             "c": [],
             "cd": 5,
             "name": "川合の治水伝説",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -125,7 +133,8 @@
             "c": [],
             "cd": 4,
             "name": "弥栄なる神",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_up"
         }
     ],
     "attack_skills": {

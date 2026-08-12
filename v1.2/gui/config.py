@@ -3,7 +3,7 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Any, Dict, List
 
-from combat_constants import (
+from backend.core.combat_constants import (
     DEFAULT_ALLY_ID,
     DEFAULT_ATTACK_TYPE,
     DEFAULT_ENEMY_ID,
@@ -39,6 +39,7 @@ class EnemySlotConfig:
     yin_def: int = 10_000
     speed: int = 0
     barrier_count: int = 9
+    barrier_types: List[int] = field(default_factory=list)
     quality: List[int] = field(default_factory=lambda: list(QUALITY_DEFAULT))
     tribe_text: str = ""
     is_break_all: bool = False
@@ -52,6 +53,7 @@ class AllySlotConfig:
     character_id: int = DEFAULT_ALLY_ID
     initial_spirit: float = 3.0
     barrier_count: int = 5
+    barrier_types: List[int] = field(default_factory=list)
     skill_order_text: str = "0,1,2"
     shield_open_count: int = DEFAULT_SHIELD_OPEN_COUNT
     attack_type: str = DEFAULT_ATTACK_TYPE

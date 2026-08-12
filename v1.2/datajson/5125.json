@@ -85,7 +85,8 @@
             ],
             "cd": 4,
             "name": "越後出身説",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             ],
             "cd": 5,
             "name": "二通の恋文",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             ],
             "cd": 5,
             "name": "戸隠山越え",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

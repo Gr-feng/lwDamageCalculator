@@ -81,7 +81,8 @@
             ],
             "cd": 4,
             "name": "地霊調査の良すぎる成果",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_fast"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 6,
             "name": "妖獣調査の良すぎる成果",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 6,
             "name": "守矢神社縁起の超ひみつ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {

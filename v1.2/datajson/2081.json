@@ -31,7 +31,7 @@
         "passivity_3_name": "タブーの境界",
         "quality": 11111121,
         "quality_name": "コーディレフスキー雲",
-        "speed": 1285,
+        "speed": 1320,
         "subname": "正統と清廉の真理院",
         "total": 7350,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 2,
         "world_group": "B3",
-        "yang_atk": 1795,
-        "yang_def": 905,
-        "yin_atk": 1315,
-        "yin_def": 925
+        "yang_atk": 2020,
+        "yang_def": 930,
+        "yin_atk": 1340,
+        "yin_def": 950
     },
     "chain_character": [
         2017,
@@ -119,7 +119,8 @@
             ],
             "cd": 5,
             "name": "好塩基陰陽玉",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -145,7 +146,8 @@
             ],
             "cd": 6,
             "name": "好酸陰陽玉",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -171,7 +173,8 @@
             ],
             "cd": 4,
             "name": "好中陰陽玉",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

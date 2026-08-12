@@ -96,7 +96,8 @@
             "c": [],
             "cd": 5,
             "name": "新ボディ(錬成中)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -122,7 +123,8 @@
             ],
             "cd": 5,
             "name": "魔界の灯火",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -148,7 +150,8 @@
             ],
             "cd": 5,
             "name": "実力解放(一部)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

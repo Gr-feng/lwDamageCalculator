@@ -80,7 +80,8 @@
             ],
             "cd": 4,
             "name": "ひび割れすぎたボディ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             ],
             "cd": 4,
             "name": "劇毒の願望",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 5,
             "name": "あまりにも歪な成長痛",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

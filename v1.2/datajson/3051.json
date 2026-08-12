@@ -79,7 +79,8 @@
             ],
             "cd": 3,
             "name": "タルパマンシー",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 4,
             "name": "小石ころ帽子",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -125,7 +127,8 @@
             ],
             "cd": 5,
             "name": "ブラインドウィル",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

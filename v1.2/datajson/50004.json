@@ -76,7 +76,8 @@
             "c": [],
             "cd": 4,
             "name": "ゆっとしてゆあーん",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_down"
         },
         {
             "a": [
@@ -96,7 +97,8 @@
             "c": [],
             "cd": 6,
             "name": "りんりん、ごー！",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -116,7 +118,8 @@
             "c": [],
             "cd": 6,
             "name": "ゆっくりおねえさま人形",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_union"
         }
     ],
     "attack_skills": {

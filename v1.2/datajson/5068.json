@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "ハードロック",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 4,
             "name": "グラムロック",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 5,
             "name": "プログレッシヴロック",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

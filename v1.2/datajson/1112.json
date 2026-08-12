@@ -80,7 +80,8 @@
             "c": [],
             "cd": 4,
             "name": "「移動して下さーい！」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 6,
             "name": "「階段は走らなーい！」",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -120,7 +122,8 @@
             "c": [],
             "cd": 6,
             "name": "「最後尾ですよー！」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

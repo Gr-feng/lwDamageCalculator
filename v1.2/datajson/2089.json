@@ -109,7 +109,8 @@
             ],
             "cd": 4,
             "name": "ライド斬りの構え",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 4,
             "name": "高速水噴カッター",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 6,
             "name": "超天人の素養",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

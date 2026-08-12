@@ -87,7 +87,8 @@
             ],
             "cd": 4,
             "name": "虚構の幻想入り",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 5,
             "name": "日出処天子",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             "c": [],
             "cd": 6,
             "name": "渡来の神仙術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

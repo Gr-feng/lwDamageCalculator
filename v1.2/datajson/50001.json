@@ -76,7 +76,8 @@
             "c": [],
             "cd": 4,
             "name": "「ゆっくりれいむです」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_down"
         },
         {
             "a": [
@@ -96,7 +97,8 @@
             "c": [],
             "cd": 6,
             "name": "ちっちゃなお祓い棒",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -116,7 +118,8 @@
             "c": [],
             "cd": 6,
             "name": "ゆっくり賽銭箱",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_union"
         }
     ],
     "attack_skills": {

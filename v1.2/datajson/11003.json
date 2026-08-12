@@ -87,7 +87,8 @@
             ],
             "cd": 5,
             "name": "ピンウィール",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 5,
             "name": "ソンブレロ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 5,
             "name": "ワールプール",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disenchant"
         }
     ],
     "attack_skills": {

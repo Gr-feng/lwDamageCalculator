@@ -103,7 +103,8 @@
             ],
             "cd": 6,
             "name": "悪魔すぎる契約",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_rapid_skill"
         },
         {
             "a": [
@@ -129,7 +130,8 @@
             ],
             "cd": 5,
             "name": "多すぎる知識",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_dodge_down"
         },
         {
             "a": [
@@ -155,7 +157,8 @@
             ],
             "cd": 3,
             "name": "不完全すぎるボディ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

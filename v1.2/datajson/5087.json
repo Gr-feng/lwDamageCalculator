@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "MOD作成",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 5,
             "name": "マクロ組成",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 5,
             "name": "パッチノート朗読",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

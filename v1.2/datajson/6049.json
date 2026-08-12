@@ -88,7 +88,8 @@
             ],
             "cd": 4,
             "name": "東門神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             ],
             "cd": 4,
             "name": "酒呑童子の懐刀",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -140,7 +142,8 @@
             ],
             "cd": 6,
             "name": "鬼の仁王(阿形)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

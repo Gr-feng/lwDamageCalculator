@@ -82,7 +82,8 @@
             ],
             "cd": 5,
             "name": "かっちり制服閻魔",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             ],
             "cd": 3,
             "name": "精神弾幕更正法",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             ],
             "cd": 5,
             "name": "(元)地獄生徒会腕章",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

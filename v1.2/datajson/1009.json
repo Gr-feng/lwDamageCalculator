@@ -103,7 +103,8 @@
             "c": [],
             "cd": 4,
             "name": "境界操作",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -123,7 +124,8 @@
             "c": [],
             "cd": 4,
             "name": "守護の賢者",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -149,7 +151,8 @@
             ],
             "cd": 5,
             "name": "強化結界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

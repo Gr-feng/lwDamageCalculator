@@ -85,7 +85,8 @@
             "c": [],
             "cd": 4,
             "name": "式神使役",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 4,
             "name": "九尾狐の蠱物",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -119,7 +121,8 @@
             "c": [],
             "cd": 4,
             "name": "妖力集中",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

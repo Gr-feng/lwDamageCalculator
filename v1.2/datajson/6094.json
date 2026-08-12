@@ -76,7 +76,8 @@
             ],
             "cd": 4,
             "name": "魔力拝借",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -96,7 +97,8 @@
             "c": [],
             "cd": 5,
             "name": "強弱逆転",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -122,7 +124,8 @@
             ],
             "cd": 4,
             "name": "秘めたる野望",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

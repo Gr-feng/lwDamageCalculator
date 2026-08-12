@@ -76,7 +76,8 @@
             "c": [],
             "cd": 4,
             "name": "白い息",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -96,7 +97,8 @@
             "c": [],
             "cd": 4,
             "name": "不可視の怪異",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -116,7 +118,8 @@
             "c": [],
             "cd": 5,
             "name": "寒の水",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

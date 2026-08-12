@@ -3,15 +3,14 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>东方归言录伤害计算器 v1.2</title>
+  <title>东方归言录伤害计算器 v1.2 By 绿意吟风</title>
   <link rel="icon" href="/favicon.ico">
   <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <header class="app-header">
     <div>
-      <h1>东方归言录伤害计算器 <span>v1.2</span></h1>
-      <p>内嵌 WebView 桌面窗口。计算核心沿用 Python 后端，界面由 HTML/CSS/JS 维护。</p>
+      <h1>东方归言录伤害计算器 <span>v1.2</span> <button id="debugModeBtn" class="small secondary">调试</button> <small class="author-mark">By 绿意吟风</small></h1>
     </div>
     <div class="header-actions">
       <button id="calculateBtn">计算</button>
@@ -30,7 +29,19 @@
     <button data-tab="vs-manual">复灵模拟</button>
   </nav>
 
-  <main>
+  <div class="app-shell">
+    <aside class="app-sidebar">
+      <details class="sidebar-section" id="moduleSidebar">
+        <summary>导航</summary>
+        <div id="moduleSidebarLinks" class="sidebar-links"></div>
+      </details>
+      <details class="sidebar-section sidebar-placeholder">
+        <summary>侧边栏预留</summary>
+        <p>后续可将预设、筛选、快速操作等模块迁移到这里。</p>
+      </details>
+    </aside>
+
+    <main>
     <section id="damage" class="tab-panel active">
       <div class="section-title">
         <h2>伤害计算</h2>
@@ -41,7 +52,6 @@
           <select id="calcMode">
             <option value="default">默认</option>
             <option value="vs">复灵</option>
-            <option value="arena">周擂台</option>
           </select>
         </label>
         <span id="waveSwitch" class="wave-switch hidden">
@@ -52,7 +62,14 @@
         </span>
         <label class="inline-check"><input id="realisticCalc" type="checkbox">拟真计算</label>
         <input id="waveCount" type="hidden" value="1">
-        <span class="hint">非周擂台模式默认按第 1 波计算。</span>
+        <span class="hint">复灵模式支持多血条敌方，阶段效果只展示，敌方技能会在我方技能后、伤害计算前生效。</span>
+        <div class="calc-preset-controls">
+          <input id="calcPresetName" placeholder="预设名">
+          <select id="calcPresetSelect"><option value="">选择伤害预设</option></select>
+          <button type="button" class="small secondary" id="saveCalcPresetBtn">保存预设</button>
+          <button type="button" class="small secondary" id="loadCalcPresetBtn">载入预设</button>
+          <button type="button" class="small danger" id="deleteCalcPresetBtn">删除预设</button>
+        </div>
       </div>
       <nav class="subtabs" id="damageSubtabs">
         <button data-subtab="overviewPane" class="active">总览</button>
@@ -112,10 +129,6 @@
           <h3>复灵 tag</h3>
           <div id="vsOptions" class="placeholder-panel"></div>
         </div>
-        <div class="card arena-extra hidden">
-          <h3>周擂台额外选项</h3>
-          <div id="arenaOptions" class="placeholder-panel"></div>
-        </div>
       </div>
       <div id="resultPane" class="sub-panel">
         <div class="result-tabs" id="resultTabs">
@@ -136,6 +149,7 @@
         <h2>角色预设</h2>
         <p>预设会在计算时优先应用。心情和二转符卡/技能修改先保留接口，当前已接入六维加成与绘卷。</p>
       </div>
+      <div id="rolePresetPreview"></div>
       <div id="rolePresetCards" class="slot-grid"></div>
     </section>
 
@@ -144,6 +158,7 @@
         <h2>擂台预设</h2>
         <p>用于周擂台模式的敌方数据接口，可配置六维、盾数量、quality。</p>
       </div>
+      <div id="arenaPresetPreview"></div>
       <div id="arenaPresetCards" class="slot-grid"></div>
     </section>
 
@@ -156,7 +171,7 @@
         <button id="loadVsPresetBtn">解析/刷新复灵数据</button>
         <label class="inline-field">层数 <input id="vsLevel" type="number" min="60" max="100" value="100"></label>
         <label class="inline-field">搜索 <input id="vsPresetSearch" placeholder="名称 / 敌人 / ID"></label>
-        <span id="vsPresetStatus" class="hint"></span>
+        <span id="vsPresetStatus" class="hint hidden"></span>
       </div>
       <div class="table-wrap"><table id="vsPresetTable"></table></div>
     </section>
@@ -205,16 +220,22 @@
           <label>终符属性<select id="cqElements"></select><select id="cqElementLogic"><option value="any">包含任一</option><option value="all">全部包含</option></select><button type="button" class="small secondary" data-add-filter="cqElements">添加</button><span id="cqElementsTags" class="tag-list"></span></label>
           <label>终符弹种<select id="cqBullets"></select><select id="cqBulletLogic"><option value="any">包含任一</option><option value="all">全部包含</option></select><button type="button" class="small secondary" data-add-filter="cqBullets">添加</button><span id="cqBulletsTags" class="tag-list"></span></label>
           <label>特攻 tribe<input id="cqKillerInput" list="tribeOptions" placeholder="输入ID或名称"><select id="cqKillerLogic"><option value="any">包含任一</option><option value="all">全部包含</option></select><button type="button" class="small secondary" id="addKillerBtn">添加</button><span id="cqKillersTags" class="tag-list"></span><input id="cqKillers" type="hidden"></label>
+          <label>能力类型<select id="cqAbilityKind"><option value="">全部</option><option value="barrier">盾异常相关</option><option value="chain">连携相关</option></select></label>
+          <label class="cq-ability-barrier">盾异常<select id="cqAbilityAbnormal"><option value="">全部</option><option value="1">燃烧</option><option value="2">冻结</option><option value="3">感电</option><option value="4">毒雾</option><option value="5">黑暗</option></select></label>
+          <label class="cq-ability-barrier">异常类型<select id="cqAbilityStatus"><option value="">全部</option><option value="1">类型1 免疫</option><option value="4">类型4 免疫且体力回复</option><option value="5">类型5 免疫且灵力上升</option><option value="6">类型6 攻击激昂</option><option value="7">类型7 防御激昂</option><option value="8">类型8 速度激昂</option></select></label>
+          <label class="cq-ability-chain hidden">连携<select id="cqAbilityChain"><option value="">全部</option><option value="power">灵力连携</option><option value="speed">速度连携</option><option value="attack">攻击连携</option><option value="shield">屏障连携</option><option value="guard">防御连携</option><option value="vital">体力连携</option></select></label>
           <label>转生<select id="cqRe"><option value="">全部</option><option>是</option><option>否</option></select></label>
         </div>
         <div class="actions">
           <button id="characterSearchBtn">查询角色</button>
           <span id="characterResultCount" class="hint result-count"></span>
-          <button id="toggleCharacterImagesBtn" class="secondary">折叠头像栏</button>
+          <button id="toggleFullAttack5ElementsBtn" class="secondary">显示完整终符属性</button>
+          <button id="toggleCharacterThumbModeBtn" class="secondary">缩略图</button>
           <button id="characterResetBtn" class="secondary">重置</button>
         </div>
       </details>
-      <div class="table-wrap"><table id="characterTable"></table></div>
+      <div id="characterTableWrap" class="table-wrap"><table id="characterTable"></table></div>
+      <div id="characterThumbGrid" class="character-query-thumbs hidden"></div>
     </section>
 
     <section id="equipment-query" class="tab-panel">
@@ -267,21 +288,63 @@
       <div id="characterDetail"></div>
     </section>
 
+    <section id="character-data-pic" class="tab-panel">
+      <div class="card query-subtabs">
+        <button type="button" data-query-jump="character-query" class="secondary">角色查询</button>
+        <button type="button" data-query-jump="equipment-query" class="secondary">绘卷查询</button>
+        <button type="button" data-query-jump="character-detail" class="secondary">角色详情</button>
+      </div>
+      <div id="characterDataPic"></div>
+    </section>
+
     <section id="vs-manual" class="tab-panel">
       <div class="section-title">
         <h2>复灵模拟</h2>
-        <p>载入复灵预设后导入当前敌我参数，按“计算本回合 / 过回合”交替推进；计算本回合不会增加回合数。</p>
+        <p>按“场地 buff / 我方参数 / 回合模拟”推进。计算本回合不会增加回合数，过回合只推进血条、buff duration 和技能 CD。</p>
       </div>
-      <div class="card">
-        <button id="vsManualImportBtn">从当前伤害计算导入</button>
-        <button id="vsManualCalcBtn">计算本回合</button>
-        <button id="vsManualNextBtn" class="secondary">过回合</button>
-        <span class="hint">进入模拟后可调整我方开盾、技能、攻击类型和开P数；敌方血条/EX 会随过回合推进到下一血条。</span>
+      <nav class="subtabs" id="vsManualSubtabs">
+        <button type="button" data-vs-manual-tab="field" class="active">场地 buff</button>
+        <button type="button" data-vs-manual-tab="enemy">敌方参数</button>
+        <button type="button" data-vs-manual-tab="ally">我方参数</button>
+        <button type="button" data-vs-manual-tab="turn">回合模拟</button>
+      </nav>
+      <div class="vs-manual-panel active" data-vs-manual-panel="field">
+        <div class="card">
+          <h3>场地 buff / 复灵 tag</h3>
+          <p class="hint">先在复灵预设页载入预设。这里勾选启用 tag，并设置复灵层数；应用后会进入敌方参数预览。</p>
+          <div id="vsManualFieldPresetTable"></div>
+          <button id="vsManualPrepareFieldBtn">应用场地 buff 并进入敌方参数</button>
+        </div>
       </div>
-      <div id="vsManualControls" class="manual-controls"></div>
-      <div id="vsManualResult" class="manual-result"></div>
+      <div class="vs-manual-panel" data-vs-manual-panel="enemy">
+        <div class="card">
+          <h3>敌方参数预览</h3>
+          <p class="hint">这里显示当前复灵预设按复灵层数和已勾选 tag 折算后的敌方数据，方便预览和 debug，不需要跳转到伤害计算模块。</p>
+          <div id="vsManualEnemySlots" class="vs-manual-enemy-grid"></div>
+        </div>
+      </div>
+      <div class="vs-manual-panel" data-vs-manual-panel="ally">
+        <div class="card">
+          <h3>我方参数</h3>
+          <p class="hint">这里是复灵模拟专用我方参数，不复用伤害计算页的数据。修改后点击初始化进入回合模拟。</p>
+          <div id="vsManualAllySlots" class="slot-grid vs-manual-ally-grid"></div>
+          <button id="vsManualImportBtn">初始化回合模拟</button>
+        </div>
+      </div>
+      <div class="vs-manual-panel" data-vs-manual-panel="turn">
+        <div class="card">
+          <button id="vsManualApplySkillsBtn" class="secondary">应用技能</button>
+          <button id="vsManualCalcBtn">计算本回合</button>
+          <button id="vsManualNextBtn" class="secondary">过回合</button>
+          <button id="vsManualResetBtn" class="secondary">重置回合模拟</button>
+          <span class="hint">每回合先指定我方技能、开盾数、灵力和攻击类型，再计算本回合。</span>
+        </div>
+        <div id="vsManualControls" class="manual-controls"></div>
+        <div id="vsManualResult" class="manual-result"></div>
+      </div>
     </section>
-  </main>
+    </main>
+  </div>
 
   <template id="buffRowTemplate">
     <div class="buff-row">
@@ -293,6 +356,22 @@
     </div>
   </template>
 
+  <script src="/core.js"></script>
+  <script src="/components/vs_effects.js"></script>
+  <script src="/components/vs_display.js"></script>
+  <script src="/components/manual_buffs.js"></script>
+  <script src="/components/role_gallery.js"></script>
+  <script src="/modules/shared_forms.js"></script>
+  <script src="/modules/damage_slots.js"></script>
+  <script src="/modules/damage_runtime.js"></script>
+  <script src="/modules/character_query.js"></script>
+  <script src="/modules/equipment_query.js"></script>
+  <script src="/modules/filters.js"></script>
+  <script src="/modules/presets.js"></script>
+  <script src="/modules/vs_manual.js"></script>
+  <script src="/modules/weekly_arena.js"></script>
+  <script src="/modules/vs_manual_actions.js"></script>
+  <script src="/modules/query_detail.js"></script>
   <script src="/app.js"></script>
 </body>
 </html>

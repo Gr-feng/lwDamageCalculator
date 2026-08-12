@@ -112,7 +112,8 @@
             ],
             "cd": 7,
             "name": "あの頃の流行スタイル",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 4,
             "name": "使い古しの潮干狩り道具",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 6,
             "name": "守矢神社縁起？",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {

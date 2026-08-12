@@ -87,7 +87,8 @@
             ],
             "cd": 6,
             "name": "紅茶の貿易",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 4,
             "name": "世界情報網",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 6,
             "name": "スカーレット財閥",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

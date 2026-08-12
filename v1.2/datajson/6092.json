@@ -87,7 +87,8 @@
             ],
             "cd": 6,
             "name": "モノノフのフトヒメ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             "c": [],
             "cd": 5,
             "name": "斑鳩の聖童女",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 4,
             "name": "神代物部秘術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

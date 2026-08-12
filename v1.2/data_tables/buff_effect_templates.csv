@@ -1,0 +1,48 @@
+id,sub_id,target,value,duration,description
+1,,,,,{target_label}{sub_label}上升{value_text}层 ({turn_text})
+2,,,,,{target_label}{sub_label}下降{value_text}层 ({turn_text})
+3,,,,,{target_label}体力恢复{percent_text}
+4,,,,,{target_label}结界增加{value_text}枚
+5,,,,,{target_label}灵力上升{spirit_text}
+6,,,,,{target_label}附加{sub_label}{value_text}层 ({turn_text})
+7,,,,,使{target_label}{sub_label}
+8,,,,,使{target_label}{sub_label}
+9,,,,,使{target_label}解除{value_text}异常结界
+10,,,,,使{target_label}解除{value_text}状态异常
+12,,,,,{target_label}受到{sub_label}的伤害下降{percent_text} ({turn_text})
+13,,,,,{target_label}受到{sub_label}的伤害下降{percent_text} ({turn_text})
+14,,,,,{target_label}受到{sub_label}的伤害下降{percent_text} ({turn_text})
+15,,,,,{sub_label}的威力上升{percent_text} ({turn_text})
+16,,,,,{sub_label}的威力上升{percent_text} ({turn_text})
+17,,,,,灵力回收上升{percent_text}
+20,,,,,{target_label}的{sub_label}上锁
+21,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+22,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+23,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+24,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+25,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+26,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+27,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+28,,,,,{type_label}使用时，{target_label}{sub_label}上升{value_text}层 ({turn_text})
+31,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+32,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+33,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+34,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+35,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+36,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+37,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+38,,,,,{type_label}使用时，{target_label}{sub_label}下降{value_text}层 ({turn_text})
+41,,,,,{target_label}2阶{sub_label}上升{value_text}层 ({turn_text})
+42,,,,,{target_label}2阶{sub_label}下降{value_text}层 ({turn_text})
+43,,,,,为{target_label}添加{sub_label}弱点
+46,,,,,为{target_label}添加{sub_label}（{turn_text}）
+47,,,,,{target_label}{sub_label}{percent_text}
+48,,,,,{target_label}根据{sub_label}{percent_text}
+49,,,,,{target_label}{sub_label}增伤{percent_text}
+50,,,,,{target_label}{sub_label}减伤{percent_text}
+51,,,,,{target_label}{sub_label}缩短{value_text}回合
+52,,,,,{target_label}{sub_label}延长{value_text}回合
+54,,,,,展开{big_barrier_label}
+56,,,,,{target_label}{sub_label}永久上升{percent_text}
+57,,,,,{target_label}{sub_label}永久下降{percent_text}
+58,,,,,自身的{source_stat}的{percent_text}添加到{target_label}{target_stat}上

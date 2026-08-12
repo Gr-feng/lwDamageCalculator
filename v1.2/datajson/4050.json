@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 35,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "記憶魔力変換理論",
         "quality": 2002222,
         "quality_name": "宏観異常現象",
-        "speed": 1030,
+        "speed": 1275,
         "subname": "NAЯAKA",
         "total": 7575,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 8,
         "world_group": "L80",
-        "yang_atk": 1905,
-        "yang_def": 885,
-        "yin_atk": 1855,
-        "yin_def": 850
+        "yang_atk": 2080,
+        "yang_def": 1000,
+        "yin_atk": 1960,
+        "yin_def": 950
     },
     "chain_character": [
         5003,
@@ -108,7 +108,8 @@
             ],
             "cd": 5,
             "name": "那羅延天の星矢",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 5,
             "name": "心的外傷の地層",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 6,
             "name": "思念動物の具現化",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {

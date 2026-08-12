@@ -82,7 +82,8 @@
             "c": [],
             "cd": 5,
             "name": "ムーディな旋律",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -102,7 +103,8 @@
             "c": [],
             "cd": 4,
             "name": "新譜発表",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -122,7 +124,8 @@
             "c": [],
             "cd": 5,
             "name": "癒やしの音色",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {

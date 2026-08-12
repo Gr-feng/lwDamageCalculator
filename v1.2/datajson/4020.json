@@ -74,7 +74,8 @@
             "c": [],
             "cd": 3,
             "name": "不死鳥の翼",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             ],
             "cd": 3,
             "name": "藤原流忍法？",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 5,
             "name": "発火妖術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_burn"
         }
     ],
     "attack_skills": {

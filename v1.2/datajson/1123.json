@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 2,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "アキグイノカミ",
         "quality": 20111111,
         "quality_name": "白虹",
-        "speed": 1050,
+        "speed": 1120,
         "subname": "無主物の神",
         "total": 6900,
         "tribe": [
@@ -43,10 +43,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1875,
-        "yang_def": 830,
-        "yin_atk": 1325,
-        "yin_def": 720
+        "yang_atk": 2120,
+        "yang_def": 920,
+        "yin_atk": 1370,
+        "yin_def": 770
     },
     "chain_character": [
         1118,
@@ -91,7 +91,8 @@
             "c": [],
             "cd": 4,
             "name": "所有権解放",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             "c": [],
             "cd": 7,
             "name": "市場のプレゼンター",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             ],
             "cd": 4,
             "name": "神の見えざる手",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

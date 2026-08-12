@@ -6,7 +6,7 @@ import random
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Tuple
 
-from combat_constants import BULLET_RAW_TO_BUFF_SUBID, ELEMENT_RAW_TO_BUFF_SUBID, normalized_lookup_keys
+from backend.core.combat_constants import BULLET_RAW_TO_BUFF_SUBID, ELEMENT_RAW_TO_BUFF_SUBID, normalized_lookup_keys
 from equipment_parser import OUTPUT_JSON_PATH, ensure_equipment_data_json
 from gui.config import AllySlotConfig, EnemySlotConfig, ProcessConfig, EQUIPMENT_SLOT_KEYS
 from gui.resources import RECOMMENDED_EQUIPMENT_CSV_PATH
@@ -14,7 +14,8 @@ from gui.services import DamageCalculatorService
 
 
 BASE_DIR = Path(__file__).resolve().parent
-ATTACK5_CANDIDATES_CSV_PATH = BASE_DIR / "attack5_candidates.csv"
+DATA_TABLE_DIR = BASE_DIR / "data_tables"
+ATTACK5_CANDIDATES_CSV_PATH = DATA_TABLE_DIR / "attack5_candidates.csv"
 ATTACK_TYPES = EQUIPMENT_SLOT_KEYS
 RECOMMENDATION_SLOT_SOURCES = {
     "1a": "1",

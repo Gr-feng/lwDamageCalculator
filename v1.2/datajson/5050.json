@@ -113,7 +113,8 @@
             ],
             "cd": 4,
             "name": "清涼リフレッシュ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -139,7 +140,8 @@
             ],
             "cd": 5,
             "name": "幻想郷ガイドブック",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -165,7 +167,8 @@
             ],
             "cd": 6,
             "name": "防水レジャーシート",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_resist_type4"
         }
     ],
     "attack_skills": {

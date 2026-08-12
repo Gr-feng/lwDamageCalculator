@@ -82,7 +82,8 @@
             ],
             "cd": 5,
             "name": "六十六面相",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             ],
             "cd": 4,
             "name": "仮面女優",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             ],
             "cd": 4,
             "name": "舞台裏の面霊気",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

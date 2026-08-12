@@ -110,7 +110,8 @@
             ],
             "cd": 4,
             "name": "西行寺家の御令嬢",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -136,7 +137,8 @@
             ],
             "cd": 5,
             "name": "華胥の国の亡霊少女",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -162,7 +164,8 @@
             ],
             "cd": 7,
             "name": "桜花繚乱の冥界姫君",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_weaktype_05"
         }
     ],
     "attack_skills": {

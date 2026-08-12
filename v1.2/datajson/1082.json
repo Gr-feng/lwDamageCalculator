@@ -31,7 +31,7 @@
         "passivity_3_name": "変化マスター",
         "quality": 21210110,
         "quality_name": "秋月",
-        "speed": 750,
+        "speed": 775,
         "subname": "化け狸　十変化",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 1,
         "world_group": "L1",
-        "yang_atk": 900,
-        "yang_def": 1220,
-        "yin_atk": 1400,
-        "yin_def": 1430
+        "yang_atk": 925,
+        "yang_def": 1345,
+        "yin_atk": 1525,
+        "yin_def": 1770
     },
     "chain_character": [
         1020,
@@ -102,7 +102,8 @@
             "c": [],
             "cd": 4,
             "name": "七変化",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -122,7 +123,8 @@
             "c": [],
             "cd": 4,
             "name": "木の葉隠せ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -148,7 +150,8 @@
             ],
             "cd": 4,
             "name": "佐渡の狸の総大将",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

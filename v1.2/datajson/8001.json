@@ -105,7 +105,8 @@
             ],
             "cd": 1,
             "name": "異界接点",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -131,7 +132,8 @@
             ],
             "cd": 4,
             "name": "祈祷への即応性",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -157,7 +159,8 @@
             ],
             "cd": 6,
             "name": "東から吹く風",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_up"
         }
     ],
     "attack_skills": {

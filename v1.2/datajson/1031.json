@@ -76,7 +76,8 @@
             "c": [],
             "cd": 5,
             "name": "フェアリーエール",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -90,7 +91,8 @@
             "c": [],
             "cd": 4,
             "name": "癒やしの願い",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -110,7 +112,8 @@
             "c": [],
             "cd": 5,
             "name": "お伽噺の妖精郷",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

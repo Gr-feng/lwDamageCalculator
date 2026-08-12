@@ -31,7 +31,7 @@
         "passivity_3_name": "テンション上げ",
         "quality": 2210111,
         "quality_name": "地震雲",
-        "speed": 900,
+        "speed": 940,
         "subname": "閉じた恋の瞳",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1210,
-        "yang_def": 1050,
-        "yin_atk": 1390,
-        "yin_def": 1150
+        "yang_atk": 1270,
+        "yang_def": 1080,
+        "yin_atk": 1820,
+        "yin_def": 1180
     },
     "chain_character": [
         1050,
@@ -85,7 +85,8 @@
             "c": [],
             "cd": 4,
             "name": "自動思考",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 6,
             "name": "興味津々",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -119,7 +121,8 @@
             "c": [],
             "cd": 4,
             "name": "クローズド・アイ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

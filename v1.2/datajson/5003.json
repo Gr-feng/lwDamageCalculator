@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 30,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 6,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "紅い悪魔の記憶",
         "quality": 2111112,
         "quality_name": "移流霧",
-        "speed": 1400,
+        "speed": 1420,
         "subname": "指先の熱",
         "total": 7575,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 5,
         "world_group": "L80",
-        "yang_atk": 1405,
-        "yang_def": 900,
-        "yin_atk": 1905,
-        "yin_def": 935
+        "yang_atk": 1440,
+        "yang_def": 920,
+        "yin_atk": 2045,
+        "yin_def": 1020
     },
     "chain_character": [
         3032,
@@ -109,7 +109,8 @@
             ],
             "cd": 8,
             "name": "レディ・ノスフェラトゥ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 6,
             "name": "ドラキュロイド・ガール",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 6,
             "name": "ノーライフ・プリンセス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

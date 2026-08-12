@@ -74,7 +74,8 @@
             "c": [],
             "cd": 4,
             "name": "完全な闇",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -94,7 +95,8 @@
             "c": [],
             "cd": 5,
             "name": "黒い霧",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -114,7 +116,8 @@
             "c": [],
             "cd": 4,
             "name": "スピットダーク",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_blind"
         }
     ],
     "attack_skills": {

@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "暗黒エネルギー",
         "quality": 21111200,
         "quality_name": "夕闇",
-        "speed": 1225,
+        "speed": 1320,
         "subname": "[紅]宵闇の妖怪",
         "total": 6900,
         "tribe": [
@@ -41,10 +41,10 @@
         ],
         "type": 8,
         "world_group": "A6",
-        "yang_atk": 650,
-        "yang_def": 600,
-        "yin_atk": 1750,
-        "yin_def": 1675
+        "yang_atk": 670,
+        "yang_def": 620,
+        "yin_atk": 1990,
+        "yin_def": 1840
     },
     "chain_character": [
         2006,
@@ -96,7 +96,8 @@
             ],
             "cd": 5,
             "name": "エバーナイト",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -116,7 +117,8 @@
             "c": [],
             "cd": 5,
             "name": "ダークエレメント",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -142,7 +144,8 @@
             ],
             "cd": 4,
             "name": "ブラックベール",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {

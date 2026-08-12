@@ -31,7 +31,7 @@
         "passivity_3_name": "シンクロ発光",
         "quality": 2102111,
         "quality_name": "蝗災",
-        "speed": 1255,
+        "speed": 1380,
         "subname": "闇に蠢く光の蟲",
         "total": 6450,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1025,
-        "yang_def": 640,
-        "yin_atk": 1405,
-        "yin_def": 1125
+        "yang_atk": 1070,
+        "yang_def": 670,
+        "yin_atk": 1820,
+        "yin_def": 1170
     },
     "chain_character": [
         1030,
@@ -84,7 +84,8 @@
             "c": [],
             "cd": 4,
             "name": "関節肢",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             "c": [],
             "cd": 4,
             "name": "はしご形神経系",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -124,7 +126,8 @@
             "c": [],
             "cd": 4,
             "name": "複眼と単眼",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_blind"
         }
     ],
     "attack_skills": {

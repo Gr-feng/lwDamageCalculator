@@ -84,7 +84,8 @@
             ],
             "cd": 5,
             "name": "五行相生の申し子",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             ],
             "cd": 5,
             "name": "ガオケレナの使い",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             ],
             "cd": 5,
             "name": "沙門不敬王者",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_burn"
         }
     ],
     "attack_skills": {

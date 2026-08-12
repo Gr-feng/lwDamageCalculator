@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "ひんやりボディソープ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 6,
             "name": "冷感薬用ローション",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 8,
             "name": "さわやかシャンプー",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

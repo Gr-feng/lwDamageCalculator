@@ -74,7 +74,8 @@
             "c": [],
             "cd": 4,
             "name": "余裕ある妖怪暮らし",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             ],
             "cd": 4,
             "name": "最近暇な付喪神",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 5,
             "name": "茄子みたい！",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

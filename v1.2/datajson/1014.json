@@ -31,7 +31,7 @@
         "passivity_3_name": "[P]アイテム拾い",
         "quality": 2102111,
         "quality_name": "日和",
-        "speed": 1200,
+        "speed": 1340,
         "subname": "すきま妖怪の式の式",
         "total": 6000,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 7,
         "world_group": "L1",
-        "yang_atk": 1220,
-        "yang_def": 985,
-        "yin_atk": 880,
-        "yin_def": 815
+        "yang_atk": 1770,
+        "yang_def": 1220,
+        "yin_atk": 920,
+        "yin_def": 870
     },
     "chain_character": [
         1009,
@@ -72,7 +72,7 @@
                 5,
                 1,
                 3,
-                1
+                3
             ],
             "b": [
                 5,
@@ -82,9 +82,10 @@
                 15
             ],
             "c": [],
-            "cd": 6,
+            "cd": 4,
             "name": "式神強化[速力]",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -92,7 +93,7 @@
                 7,
                 1,
                 3,
-                1
+                3
             ],
             "b": [
                 5,
@@ -102,9 +103,10 @@
                 15
             ],
             "c": [],
-            "cd": 6,
+            "cd": 5,
             "name": "式神強化[回避]",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -112,7 +114,7 @@
                 6,
                 1,
                 3,
-                1
+                3
             ],
             "b": [
                 5,
@@ -121,10 +123,11 @@
                 1,
                 15
             ],
-            "c": [],
+            "c": [1,1,1,3,3],
             "cd": 6,
             "name": "式神強化[命中]",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {
@@ -239,7 +242,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 12,
-                    "damage": 10.8,
+                    "damage": 18.36,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -260,7 +263,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 12,
-                    "damage": 18.51,
+                    "damage": 31.47,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -281,7 +284,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 12,
-                    "damage": 20.06,
+                    "damage": 34.1,
                     "damage_extend": 107,
                     "effect": [],
                     "element": 9,
@@ -302,7 +305,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 12,
-                    "damage": 21.6,
+                    "damage": 36.72,
                     "damage_extend": 113,
                     "effect": [],
                     "element": 9,
@@ -323,7 +326,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 12,
-                    "damage": 23.14,
+                    "damage": 39.34,
                     "damage_extend": 120,
                     "effect": [],
                     "element": 9,
@@ -344,7 +347,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 12,
-                    "damage": 24.69,
+                    "damage": 41.97,
                     "damage_extend": 127,
                     "effect": [],
                     "element": 9,
@@ -649,7 +652,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 12,
-                    "damage": 21.6,
+                    "damage": 36.72,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -670,7 +673,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 12,
-                    "damage": 18.51,
+                    "damage": 31.47,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -691,7 +694,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 12,
-                    "damage": 20.06,
+                    "damage": 34.10,
                     "damage_extend": 107,
                     "effect": [],
                     "element": 9,
@@ -712,7 +715,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 12,
-                    "damage": 21.6,
+                    "damage": 36.72,
                     "damage_extend": 113,
                     "effect": [],
                     "element": 9,
@@ -733,7 +736,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 12,
-                    "damage": 23.14,
+                    "damage": 39.34,
                     "damage_extend": 120,
                     "effect": [],
                     "element": 9,
@@ -754,7 +757,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 12,
-                    "damage": 24.69,
+                    "damage": 41.97,
                     "damage_extend": 127,
                     "effect": [],
                     "element": 9,
@@ -1051,7 +1054,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 12,
-                    "damage": 11.25,
+                    "damage": 19.69,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -1072,7 +1075,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 12,
-                    "damage": 20.57,
+                    "damage": 36.00,
                     "damage_extend": 100,
                     "effect": [
                         5,
@@ -1096,7 +1099,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 12,
-                    "damage": 22.29,
+                    "damage": 39.01,
                     "damage_extend": 107,
                     "effect": [
                         5,
@@ -1120,7 +1123,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 12,
-                    "damage": 36.0,
+                    "damage": 63.00,
                     "damage_extend": 115,
                     "effect": [
                         5,
@@ -1144,7 +1147,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 12,
-                    "damage": 38.57,
+                    "damage": 67.50,
                     "damage_extend": 122,
                     "effect": [
                         5,
@@ -1168,7 +1171,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 12,
-                    "damage": 41.14,
+                    "damage": 72.00,
                     "damage_extend": 130,
                     "effect": [
                         5,

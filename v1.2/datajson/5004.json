@@ -109,7 +109,8 @@
             ],
             "cd": 4,
             "name": "デビルズ・シスター",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 6,
             "name": "リトル・デストラクター",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 7,
             "name": "スカーレット・ブラッド",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_resist_type8"
         }
     ],
     "attack_skills": {

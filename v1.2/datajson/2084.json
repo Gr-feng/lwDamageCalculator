@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "生命の樹",
         "quality": 12111121,
         "quality_name": "ダイソン樹",
-        "speed": 900,
+        "speed": 930,
         "subname": "融合細胞怪獣",
         "total": 7350,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 6,
         "world_group": "H5",
-        "yang_atk": 1325,
-        "yang_def": 1025,
-        "yin_atk": 1925,
-        "yin_def": 1125
+        "yang_atk": 1355,
+        "yang_def": 1055,
+        "yin_atk": 2090,
+        "yin_def": 1230
     },
     "chain_character": [
         2018,
@@ -105,7 +105,8 @@
             ],
             "cd": 5,
             "name": "生贄の黒蓮",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -131,7 +132,8 @@
             ],
             "cd": 3,
             "name": "毒のある木蔦",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -157,7 +159,8 @@
             ],
             "cd": 6,
             "name": "枯れない花",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

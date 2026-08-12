@@ -92,7 +92,8 @@
             "c": [],
             "cd": 3,
             "name": "木の葉隠し",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             "c": [],
             "cd": 2,
             "name": "境界の鳥",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             "c": [],
             "cd": 5,
             "name": "千里眼",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

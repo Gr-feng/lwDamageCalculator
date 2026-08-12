@@ -83,7 +83,8 @@
             ],
             "cd": 4,
             "name": "身だしなみチェック",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             ],
             "cd": 4,
             "name": "待ち合わせダッシュ(炎)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             ],
             "cd": 6,
             "name": "真冬の勝負服(妹紅)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_storage_type03"
         }
     ],
     "attack_skills": {

@@ -87,7 +87,8 @@
             "c": [],
             "cd": 4,
             "name": "講義",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             "c": [],
             "cd": 4,
             "name": "マニュスクリプト",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 5,
             "name": "瑞兆吉祥",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

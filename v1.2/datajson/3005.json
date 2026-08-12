@@ -115,7 +115,8 @@
             ],
             "cd": 5,
             "name": "module[ホフゴブリン]",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -141,7 +142,8 @@
             ],
             "cd": 4,
             "name": "module[ツパイ]",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             "c": [],
             "cd": 6,
             "name": "module[妖精メイド]",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

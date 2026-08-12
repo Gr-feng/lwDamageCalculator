@@ -80,7 +80,8 @@
             "c": [],
             "cd": 4,
             "name": "遠隔点火",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 5,
             "name": "不死者の威圧",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -120,7 +122,8 @@
             "c": [],
             "cd": 5,
             "name": "蓬莱人の宿命",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {

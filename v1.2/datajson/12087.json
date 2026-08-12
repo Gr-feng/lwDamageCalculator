@@ -1,36 +1,172 @@
 {
     "character_info": {
+        "ability_description": "即将抵达终局的秦心的能力(东方归言录原创)。\n因为“失落的言语”曾经一度完全失去的能力。\n现在白莲已逐渐取回能力，但这并非“复原”或者“再现”，核心是“新构建的新能力”。\n为了解决归言录异变，秦心至今为止穿越了多个世界。\n\n身为付丧神的秦心，和人类是什么样的关系呢？\n付丧神原本不过是道具。\n道具是不具备生命的物体是只能通过从属于主体来定义自我的道具。\n即便从道具变成了付丧神，也无法摆脱道具的身份。\n不再被使用的道具若没有被破坏（上供），那么会因怨恨之念获得妖怪性，并成为付丧神。\n流淌着道具时代的使用者的魔力的回路，恐怕正是付丧神的神经与血管。\n这意味着即便道具成为了付丧神，也无法摆脱所有者……人类之念的束缚。\n然而秦心却不是诞生自怨恨的付丧神。\n目前为止，真书中无法找到秦心的诞生原因。\n一切都充满谜团。\n\n面灵气的诞生与圣德太子和秦河胜有关。\n在为数众多的付丧神之中，秦心也是特别的存在。\n和背景相似的琵琶牧牧与琴古主相比，秦心更为特别。\n如果秦心一直作为道具存在于外面世界，那么她一定会被认定为国宝。\n但太子与河胜登场的六十六个面具的故事或许只是传说，打一开始就不存在。\n说不定是在人们想象能乐中使用的多种多样的面具的起源的过程中……诞生的神话。\n如此一来，这也是对能乐中的情感表现进化的逆向模拟。人们视作情感表现起源的虚构面具，或许正是相当于秦心以及面灵气的原型的面具。\n顺带一提，太子与河胜等于丰聪耳神子与摩多罗隐岐奈仅是外书中的说法，真书中目前并无确证。\n这些人物在真书世界中或许毫无关联，甚至可能是虚构的人物。\n\n作为虚构面具的面灵气，是承载了人类感情的根源的存在（请参考纯化的机制）。\n这是唯心论，也是泛心论。\n也可能是唯我论。\n感情是感觉诱发的内心现象。人类的一切认知都由感情构成。\n人类的内侧与外侧是一对一对应关系，再加上不确定性原理这个因素的话，心的内侧等同于外侧。\n操纵感情，等同于干涉世界。\n秦心学习人类感情，并练习情感表达这些行为，等同于走遍全世界的旅途。\n\n曾经的她不过是普通的道具，因此即便一切回归虚无她也不会感到害怕……原本会是这样。\n然而她已经习得了恐惧这份感情。\n以及，希望这份感情。\n\n【晓声面具】\n以六十六个面具为代表的，全人类的感情将力量借予秦心的结果。\n感情不光是存在于内心之中。对一切情景、一切心象风景的，不被言语束缚的感想皆为感情。\n66种面具。如果选择两张不同的面具，那么有2145种组合。如果选择三张不同的面具，那么有45760种组合……以此类推。\n如果面具可以重复选择，那么组合的数量将远远超过爱丁顿数。\n没有生命不具备感情。\n这意味着，宇宙中的一切存在都会协助秦心。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>35%",
+        "ability_effect_d3": "每被施加1枚结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>感电</color>」「<color=#CCAA00>毒雾</color>」，<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>1等级",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「操纵感情程度的能力(消失)」",
         "advantage_attack": 35,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 7,
         "barrier_status_2": 0,
         "barrier_status_3": 7,
         "barrier_status_4": 7,
         "barrier_status_5": 0,
-        "bgm": 301208701,
+        "bgm": "Spread your Wings",
         "boost_buff": 1,
         "boost_target": 1,
         "break_cost": 504,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "アタック連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color>强度上升的一部分(3回合)",
+        "chain_name": "攻击连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是秦心。为了与“我所爱的幻想乡”重逢，你是我命中注定的使用者。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
-        "name": "秦こころ",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>神様</color>から受けるダメージを40%<color=#0066FF>ダウン</color> [発生率50%]",
+        "jp_name": "はたのこころ",
+        "lines1": "至今为止我学习了数不清的感情。所以……我明白现在胸中的这份感情是什么。我想取回它。我想拯救它。我想再一次见到“我所爱的幻想乡”――。我朝着太阳升起的方向，飞翔了数不清的岁月。最后，我找到了你。我重新做一次自我介绍，我是秦心。我是你心中的，拥有感情的面具之一。",
+        "lines10": "通过学习感情，我理解了人类与妖怪，以及各种各样的存在的内心。即便如此，我也看不到终点。还有我需要学习的事情。",
+        "lines11": "身为付丧神的我精通于道具。但除我之外也有熟知道具的能力者。是谁来着？",
+        "lines12": "神子小姐、隐岐奈小姐、猯藏小姐、灵梦、白莲小姐……付丧神伙伴、荷取、小恋……除她们之外也有很多人。我有太多想要守护的回忆。",
+        "lines13": "春天是喜悦的季节。现在的我能理解这番话的含义。大家心浮气躁的感情，正是我的心声。",
+        "lines14": "夏天是欢乐的季节。现在的我能理解这番话的含义。我们一起出去玩吧。山也好，湖也好。告诉我你心中的想法。",
+        "lines15": "秋天是愤怒的季节。现在的我能理解这番话的含义。生气时就该吃好吃的。来，这是我吃了一半的烤红薯。",
+        "lines16": "冬天是哀伤的季节。现在的我能理解这番话的含义。哀伤的冬天结束后，一定会迎来希望之春。虽然简单易懂……但实在是美好。",
+        "lines17": "作业吗。勇敢的挑战者啊。……我会在这里应援你。",
+        "lines18": "作业完成。了不起～。我来抚摸一下可爱的王者。乖孩子乖孩子。",
+        "lines19": "传传传，传书～！？ 我来念～。",
+        "lines2": "连接人心与道具。这个做法真的没问题吗……？",
+        "lines20": "刚才的弹幕是不是有待改善？反省会？好麻烦—。",
+        "lines21": "有人回来了。我去接一下吧—。",
+        "lines22": "我想听你的心声。躺在我的膝盖上睡觉吧。",
+        "lines23": "从膝盖传来了你的魔力。好暖。",
+        "lines24": "这么快就睡着了。你在做梦吗？……乖孩子乖孩子。",
+        "lines25": "五彩缤纷的面具们啊，我们一起上",
+        "lines26": "这就是，我的心声",
+        "lines27": "展开吧。翅膀就在你的背后",
+        "lines28": "这是什么感情。我没有输。我没有输！",
+        "lines29": "让我们的",
+        "lines3": "用魔力让内心与道具直接连起来。看似不过是在以往的道具系统的延长线上而已。",
+        "lines30": "物语",
+        "lines31": "开始吧",
+        "lines32": "让只属于我的",
+        "lines33": "无尽旅途",
+        "lines34": "终止吧",
+        "lines35": "哭吧",
+        "lines36": "笑吧",
+        "lines37": "愤怒吧",
+        "lines38": "喜悦吧",
+        "lines39": "超越绝望吧",
+        "lines4": "我之所以能从大异变的“大消灭”中幸免遇难，是因为作为付丧神的，作为道具的性质。道具可以移植内心。",
+        "lines40": "照亮世界吧，感情之光啊",
+        "lines41": "可以交给你吗？",
+        "lines42": "我来想办法",
+        "lines43": "上吧，面具们",
+        "lines44": "希望之面可不是盖的",
+        "lines45": "六十六个面具啊　引导我吧\n面具即是舞台",
+        "lines46": "面具会教给我全人类的感情　\n一切内心的弹幕",
+        "lines47": "六十六面「学习感情的修行生活的面具」",
+        "lines48": "弹幕是感情　一切生命皆为感情　\n我在与胸中的感情一起活着",
+        "lines49": "我不会让任何人妨碍我　\n我一定　会改变世界",
+        "lines5": "利用道具中的魔力，甚至可以复制使用者的内心。这就是读心道具。甚至连心中的想法都能够化为现实……！",
+        "lines50": "六十六面「名为异变的大舞台的面具」",
+        "lines51": "斑鸠鸣叫之时　我将踏上旅途　\n飞越夜晚吧　背面的翅膀啊",
+        "lines52": "一起去寻找希望的物语吧　\n寻找失落的面具的　最后的碎片吧",
+        "lines53": "「假面丧心舞　暗黑能乐　‐晓声之面‐」",
+        "lines54": "呜",
+        "lines55": "住手—",
+        "lines56": "没什么大不了的",
+        "lines57": "更激烈一些",
+        "lines58": "爱与和平！",
+        "lines59": "还不够吗。我想变得更强",
+        "lines6": "这个世界是某人在心中描绘的世界……你有这么想过吗？如果说“世界存在所有者”，那这个假说说不定会成立。穿越异界等于穿越内心。我们最后将抵达何处呢……？",
+        "lines60": "东方归言录",
+        "lines61": "好",
+        "lines62": "那算了",
+        "lines63": "谢谢",
+        "lines64": "我忘记面具正确的顺序了。",
+        "lines65": "小恋。我有没有稍微理解你的内心呢？",
+        "lines7": "我是道具。我一个人努力，也无法让结果获得意义。我尝试了许多次，但都失败了。所以……你来使用我吧。我已经做好准备了。你来发挥我的价值。让我在道具的范围内，完成我该做的事情。",
+        "lines8": "我又理解了一种感情。我还能变得更强。",
+        "lines9": "“晓声面具”是连接内心与道具的，究极的接口。使用“晓声之面”可以随心所欲地操控面具。……但据说这不是它的本质。",
+        "name": "秦心",
+        "passivity_1_description": "被攻击时，受到来自<color=#CCAA00>神明</color>的伤害<color=#0066FF>下降</color>40% [发生率50%]",
         "passivity_1_icon": "characteristic_icon_56",
-        "passivity_1_name": "太子製作説",
-        "passivity_2_description": "攻撃された時、<color=#CCAA00>付喪神</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_name": "太子制作说",
+        "passivity_2_description": "被攻击时，受到来自<color=#CCAA00>付丧神</color>的伤害<color=#0066FF>下降</color>50% [发生率100%]",
         "passivity_2_icon": "characteristic_icon_56",
-        "passivity_2_name": "河勝製作説",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color> [発生率100%]",
+        "passivity_2_name": "河勝制作说",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.35 [发生率100%]",
         "passivity_3_icon": "characteristic_icon_31",
-        "passivity_3_name": "石燕創作説",
+        "passivity_3_name": "石燕创作说",
         "quality": 2110121,
-        "quality_name": "蓬莱霊亀",
+        "quality_description": "即将抵达终局的秦心的气质(东方归言录原创)。\n“蓬莱灵龟”指海市蜃楼。\n是符合试图从由感情构成的内部空间终结失落之言异变的心的气质。\n\n在心本身的气质（土行＋星精)）的基础之上，新增了翱翔在天空的翅膀的气质（金行）。\n象征着包容与再生的土行，由于“火生土”对火行具备抗性，由于“木克土”而对木行不利。\n象征着多样性与特立独行的星精对象征着协调性与优柔寡断的月精具备抗性，不擅长应对象征着绝对魅力与傲慢的日精。\n冷淡而又沉默的金行由于“土生金”对土行具备抗性，由于“火克金”而对火行不利。\n金＋土行抵消了对火行的抗性与弱点。",
+        "quality_name": "蓬莱灵龟",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "龙之卷轴-一",
+        "rank_up_lv0_2_value": 30,
+        "rank_up_lv0_3_name": "蛇之卷轴-一",
+        "rank_up_lv0_3_value": 30,
+        "rank_up_lv0_4_name": "真南蛮",
+        "rank_up_lv0_4_value": 20,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "佐曾罗",
+        "rank_up_lv0_6_value": 20,
+        "rank_up_lv1_1_name": "龙之卷轴-一",
+        "rank_up_lv1_1_value": 25,
+        "rank_up_lv1_2_name": "龙之卷轴-二",
+        "rank_up_lv1_2_value": 15,
+        "rank_up_lv1_3_name": "蛇之卷轴-二",
+        "rank_up_lv1_3_value": 15,
+        "rank_up_lv1_4_name": "兰之华片-二",
+        "rank_up_lv1_4_value": 15,
+        "rank_up_lv1_5_name": "兰之华片-一",
+        "rank_up_lv1_5_value": 25,
+        "rank_up_lv1_6_name": "梅之华片-二",
+        "rank_up_lv1_6_value": 15,
+        "rank_up_lv2_1_name": "兰之华片-二",
+        "rank_up_lv2_1_value": 30,
+        "rank_up_lv2_2_name": "龙之卷轴-三",
+        "rank_up_lv2_2_value": 30,
+        "rank_up_lv2_3_name": "蛇之卷轴-三",
+        "rank_up_lv2_3_value": 30,
+        "rank_up_lv2_4_name": "兰之华片-三",
+        "rank_up_lv2_4_value": 30,
+        "rank_up_lv2_5_name": "攻击指南书-二",
+        "rank_up_lv2_5_value": 30,
+        "rank_up_lv2_6_name": "龙之卷轴-二",
+        "rank_up_lv2_6_value": 30,
+        "rank_up_lv3_1_name": "虎之卷轴-二",
+        "rank_up_lv3_1_value": 45,
+        "rank_up_lv3_2_name": "龙之卷轴-三",
+        "rank_up_lv3_2_value": 35,
+        "rank_up_lv3_3_name": "蛇之卷轴-三",
+        "rank_up_lv3_3_value": 35,
+        "rank_up_lv3_4_name": "兰之华片-三",
+        "rank_up_lv3_4_value": 35,
+        "rank_up_lv3_5_name": "攻击指南书-二",
+        "rank_up_lv3_5_value": 45,
+        "rank_up_lv3_6_name": "梅之华片-三",
+        "rank_up_lv3_6_value": 35,
+        "rank_up_lv4_1_name": "梅之华片-三",
+        "rank_up_lv4_1_value": 50,
+        "rank_up_lv4_2_name": "龙之卷轴-三",
+        "rank_up_lv4_2_value": 50,
+        "rank_up_lv4_3_name": "蛇之卷轴-三",
+        "rank_up_lv4_3_value": 50,
+        "rank_up_lv4_4_name": "虎之卷轴-三",
+        "rank_up_lv4_4_value": 50,
+        "rank_up_lv4_5_name": "攻击指南书-三",
+        "rank_up_lv4_5_value": 50,
+        "rank_up_lv4_6_name": "兰之华片-三",
+        "rank_up_lv4_6_value": 50,
+        "short_name": "心",
         "speed": 1050,
         "subname": "Spread your Wings",
         "total": 7575,
@@ -43,14 +179,22 @@
             125
         ],
         "type": 5,
+        "vocal1": "指出毬亜",
+        "vocal2": "貫井柚佳",
+        "vocal3": "藤村花音",
+        "voice1": "感情多样的面灵气程度的声音",
+        "voice2": "感情丰富的付丧神程度的声音",
+        "voice3": "感情汇聚的能乐程度的声音",
         "world_group": "L80",
+        "world_group_description": "重复了数不胜数的“分歧”和“汇合”的，极其复杂的世界群。\n不能把这个世界群当作普通的“平行世界”或者“可能性的形式”来看待。\n\n“L80世界群”和“L0世界群”的可能性阶差相差甚远。\n属于这个世界群的人们很多人都会走上“封闭的命运”。\n但是根本上的原因，光靠研究该世界群内部恐怕无法查明。",
+        "world_group_name": "L80世界群",
         "yang_atk": 1900,
         "yang_def": 1625,
         "yin_atk": 1150,
-        "yin_def": 850
+        "yin_def": 850,
+        "id": 12087
     },
     "chain_character": [
-        5003,
         3032,
         6005,
         3020,
@@ -76,11 +220,21 @@
         10066,
         12040,
         10099,
-        12044
+        12044,
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "即将抵达终局的心的常服。\n晓声面具是封存着一切感情的面具。",
+            "costume_name1": "Spread your Wings"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 3,
@@ -103,10 +257,12 @@
                 28
             ],
             "cd": 4,
-            "name": "百鬼夜行・器の參拾伍",
-            "id": 1
+            "name": "百鬼夜行·器之参拾伍",
+            "description": "构成百鬼夜行的妖怪之一。\n虽说是百鬼，但数量可以超过一百。",
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
+            "id": 2,
             "a": [
                 16,
                 7,
@@ -129,10 +285,12 @@
                 12
             ],
             "cd": 5,
-            "name": "能面の九十九神",
-            "id": 2
+            "name": "能面之九十九神",
+            "description": "从古代传承至今的能面们。\n感情会被保存，并跨越时代。",
+            "icon": "skill_icon_atk_up_type7"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 1,
@@ -155,8 +313,9 @@
                 3
             ],
             "cd": 6,
-            "name": "六十六の感情",
-            "id": 3
+            "name": "六十六种感情",
+            "description": "感情有六十六种。\n希望也是其中之一。",
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {
@@ -257,6 +416,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111g",
+                "all_order_1": "11211111211111121111g",
+                "all_order_2": "11213141112131411112131411g",
+                "all_order_3": "112131411121314151611213141516g",
                 "break": [
                     0,
                     0,
@@ -264,8 +426,9 @@
                     0,
                     0
                 ],
+                "description": "即将抵达终局的秦心的符卡(东方归言录原创)。\n学习人类们的感情并锻炼感情表达能力的弹幕。\n天津神们授予迩芸速日命的“十种神宝”中，当然不包括面具。\n但这些神宝明显是为了咒术仪式而存在。\n使用神宝的“演舞”仪式，甚至能让死者回到人世。\n要想让神明们的力量降临在自己身上，必须用面具遮住面孔。\n因为人类的面孔难以饰演神明。\n凭依，即是模仿。",
                 "first_order": 1,
-                "name": "六十六面「感情を学ぶ修行の日々の面」",
+                "name": "六十六面「学习感情的修行生活的面具」",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -282,14 +445,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "11211111211111121111g",
-                "all_order_2": "11213141112131411112131411g",
-                "all_order_3": "112131411121314151611213141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 17,
                     "boost": 0,
@@ -313,14 +474,15 @@
                         77,
                         95
                     ],
-                    "name": "修行の日々の面",
-                    "order": "",
+                    "name": "修行生活之面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -347,14 +509,15 @@
                         77,
                         95
                     ],
-                    "name": "修行の日々の大面",
-                    "order": "",
+                    "name": "修行生活之大面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -374,14 +537,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "修行の日々の特面",
-                    "order": "",
+                    "name": "修行生活之特面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -398,14 +562,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "修行の日々の超面",
-                    "order": "",
+                    "name": "修行生活之超面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -425,14 +590,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "修行の日々の極面",
-                    "order": "",
+                    "name": "修行生活之极面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -461,24 +627,21 @@
                         77,
                         95
                     ],
-                    "name": "修行の日々の最面",
-                    "order": "",
+                    "name": "修行生活之最面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111111g",
+                "all_order_1": "112111112111g",
+                "all_order_2": "1121113112131145g",
+                "all_order_3": "11211131121311456g",
                 "break": [
                     0,
                     0,
@@ -486,8 +649,9 @@
                     0,
                     0
                 ],
+                "description": "即将抵达终局的秦心的扩散射击(东方归言录原创)。\n同时使用多张面具的弹幕。\n比飞鸟更加古老的时代。\n据说从天而降的饶速日命首先来到了名为“哮峯”的土地。\n这片土地正是“斑鸠”之名的由来。",
                 "first_order": 1,
-                "name": "八方美人の面",
+                "name": "八方美人之面具",
                 "power_rate": 18,
                 "damage_extend": [
                     100,
@@ -504,14 +668,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "112111112111g",
-                "all_order_2": "1121113112131145g",
-                "all_order_3": "11211131121311456g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 10,
                     "boost": 0,
@@ -532,14 +694,15 @@
                         126,
                         95
                     ],
-                    "name": "八方美人の面",
-                    "order": "",
+                    "name": "八方美人之面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -556,14 +719,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "八方美人の大面",
-                    "order": "",
+                    "name": "八方美人之大面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -584,14 +748,15 @@
                         126,
                         95
                     ],
-                    "name": "八方美人の特面",
-                    "order": "",
+                    "name": "八方美人之特面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -608,14 +773,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "八方美人の超面",
-                    "order": "",
+                    "name": "八方美人之超面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -632,14 +798,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "八方美人の極面",
-                    "order": "",
+                    "name": "八方美人之极面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -660,12 +827,12 @@
                         126,
                         95
                     ],
-                    "name": "八方美人の最面",
-                    "order": "",
+                    "name": "八方美人之最面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -766,6 +933,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111g",
+                "all_order_1": "12111112111111112111111g",
+                "all_order_2": "12113141121311411111213114111g",
+                "all_order_3": "121131411213114115161121311411516g",
                 "break": [
                     0,
                     0,
@@ -773,8 +943,9 @@
                     0,
                     0
                 ],
+                "description": "即将抵达终局的秦心的符卡(东方归言录原创)。\n展现自己的感情的弹幕。\n于是最初的面具诞生了。\n最初的面具并非只是将神明的面孔贴在了脸上而已。\n被面具覆盖的隐藏的素颜……神明的面孔会寄宿在被藏匿的事物上。\n面具的形状，是为了让人们想起面具下的素颜的“圣像画”。\n同时，这也是“逻辑谬论”。\n获得了巫女性质的道具……模仿面孔的面具是特别的存在。",
                 "first_order": 1,
-                "name": "六十六面「異変という名の晴れ舞台の面」",
+                "name": "六十六面「名为异变的大舞台的面具」",
                 "power_rate": 14,
                 "damage_extend": [
                     100,
@@ -791,14 +962,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "12111112111111112111111g",
-                "all_order_2": "12113141121311411111213114111g",
-                "all_order_3": "121131411213114115161121311411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 20,
                     "boost": 0,
@@ -824,14 +993,15 @@
                         95,
                         176
                     ],
-                    "name": "晴れ舞台の面",
-                    "order": "",
+                    "name": "大舞台之面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -858,14 +1028,15 @@
                         77,
                         95
                     ],
-                    "name": "晴れ舞台の大面",
-                    "order": "",
+                    "name": "大舞台之大面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -885,14 +1056,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "晴れ舞台の特面",
-                    "order": "",
+                    "name": "大舞台之特面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -912,14 +1084,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "晴れ舞台の超面",
-                    "order": "",
+                    "name": "大舞台之超面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -946,14 +1119,15 @@
                         77,
                         95
                     ],
-                    "name": "晴れ舞台の極面",
-                    "order": "",
+                    "name": "大舞台之极面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -979,24 +1153,21 @@
                         77,
                         95
                     ],
-                    "name": "晴れ舞台の最面",
-                    "order": "",
+                    "name": "大舞台之最面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111111g",
+                "all_order_1": "121111111g",
+                "all_order_2": "1211311111g",
+                "all_order_3": "1211311411516g",
                 "break": [
                     0,
                     0,
@@ -1004,8 +1175,9 @@
                     0,
                     0
                 ],
+                "description": "即将抵达终局的秦心的集中射击(东方归言录原创)。\n使用又厚又硬的面具的弹幕。\n作为鸟类的“斑鸠”的别名是“三光鸟”。\n“斑鸠”与鸽子没有什么关联。\n学名是“Eophona personata（面具下的破晓之声）”。",
                 "first_order": 1,
-                "name": "厚顔無恥の面",
+                "name": "厚颜无恥之面具",
                 "power_rate": 16,
                 "damage_extend": [
                     100,
@@ -1022,14 +1194,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "121111111g",
-                "all_order_2": "1211311111g",
-                "all_order_3": "1211311411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 8,
                     "boost": 0,
@@ -1047,14 +1217,15 @@
                         126,
                         95
                     ],
-                    "name": "厚顔無恥の面",
-                    "order": "",
+                    "name": "厚颜无恥之面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -1078,14 +1249,15 @@
                         126,
                         95
                     ],
-                    "name": "厚顔無恥の大面",
-                    "order": "",
+                    "name": "厚颜无恥之大面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1099,14 +1271,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "厚顔無恥の特面",
-                    "order": "",
+                    "name": "厚颜无恥之特面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1130,14 +1303,15 @@
                         126,
                         95
                     ],
-                    "name": "厚顔無恥の超面",
-                    "order": "",
+                    "name": "厚颜无恥之超面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1154,14 +1328,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "厚顔無恥の極面",
-                    "order": "",
+                    "name": "厚颜无恥之极面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1179,12 +1354,12 @@
                         126,
                         95
                     ],
-                    "name": "厚顔無恥の最面",
-                    "order": "",
+                    "name": "厚颜无恥之最面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -1221,13 +1396,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yang_atk_up"
@@ -1241,13 +1409,6 @@
                     [
                         "skill_icon_cri_atk_up"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -1285,6 +1446,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111g",
+                "all_order_1": "1211112111111111112111112111g",
+                "all_order_2": "12113112113111411111121314111213141g",
+                "all_order_3": "12113112113111415111611213141516121314156g",
                 "break": [
                     0,
                     0,
@@ -1292,8 +1456,9 @@
                     0,
                     0
                 ],
+                "description": "即将抵达终局的秦心的终符(东方归言录原创)。\n注入了所有感情的弹幕。\n平淡的旁白，时而能如实传递眼前的景象。\n如果演技过于夸张，反而会显得假惺惺。\n被比喻成能面的秦心，在表达感情方面依然是半吊子。\n有些神性只会寄宿在未完成的存在，因此心今天也在通往完成的道路上飞舞。\n没有人不具备感情……敌人也好，视作敌人的存在也好，都一样。\n敌人发射的弹幕，正是敌人心中的感情的浓缩。\n发射、回避、命中……。",
                 "first_order": 1,
-                "name": "「仮面喪心舞　暗黒能楽　‐暁声の面‐」",
+                "name": "「假面丧心舞　暗黑能乐　‐晓声之面‐」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -1310,14 +1475,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1211112111111111112111112111g",
-                "all_order_2": "12113112113111411111121314111213141g",
-                "all_order_3": "12113112113111415111611213141516121314156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 24,
                     "boost": 0,
@@ -1348,14 +1511,15 @@
                         95,
                         176
                     ],
-                    "name": "暁声の面",
-                    "order": "",
+                    "name": "晓声面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -1372,14 +1536,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "二番から十八番の面",
-                    "order": "",
+                    "name": "二号到十八号面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1408,14 +1573,15 @@
                         77,
                         95
                     ],
-                    "name": "十九番から三十四番の面",
-                    "order": "",
+                    "name": "十九号到三十四号面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -1432,14 +1598,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "三十五番から五十番の面",
-                    "order": "",
+                    "name": "三十五号到五十号面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -1465,14 +1632,15 @@
                         77,
                         95
                     ],
-                    "name": "五十一番から六十五番の面",
-                    "order": "",
+                    "name": "五十一号到六十五号面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -1500,12 +1668,12 @@
                         95,
                         176
                     ],
-                    "name": "希望の面",
-                    "order": "",
+                    "name": "希望面具",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         }

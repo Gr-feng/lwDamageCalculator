@@ -114,7 +114,8 @@
             ],
             "cd": 2,
             "name": "ハイ・エナジー",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 4,
             "name": "ユーフォリックトランス",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 3,
             "name": "アシッドジャズ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_electricshock"
         }
     ],
     "attack_skills": {

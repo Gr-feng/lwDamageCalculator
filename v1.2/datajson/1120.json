@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 6,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "低酸素幻覚",
         "quality": 22001111,
         "quality_name": "塵煙霧",
-        "speed": 750,
+        "speed": 990,
         "subname": "本物の勾玉制作職人",
         "total": 6900,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1625,
-        "yang_def": 925,
-        "yin_atk": 1625,
-        "yin_def": 925
+        "yang_atk": 1755,
+        "yang_def": 1085,
+        "yin_atk": 1655,
+        "yin_def": 1045
     },
     "chain_character": [
         1001,
@@ -98,7 +98,8 @@
             ],
             "cd": 6,
             "name": "とある伊弉諾物質",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -118,7 +119,8 @@
             "c": [],
             "cd": 4,
             "name": "神璽呪術",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             "c": [],
             "cd": 5,
             "name": "神秘のレガリア",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

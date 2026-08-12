@@ -31,7 +31,7 @@
         "passivity_3_name": "知覚妨害",
         "quality": 21121010,
         "quality_name": "晴嵐",
-        "speed": 1140,
+        "speed": 1170,
         "subname": "狂気の月の兎",
         "total": 6450,
         "tribe": [
@@ -53,10 +53,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1210,
-        "yang_def": 1025,
-        "yin_atk": 1080,
-        "yin_def": 965
+        "yang_atk": 1495,
+        "yang_def": 1060,
+        "yin_atk": 1540,
+        "yin_def": 1020
     },
     "chain_character": [
         1001,
@@ -93,7 +93,8 @@
             "c": [],
             "cd": 5,
             "name": "波長凝縮",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_down"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             "c": [],
             "cd": 5,
             "name": "赤眼視弾",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -127,7 +129,8 @@
             "c": [],
             "cd": 5,
             "name": "波長拡張",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_dodge_down"
         }
     ],
     "attack_skills": {

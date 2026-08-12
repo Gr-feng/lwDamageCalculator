@@ -1,36 +1,47 @@
 {
     "character_info": {
+        "ability_description": "-",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "",
+        "ability_effect_d3": "",
+        "ability_effect_d4": "",
+        "ability_effect_d5": "",
+        "ability_name": "- 能力不詳 -",
         "advantage_attack": 0,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
         "barrier_status_3": 0,
         "barrier_status_4": 0,
         "barrier_status_5": 0,
-        "bgm": 0,
+        "bgm": "没有BGM",
         "boost_buff": 0,
         "boost_target": 0,
         "break_cost": 0,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "ガード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color>强度上升的一部分(3回合)",
+        "chain_name": "防御连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": 0,
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
+        "jp_name": "こめいじこいし",
         "name": "古明地こいし",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>妖怪</color>から受けるダメージを25%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_description": "被攻击时，受到来自<color=#CCAA00>妖怪</color>的伤害<color=#0066FF>下降</color>25% [发生率100%]",
         "passivity_1_icon": "characteristic_icon_56",
-        "passivity_1_name": "妖怪退治の専門家",
-        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率70%]",
+        "passivity_1_name": "妖怪退治的专家",
+        "passivity_2_description": "被攻击后，自身<color=#CCAA00>仇恨值</color><color=#FF6600>上升</color>1等级 (3回合) [发生率70%]",
         "passivity_2_icon": "characteristic_icon_12",
-        "passivity_2_name": "博麗の巫女",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率35%]",
+        "passivity_2_name": "博丽巫女",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率35%]",
         "passivity_3_icon": "characteristic_icon_32",
-        "passivity_3_name": "結界の巫女",
+        "passivity_3_name": "结界巫女",
         "quality": 11111111,
+        "quality_description": "-",
         "quality_name": "白い地震雲",
+        "short_name": "こいし",
         "speed": 1000,
         "subname": "_TEST",
         "total": 6000,
@@ -43,46 +54,27 @@
             190
         ],
         "type": 8,
+        "vocal1": "无",
+        "vocal2": "无",
+        "vocal3": "无",
+        "voice1": "无",
+        "voice2": "无",
+        "voice3": "无",
         "world_group": "○○",
+        "world_group_description": "○○○○○○○○○○○○○○○○○○○○○○○○○○○\n○○○○○○○○○○○○○○○○○○○○○○○○○○○\n○○○○○○○○○○○○○○○○○○○○○○○○○○○\n○○○○○○○○○○○○○○○○○○○○○○○○○○○\n○○○○○○○○○○○○○○○○○○○○○○○○○○○",
+        "world_group_name": "○○世界群",
         "yang_atk": 1000,
         "yang_def": 1000,
         "yin_atk": 1000,
-        "yin_def": 1000
+        "yin_def": 1000,
+        "id": 16051
     },
-    "chain_character": {},
+    "chain_character": [],
     "costumes": {},
-    "skills": {},
+    "skills": [],
     "attack_skills": {
         "1": {
             "global_attributes": {
-                "effect_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "type_before": [
                     [
                         0
@@ -118,6 +110,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111g",
+                "all_order_1": "1111111121111121112g",
+                "all_order_2": "113114111121314111213112g",
+                "all_order_3": "1131141151612131415161213112g",
                 "break": [
                     0,
                     0,
@@ -125,6 +120,7 @@
                     0,
                     0
                 ],
+                "description": "古明地こいし-スペカA",
                 "first_order": 1,
                 "name": "「謂れ無き本能」",
                 "power_rate": 12,
@@ -143,14 +139,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1111111121111121112g",
-                "all_order_2": "113114111121314111213112g",
-                "all_order_3": "1131141151612131415161213112g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 16,
                     "boost": 0,
@@ -165,13 +159,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 78,
                     "amt": 3,
                     "boost": 1,
@@ -186,13 +181,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 76,
                     "amt": 3,
                     "boost": 2,
@@ -207,13 +203,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 76,
                     "amt": 2,
                     "boost": 2,
@@ -228,13 +225,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 74,
                     "amt": 2,
                     "boost": 3,
@@ -249,13 +247,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 74,
                     "amt": 2,
                     "boost": 3,
@@ -270,23 +269,20 @@
                         0
                     ],
                     "name": "古明地こいし - スペカA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111111g",
+                "all_order_1": "11211112111g",
+                "all_order_2": "1121341112314151g",
+                "all_order_3": "11213411123141561g",
                 "break": [
                     0,
                     0,
@@ -294,6 +290,7 @@
                     0,
                     0
                 ],
+                "description": "古明地こいし-ショットA",
                 "first_order": 1,
                 "name": "無色のクオリア",
                 "power_rate": 35,
@@ -312,14 +309,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "11211112111g",
-                "all_order_2": "1121341112314151g",
-                "all_order_3": "11213411123141561g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 9,
                     "boost": 0,
@@ -334,13 +329,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 78,
                     "amt": 2,
                     "boost": 1,
@@ -355,13 +351,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 76,
                     "amt": 2,
                     "boost": 2,
@@ -376,13 +373,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 76,
                     "amt": 2,
                     "boost": 2,
@@ -397,13 +395,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 76,
                     "amt": 1,
                     "boost": 2,
@@ -418,13 +417,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 74,
                     "amt": 1,
                     "boost": 3,
@@ -439,44 +439,16 @@
                         0
                     ],
                     "name": "古明地こいし - ショットA",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "2": {
             "global_attributes": {
-                "effect_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "type_before": [
                     [
                         0
@@ -512,6 +484,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111g",
+                "all_order_1": "1121111121111121111121g",
+                "all_order_2": "11213141511213141511213141511213g",
+                "all_order_3": "11213141516121314151612131415161213g",
                 "break": [
                     0,
                     0,
@@ -519,6 +494,7 @@
                     0,
                     0
                 ],
+                "description": "古明地こいし-スペカB",
                 "first_order": 1,
                 "name": "「露骨な深層心理」",
                 "power_rate": 5,
@@ -537,14 +513,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1121111121111121111121g",
-                "all_order_2": "11213141511213141511213141511213g",
-                "all_order_3": "11213141516121314151612131415161213g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 18,
                     "boost": 0,
@@ -559,13 +533,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 78,
                     "amt": 4,
                     "boost": 1,
@@ -580,13 +555,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 76,
                     "amt": 4,
                     "boost": 2,
@@ -601,13 +577,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 76,
                     "amt": 3,
                     "boost": 2,
@@ -622,13 +599,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 76,
                     "amt": 3,
                     "boost": 2,
@@ -643,13 +621,14 @@
                         0
                     ],
                     "name": "古明地こいし - スペカB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 74,
                     "amt": 3,
                     "boost": 3,
@@ -664,23 +643,20 @@
                         0
                     ],
                     "name": "古明地こいし - スペカB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111g",
+                "all_order_1": "11121111g",
+                "all_order_2": "1112131411g",
+                "all_order_3": "111213141516g",
                 "break": [
                     0,
                     0,
@@ -688,6 +664,7 @@
                     0,
                     0
                 ],
+                "description": "古明地こいし-ショットB",
                 "first_order": 1,
                 "name": "裁断のアニムス",
                 "power_rate": 14,
@@ -706,14 +683,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "11121111g",
-                "all_order_2": "1112131411g",
-                "all_order_3": "111213141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 7,
                     "boost": 0,
@@ -728,13 +703,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 78,
                     "amt": 1,
                     "boost": 1,
@@ -749,13 +725,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 76,
                     "amt": 1,
                     "boost": 2,
@@ -770,13 +747,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 76,
                     "amt": 1,
                     "boost": 2,
@@ -791,13 +769,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 74,
                     "amt": 1,
                     "boost": 3,
@@ -812,13 +791,14 @@
                         0
                     ],
                     "name": "古明地こいし - ショットB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 74,
                     "amt": 1,
                     "boost": 3,
@@ -833,44 +813,16 @@
                         0
                     ],
                     "name": "古明地こいし - ショットB",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "5": {
             "global_attributes": {
-                "effect_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_before": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "type_before": [
                     [
                         0
@@ -906,6 +858,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111111111g",
+                "all_order_1": "11111211111112111111211111121g",
+                "all_order_2": "111112131111112131111121131111213g",
+                "all_order_3": "141516112131415161112131415161121134151161213g",
                 "break": [
                     0,
                     0,
@@ -913,6 +868,7 @@
                     0,
                     0
                 ],
+                "description": "古明地こいし-ラスワ",
                 "first_order": 1,
                 "name": "「ハートシローシス」",
                 "power_rate": 3,
@@ -931,14 +887,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "11111211111112111111211111121g",
-                "all_order_2": "111112131111112131111121131111213g",
-                "all_order_3": "141516112131415161112131415161121134151161213g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 25,
                     "boost": 0,
@@ -953,13 +907,14 @@
                         0
                     ],
                     "name": "古明地こいし - ラスワ",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 78,
                     "amt": 4,
                     "boost": 1,
@@ -974,13 +929,14 @@
                         0
                     ],
                     "name": "古明地こいし - ラスワ",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 76,
                     "amt": 4,
                     "boost": 2,
@@ -995,13 +951,14 @@
                         0
                     ],
                     "name": "古明地こいし - ラスワ",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 74,
                     "amt": 4,
                     "boost": 3,
@@ -1016,13 +973,14 @@
                         0
                     ],
                     "name": "古明地こいし - ラスワ",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 74,
                     "amt": 4,
                     "boost": 3,
@@ -1037,13 +995,14 @@
                         0
                     ],
                     "name": "古明地こいし - ラスワ",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 74,
                     "amt": 4,
                     "boost": 3,
@@ -1058,11 +1017,11 @@
                         0
                     ],
                     "name": "古明地こいし - ラスワ",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         }

@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 1,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "地下水侵食",
         "quality": 22110112,
         "quality_name": "火山性地震",
-        "speed": 725,
+        "speed": 820,
         "subname": "小さな地底重鎮",
         "total": 7350,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 3,
         "world_group": "S2",
-        "yang_atk": 1020,
-        "yang_def": 1500,
-        "yin_atk": 1905,
-        "yin_def": 750
+        "yang_atk": 1040,
+        "yang_def": 1520,
+        "yin_atk": 2070,
+        "yin_def": 770
     },
     "chain_character": [
         5052,
@@ -85,7 +85,8 @@
             ],
             "cd": 5,
             "name": "地霊口伝",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             ],
             "cd": 5,
             "name": "プライベート・アイ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             ],
             "cd": 4,
             "name": "地の幻想入り",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disenchant"
         }
     ],
     "attack_skills": {

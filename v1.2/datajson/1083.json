@@ -31,7 +31,7 @@
         "passivity_3_name": "ハウンドドッグ",
         "quality": 10210112,
         "quality_name": "幻日",
-        "speed": 1030,
+        "speed": 1170,
         "subname": "神仏に心酔する守護神獣",
         "total": 6450,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 2,
         "world_group": "L1",
-        "yang_atk": 1430,
-        "yang_def": 1330,
-        "yin_atk": 830,
-        "yin_def": 930
+        "yang_atk": 1740,
+        "yang_def": 1470,
+        "yin_atk": 920,
+        "yin_def": 1020
     },
     "chain_character": [
         1001,
@@ -111,7 +111,8 @@
             "c": [],
             "cd": 5,
             "name": "聖域守護",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -131,7 +132,8 @@
             "c": [],
             "cd": 4,
             "name": "神使の獣",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -151,7 +153,8 @@
             "c": [],
             "cd": 4,
             "name": "双生のガーディアン",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_up"
         }
     ],
     "attack_skills": {

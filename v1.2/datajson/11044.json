@@ -83,7 +83,8 @@
             ],
             "cd": 2,
             "name": "「サニーミルクさん」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             ],
             "cd": 2,
             "name": "「ルナチャイルドさん」",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             ],
             "cd": 6,
             "name": "「スターサファイアさん」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_atk_up_type6"
         }
     ],
     "attack_skills": {

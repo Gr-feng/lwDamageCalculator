@@ -80,7 +80,8 @@
             "c": [],
             "cd": 6,
             "name": "秘曲・楊真操",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -94,7 +95,8 @@
             "c": [],
             "cd": 4,
             "name": "秘曲・啄木",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -114,7 +116,8 @@
             "c": [],
             "cd": 4,
             "name": "秘曲・流泉",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

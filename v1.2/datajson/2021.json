@@ -119,7 +119,8 @@
             ],
             "cd": 3,
             "name": "異次元の杵",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -145,7 +146,8 @@
             ],
             "cd": 4,
             "name": "強化薬(自家製)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -171,7 +173,8 @@
             ],
             "cd": 4,
             "name": "思想看破(疑似)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {

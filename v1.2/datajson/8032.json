@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 7,
         "barrier_status_2": 7,
@@ -31,7 +31,7 @@
         "passivity_3_name": "アクエリアス＆ピスケス",
         "quality": 22210011,
         "quality_name": "オールトの雲",
-        "speed": 900,
+        "speed": 920,
         "subname": "星座の魔法少女",
         "total": 7350,
         "tribe": [
@@ -51,10 +51,10 @@
         ],
         "type": 1,
         "world_group": "Z3",
-        "yang_atk": 650,
-        "yang_def": 1150,
-        "yin_atk": 1800,
-        "yin_def": 1850
+        "yang_atk": 695,
+        "yang_def": 1220,
+        "yin_atk": 1975,
+        "yin_def": 1970
     },
     "chain_character": [
         2002,
@@ -87,7 +87,8 @@
             ],
             "cd": 5,
             "name": "アリエス＆タウラス",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 5,
             "name": "ジェミニ＆キャンサー",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 4,
             "name": "レオ＆バルゴ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

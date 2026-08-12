@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 6,
         "barrier_status_2": 3,
@@ -31,7 +31,7 @@
         "passivity_3_name": "料理係の思い出",
         "quality": 12111110,
         "quality_name": "雨曇り",
-        "speed": 1400,
+        "speed": 1545,
         "subname": "月と十六夜",
         "total": 7575,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 4,
         "world_group": "L80",
-        "yang_atk": 1905,
-        "yang_def": 1000,
-        "yin_atk": 1400,
-        "yin_def": 870
+        "yang_atk": 2000,
+        "yang_def": 1020,
+        "yin_atk": 1420,
+        "yin_def": 890
     },
     "chain_character": [
         5003,
@@ -104,7 +104,8 @@
             ],
             "cd": 5,
             "name": "エレガントメイド",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -130,7 +131,8 @@
             ],
             "cd": 5,
             "name": "パーフェクトメイド",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -156,7 +158,8 @@
             ],
             "cd": 6,
             "name": "デビルズメイド",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -97,7 +97,8 @@
             ],
             "cd": 4,
             "name": "対帝都中枢特化型潜行",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -123,7 +124,8 @@
             ],
             "cd": 4,
             "name": "ゴーストトランサー",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_down"
         },
         {
             "a": [
@@ -149,7 +151,8 @@
             ],
             "cd": 5,
             "name": "秘密コード「富士見の娘」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {

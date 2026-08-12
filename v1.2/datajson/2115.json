@@ -110,7 +110,8 @@
             ],
             "cd": 5,
             "name": "ルートビア",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -136,7 +137,8 @@
             ],
             "cd": 3,
             "name": "クラフトコーラ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -162,7 +164,8 @@
             ],
             "cd": 5,
             "name": "バニラフレーバー",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

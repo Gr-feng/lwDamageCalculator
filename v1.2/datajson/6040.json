@@ -86,7 +86,8 @@
             ],
             "cd": 5,
             "name": "天川村の青鬼",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 4,
             "name": "吽形の鬼神",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 7,
             "name": "賀茂流式神亜種(後鬼)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {
