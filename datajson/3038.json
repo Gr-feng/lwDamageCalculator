@@ -104,7 +104,8 @@
             ],
             "cd": 5,
             "name": "姫大明神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -130,7 +131,8 @@
             ],
             "cd": 5,
             "name": "金剛女の宮",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -156,7 +158,8 @@
             ],
             "cd": 7,
             "name": "高知尾の豊姫",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_frostbite"
         }
     ],
     "attack_skills": {

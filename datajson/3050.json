@@ -76,7 +76,8 @@
             "c": [],
             "cd": 5,
             "name": "コモンセンス",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -102,7 +103,8 @@
             ],
             "cd": 5,
             "name": "オプティカルイリュージョン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -128,7 +130,8 @@
             ],
             "cd": 6,
             "name": "コンファメーションバイアス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {

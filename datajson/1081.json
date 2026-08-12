@@ -31,7 +31,7 @@
         "passivity_3_name": "舌禍",
         "quality": 21210110,
         "quality_name": "逆月",
-        "speed": 980,
+        "speed": 1020,
         "subname": "舌禍をもたらす女神",
         "total": 6900,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1330,
-        "yang_def": 1190,
-        "yin_atk": 1140,
-        "yin_def": 1100
+        "yang_atk": 1620,
+        "yang_def": 1220,
+        "yin_atk": 1220,
+        "yin_def": 1150
     },
     "chain_character": [
         1018,
@@ -84,7 +84,8 @@
             "c": [],
             "cd": 4,
             "name": "賢者の試練",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             "c": [],
             "cd": 5,
             "name": "サイレント・ヘロン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -124,7 +126,8 @@
             "c": [],
             "cd": 6,
             "name": "逆転する運命",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_down"
         }
     ],
     "attack_skills": {

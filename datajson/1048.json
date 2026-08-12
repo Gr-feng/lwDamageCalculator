@@ -31,7 +31,7 @@
         "passivity_3_name": "太古の鬼",
         "quality": 21011120,
         "quality_name": "疎雨",
-        "speed": 780,
+        "speed": 805,
         "subname": "萃まる夢、幻、そして百鬼夜行",
         "total": 6900,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1400,
-        "yang_def": 910,
-        "yin_atk": 1520,
-        "yin_def": 970
+        "yang_atk": 1495,
+        "yang_def": 1005,
+        "yin_atk": 1940,
+        "yin_def": 1065
     },
     "chain_character": [
         1001,
@@ -112,7 +112,8 @@
             "c": [],
             "cd": 5,
             "name": "伊吹瓢",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -132,7 +133,8 @@
             "c": [],
             "cd": 6,
             "name": "鬼に横道なし",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -158,7 +160,8 @@
             ],
             "cd": 5,
             "name": "三種の鎖分銅",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

@@ -80,7 +80,8 @@
             "c": [],
             "cd": 4,
             "name": "組歌・四季の曲",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 6,
             "name": "組歌・扇の曲",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -120,7 +122,8 @@
             "c": [],
             "cd": 5,
             "name": "組歌・雲井の曲",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_blind"
         }
     ],
     "attack_skills": {

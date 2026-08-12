@@ -88,7 +88,8 @@
             ],
             "cd": 3,
             "name": "穢れスキャナー",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             ],
             "cd": 5,
             "name": "旧式マイクロプランク爆弾",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -140,7 +142,8 @@
             ],
             "cd": 5,
             "name": "羽衣ブースター",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

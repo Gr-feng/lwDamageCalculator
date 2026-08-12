@@ -31,7 +31,7 @@
         "passivity_3_name": "ラウラウ",
         "quality": 11122021,
         "quality_name": "冷夏",
-        "speed": 1480,
+        "speed": 1500,
         "subname": "水着無縫の亡霊",
         "total": 7800,
         "tribe": [
@@ -49,7 +49,7 @@
         ],
         "type": 8,
         "world_group": "C3",
-        "yang_atk": 1980,
+        "yang_atk": 2040,
         "yang_def": 980,
         "yin_atk": 1280,
         "yin_def": 880
@@ -111,7 +111,8 @@
             ],
             "cd": 4,
             "name": "カルアピッグ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -137,7 +138,8 @@
             ],
             "cd": 7,
             "name": "モチコチキン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -163,7 +165,8 @@
             ],
             "cd": 6,
             "name": "ムスビ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

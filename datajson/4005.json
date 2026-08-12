@@ -31,7 +31,7 @@
         "passivity_3_name": "家政",
         "quality": 21011120,
         "quality_name": "曇り",
-        "speed": 1300,
+        "speed": 1320,
         "subname": "[紅]紅魔館のメイド",
         "total": 6900,
         "tribe": [
@@ -43,10 +43,10 @@
         ],
         "type": 5,
         "world_group": "A6",
-        "yang_atk": 1225,
-        "yang_def": 865,
-        "yin_atk": 1525,
-        "yin_def": 975
+        "yang_atk": 1270,
+        "yang_def": 900,
+        "yin_atk": 1840,
+        "yin_def": 1120
     },
     "chain_character": [
         4001,
@@ -92,7 +92,8 @@
             "c": [],
             "cd": 4,
             "name": "時間差トリック",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             "c": [],
             "cd": 4,
             "name": "即席トラップ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             "c": [],
             "cd": 5,
             "name": "瞬速給仕",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

@@ -84,7 +84,8 @@
             ],
             "cd": 4,
             "name": "大量すぎる収穫",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             ],
             "cd": 5,
             "name": "恵まれすぎる結実",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             ],
             "cd": 6,
             "name": "養いすぎる生活",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

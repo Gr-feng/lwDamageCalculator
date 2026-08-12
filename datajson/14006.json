@@ -78,7 +78,8 @@
             ],
             "cd": 4,
             "name": "相生の理",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -98,7 +99,8 @@
             "c": [],
             "cd": 4,
             "name": "精霊の研究",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_purification"
         },
         {
             "a": [
@@ -124,7 +126,8 @@
             ],
             "cd": 6,
             "name": "相剋の理",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

@@ -76,7 +76,8 @@
             "c": [],
             "cd": 4,
             "name": "サイキョーの丸み",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_down"
         },
         {
             "a": [
@@ -96,7 +97,8 @@
             "c": [],
             "cd": 6,
             "name": "ご近所凍結",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -116,7 +118,8 @@
             "c": [],
             "cd": 6,
             "name": "ゆっくり投網",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_union"
         }
     ],
     "attack_skills": {

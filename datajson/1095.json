@@ -31,7 +31,7 @@
         "passivity_3_name": "ご先祖様ゆずり",
         "quality": 20211101,
         "quality_name": "小春",
-        "speed": 1265,
+        "speed": 1320,
         "subname": "小人の末裔",
         "total": 6900,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1505,
-        "yang_def": 975,
-        "yin_atk": 1445,
-        "yin_def": 955
+        "yang_atk": 1700,
+        "yang_def": 1080,
+        "yin_atk": 1570,
+        "yin_def": 1020
     },
     "chain_character": [
         1001,
@@ -85,7 +85,8 @@
             "c": [],
             "cd": 4,
             "name": "ちょっとだけ小さくなる",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -105,7 +106,8 @@
             "c": [],
             "cd": 4,
             "name": "ちょっとだけ大きくなる",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -125,7 +127,8 @@
             "c": [],
             "cd": 5,
             "name": "ちょっとだけ願いを叶える",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

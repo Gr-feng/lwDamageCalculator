@@ -31,7 +31,7 @@
         "passivity_3_name": "不屈の偶像",
         "quality": 11110121,
         "quality_name": "全天候",
-        "speed": 930,
+        "speed": 1020,
         "subname": "埴輪兵長",
         "total": 6450,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1450,
-        "yang_def": 920,
-        "yin_atk": 1140,
-        "yin_def": 1010
+        "yang_atk": 1820,
+        "yang_def": 1070,
+        "yin_atk": 1260,
+        "yin_def": 1070
     },
     "chain_character": [
         1055,
@@ -80,7 +80,8 @@
             "c": [],
             "cd": 4,
             "name": "集中(埴輪)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 5,
             "name": "鬨の声",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -120,7 +122,8 @@
             "c": [],
             "cd": 6,
             "name": "無限継戦",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

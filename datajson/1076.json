@@ -31,7 +31,7 @@
         "passivity_3_name": "鍛え直し",
         "quality": 10111202,
         "quality_name": "小雨",
-        "speed": 910,
+        "speed": 1070,
         "subname": "愉快な忘れ傘",
         "total": 6450,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1090,
-        "yang_def": 950,
-        "yin_atk": 1300,
-        "yin_def": 1170
+        "yang_atk": 1170,
+        "yang_def": 970,
+        "yin_atk": 1620,
+        "yin_def": 1370
     },
     "chain_character": [
         1024,
@@ -86,7 +86,8 @@
             "c": [],
             "cd": 4,
             "name": "雷天スキップ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             "c": [],
             "cd": 4,
             "name": "暗雲予報",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             "c": [],
             "cd": 5,
             "name": "濡髪童子の加護",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

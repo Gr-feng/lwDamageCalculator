@@ -1,8 +1,0 @@
-pyinstaller
-PySide6
-openpyxl
-numpy
-pillow
-psutil
-lxml
-pywin32

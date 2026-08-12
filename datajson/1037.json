@@ -31,7 +31,7 @@
         "passivity_3_name": "二柱の加護",
         "quality": 2121011,
         "quality_name": "凪",
-        "speed": 980,
+        "speed": 1020,
         "subname": "祀られる風の人間",
         "total": 6450,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 3,
         "world_group": "L1",
-        "yang_atk": 1000,
-        "yang_def": 985,
-        "yin_atk": 940,
-        "yin_def": 945
+        "yang_atk": 1420,
+        "yang_def": 1080,
+        "yin_atk": 1160,
+        "yin_def": 1030
     },
     "chain_character": [
         1001,
@@ -90,7 +90,8 @@
             "c": [],
             "cd": 4,
             "name": "癒やしの奇跡",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -100,11 +101,24 @@
                 1,
                 1
             ],
-            "b": [],
-            "c": [],
+            "b": [
+                1,
+                2,
+                2,
+                3,
+                3
+            ],
+            "c": [
+                1,
+                1,
+                2,
+                2,
+                3
+            ],
             "cd": 8,
             "name": "守矢の御守り",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -118,7 +132,8 @@
             "c": [],
             "cd": 8,
             "name": "豊穣祈願の神事",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {
@@ -901,8 +916,20 @@
         "5": {
             "global_attributes": {
                 "effect_before": [
-                    [],
-                    [],
+                    [
+                        1,
+                        1,
+                        2,
+                        2,
+                        2
+                    ],
+                    [
+                        1,
+                        10,
+                        2,
+                        2,
+                        2
+                    ],
                     [],
                     [],
                     []
@@ -998,7 +1025,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 20,
-                    "damage": 6.75,
+                    "damage": 27,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 5,
@@ -1019,7 +1046,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 25,
-                    "damage": 17.28,
+                    "damage": 69.12,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 6,
@@ -1040,7 +1067,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 30,
-                    "damage": 19.38,
+                    "damage": 77.52,
                     "damage_extend": 107,
                     "effect": [],
                     "element": 7,
@@ -1061,7 +1088,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 35,
-                    "damage": 21.33,
+                    "damage": 63.99,
                     "damage_extend": 114,
                     "effect": [],
                     "element": 5,
@@ -1082,7 +1109,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 40,
-                    "damage": 23.14,
+                    "damage": 69.42,
                     "damage_extend": 122,
                     "effect": [],
                     "element": 6,
@@ -1103,7 +1130,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 45,
-                    "damage": 24.83,
+                    "damage": 74.49,
                     "damage_extend": 129,
                     "effect": [],
                     "element": 7,

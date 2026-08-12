@@ -108,7 +108,8 @@
             ],
             "cd": 4,
             "name": "戻橋の落腕",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 4,
             "name": "羅城門の返歌",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 6,
             "name": "茨牡丹の幻想入り",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_storage_type01"
         }
     ],
     "attack_skills": {

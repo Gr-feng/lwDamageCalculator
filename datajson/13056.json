@@ -81,7 +81,8 @@
             ],
             "cd": 4,
             "name": "可愛い制服女神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 4,
             "name": "セルフサイドキック",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 7,
             "name": "(元)地獄生徒会腕章",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_add_speed_yang_atk"
         }
     ],
     "attack_skills": {

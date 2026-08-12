@@ -85,7 +85,8 @@
             "c": [],
             "cd": 6,
             "name": "客寄せ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -105,7 +106,8 @@
             "c": [],
             "cd": 6,
             "name": "古代天狗語の書",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -125,7 +127,8 @@
             "c": [],
             "cd": 6,
             "name": "妖魔本朗読",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

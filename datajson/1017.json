@@ -83,7 +83,8 @@
             "c": [],
             "cd": 5,
             "name": "天鳥船の助力",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -103,7 +104,8 @@
             "c": [],
             "cd": 5,
             "name": "天津麻羅の助力",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             "c": [],
             "cd": 4,
             "name": "還矢の言挙げ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

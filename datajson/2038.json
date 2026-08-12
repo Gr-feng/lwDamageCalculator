@@ -31,7 +31,7 @@
         "passivity_3_name": "信仰掌握",
         "quality": 10011122,
         "quality_name": "滑降風",
-        "speed": 850,
+        "speed": 8900,
         "subname": "[風]山坂と湖の権化",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 5,
         "world_group": "A10",
-        "yang_atk": 1275,
-        "yang_def": 950,
-        "yin_atk": 1725,
-        "yin_def": 1050
+        "yang_atk": 1345,
+        "yang_def": 990,
+        "yin_atk": 1905,
+        "yin_def": 1220
     },
     "chain_character": [
         4037,
@@ -77,7 +77,8 @@
             "c": [],
             "cd": 5,
             "name": "豊作呪術",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -97,7 +98,8 @@
             "c": [],
             "cd": 6,
             "name": "湯玉伝説",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             ],
             "cd": 7,
             "name": "満干両珠",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

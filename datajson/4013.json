@@ -74,7 +74,8 @@
             "c": [],
             "cd": 4,
             "name": "賢者からの使者",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_fast"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             ],
             "cd": 3,
             "name": "幽霊大調査網",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 4,
             "name": "「化猫の式紙（前向き）」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_fast"
         }
     ],
     "attack_skills": {

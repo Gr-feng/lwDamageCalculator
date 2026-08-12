@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "真夏の皇子様",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 5,
             "name": "スクリーンオーラ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 5,
             "name": "やんちゃドライブ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

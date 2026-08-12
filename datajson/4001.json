@@ -31,7 +31,7 @@
         "passivity_3_name": "戦闘続行",
         "quality": 10121012,
         "quality_name": "晴れ",
-        "speed": 1100,
+        "speed": 1130,
         "subname": "[紅]永遠の巫女",
         "total": 6900,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 5,
         "world_group": "A6",
-        "yang_atk": 1610,
-        "yang_def": 985,
-        "yin_atk": 1225,
-        "yin_def": 940
+        "yang_atk": 1770,
+        "yang_def": 1185,
+        "yin_atk": 1255,
+        "yin_def": 1060
     },
     "chain_character": [
         4002,
@@ -93,7 +93,8 @@
             "c": [],
             "cd": 5,
             "name": "陰陽玉(紅白)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             "c": [],
             "cd": 4,
             "name": "今はまだ短いお祓い棒",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             "c": [],
             "cd": 5,
             "name": "博麗の神仙術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

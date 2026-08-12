@@ -101,7 +101,8 @@
             ],
             "cd": 4,
             "name": "異変妨害：キューイング",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -121,7 +122,8 @@
             "c": [],
             "cd": 4,
             "name": "人間の里の甘味",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -147,7 +149,8 @@
             ],
             "cd": 8,
             "name": "幽霊回収の人魂灯",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disenchant"
         }
     ],
     "attack_skills": {

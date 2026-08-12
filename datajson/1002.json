@@ -109,7 +109,8 @@
             "c": [],
             "cd": 4,
             "name": "魔法の箒",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -123,7 +124,8 @@
             "c": [],
             "cd": 4,
             "name": "ミニ八卦炉",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             "c": [],
             "cd": 6,
             "name": "アイテム装填",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

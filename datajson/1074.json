@@ -91,7 +91,8 @@
             "c": [],
             "cd": 6,
             "name": "護法の宝棒",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             "c": [],
             "cd": 6,
             "name": "三叉戟",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -131,7 +133,8 @@
             "c": [],
             "cd": 6,
             "name": "多宝如来の宝塔",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

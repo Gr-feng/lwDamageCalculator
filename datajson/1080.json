@@ -31,7 +31,7 @@
         "passivity_3_name": "レム睡眠",
         "quality": 2210111,
         "quality_name": "紙の月",
-        "speed": 980,
+        "speed": 1020,
         "subname": "夢の支配者",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1140,
-        "yang_def": 1100,
-        "yin_atk": 1330,
-        "yin_def": 1190
+        "yang_atk": 1220,
+        "yang_def": 1150,
+        "yin_atk": 1720,
+        "yin_def": 1220
     },
     "chain_character": [
         1002,
@@ -85,7 +85,8 @@
             "c": [],
             "cd": 5,
             "name": "スイート安眠枕",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -105,7 +106,8 @@
             "c": [],
             "cd": 5,
             "name": "夢魂操作",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -131,7 +133,8 @@
             ],
             "cd": 5,
             "name": "夢日記",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

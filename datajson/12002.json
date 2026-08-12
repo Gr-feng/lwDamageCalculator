@@ -31,7 +31,7 @@
         "passivity_3_name": "ワードラーニング",
         "quality": 2122111,
         "quality_name": "煙雨",
-        "speed": 1200,
+        "speed": 1220,
         "subname": "星降る夜の魔術師",
         "total": 7800,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 8,
         "world_group": "F1",
-        "yang_atk": 1150,
-        "yang_def": 950,
-        "yin_atk": 1950,
-        "yin_def": 1550
+        "yang_atk": 1170,
+        "yang_def": 970,
+        "yin_atk": 2040,
+        "yin_def": 1570
     },
     "chain_character": [
         2001,
@@ -84,7 +84,8 @@
             ],
             "cd": 4,
             "name": "菌糸宇宙論",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             ],
             "cd": 5,
             "name": "オールアイテム",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             ],
             "cd": 6,
             "name": "ミス・マーガトロイド",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_storage_type03"
         }
     ],
     "attack_skills": {

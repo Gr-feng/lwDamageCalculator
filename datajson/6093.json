@@ -86,7 +86,8 @@
             ],
             "cd": 3,
             "name": "大きすぎる臣",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 4,
             "name": "超常『竹の内』『石の川』",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 4,
             "name": "寂れすぎた石舞台",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

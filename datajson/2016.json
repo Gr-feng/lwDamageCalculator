@@ -31,7 +31,7 @@
         "passivity_3_name": "満漢全席",
         "quality": 11111121,
         "quality_name": "イジュドゥバル",
-        "speed": 1230,
+        "speed": 1270,
         "subname": "豊富と平等の潤沢院",
         "total": 7350,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 3,
         "world_group": "B3",
-        "yang_atk": 1800,
-        "yang_def": 850,
-        "yin_atk": 950,
-        "yin_def": 820
+        "yang_atk": 1970,
+        "yang_def": 870,
+        "yin_atk": 970,
+        "yin_def": 870
     },
     "chain_character": [
         2017,
@@ -118,7 +118,8 @@
             ],
             "cd": 6,
             "name": "定番のピーチ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -144,7 +145,8 @@
             ],
             "cd": 5,
             "name": "人気のポムグラネイト",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -170,7 +172,8 @@
             ],
             "cd": 5,
             "name": "新作フルーツパンチ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

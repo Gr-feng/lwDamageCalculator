@@ -104,7 +104,8 @@
             ],
             "cd": 4,
             "name": "不詳の妖怪",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -130,7 +131,8 @@
             ],
             "cd": 5,
             "name": "操気格闘家",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -156,7 +158,8 @@
             ],
             "cd": 7,
             "name": "紅魔館の門番",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disadvantage_up"
         }
     ],
     "attack_skills": {

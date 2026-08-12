@@ -93,7 +93,8 @@
             "c": [],
             "cd": 4,
             "name": "アリスの人形劇",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             "c": [],
             "cd": 5,
             "name": "幻視",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_dodge_up"
         },
         {
             "a": [
@@ -127,7 +129,8 @@
             "c": [],
             "cd": 5,
             "name": "アシストドール",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

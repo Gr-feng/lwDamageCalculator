@@ -101,7 +101,8 @@
             ],
             "cd": 4,
             "name": "望まなすぎる覚醒",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -127,7 +128,8 @@
             ],
             "cd": 4,
             "name": "闇すぎる翼",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -153,7 +155,8 @@
             ],
             "cd": 7,
             "name": "月光すぎる剣",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

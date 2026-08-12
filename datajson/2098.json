@@ -31,7 +31,7 @@
         "passivity_3_name": "エフェクトマシン",
         "quality": 12111121,
         "quality_name": "シリリッド",
-        "speed": 1575,
+        "speed": 1720,
         "subname": "改造変異怪獣",
         "total": 7350,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 7,
         "world_group": "H5",
-        "yang_atk": 1100,
-        "yang_def": 875,
-        "yin_atk": 1900,
-        "yin_def": 900
+        "yang_atk": 1130,
+        "yang_def": 900,
+        "yin_atk": 2020,
+        "yin_def": 940
     },
     "chain_character": [
         2084,
@@ -106,7 +106,8 @@
             ],
             "cd": 4,
             "name": "スポット残し",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -132,7 +133,8 @@
             ],
             "cd": 4,
             "name": "ハレーション",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -158,7 +160,8 @@
             ],
             "cd": 1,
             "name": "クロスフェーダー",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_up"
         }
     ],
     "attack_skills": {

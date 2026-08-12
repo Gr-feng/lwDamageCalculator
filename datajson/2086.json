@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "这是醉心甜食的世界中宫古芳香的能力（东方归言录原创）。\n这一能力与其它世界的宫古芳香没有显著差异。\n在这个世界中，一种名为『女仆CQC』的女仆扮演游戏，作为弹幕游戏的补充剂风靡幻想乡。\n因此，芳香的能力似乎也针对这一游戏特化了。\n\n这是晚冬永续的世界。\n冬春交界的季节，人们将无礼之徒逐出家门，向关照自己的亲朋送上感谢。\n这一习俗与传说中『为协助青年男女成婚而牺牲的圣人』的事迹有关……某位邪仙知道这一点。\n邪仙对此知之甚详。\n她知道圣诞的节日，想来也精通『景』之教义……不愧是『从名为唐代的未来回溯到太子时代的超级仙人』。\n『景』之教义在广袤大陆上传播的时代也恰是唐代。\n在那时，圣人牺牲的传说已然成型。\n降生于马棚的圣人事迹传入太子耳中，想来一定是邪仙的谋划吧。\n……不过，『景』之教义，和其『本源』有多少相似之处呢。\n这方面的佐证目前依然不足。\n调查将会继续。\n\n换个话题，只会听命行事的女仆，能够称得上优秀吗？\n闻一知十这个成语被用于形容领悟力高强，但智慧并不会凭空产生。\n当下听闻了一，余下的九必然需要由过往听闻的九十九推演而得。\n自主性是一种美德吗？\n不，卓越的服从性只存在于理论之中。\n彻头彻尾地听命行事。\n这就是最完美的女仆。\n\n青娥在符纸上写下指令，贴上芳香的额头。\n芳香便会遵循符纸上的指令行动。\n也就是说，芳香是一种状态机。\n若是芳香没有依照青娥的意愿行动，那是因为青娥的指令下得不好。\n错不在芳香。\n正是因此，青娥只需要提高自己的指令准确度、或是排除阻碍芳香正确执行指令的『故障』就好。\n责任归属明确，便能切实地逐步改进，这一机制也能半永久性地持续运行。\n（责任归属若是模糊不清，改进也会举步维艰，此事应当不难想象吧。）\n从者无责。\n一切责任由其主承担。\n这并非是在故作姿态，而是因为『除此之外皆非最优解』。\n\n遵青娥之命行动，遵青娥之命成事。\n遵青娥之命欢笑，遵青娥之命喜悦。\n因此，面前这桌精心配膳的佳肴，也是彻头彻尾遵青娥之命。\n青娥会这样思考——\n「原来我这样下令，芳香就会做出这样的行动。」\n每一次失败都离成功更进一步。\n仿佛蹒跚学步的稚子一般。\n唯有失败，并非青娥的指令。\n因此失败才如此惹人怜爱。\n因为芳香本人，正是『存在』于失败之中。\n\n【芳香的女仆秘技】\n每一位女仆都身怀自己的女仆秘技。\n但在秘技觉醒之前，它的存在无法证明。\n有时，尚未觉醒秘技的女仆甚至会被剥夺女仆之名。\n女仆……这一精于杀戮的种族，戒律十分严苛。\n她的女仆秘技是『配膳』系统的『极限配膳』。\n配膳系统并非烹饪系统，但这一力大砖飞的秘技能够在极端环境下实现配膳，因此配膳所用的菜肴本身也能通过秘技强行获取（毕竟没有菜肴就无法配膳了）。\n所谓极端环境，指的是极寒、酷暑、极端干燥、高压、真空、有毒气体、辐射、失重……等等各种条件恶劣的环境。\n在这样的环境中，很难确保『菜肴』的供应。\n别说菜肴，甚至连食材都一物难求。\n不过，请安心用餐吧。\n只要有您在，供您饱餐的食材就一定能够找到。\n\n【芳香的女仆工具】\n齿刃的无铭刀，以及似曾相识的手枪（似乎是仿制品？）。\n无论哪一件，都不过是路边随手拾得。\n身为主人的青娥对此漠不关心，而凭借不死之身可以蛮力解决一切的芳香也不在乎工具是什么。\n刀断了再找一把就好，哪怕找不到也无所谓。\n枪也不过是发射弹幕的辅助器，不是什么不可或缺的东西。\n可以说，这两件工具纯粹是为了遵循女仆随身七件宝的传统——也就是为了从视觉层面提升『女仆力』才随身携带的吧。\n不过那把枪，是从哪里捡来的呢？（如果是真东西，那可相当贵重！）\n另外，芳香在施展女仆秘技时所用的工具，就是那个盖在菜肴上、掀开时（蒸汽和芳香）会哗~地一下扑面而来的银色东西。\n它名叫餐盘盖，用于维持菜肴的温度和芳香。\n对，菜肴的芳香。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "有利属性に<color=#CCAA00>与えるダメージ</color>を40%<color=#FF6600>アップ</color>",
+        "ability_effect_d3": "結界異常「<color=#CCAA00>燃焼</color>」「<color=#CCAA00>凍結</color>」「<color=#CCAA00>毒霧</color>」の結界1枚あたり<color=#CCAA00>速力、命中、回避</color>が1段階<color=#FF6600>アップ</color>",
+        "ability_effect_d4": "ブースト使用時、味方全体の<color=#CCAA00>CRI命中</color>を1段階<color=#FF6600>アップ</color> (1T)",
+        "ability_effect_d5": "",
+        "ability_name": "「什么都能吃程度的能力（人类被啃食后会暂时变成僵尸）（甜）」",
         "advantage_attack": 40,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 8,
         "barrier_status_2": 8,
         "barrier_status_3": 0,
         "barrier_status_4": 8,
         "barrier_status_5": 0,
-        "bgm": 30208601,
+        "bgm": "Thrill of Desire",
         "boost_buff": 10,
         "boost_target": 1,
         "break_cost": 503,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
+        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
         "chain_name": "スピード連携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是青娥的女仆，宫古芳香。被我吃掉吧，这样一来你也是女仆了—。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
-        "name": "宮古芳香",
+        "jp_name": "みやこよしか",
+        "lines1": "“欢迎回来，主人大人。我是您的女仆，宫古芳香。有问题您可以随时吩咐我。”……青娥青娥，符札上新写的文字是什么意思？女仆是什么？可以吃吗？诶？我的任务是作为仆人咬其他女仆，成为最强？交给我吧。我是尸体，所以不会被任何人打倒—。……怎么回事！？ 你这个小不点就是我的新主人吗？ 我该说欢迎回来吗—？",
+        "lines10": "青娥吃了我做的饭后，她笑得可僵硬了。就是说她很满意。果然这就是我的女仆秘技！",
+        "lines11": "每个女仆都有必杀级的家务技能。这就是女仆秘技。一想到青娥，我的女仆秘技的火力就会提升到最大值！",
+        "lines12": "虽然不是很懂，但听说服务精神会让战斗民族女仆变强。不光是青娥，我每天都会让神子、布都、屠自古露出笑容！",
+        "lines13": "天气暖和起来了，我想挑战新料理。真是一场精彩的对决。该怎么说来着……“主人，这是春季蔬菜的发酵天妇罗”。",
+        "lines14": "大热天就得吃点补身体的东西。来，尝尝我做的料理吧。该怎么说来着……“主人，这是奶油拌夏季蔬菜”。",
+        "lines15": "秋天有好多好吃的。 所以我想摆女仆料理摊。该怎么说来着……“主人，这是腌海雀风味秋季蔬菜”。",
+        "lines16": "吃剩的料理我都会自行解决。大家胃口太小了。冬季蔬菜我直接简单炖了一下……不知为何炖成了紫色。",
+        "lines17": "作业？ 你可以让红魔馆女仆学院的女仆帮你做。",
+        "lines18": "做完作业了？ 辛苦了辛苦了。作业好不好吃？",
+        "lines19": "“主人，来信了”……符札上也写着这种台词—。",
+        "lines2": "你也当女仆吧—。女仆生活挺有趣的—。",
+        "lines20": "“欢迎回来，主人。用不用我泡死茶？”",
+        "lines21": "跑腿的女仆回来了！ 有没有找到好吃的—？",
+        "lines22": "主人，你看起来很困诶。躺在本女仆的尸僵膝盖上吧。",
+        "lines23": "我是僵尸，所以不擅长坐下。但膝枕是我的强项。",
+        "lines24": "我的膝盖又凉又僵硬，但你忍忍吧。……乖孩子乖孩子，睡得真香诶。这个主人好可爱。",
+        "lines25": "我可是在用作废的括约肌努力微笑。你们也笑一笑吧，主人们！",
+        "lines26": "我可以试吃一下吗—？",
+        "lines27": "主人们，乖乖进大锅力吧",
+        "lines28": "女仆永生不灭，多少次都会复活—",
+        "lines29": "今天",
+        "lines3": "女仆CQC对弹幕游戏有利—。符札上是这么写的。",
+        "lines30": "为你服务的女仆",
+        "lines31": "快臭了—",
+        "lines32": "本女仆",
+        "lines33": "已经",
+        "lines34": "过世了—",
+        "lines35": "要不要吃？",
+        "lines36": "要不要被吃？",
+        "lines37": "不用客气",
+        "lines38": "我会让你尝尝看的",
+        "lines39": "我会让你张嘴的",
+        "lines4": "CQC好像是近身格斗术的意思—。我擅长咬人，但好像会违反女仆法。太可惜了……。",
+        "lines40": "尝尝僵尸女仆秘技吧～",
+        "lines41": "我正在准备食材—",
+        "lines42": "准备好了",
+        "lines43": "肉！",
+        "lines44": "变成肉末吧—",
+        "lines45": "之前的弹幕游戏我也很喜欢　\n但女仆游戏版也不错",
+        "lines46": "但女仆太辛苦了　必须靠武力　\n让不安分的食材们乖乖就范",
+        "lines47": "女仆CQC「僵尸刀」",
+        "lines48": "如果我能成为最强的女仆　\n青娥会不会夸奖我呢—？",
+        "lines49": "那我要努力了　\n我要把我以外的女仆啃个精光",
+        "lines5": "女仆CQC由近距离射击、近距离武器攻击、徒手格斗、必杀女仆秘技构成。……什么，你听不懂？ 你以为我懂吗—？",
+        "lines50": "女仆CQC「欲望吞噬弹」",
+        "lines51": "最强女仆　MOM的称号是我的东西　\n我相信一定是美味无比的食材～",
+        "lines52": "那么　我做好主菜了　\n这是为了您　用您的肉做的料理",
+        "lines53": "「不死女仆不被活用的料理」",
+        "lines54": "什么！",
+        "lines55": "好没规矩！",
+        "lines56": "乖乖坐下",
+        "lines57": "马上就做好了",
+        "lines58": "我可以吃吗—？",
+        "lines59": "请等待女仆复活—",
+        "lines6": "符札上写着，MOM是意味着最强女仆的称号。恐怕是能实现愿望的什么东西吧—。偷袭也好反杀也好，什么方法都行。据说这也是女仆的基本修养—。真够乱来的！",
+        "lines60": "东方归言录",
+        "lines61": "好啊",
+        "lines62": "那算了",
+        "lines63": "谢了！",
+        "lines64": "你要把我当成食材？ 原来如此！",
+        "lines65": "被我吃掉后……估计不会变成女仆。",
+        "lines7": "说实话我不太能理解青娥是我的主人这种说法。但不理解也罢。只要看青娥的表情，我就能知道我有没有作对。我想多做些青娥会笑着摸我头的事情。所以我要努力钻研厨艺。",
+        "lines8": "你肚子饿了？ 昨天的料理还剩着呢！ 不用客气，尽管吃吧！",
+        "lines9": "“主人，您有何吩咐？”……看着符札，我就能利索得说出来了。但感觉怪怪的—。",
+        "name": "宫古芳香",
         "passivity_1_description": "体力25%以下で攻撃された時、<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率75%]",
         "passivity_1_icon": "characteristic_icon_39",
-        "passivity_1_name": "新鮮給仕(死体)",
+        "passivity_1_name": "新鲜服侍(尸体)",
         "passivity_2_description": "体力100%以上で攻撃された時、<color=#CCAA00>受けるダメージ</color>を90%<color=#0066FF>ダウン</color> [発生率100%]",
         "passivity_2_icon": "characteristic_icon_38",
-        "passivity_2_name": "発酵給仕(死体)",
+        "passivity_2_name": "发酵服侍(尸体)",
         "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.30<color=#00CC66>上昇</color> [発生率100%]",
         "passivity_3_icon": "characteristic_icon_31",
-        "passivity_3_name": "腐敗給仕(死体)",
+        "passivity_3_name": "腐败服侍(尸体)",
         "quality": 11201121,
+        "quality_description": "甜点世界的宮古芳香的气质(东方归言录原创)。\n“半影月食”指月亮的一部分或者全部仅进入地球半影之中的状态的月食。\n是符合为了报答主人而提供极限料理的，这个世界的芳香的气质。\n\n火力无论什么时候都是超大火。难道还有其他选项？（强于火行）\n掉在地上后三秒内捡起来的东西可以吃。你不知道吗？对料理人来讲是常识哦ー。（强于土行）\n青娥ー。你为什么一到饭点就有事ー?总有一天，我想和你坐在一张桌子前一起吃我做的料理ー。（弱于水行）",
         "quality_name": "半影月食",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 20,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "蛇之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "天之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "菊之华片-二",
+        "rank_up_lv1_1_value": 20,
+        "rank_up_lv1_2_name": "竹之华片-二",
+        "rank_up_lv1_2_value": 20,
+        "rank_up_lv1_3_name": "蛇之卷轴-一",
+        "rank_up_lv1_3_value": 30,
+        "rank_up_lv1_4_name": "蛇之卷轴-二",
+        "rank_up_lv1_4_value": 20,
+        "rank_up_lv1_5_name": "竹之华片-一",
+        "rank_up_lv1_5_value": 30,
+        "rank_up_lv1_6_name": "天之卷轴-二",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "蛇之卷轴-二",
+        "rank_up_lv2_1_value": 40,
+        "rank_up_lv2_2_name": "竹之华片-三",
+        "rank_up_lv2_2_value": 40,
+        "rank_up_lv2_3_name": "竹之华片-二",
+        "rank_up_lv2_3_value": 40,
+        "rank_up_lv2_4_name": "蛇之卷轴-三",
+        "rank_up_lv2_4_value": 40,
+        "rank_up_lv2_5_name": "攻击指南书-二",
+        "rank_up_lv2_5_value": 40,
+        "rank_up_lv2_6_name": "天之卷轴-三",
+        "rank_up_lv2_6_value": 40,
+        "rank_up_lv3_1_name": "菊之华片-三",
+        "rank_up_lv3_1_value": 50,
+        "rank_up_lv3_2_name": "竹之华片-三",
+        "rank_up_lv3_2_value": 50,
+        "rank_up_lv3_3_name": "地之卷轴-二",
+        "rank_up_lv3_3_value": 60,
+        "rank_up_lv3_4_name": "蛇之卷轴-三",
+        "rank_up_lv3_4_value": 50,
+        "rank_up_lv3_5_name": "攻击指南书-二",
+        "rank_up_lv3_5_value": 60,
+        "rank_up_lv3_6_name": "天之卷轴-三",
+        "rank_up_lv3_6_value": 50,
+        "rank_up_lv4_1_name": "竹之华片-三",
+        "rank_up_lv4_1_value": 70,
+        "rank_up_lv4_2_name": "地之卷轴-三",
+        "rank_up_lv4_2_value": 70,
+        "rank_up_lv4_3_name": "菊之华片-三",
+        "rank_up_lv4_3_value": 70,
+        "rank_up_lv4_4_name": "蛇之卷轴-三",
+        "rank_up_lv4_4_value": 70,
+        "rank_up_lv4_5_name": "攻击指南书-三",
+        "rank_up_lv4_5_value": 70,
+        "rank_up_lv4_6_name": "天之卷轴-三",
+        "rank_up_lv4_6_value": 70,
+        "short_name": "芳香",
         "speed": 1700,
-        "subname": "硬直関節デスメイド",
+        "subname": "关节僵硬的死亡女仆",
         "total": 7800,
         "tribe": [
             114,
@@ -47,18 +183,36 @@
             95
         ],
         "type": 8,
+        "vocal1": "八木侑紀",
+        "vocal2": "朝霧もみじ",
+        "vocal3": "日山詩月",
+        "voice1": "僵尸女仆程度的声音",
+        "voice2": "邪仙的女仆程度的声音",
+        "voice3": "料理之女仆秘技程度的声音",
         "world_group": "C3~",
+        "world_group_description": "“C系列的世界团（C世界团）”中的世界群之一。\n“C3世界群”在“C世界团”中偏差度是“3”左右，是例外因素稍微有点多的世界群。\n“C”是“Colloquialism”，是意味着“口语”的符号。\n日语中的接尾词“~”意味着朝特定方向发生变化，在这个世界群中的含义是“气质变生成冬末”。\n\n【主要的分岐点】\n说实话虽然相当莫名其妙，但气质被固定在了冬末。\n虽说是冬末，但从历法上来说已是“节分”前后，所以也是早春（但依然很冷）。\n鬼为豆而狂的季节交界处。同时也是为了向亲朋好友表达感谢而调理可可豆的时期。\n\n【主要的汇合点】\n上司与部下，主人与从者……世界上有各种各样的上下关系，但女仆可以说是终极版。\n女仆是受主人照顾的存在，同时也是照顾主人的存在。与此同时，也是杀戮种族。\n考虑到女仆是直接指代少女的词语，女仆说不定是能与巫女相提并论的存在。",
+        "world_group_name": "C3~世界群",
         "yang_atk": 1200,
         "yang_def": 1000,
         "yin_atk": 1900,
-        "yin_def": 1000
+        "yin_def": 1000,
+        "id": 2086
     },
     "chain_character": [
-        2121
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "甜点世界的芳香的常服。\n因为是不死身，家务大多都靠蛮力解决。",
+            "costume_name1": "关节僵硬的死亡女仆"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 2,
@@ -81,10 +235,12 @@
                 1
             ],
             "cd": 3,
-            "name": "なぜか材料調達からする給仕",
-            "id": 1
+            "name": "不知为何从找材料开始的服侍",
+            "description": "女仆的工作之一是照料主人的饮食。\n没必要亲自下厨。",
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
+            "id": 2,
             "a": [
                 6,
                 4,
@@ -107,10 +263,12 @@
                 40
             ],
             "cd": 5,
-            "name": "なぜか調理からする給仕",
-            "id": 2
+            "name": "不知为何从烹饪开始的服侍",
+            "description": "我再说一次，女仆不需要亲自下厨。\n她到底误会了些什么……？",
+            "icon": "skill_icon_barrier_poison"
         },
         {
+            "id": 3,
             "a": [
                 58,
                 23,
@@ -133,8 +291,9 @@
                 4
             ],
             "cd": 6,
-            "name": "召しませお前様の肉給仕",
-            "id": 3
+            "name": "提供你的肉的服侍",
+            "description": "原来如此……。\n不，我就不用了。",
+            "icon": "skill_icon_add_yin_atk_speed"
         }
     ],
     "attack_skills": {
@@ -235,6 +394,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111g",
+                "all_order_1": "12121212111111111111g",
+                "all_order_2": "12121212131313141414151515111g",
+                "all_order_3": "1212121213131314141415151511616g",
                 "break": [
                     0,
                     0,
@@ -242,8 +404,9 @@
                     5,
                     0
                 ],
+                "description": "甜点世界的宮古芳香的符卡(东方归言录原创)。\n活用刀剑的女仆CQC弹幕。\n人不光是在用大脑思考。\n要不然无法说明只有腐烂大脑的我的存在。\n你是不是想说”只会机械地读取符札上的指令并照做的”肉身自动人偶““在胡说什么？\n要我说的话，这种想法不过是自欺欺人。\n所有生物都不过是自动人偶。\n甚至可以说简单而又直率的我要纯粹得多。\n言归正传，我是在用哪个部位思考问题？\n我都腐烂成这样了，恐怕也不至于是全身细胞的集体智慧。",
                 "first_order": 1,
-                "name": "メイドＣＱＣ「ゾンビカタナ」",
+                "name": "女仆CQC「僵尸刀」",
                 "power_rate": 14,
                 "damage_extend": [
                     100,
@@ -260,14 +423,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "12121212111111111111g",
-                "all_order_2": "12121212131313141414151515111g",
-                "all_order_3": "1212121213131314141415151511616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 16,
                     "boost": 0,
@@ -291,14 +452,15 @@
                         58,
                         41
                     ],
-                    "name": "ゾンビカタナ",
-                    "order": "",
+                    "name": "僵尸刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 4,
                     "boost": 1,
@@ -319,14 +481,15 @@
                         9,
                         27
                     ],
-                    "name": "ハイゾンビカタナ",
-                    "order": "",
+                    "name": "High 僵尸刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -346,14 +509,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガゾンビカタナ",
-                    "order": "",
+                    "name": "Mega 僵尸刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -376,14 +540,15 @@
                         58,
                         41
                     ],
-                    "name": "ギガゾンビカタナ",
-                    "order": "",
+                    "name": "Giga 僵尸刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -405,14 +570,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラゾンビカタナ",
-                    "order": "",
+                    "name": "Tera 僵尸刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -435,24 +601,21 @@
                         9,
                         27
                     ],
-                    "name": "ペタゾンビカタナ",
-                    "order": "",
+                    "name": "Peta 僵尸刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "1121111g",
+                "all_order_2": "112131411g",
+                "all_order_3": "11213141156g",
                 "break": [
                     0,
                     0,
@@ -460,8 +623,9 @@
                     6,
                     0
                 ],
+                "description": "甜点世界的宮古芳香的扩散射击(东方归言录原创)。\n用手里的刀做料理的弹幕。\n“怎么了，青娥ー。你这次又改了什么ー？”\n“你不用在意这种事情。……好，做好了。”\n“嗯ー？嗯嗯ー？”\n我字面意义上抱起了自己的头。\n我看不出有什么变化。\n但写在符札上面的字明显变了。\n“这样一来……小芳香说不定就能像以前那样和大家玩女仆游戏了。”\n“？？？”",
                 "first_order": 1,
-                "name": "デススラッシュ",
+                "name": "Death Slash",
                 "power_rate": 52,
                 "damage_extend": [
                     100,
@@ -478,14 +642,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1121111g",
-                "all_order_2": "112131411g",
-                "all_order_3": "11213141156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 6,
                     "boost": 0,
@@ -506,14 +668,15 @@
                         58,
                         41
                     ],
-                    "name": "デススラッシュ",
-                    "order": "",
+                    "name": "Death Slash",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 1,
                     "boost": 1,
@@ -537,14 +700,15 @@
                         9,
                         27
                     ],
-                    "name": "ハイデススラッシュ",
-                    "order": "",
+                    "name": "High Death Slash",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -564,14 +728,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガデススラッシュ",
-                    "order": "",
+                    "name": "Mega Death Slash",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -592,14 +757,15 @@
                         9,
                         27
                     ],
-                    "name": "ギガデススラッシュ",
-                    "order": "",
+                    "name": "Giga Death Slash",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -619,14 +785,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラデススラッシュ",
-                    "order": "",
+                    "name": "Tera Death Slash",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -649,12 +816,12 @@
                         58,
                         41
                     ],
-                    "name": "ペタデススラッシュ",
-                    "order": "",
+                    "name": "Peta Death Slash",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -755,6 +922,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111g",
+                "all_order_1": "1122112111111111111111g",
+                "all_order_2": "1122112131313111111111111g",
+                "all_order_3": "1122112131313114141411511551161616g",
                 "break": [
                     0,
                     0,
@@ -762,8 +932,9 @@
                     6,
                     0
                 ],
+                "description": "甜点世界的宮古芳香的符卡(东方归言录原创)。\n活用手枪的女仆CQC弹幕。\n话说回来，我是宫古芳香吗？\n我认知中的这幅肉体，真的在遵从我的意志吗？\n会不会是在遵从霍青娥的符札？\n既然如此，宫古芳香会不会是指这幅肉体……只会动弹的可悲尸体，而不是我？\n既然如此……我是谁？\n我为什么会存在？\n哲学僵尸是否具备自我意志？",
                 "first_order": 1,
-                "name": "メイドＣＱＣ「デザイアイーターバレット」",
+                "name": "女仆CQC「欲望吞噬弹」",
                 "power_rate": 4,
                 "damage_extend": [
                     100,
@@ -780,14 +951,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1122112111111111111111g",
-                "all_order_2": "1122112131313111111111111g",
-                "all_order_3": "1122112131313114141411511551161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 19,
                     "boost": 0,
@@ -808,14 +977,15 @@
                         9,
                         27
                     ],
-                    "name": "死体の欲霊喰い弾幕",
-                    "order": "",
+                    "name": "尸体的欲望吞噬弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 3,
                     "boost": 1,
@@ -838,14 +1008,15 @@
                         58,
                         41
                     ],
-                    "name": "死体の大欲霊喰い弾幕",
-                    "order": "",
+                    "name": "尸体的大欲望吞噬弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -865,14 +1036,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "死体の特欲霊喰い弾幕",
-                    "order": "",
+                    "name": "尸体的特欲望吞噬弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -892,14 +1064,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "死体の超欲霊喰い弾幕",
-                    "order": "",
+                    "name": "尸体的超欲望吞噬弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -918,14 +1091,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "死体の極欲霊喰い弾幕",
-                    "order": "",
+                    "name": "尸体的极欲望吞噬弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -949,24 +1123,21 @@
                         9,
                         27
                     ],
-                    "name": "死体の最欲霊喰い弾幕",
-                    "order": "",
+                    "name": "尸体的最欲望吞噬弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "1213111g",
+                "all_order_3": "1213141516g",
                 "break": [
                     0,
                     0,
@@ -974,8 +1145,9 @@
                     6,
                     0
                 ],
+                "description": "甜点世界的宮古芳香的扩散射击(东方归言录原创)。\n用手里的手枪做料理的弹幕。\n每个女仆都有固有的必杀家务技能。\n其名为女仆秘技。\n但只有觉醒后才能使用女仆秘技。\n不会使用女仆秘技的女仆，难以在现代女仆CQC中取胜。\n就是说……没法和大家一起玩。\nーー以上是符札的内容。\n但我只要能服侍青娥就行了ー。",
                 "first_order": 1,
-                "name": "デスショット",
+                "name": "Death Shot",
                 "power_rate": 7,
                 "damage_extend": [
                     100,
@@ -992,14 +1164,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121111g",
-                "all_order_2": "1213111g",
-                "all_order_3": "1213141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 5,
                     "boost": 0,
@@ -1020,14 +1190,15 @@
                         9,
                         27
                     ],
-                    "name": "デスショット",
-                    "order": "",
+                    "name": "Death Shot",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 1,
                     "boost": 1,
@@ -1051,14 +1222,15 @@
                         58,
                         41
                     ],
-                    "name": "ハイデスショット",
-                    "order": "",
+                    "name": "High Death Shot",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -1078,14 +1250,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガデスショット",
-                    "order": "",
+                    "name": "Mega Death Shot",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1102,14 +1275,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ギガデスショット",
-                    "order": "",
+                    "name": "Giga Death Shot",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1129,14 +1303,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラデスショット",
-                    "order": "",
+                    "name": "Tera Death Shot",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1159,12 +1334,12 @@
                         9,
                         27
                     ],
-                    "name": "ペタデスショット",
-                    "order": "",
+                    "name": "Peta Death Shot",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1273,6 +1448,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111111g",
+                "all_order_1": "12121212121111111111111111111111g",
+                "all_order_2": "1212121212111311331311141414141111111111g",
+                "all_order_3": "1212121212111311331311141414141115151511161616g",
                 "break": [
                     0,
                     0,
@@ -1280,8 +1458,9 @@
                     6,
                     0
                 ],
+                "description": "甜点世界的宮古芳香的终符(东方归言录原创)。\n极限料理之女仆秘技的弹幕。\n”嗯……彻彻底底失败了呢！“\n不知不觉中学会的女仆秘技。\n运用女仆秘技做的料理别说味道和气味了，连外表都令人毛骨悚然。\n女仆秘技的觉醒……一定是眼前的可疑女人，霍青娥“动了什么手脚”。\n名为宫古芳香的”尸体“，将这份料理作为杰作开开心心地提供给了主人。\n……但说实话，我不知道芳香是否真的“开心”。\n芳香中的“意识”是我。我看不见芳香本身的感情，应该说压根就不存在。\n我的存在正是芳香不具备自己的意识的证据。\n我所知道的是，芳香用僵硬的面部肌肉挤出的笑容。\n“开心”不过是我根据这个感情进行的推测。\n“虽然失败了……。”\n尸体女仆与操纵尸体的女主人。\n我坐在剧场特等席上观看的扭曲的主从关系，与我不存在一丝关联。\n不过是他人的事情，是遥远世界的物语。我没有一丝遗憾与羡慕。\n“……所以你才这么可爱。芳香。”\n她们两个幸福就好。",
                 "first_order": 1,
-                "name": "「死なないメイドの生かされない給仕」",
+                "name": "「不死女仆不被活用的料理」",
                 "power_rate": 3,
                 "damage_extend": [
                     100,
@@ -1298,14 +1477,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121212121111111111111111111111g",
-                "all_order_2": "1212121212111311331311141414141111111111g",
-                "all_order_3": "1212121212111311331311141414141115151511161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 27,
                     "boost": 0,
@@ -1330,14 +1507,15 @@
                         123,
                         41
                     ],
-                    "name": "極限給仕のメイド秘技",
-                    "order": "",
+                    "name": "极限料理之女仆秘技",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 5,
                     "boost": 1,
@@ -1364,14 +1542,15 @@
                         123,
                         41
                     ],
-                    "name": "極限給仕の大メイド秘技",
-                    "order": "",
+                    "name": "极限料理之大女仆秘技",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 4,
                     "boost": 2,
@@ -1394,14 +1573,15 @@
                         9,
                         27
                     ],
-                    "name": "極限給仕の特メイド秘技",
-                    "order": "",
+                    "name": "极限料理之特女仆秘技",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 4,
                     "boost": 2,
@@ -1423,14 +1603,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極限給仕の超メイド秘技",
-                    "order": "",
+                    "name": "极限料理之超女仆秘技",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -1449,14 +1630,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極限給仕の極メイド秘技",
-                    "order": "",
+                    "name": "极限料理之极女仆秘技",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -1485,12 +1667,12 @@
                         9,
                         27
                     ],
-                    "name": "極限給仕の最メイド秘技",
-                    "order": "",
+                    "name": "极限料理之最女仆秘技",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

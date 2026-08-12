@@ -86,7 +86,8 @@
             ],
             "cd": 3,
             "name": "庭師の花歌",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 5,
             "name": "護衛伴奏",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 6,
             "name": "サムライボイス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_showtime"
         }
     ],
     "attack_skills": {

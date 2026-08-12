@@ -31,7 +31,7 @@
         "passivity_3_name": "高草郡の主",
         "quality": 2121011,
         "quality_name": "潮風",
-        "speed": 1140,
+        "speed": 1385,
         "subname": "地上の兎",
         "total": 6450,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1210,
-        "yang_def": 965,
-        "yin_atk": 1080,
-        "yin_def": 1025
+        "yang_atk": 1545,
+        "yang_def": 1020,
+        "yin_atk": 1270,
+        "yin_def": 1070
     },
     "chain_character": [
         1019,
@@ -83,7 +83,8 @@
             "c": [],
             "cd": 5,
             "name": "氷の落とし穴",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -103,7 +104,8 @@
             "c": [],
             "cd": 5,
             "name": "炎の落とし穴",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             "c": [],
             "cd": 5,
             "name": "毒の落とし穴",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_poison"
         }
     ],
     "attack_skills": {

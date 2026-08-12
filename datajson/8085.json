@@ -83,7 +83,8 @@
             ],
             "cd": 4,
             "name": "術式母斑(神蔵経穴)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             ],
             "cd": 5,
             "name": "擬似胎動",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             ],
             "cd": 6,
             "name": "弾幕補助具(仙母)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

@@ -104,7 +104,8 @@
             ],
             "cd": 4,
             "name": "守屋大明神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -130,7 +131,8 @@
             ],
             "cd": 4,
             "name": "美教大臣",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -156,7 +158,8 @@
             ],
             "cd": 6,
             "name": "大荒神・蝦蟆神",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

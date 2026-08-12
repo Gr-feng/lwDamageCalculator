@@ -31,7 +31,7 @@
         "passivity_3_name": "幻音エフェクター",
         "quality": 12111112,
         "quality_name": "スプリット前線",
-        "speed": 975,
+        "speed": 1100,
         "subname": "メモリリーカーの三女",
         "total": 7350,
         "tribe": [
@@ -50,10 +50,10 @@
         ],
         "type": 8,
         "world_group": "B5",
-        "yang_atk": 1875,
-        "yang_def": 1050,
-        "yin_atk": 1375,
-        "yin_def": 925
+        "yang_atk": 2000,
+        "yang_def": 1070,
+        "yin_atk": 1420,
+        "yin_def": 970
     },
     "chain_character": [
         2055,
@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "ドラムンベース",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_dodge_down"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 4,
             "name": "ダブステップ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 8,
             "name": "フューチャーベース",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

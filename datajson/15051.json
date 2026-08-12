@@ -85,7 +85,8 @@
             ],
             "cd": 4,
             "name": "何の気もない移植ごて",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             ],
             "cd": 6,
             "name": "行き場を失った連絡帳",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             ],
             "cd": 6,
             "name": "小石ころ帽子(春)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

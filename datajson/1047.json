@@ -82,7 +82,8 @@
             "c": [],
             "cd": 5,
             "name": "山姥の鬼術",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -102,7 +103,8 @@
             "c": [],
             "cd": 5,
             "name": "マウンテンオウガ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -116,7 +118,8 @@
             "c": [],
             "cd": 4,
             "name": "包丁研ぎ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_up"
         }
     ],
     "attack_skills": {

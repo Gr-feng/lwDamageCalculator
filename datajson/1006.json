@@ -76,7 +76,8 @@
             "c": [],
             "cd": 4,
             "name": "即席魔法[隠密]",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -90,7 +91,8 @@
             "c": [],
             "cd": 5,
             "name": "ファイアボルト",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -110,7 +112,8 @@
             "c": [],
             "cd": 5,
             "name": "即席魔法[狙撃]",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

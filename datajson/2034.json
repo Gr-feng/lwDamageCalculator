@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "冬天永不终结的世界的露娜切露德的的能力(东方归言录原创)。\n能力本身和原本的露娜切露德基本一致。\n在冬天迟迟不结束的幻想乡中，露娜切露德独自开始了调查。\n\n光之三妖精是栖息在魔法森林的某颗巨树上的光之妖精们（她们后来会搬家，但这个时候还在魔法森林）。\n共寝共食共搞恶作剧的她们，就像姐妹一样亲密无间。\n当她们发现冬天迟迟不结束的时候，她们对异变的原因毫无头绪。\n她们原本认为只能忍到春天到来，但唯独露娜切露德意识到她们可以调查天空。\n然而没有任何明确证据表明空中存在异常，因此桑尼米尔克和斯塔萨菲雅没有什么干劲。\n——露娜你先去，我们之后再出发。\n当初就不应该相信她们的鬼话。\n桑尼与斯塔始终没有出现。\n\n云彩上面是另一个世界。\n微弱的阳光、温暖的微风……大量的某种道具在朝着某个地方飘动。\n是春天的气质……“高春度的某种东西”被压缩成了体眼可见的“樱花花瓣形状的道具”，并随风移动。\n从来没有见识过这种现象。\n这下能向桑尼和斯塔炫耀了！\n逐渐增强的春天气息，令沉迷于追赶春天的露娜切露德感到兴奋。\n最后，她抵达了大量\n她最终抵达的地方，聚集着大批春告精。\n前方是看起来像巨大的门的结界，但春天的集合体毫不在意地穿过了结界，飘向了深处。\n露娜是想继续前进……但这些春告精有些碍事。\n春告精们的领导者，是妖精圈中大名鼎鼎的莉莉霍瓦特。\n而且春告精们怎么看都不对劲。\n如此大量的春天流入了结界的另一边，她们却只为了拽回一点点春天而全力以赴（而且还把其他妖精卷进来了）。\n仿佛在用小小的饭勺从大河里舀水，再倒回上游一样。\n如果被发现你不是春告精的话……！\n“这位大妖精级的妖精！春告部队需要你！”",
+        "ability_effect_d1": "从不利属性<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>25%",
+        "ability_effect_d2": "",
+        "ability_effect_d3": "每被施加1枚结界异常「<color=#CCAA00>黑暗</color>」，<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>1等级\n免疫结界异常「<color=#CCAA00>毒雾</color>」且<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.20",
+        "ability_effect_d4": "",
+        "ability_effect_d5": "",
+        "ability_name": "「消除周围声音程度的能力」",
         "advantage_attack": 0,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
         "barrier_status_3": 0,
         "barrier_status_4": 5,
         "barrier_status_5": 7,
-        "bgm": 30203401,
+        "bgm": "Moonlight Fairy Dance",
         "boost_buff": 0,
         "boost_target": 0,
         "break_cost": 501,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "ガード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color>强度上升的一部分(3回合)",
+        "chain_name": "防御连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 25,
+        "genic_name": "",
+        "get": "莉莉怀特队长！我是新人春告精，露娜切露德！ ……咦？ 我不用再扮演春告精了？",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5275,
-        "name": "ルナチャイルド",
-        "passivity_1_description": "体力100%以上で攻撃された時、<color=#CCAA00>受けるダメージ</color>を30%<color=#0066FF>ダウン</color> [発生率100%]",
+        "jp_name": "るなちゃいるど",
+        "lines1": "等一下！混进春告精里这招怎么想都行不通！桑尼！斯塔！你们不要丢下我……！……不，不是的！莉莉怀特队长！ 本人是新人春告精露娜切露德！我把所有精力都放在了任务上！我们一起取回幻想乡的春天吧！大量的樱点被吸进了冥界里！怎么想都很可疑！……咦？什么啊，原来是普通的人类少女。那我就不用装模做样了。",
+        "lines10": "桑尼在红魔馆假扮成妖精女仆时听说玩得挺开心的。但混在春告精里说实话有点累……。",
+        "lines11": "妖精做事前不会考虑后果，但我随时都有冷静的一面。我一点都不像妖精。",
+        "lines12": "斯塔说她在竹林附近遇到了兔耳妖精。是在异变长期化影响下出现的奇行妖精吗？",
+        "lines13": "莉，莉莉怀特队长！？ 我，我会认真工作的！ 这不是演习！ 春天来了—！ 春天来了—！ 春天真的来了—！",
+        "lines14": "明明是正常的夏天，我却习惯性地告知了春天的到来……。不，不，不是春天的夏天什么的……一点价值都没有—！ ……呜。",
+        "lines15": "秋天真是个好季节。月亮如此漂亮。……队，队长！？ 那个……没错！ 秋天是远远不如春天的三流季节！……唉。",
+        "lines16": "冬天来了……。希望冬天会顺利告终。……是，队长！ 一旦发现冬天我就会击溃它，并尽快招来春天！……这也太乱来了。",
+        "lines17": "作业吗。让我也看看。你不用动，我过去。",
+        "lines18": "作业满分。乖孩子乖孩子。我恐怕是最聪明的妖精。",
+        "lines19": "传书来了。我也喜欢读文章～。",
+        "lines2": "偶尔能看到编队飞行的妖精们……她们是在做什么？",
+        "lines20": "我回来了。莉莉怀特怎么还没发现我的真面目？",
+        "lines21": "有人回来了！？ 我得喊春告精的台词！ ……原来是猫啊。",
+        "lines22": "你困了？ 没办法，躺在我的膝盖上吧。",
+        "lines23": "睡觉的孩子摸起来可暖和了。",
+        "lines24": "睡得真香。乖孩子乖孩子。",
+        "lines25": "露，露娜切露德！ 马，马上突击！",
+        "lines26": "春天来了—！ 春天来了—！ ……好累",
+        "lines27": "任务完成！ 这附近基本都是春天了！ ……呼",
+        "lines28": "呜呜呜……我根本演不好春告精！",
+        "lines29": "遵，遵命！",
+        "lines3": "大妖精指力量强大的妖精。雾之湖的大妖精尤其出名。",
+        "lines30": "丹田发声！",
+        "lines31": "春天来了～！",
+        "lines32": "就算是新人",
+        "lines33": "作为春告精",
+        "lines34": "我不会轻易败北！",
+        "lines35": "收到！",
+        "lines36": "明白！",
+        "lines37": "春天来了～！",
+        "lines38": "呼，好累",
+        "lines39": "你也一起来！",
+        "lines4": "所以桑尼、斯塔、我都算大妖精。除此之外也有几个大妖精。",
+        "lines40": "顺便夏秋冬也来了—！",
+        "lines41": "我去收集一下樱点！",
+        "lines42": "发现樱花树的小树枝了！",
+        "lines43": "听说是春天哦—！",
+        "lines44": "可能是春天哦—！",
+        "lines45": "我混在了春告精里　\n这衣服很可爱吧？",
+        "lines46": "但如果被春告精发现　\n我在侵犯她们的地盘的话……！",
+        "lines47": "月符「月面气旋」",
+        "lines48": "莉莉怀特队长！　\n冥界的樱花超可疑！",
+        "lines49": "什么 让我突击？ 　\n不是吧！　……春，春天来了—！！",
+        "lines5": "我听说过名为莉莉怀特的，大妖精级的春告精的存在……就是说她可能也听说过我们的名字和特征。",
+        "lines50": "月光「花开无声」",
+        "lines51": "虽说是春雪异变　\n但差不多快到夏天了吧……？",
+        "lines52": "不　农历上已经是秋天了！　\n是秋彼岸和盂兰盆节的季节了！",
+        "lines53": "「八月的额外超级月亮」",
+        "lines54": "呜",
+        "lines55": "啊呜！",
+        "lines56": "安全上垒",
+        "lines57": "我不会倒下！",
+        "lines58": "感谢你的支援！",
+        "lines59": "我输了！？ 医疗小组～！",
+        "lines6": "然而莉莉怀特却只在意春天，其他春告精也都像机器人一样对她言听计从……这氛围也太诡异了。……但这也是我能混在春告精里的理由。",
+        "lines60": "东方归言录",
+        "lines61": "好",
+        "lines62": "那算了",
+        "lines63": "谢谢！",
+        "lines64": "你也太迟钝了吧，莉莉怀特！",
+        "lines65": "妖精在团队行动……怎么想都很奇怪！",
+        "lines7": "春告精们终究不过是妖精。她们的异常举动不会有太大的影响力。比起这种事情，我想赶紧去调查冥界的巨大樱花树。但一直喊“春天来了”也挺快乐的……糟糕！？ 我不知不觉中喜欢上这种生活了！？",
+        "lines8": "丹田发声！ 春天来了—！",
+        "lines9": "等一下，现在是春天吗？ 是几几年？ ……糟糕！？ 我的大脑被春天侵蚀了。我一开始不过是以闹着玩的心态喊“春天来了”。",
+        "name": "露娜切露德",
+        "passivity_1_description": "体力在100%以上遭到攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>30% [发生率100%]",
         "passivity_1_icon": "characteristic_icon_38",
-        "passivity_1_name": "プラクティスミュート",
-        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>体力</color>を20%<color=#00CC66>回復</color> [発生率60%]",
+        "passivity_1_name": "练习用弱音器",
+        "passivity_2_description": "回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>20% [发生率60%]",
         "passivity_2_icon": "characteristic_icon_30",
-        "passivity_2_name": "静謐な月明かり",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率60%]",
+        "passivity_2_name": "静谧月光",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率60%]",
         "passivity_3_icon": "characteristic_icon_32",
-        "passivity_3_name": "コンプリートサイレンス",
+        "passivity_3_name": "万籁俱寂",
         "quality": 21121010,
+        "quality_description": "冬天永不终结的世界的露娜切露德的气质(东方归言录原创)。\n“春月”指春夜之月。\n是符合（相对来讲）谨慎的露娜切露德的气质。\n露娜同时具备着春天的木行气质与月亮的月精气质。\n\n强大而又温柔的木行，由于“水生木”对水行具备抗性，由于“金克木”而对金行不利。\n象征着协调性以及优柔寡断的月精对象征着绝对魅力与傲慢的日精具备抗性，不擅长应对象征着多样性与特立独行的星精。",
         "quality_name": "春月",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "风之卷轴-一",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "云之卷轴-一",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "真南蛮",
+        "rank_up_lv0_4_value": 10,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 10,
+        "rank_up_lv0_6_name": "佐曾罗",
+        "rank_up_lv0_6_value": 10,
+        "rank_up_lv1_1_name": "兰之华片-二",
+        "rank_up_lv1_1_value": 10,
+        "rank_up_lv1_2_name": "风之卷轴-二",
+        "rank_up_lv1_2_value": 10,
+        "rank_up_lv1_3_name": "云之卷轴-二",
+        "rank_up_lv1_3_value": 10,
+        "rank_up_lv1_4_name": "竹之华片-一",
+        "rank_up_lv1_4_value": 20,
+        "rank_up_lv1_5_name": "竹之华片-二",
+        "rank_up_lv1_5_value": 10,
+        "rank_up_lv1_6_name": "云之卷轴-一",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "云之卷轴-二",
+        "rank_up_lv2_1_value": 20,
+        "rank_up_lv2_2_name": "风之卷轴-三",
+        "rank_up_lv2_2_value": 20,
+        "rank_up_lv2_3_name": "云之卷轴-三",
+        "rank_up_lv2_3_value": 20,
+        "rank_up_lv2_4_name": "辅助指南书-二",
+        "rank_up_lv2_4_value": 20,
+        "rank_up_lv2_5_name": "竹之华片-三",
+        "rank_up_lv2_5_value": 20,
+        "rank_up_lv2_6_name": "竹之华片-二",
+        "rank_up_lv2_6_value": 20,
+        "rank_up_lv3_1_name": "兰之华片-三",
+        "rank_up_lv3_1_value": 20,
+        "rank_up_lv3_2_name": "风之卷轴-三",
+        "rank_up_lv3_2_value": 20,
+        "rank_up_lv3_3_name": "云之卷轴-三",
+        "rank_up_lv3_3_value": 20,
+        "rank_up_lv3_4_name": "辅助指南书-二",
+        "rank_up_lv3_4_value": 30,
+        "rank_up_lv3_5_name": "竹之华片-三",
+        "rank_up_lv3_5_value": 20,
+        "rank_up_lv3_6_name": "天之卷轴-二",
+        "rank_up_lv3_6_value": 30,
+        "rank_up_lv4_1_name": "竹之华片-三",
+        "rank_up_lv4_1_value": 30,
+        "rank_up_lv4_2_name": "风之卷轴-三",
+        "rank_up_lv4_2_value": 30,
+        "rank_up_lv4_3_name": "云之卷轴-三",
+        "rank_up_lv4_3_value": 30,
+        "rank_up_lv4_4_name": "辅助指南书-三",
+        "rank_up_lv4_4_value": 30,
+        "rank_up_lv4_5_name": "天之卷轴-三",
+        "rank_up_lv4_5_value": 30,
+        "rank_up_lv4_6_name": "兰之华片-三",
+        "rank_up_lv4_6_value": 30,
+        "short_name": "露娜切露德",
         "speed": 1020,
-        "subname": "[妖]静かなる月の光",
+        "subname": "[妖]静谧的月之光",
         "total": 6900,
         "tribe": [
             7,
@@ -45,14 +181,22 @@
             44
         ],
         "type": 4,
+        "vocal1": "小孫さくら",
+        "vocal2": "小泉よう",
+        "vocal3": "長野佑紀",
+        "voice1": "雪与樱与天空之国程度的声音",
+        "voice2": "差不多到夏天了程度的声音",
+        "voice3": "破罐破摔程度的声音",
         "world_group": "A7",
+        "world_group_description": "“A系列的世界团（A世界团）”中的世界群之一。\n“A7世界群”是“A世界团”中第7个世界群。\n和其他符号不同，并不代表偏离度。\n“A”符号的含义尚未明确。\n\n【主要的分歧点】\n起因于“A7分歧点群”。\n\n【主要的汇合点】\n这个世界几乎不会汇合（发散倾向）。",
+        "world_group_name": "A7世界群",
         "yang_atk": 1300,
         "yang_def": 1500,
         "yin_atk": 925,
-        "yin_def": 1100
+        "yin_def": 1100,
+        "id": 2034
     },
     "chain_character": [
-        4011,
         3009,
         2032,
         2013,
@@ -63,11 +207,21 @@
         6001,
         6002,
         19005,
-        2014
+        2014,
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "春天降雪世界的露娜的常服。\n虽然假扮成了春告精，但日历上快到夏天了。",
+            "costume_name1": "[妖]静谧的月之光"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 1,
                 12,
@@ -84,10 +238,12 @@
             ],
             "c": [],
             "cd": 4,
-            "name": "春告コール(練習中)",
-            "id": 1
+            "name": "春告(练习中)",
+            "description": "为什么我得做这种事情！？\n我明明只是来调查春天的去向。",
+            "icon": "skill_icon_attract_up"
         },
         {
+            "id": 2,
             "a": [
                 2,
                 1,
@@ -110,10 +266,12 @@
                 1
             ],
             "cd": 4,
-            "name": "しらゆり妖精拳(白帯)",
-            "id": 2
+            "name": "白百合妖精拳(白带)",
+            "description": "弹幕被封印时的备用手段。\n……做这种准备，真的有意义吗！？",
+            "icon": "skill_icon_yang_atk_down"
         },
         {
+            "id": 3,
             "a": [
                 2,
                 2,
@@ -136,8 +294,9 @@
                 3
             ],
             "cd": 5,
-            "name": "アイテムキャリアー見習い",
-            "id": 3
+            "name": "道具携带者（实习生）",
+            "description": "道具是指食物吧？\n就是说我负责搬运便当？",
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {
@@ -168,13 +327,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yang_atk_down"
@@ -185,13 +337,6 @@
                     [
                         "skill_icon_yang_def_up"
                     ],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
                     [],
                     []
                 ],
@@ -230,6 +375,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111g",
+                "all_order_1": "12121211111111111g",
+                "all_order_2": "121212113131141411111g",
+                "all_order_3": "121212113131141411515161g",
                 "break": [
                     0,
                     0,
@@ -237,8 +385,9 @@
                     0,
                     6
                 ],
+                "description": "冬天永不终结的世界的露娜切露德的符卡。\n月光暴风雨的弹幕。\n死后世界恐怕给莉莉霍瓦特带来了特殊的影响。\n莉莉本人没有意识到这个问题，露娜也不清楚到底发生了什么。但这一定是莉莉的服装与弹幕和平时不同的原因。\n或许莉莉有朝一日会成为超越大妖精的大妖精。",
                 "first_order": 1,
-                "name": "月符「ルナサイクロン」",
+                "name": "月符「月面气旋」",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -255,14 +404,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121211111111111g",
-                "all_order_2": "121212113131141411111g",
-                "all_order_3": "121212113131141411515161g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 14,
                     "boost": 0,
@@ -288,14 +435,15 @@
                         3,
                         7
                     ],
-                    "name": "ルナサイクロン",
-                    "order": "",
+                    "name": "Luna Cyclone",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -315,14 +463,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ハイルナサイクロン",
-                    "order": "",
+                    "name": "High Luna Cyclone",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -336,14 +485,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガルナサイクロン",
-                    "order": "",
+                    "name": "Mega Luna Cyclone",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -364,14 +514,15 @@
                         3,
                         7
                     ],
-                    "name": "ギガルナサイクロン",
-                    "order": "",
+                    "name": "Giga Luna Cyclone",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -391,14 +542,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラルナサイクロン",
-                    "order": "",
+                    "name": "Tera Luna Cyclone",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -421,24 +573,21 @@
                         3,
                         7
                     ],
-                    "name": "ペタルナサイクロン",
-                    "order": "",
+                    "name": "Peta Luna Cyclone",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111111g",
+                "all_order_1": "121211111111g",
+                "all_order_2": "121211311411511g",
+                "all_order_3": "1212113114115116g",
                 "break": [
                     0,
                     0,
@@ -446,8 +595,9 @@
                     0,
                     0
                 ],
+                "description": "冬天永不终结的世界的露娜切露德的扩散射击(东方归言录原创)。\n妖精之花的弹幕。\n自己似乎被误认成了春告精。\n就算告诉她们自己是月光妖精……也没有任何人理会自己。\n但这或许是机会。\n假扮成春告精的话，调查春度的流向也不会引起怀疑。",
                 "first_order": 1,
-                "name": "フェアリーズブロッサム",
+                "name": "妖精之花",
                 "power_rate": 15,
                 "damage_extend": [
                     100,
@@ -464,14 +614,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121211111111g",
-                "all_order_2": "121211311411511g",
-                "all_order_3": "1212113114115116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 10,
                     "boost": 0,
@@ -497,14 +645,15 @@
                         3,
                         41
                     ],
-                    "name": "妖精の花",
-                    "order": "",
+                    "name": "妖精之花",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -526,14 +675,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "妖精の大花",
-                    "order": "",
+                    "name": "妖精之大花",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -550,14 +700,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "妖精の特花",
-                    "order": "",
+                    "name": "妖精之特花",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -578,14 +729,15 @@
                         3,
                         41
                     ],
-                    "name": "妖精の超花",
-                    "order": "",
+                    "name": "妖精之超花",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -605,14 +757,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "妖精の極花",
-                    "order": "",
+                    "name": "妖精之极花",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -635,12 +788,12 @@
                         3,
                         41
                     ],
-                    "name": "妖精の最花",
-                    "order": "",
+                    "name": "妖精之最花",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -733,6 +886,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211131313111111111g",
+                "all_order_2": "12121212111313131114141115151g",
+                "all_order_3": "121212121113131311141411151516g",
                 "break": [
                     0,
                     0,
@@ -740,8 +896,9 @@
                     0,
                     6
                 ],
+                "description": "冬天永不终结的世界的露娜切露德的符卡。\n寂静的月光之花的弹幕。\n不行……春告精们的相互监视严格到离谱，根本没有单独行动的机会！\n难道说我一辈子都得在这里练叫做“白百合妖精拳”的谜之格斗技……？\n快来救我啊！桑尼，斯塔！\n你们跑哪里去了！",
                 "first_order": 1,
-                "name": "月光「サイレントフラワー」",
+                "name": "月光「花开无声」",
                 "power_rate": 15,
                 "damage_extend": [
                     100,
@@ -758,14 +915,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212121211131313111111111g",
-                "all_order_2": "12121212111313131114141115151g",
-                "all_order_3": "121212121113131311141411151516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 18,
                     "boost": 0,
@@ -792,14 +947,15 @@
                         9,
                         8
                     ],
-                    "name": "サイレントフラワー",
-                    "order": "",
+                    "name": "Silent Flower",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -819,14 +975,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "サイレントハイフラワー",
-                    "order": "",
+                    "name": "Silent High Flower",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -840,14 +997,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "サイレントメガフラワー",
-                    "order": "",
+                    "name": "Silent Mega Flower",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -869,14 +1027,15 @@
                         9,
                         8
                     ],
-                    "name": "サイレントギガフラワー",
-                    "order": "",
+                    "name": "Silent Giga Flower",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -896,14 +1055,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "サイレントテラフラワー",
-                    "order": "",
+                    "name": "Silent Tera Flower",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -929,24 +1089,21 @@
                         8,
                         41
                     ],
-                    "name": "サイレントペタフラワー",
-                    "order": "",
+                    "name": "Silent Peta Flower",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111111g",
+                "all_order_1": "121211311111g",
+                "all_order_2": "12121131141151g",
+                "all_order_3": "121211311411516g",
                 "break": [
                     0,
                     0,
@@ -954,8 +1111,9 @@
                     0,
                     0
                 ],
+                "description": "冬天永不终结的世界的露娜切露德的集中射击(东方归言录原创)。\n月光闪耀的弹幕。\n莉莉霍瓦特不对劲的理由似乎和异变长期化有关。\n听说结界的另一边是叫做冥界的死后世界之一，春天在流向冥界深处。\n不知为何结界上方可以直接通过，因此春告精部队在跨越结界取回春度。",
                 "first_order": 1,
-                "name": "ムーンリットセレクション",
+                "name": "月光下的选定",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -972,14 +1130,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121211311111g",
-                "all_order_2": "12121131141151g",
-                "all_order_3": "121211311411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 9,
                     "boost": 0,
@@ -1005,14 +1161,15 @@
                         3,
                         41
                     ],
-                    "name": "月明かりの選定",
-                    "order": "",
+                    "name": "月光下的选定",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -1029,14 +1186,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "月明かりの大選定",
-                    "order": "",
+                    "name": "月光下的大选定",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -1053,14 +1211,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "月明かりの特選定",
-                    "order": "",
+                    "name": "月光下的特选定",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1077,14 +1236,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "月明かりの超選定",
-                    "order": "",
+                    "name": "月光下的超选定",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1110,14 +1270,15 @@
                         3,
                         41
                     ],
-                    "name": "月明かりの極選定",
-                    "order": "",
+                    "name": "月光下的极选定",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1140,12 +1301,12 @@
                         3,
                         41
                     ],
-                    "name": "月明かりの最選定",
-                    "order": "",
+                    "name": "月光下的最选定",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -1176,13 +1337,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yang_atk_down"
@@ -1193,13 +1347,6 @@
                     [
                         "skill_icon_hit_up"
                     ],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
                     [],
                     []
                 ],
@@ -1238,6 +1385,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111g",
+                "all_order_1": "121212121111111111111111g",
+                "all_order_2": "1212121211131313111414111515111g",
+                "all_order_3": "12121212111313131114141115151161g",
                 "break": [
                     0,
                     0,
@@ -1245,8 +1395,9 @@
                     0,
                     6
                 ],
+                "description": "冬天永不终结的世界的露娜切露德的终符(东方归言录原创)。\n连春天都已经结束了的弹幕。\n不知不觉中日历上的时间上已经越过了春天，进入了夏天。\n这或许会是新的异变的发端……。\n混在春告精里，往返于冥界入口附近的每一天。\n冥界的死亡气质给莉莉霍瓦特带来了神秘影响，她的身体和力量似乎在逐渐变大增强。\n本以为此事与自己无关。\n但露娜切露德突然意识到了一个问题。\n为什么光之三妖精中……只有自己对“天空”感兴趣。\n露娜切露德是月光妖精。月光是魔性之光，月亮……则是死亡的象征。",
                 "first_order": 1,
-                "name": "「八月のエクストラスーパームーン」",
+                "name": "「八月的额外超级月亮」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -1263,14 +1414,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121212121111111111111111g",
-                "all_order_2": "1212121211131313111414111515111g",
-                "all_order_3": "12121212111313131114141115151161g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 20,
                     "boost": 0,
@@ -1297,14 +1446,15 @@
                         10,
                         8
                     ],
-                    "name": "八月の超々月",
-                    "order": "",
+                    "name": "八月的超超级月亮",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -1331,14 +1481,15 @@
                         10,
                         8
                     ],
-                    "name": "八月の大超々月",
-                    "order": "",
+                    "name": "八月的大超超级月亮",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -1358,14 +1509,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "八月の特超々月",
-                    "order": "",
+                    "name": "八月的特超超级月亮",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -1387,14 +1539,15 @@
                         10,
                         8
                     ],
-                    "name": "八月の超々々月",
-                    "order": "",
+                    "name": "八月的超超超级月亮",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -1411,14 +1564,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "八月の極超々月",
-                    "order": "",
+                    "name": "八月的极超超级月亮",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1444,12 +1598,12 @@
                         8,
                         41
                     ],
-                    "name": "八月の最超々月",
-                    "order": "",
+                    "name": "八月的最超超级月亮",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

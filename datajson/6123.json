@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "陶醉于常秋世界的天弓千亦的能力(东方归言录原创)。\n能力和通常世界的千亦没有区别。\n由于这个千亦是常秋世界的居民，因此对自己的兴趣爱好很诚实。\n千亦是集市之神，但这个千亦具备强烈的即卖会之神的性质。\n\n站在秋天的中心宣扬自己的爱好……这正是常秋世界。\n无数人感叹竟然会有这种世界……但应该说是现代的人类社会过于压抑。\n现代人类社会的种种束缚，对背负巨大人口的巨大文明来讲或许是好事，但在社会中生存的人类容易迷失自我。\n如果将集市定义为“能随时入手自己想要的东西的地方”……这个定义虽然很方便，但同时会造成诸多浪费，并错过本质。\n归根究底，食物浪费问题也好电力不足也好，长期化的通缩和突然的物价上涨都是因为这种观念。\n供给者和需求者、消费者和生产者是无法分割的概念。\n一个人在某个集市可能是消费者，在其他集市可能是生产者。\n\n这正是作为经济体的人类本质上·原义上的状态。磁石般的双面性正是促进经济运转的基础分子。\n因此方便·便宜·高品质这些对商品的要求……最终会回到自己头上。\n追求便利性的话就只能不眠不休，追求廉价的话就只能降低工资，追求高品质的话必须身怀绝技。\n后来者在竞争中会处于不利的立场，无法回应需求的人将失去机会与报酬……这是负面意义上的因果报应的世界。\n\n因此“即卖会”是一定程度上保留了原始色彩的集市。\n亲自举办，亲自感受，亲自买卖。\n卖得出去也好，卖不出去也好。买得到也好，买不到也好。卖不卖也好，买不买也好。\n一切都是基于自己的意志。\n这份纯粹，正是即卖会的根源。\n\n我刚才也说过，集市的根源是文明社会。\n考虑到这个因素，我们绝不能把天弓千亦视作“又俗又弱的神明”。\n天然的神明是接近原初的存在，并且强大。抽象的，与都市或人类息息相关的神明是近代化的存在，并且弱小……确实有这么一种观念没错。\n在存在八百万之神的岛国，一定程度上或许也是这样。\n但如果把重点放在神的权能上……“集市”的权能对象简单易懂而又巨大无比。\n如果说物理性的“场地”基于理论与实测，那么将其抽象化·假想化的构造正是“集市”这样的理论上的场地。\n在物理性的场地中，物质或力量会保持对称性。在假想的场地中，物品和商品会保持对称性。\n集市的管理正是逼近控制物理系统的权能（虽然恐怕也存在许多制约）。\n无论人类的文明再怎么发展，都不过是利用太阳和大地的恩惠重构的假想性的存在。\n\n即卖会的存在方式保留着昔日黎明时分巷子里露店林立的时代的影子。\n狂欢过后，一切回归虚无。\n早市回归交叉的小巷，即卖会会场回归空荡荡的展示空间（也可能是会议厅）。\n但是对即卖会的思念会留在我们的心中。一旦时机成熟，集市会再次开启。\n无论隔着多长时间，对即卖会的思念也无法被阻挡。\n\n虽说常秋世界是特殊的世界群。\n但既然即卖会正式进入了幻想乡，那么这意味着即卖会在外面世界已经消失了。\n原来如此……即卖会在外面世界已经消失了吗……。\n……到底发生了什么事情？\n我相信正在阅读这篇文章的你……脑海中一定浮现了以下几个问题。\n“这篇文章的作者所在的地方是否存在即卖会呢？你到底是在幻想乡，还是在外面世界呢？”",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>35%",
+        "ability_effect_d3": "免疫结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>冻结</color>」且<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.20",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "使用擦弹时，己方全体<color=#CCAA00>阴防</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_name": "「剥夺所有权程度的能力(天)」",
         "advantage_attack": 35,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 5,
         "barrier_status_2": 5,
         "barrier_status_3": 0,
         "barrier_status_4": 0,
         "barrier_status_5": 0,
-        "bgm": 30612301,
+        "bgm": "GENSOKYO キラー☆マーケット",
         "boost_buff": 5,
         "boost_target": 1,
         "break_cost": 503,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
-        "chain_name": "パワー連携",
+        "chain_description": "作为后卫时，换位对象的<color=#CCAA00>灵力</color><color=#00CC66>上升</color>\n作为前卫时，前卫全体的<color=#CCAA00>灵力</color><color=#00CC66>上升</color>",
+        "chain_name": "灵力连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是一切弹幕即卖会的主办者，天弓千亦。你是社团参加者还是一般参加者？ 我都欢迎哦！",
         "graze_buff": 4,
         "graze_target": 1,
         "hp": 4000,
+        "jp_name": "てんきゅうちまた",
+        "lines1": "欢迎来到弹幕即卖会。我是一切弹幕即卖会之神兼主办者，天弓千亦！ 新·月都万象展也好，其他的弹幕即卖会也好，这些展会的主办方里都有我的名字。……你说我像黑幕？没有这回事！我在暗中守望着命名决斗法的秩序。但我没来过这个异界诶？这正是非日常！我就在这里举办即卖会吧！",
+        "lines10": "实体物的话袿姬小姐和爱丽丝小姐的社团尤为出名。成美小姐和雏小姐人气也很高。但意想不到的黑马是……璎花小姐精密的立体模型！",
+        "lines11": "文小姐和果小姐是频繁出没在cosplay区的摄影师。听说工作时认真无比的白狼天狗的可爱服装，和严格的大天狗乐在其中的样子会让她们兴奋起来！",
+        "lines12": "照理说大天狗和我一样是主办方……。另一个主办方大蜈蚣也总是呆在餐饮区。……管狐总会和我汇报各种问题。",
+        "lines13": "这个季节博丽神社的例大祭很是火爆！ 例大祭是个好活动，是大手即卖会之一！",
+        "lines14": "有海的幻想乡吗！ 海边的盛夏即卖会……有种正统的氛围呢。好想举办看看！但会不会出现“即卖会云”呢？",
+        "lines15": "这个季节博丽神社的例大祭很是火爆！ 什么，我春天也说过？ 不不不，秋天也有例大祭。",
+        "lines16": "冬天不适合外出，所以该窝在家里制作作品。熟成的对创作的热情孕育并支撑着弹幕即卖会……阿嚏！",
+        "lines17": "作业？ 比起这种事情，要不要读静叶老师的新刊？",
+        "lines18": "作业完成！ 静叶老师果然是大神。嘿嘿嘿，嘻嘻嘻。",
+        "lines19": "传书？ 是通贩买的作品吗？",
+        "lines2": "又，又卖光了！？ 呜呜呜……。",
+        "lines20": "战利品太丰盛了！ 先摆在被子上。",
+        "lines21": "替我逛摊位的大家回来了！",
+        "lines22": "膝枕也很棒，但我要把新刊念给你听。",
+        "lines23": "静叶老师当然是大神，但除了她以外也有数不清的神……！",
+        "lines24": "睡着了吗。乖孩子乖孩子。",
+        "lines25": "请各给我两册！ 一册是保管用！",
+        "lines26": "应该再来一本观赏用的……算了，有点不合适",
+        "lines27": "你要不要当创作者？ 让我看看你的“爱”吧！",
+        "lines28": "会影响到其他参加者！",
+        "lines29": "这个作品是？",
+        "lines3": "即卖会是自由的地方。只要不违反公序良俗和命名决斗法就没问题！",
+        "lines30": "山童的黑暗社团！？",
+        "lines31": "质，质量不错……！",
+        "lines32": "大家的危险",
+        "lines33": "要大家一起回避！",
+        "lines34": "该检查了！",
+        "lines35": "我可以试读吗？",
+        "lines36": "原来如此原来如此！",
+        "lines37": "请给我来一册！",
+        "lines38": "有寄售作品吗……？",
+        "lines39": "前途无量的无名新星！",
+        "lines4": "对我们来讲命名决斗法即是即卖会对决！也不知道是谁决定的。但这对我有利，所以我一点意见都没有！",
+        "lines40": "你有参加证吗？",
+        "lines41": "稍微休息一下！",
+        "lines42": "久等了！",
+        "lines43": "天气凉也得注意！",
+        "lines44": "排好队排好队",
+        "lines45": "我偷偷去看看　\n社团参加者们怎么样了",
+        "lines46": "不错不错　\n大家都已经布置好摊位了！",
+        "lines47": "「主办者的秘密展会巡视」",
+        "lines48": "像这样在目录的地图上　\n做好标记",
+        "lines49": "我就按事先制定的完美路线……　\n静叶老师的新刊卖光了！？　呜呜呜",
+        "lines5": "自己制作自己喜欢的东西。并把作品分享给同好们。这就是弹幕即卖会的起源。是不是很棒？",
+        "lines50": "「新刊猎人千亦」",
+        "lines51": "特别的日子才能做特别的生意　\n我们可等了2年",
+        "lines52": "集市总算回来了！　\n弹幕即卖会正式开始！",
+        "lines53": "「弹幕即卖会复活宣言」",
+        "lines54": "哇—！",
+        "lines55": "糟，糟糕了—！",
+        "lines56": "哼哼哼！",
+        "lines57": "可以约稿吗？",
+        "lines58": "非常感谢！",
+        "lines59": "还有我没逛的摊位！",
+        "lines6": "即卖会对决不是在比拼贩卖数量。是在比拼自己的“爱”。高纯度的“爱”在旁人眼里会显得丑陋。但是……你不觉得某种意义上很美丽吗？",
+        "lines60": "东方归言录",
+        "lines61": "好的！",
+        "lines62": "那算了！",
+        "lines63": "非常感谢！",
+        "lines64": "进度如何？荷取小姐。",
+        "lines65": "山童在举办黑暗弹幕集市！？ 而且……运营相当有两下子。",
+        "lines7": "我是主办者，但我不怎么清楚弹幕即卖会和命名决斗法的谜团。虽然很丢人现眼……但我能在这里感到一股原初的鼓动。弹幕和即卖会……似乎比我想象中的要重要呢。",
+        "lines8": "静叶老师的新刊……太神了！！",
+        "lines9": "荷取小姐是游戏以及技术方面的大佬。她是低调而又优秀的协助者！",
         "name": "天弓千亦",
-        "passivity_1_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color> [発生率100%]",
+        "passivity_1_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.35 [发生率100%]",
         "passivity_1_icon": "characteristic_icon_31",
-        "passivity_1_name": "準備会MTG",
-        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>体力</color>を10%<color=#00CC66>回復</color> [発生率100%]",
+        "passivity_1_name": "准备会MTG",
+        "passivity_2_description": "回合开始时，自身<color=#CCAA00>体力</color><color=#00CC66>回复</color>10% [发生率100%]",
         "passivity_2_icon": "characteristic_icon_30",
-        "passivity_2_name": "スタッフ管理",
-        "passivity_3_description": "攻撃された時、<color=#CCAA00>文化の祭典に縁がある者</color>から受けるダメージを60%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_2_name": "工作人员的管理者",
+        "passivity_3_description": "被攻击时，受到来自<color=#CCAA00>与文化祭有缘者</color>的伤害<color=#0066FF>下降</color>60% [发生率100%]",
         "passivity_3_icon": "characteristic_icon_56",
-        "passivity_3_name": "サークルと一般のケア",
+        "passivity_3_name": "社团与参加者的管理者",
         "quality": 11112102,
-        "quality_name": "霧虹",
+        "quality_description": "陶醉于常秋世界的天弓千亦的气质(东方归言录原创)。\n“雾虹”指光线在雾气或微粒中散射后形成的模糊光圈。\n是符合常秋世界的即卖会主办者的气质。\n\n三精五行的法则彻底实现了重构。\n所有权被归还的，物品自由流通的集市（强于木行）。能在这里自由自在地与各种各样的作品们邂逅，简直太棒了（强于星精）。\n但重要的是按照自己的节奏寻找自己喜欢的东西（强于土行）。",
+        "quality_name": "雾虹",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 20,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "地之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "鸟之卷轴-一",
+        "rank_up_lv0_5_value": 30,
+        "rank_up_lv0_6_name": "佐曾罗",
+        "rank_up_lv0_6_value": 20,
+        "rank_up_lv1_1_name": "地之卷轴-一",
+        "rank_up_lv1_1_value": 30,
+        "rank_up_lv1_2_name": "兰之华片-一",
+        "rank_up_lv1_2_value": 30,
+        "rank_up_lv1_3_name": "菊之华片-二",
+        "rank_up_lv1_3_value": 20,
+        "rank_up_lv1_4_name": "地之卷轴-二",
+        "rank_up_lv1_4_value": 20,
+        "rank_up_lv1_5_name": "鸟之卷轴-二",
+        "rank_up_lv1_5_value": 20,
+        "rank_up_lv1_6_name": "兰之华片-二",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "兰之华片-二",
+        "rank_up_lv2_1_value": 40,
+        "rank_up_lv2_2_name": "辅助指南书-二",
+        "rank_up_lv2_2_value": 40,
+        "rank_up_lv2_3_name": "地之卷轴-二",
+        "rank_up_lv2_3_value": 40,
+        "rank_up_lv2_4_name": "地之卷轴-三",
+        "rank_up_lv2_4_value": 40,
+        "rank_up_lv2_5_name": "鸟之卷轴-三",
+        "rank_up_lv2_5_value": 40,
+        "rank_up_lv2_6_name": "兰之华片-三",
+        "rank_up_lv2_6_value": 40,
+        "rank_up_lv3_1_name": "蛇之卷轴-二",
+        "rank_up_lv3_1_value": 60,
+        "rank_up_lv3_2_name": "辅助指南书-二",
+        "rank_up_lv3_2_value": 60,
+        "rank_up_lv3_3_name": "菊之华片-三",
+        "rank_up_lv3_3_value": 50,
+        "rank_up_lv3_4_name": "地之卷轴-三",
+        "rank_up_lv3_4_value": 50,
+        "rank_up_lv3_5_name": "鸟之卷轴-三",
+        "rank_up_lv3_5_value": 50,
+        "rank_up_lv3_6_name": "兰之华片-三",
+        "rank_up_lv3_6_value": 50,
+        "rank_up_lv4_1_name": "菊之华片-三",
+        "rank_up_lv4_1_value": 70,
+        "rank_up_lv4_2_name": "辅助指南书-三",
+        "rank_up_lv4_2_value": 70,
+        "rank_up_lv4_3_name": "兰之华片-三",
+        "rank_up_lv4_3_value": 70,
+        "rank_up_lv4_4_name": "地之卷轴-三",
+        "rank_up_lv4_4_value": 70,
+        "rank_up_lv4_5_name": "鸟之卷轴-三",
+        "rank_up_lv4_5_value": 70,
+        "rank_up_lv4_6_name": "蛇之卷轴-三",
+        "rank_up_lv4_6_value": 70,
+        "short_name": "千亦",
         "speed": 1600,
-        "subname": "既刊、新刊、全部ください！",
+        "subname": "既刊、新刊、我全都要！",
         "total": 7800,
         "tribe": [
             14,
@@ -44,20 +180,34 @@
             95
         ],
         "type": 2,
+        "vocal1": "田中美海",
+        "vocal2": "天海由梨奈",
+        "vocal3": "星咲花那",
+        "voice1": "观赏用程度的声音",
+        "voice2": "保管用程度的声音",
+        "voice3": "布教用程度的声音",
         "world_group": "C3<",
+        "world_group_description": "“C系列的世界团（C世界团）”中的世界群之一。\n“C5世界群”在“C世界团”中偏差度是“3”左右，是例外因素稍微有点多的世界群。\n“C”是“Colloquialism”，是意味着“口语”的符号。\n日语中的接尾词“<”意味着朝特定方向发生变化，在这个世界群中的含义是“气质从夏变成秋”。\n\n【主要的分岐点】\nC世界团的世界照理说到处都是水。\n在通常的C世界团，世界的几乎所有气质都会化作“大海”。但是在这个世界群中水返祖成了金，所以一切气质集中于果实、成果、作品。\n因此在这个世界群，“成果之秋”拥有异常性的力量。\n\n【主要的汇合点】\n由于“成果之秋”支配着世界，拥有意志的存在会不断重复“文化与技艺”的仪式。\n这恐怕是这个世界弥漫着即卖会气息的原因。",
+        "world_group_name": "C3<世界群",
         "yang_atk": 800,
         "yang_def": 1200,
         "yin_atk": 1800,
-        "yin_def": 1600
+        "yin_def": 1600,
+        "id": 6123
     },
     "chain_character": [
-        13040,
         11032,
         11044
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "陶醉于常秋世界的千亦的常服。\n第X次即卖会，正式开始！",
+            "costume_name1": "既刊、新刊、我全都要！"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 1,
@@ -80,10 +230,12 @@
                 10
             ],
             "cd": 6,
-            "name": "個人用キャリーカート",
-            "id": 1
+            "name": "个人用手拉车",
+            "description": "搬东西可辛苦了！\n手拉车是必备品。也不要忘了叫快递。",
+            "icon": "skill_icon_barrier_burn"
         },
         {
+            "id": 2,
             "a": [
                 15,
                 8,
@@ -106,10 +258,12 @@
                 40
             ],
             "cd": 5,
-            "name": "カタログと参加証",
-            "id": 2
+            "name": "目录与入场券",
+            "description": "目录也是收藏品，所以要好好保管。\n入场券有时候会是手环。",
+            "icon": "skill_icon_atk_up_bullet_type8"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 5,
@@ -132,8 +286,9 @@
                 3
             ],
             "cd": 6,
-            "name": "お忍びの姿",
-            "id": 3
+            "name": "微服私访",
+            "description": "没被发现没被发现。\n虽然忘把工作证摘了。",
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {
@@ -234,6 +389,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111g",
+                "all_order_1": "12121211111111111111g",
+                "all_order_2": "12121211313131141411411111g",
+                "all_order_3": "12121211313131141411415115561616g",
                 "break": [
                     5,
                     0,
@@ -241,8 +399,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常秋世界的天弓千亦的符卡(东方归言录原创)。\n令主办者在意的社团或作品的弹幕。\n几经周折，结果而言千亦的病彻底治好了。\n千亦成功离开了病床，并精神满满地出现在了大家的面前。\n虽说和卧床不起前存在几点不得不接受的变化，但这是对策也是适应。至今为止也发生过同样的事情。\n比起这件事情，千亦现在沉迷于其他的问题。这正是她活力的源泉。\n那就是――让弹幕即卖会复活。",
                 "first_order": 1,
-                "name": "「お忍び主催者のブース巡り」",
+                "name": "「主办者的秘密展会巡视」",
                 "power_rate": 13,
                 "damage_extend": [
                     100,
@@ -259,14 +418,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "12121211111111111111g",
-                "all_order_2": "12121211313131141411411111g",
-                "all_order_3": "12121211313131141411415115561616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 17,
                     "boost": 0,
@@ -292,14 +449,15 @@
                         205,
                         97
                     ],
-                    "name": "お忍びブース巡り",
-                    "order": "",
+                    "name": "秘密展会巡视",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -321,14 +479,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大お忍びブース巡り",
-                    "order": "",
+                    "name": "大秘密展会巡视",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -348,14 +507,15 @@
                         205,
                         97
                     ],
-                    "name": "特お忍びブース巡り",
-                    "order": "",
+                    "name": "特秘密展会巡视",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -385,14 +545,15 @@
                         205,
                         97
                     ],
-                    "name": "超お忍びブース巡り",
-                    "order": "",
+                    "name": "超秘密展会巡视",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -414,14 +575,15 @@
                     "killers": [
                         95
                     ],
-                    "name": "極お忍びブース巡り",
-                    "order": "",
+                    "name": "极秘密展会巡视",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -444,24 +606,21 @@
                         205,
                         97
                     ],
-                    "name": "最お忍びブース巡り",
-                    "order": "",
+                    "name": "最秘密展会巡视",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111111g",
+                "all_order_1": "121211111111g",
+                "all_order_2": "1212113131414111g",
+                "all_order_3": "121211313141411516g",
                 "break": [
                     0,
                     0,
@@ -469,8 +628,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常秋世界的天弓千亦的扩散射击(东方归言录原创)。\n让大家明白补充水分与离子的重要性的弹幕。\n弹幕即卖会曾一度中止过。\n主办者天弓千亦卧床不起绝非小问题。\n因为她是神，也是集市的主持人。\n神为什么会生病呢……？",
                 "first_order": 1,
-                "name": "熱中症対策",
+                "name": "中暑对策",
                 "power_rate": 13,
                 "damage_extend": [
                     100,
@@ -487,14 +647,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121211111111g",
-                "all_order_2": "1212113131414111g",
-                "all_order_3": "121211313141411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 10,
                     "boost": 0,
@@ -522,14 +680,15 @@
                         205,
                         97
                     ],
-                    "name": "熱中症対策",
-                    "order": "",
+                    "name": "中暑对策",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -551,14 +710,15 @@
                         205,
                         97
                     ],
-                    "name": "大熱中症対策",
-                    "order": "",
+                    "name": "大中暑对策",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -580,14 +740,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "特熱中症対策",
-                    "order": "",
+                    "name": "特中暑对策",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -604,14 +765,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超熱中症対策",
-                    "order": "",
+                    "name": "超中暑对策",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -635,14 +797,15 @@
                         56,
                         205
                     ],
-                    "name": "極熱中症対策",
-                    "order": "",
+                    "name": "极中暑对策",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -666,12 +829,12 @@
                         56,
                         205
                     ],
-                    "name": "最熱中症対策",
-                    "order": "",
+                    "name": "最中暑对策",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -772,6 +935,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111g",
+                "all_order_1": "1212121121111111111111111g",
+                "all_order_2": "121212112131313131141414141151515111g",
+                "all_order_3": "121212112131313131141414141151515161616g",
                 "break": [
                     6,
                     0,
@@ -779,8 +945,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常秋世界的天弓千亦的符卡(东方归言录原创)。\n买到了新刊的兴高采烈的主办者的弹幕。\n千亦心中的不安一瞬间就消失了。\n协助者的数量比预想中的要多。\n自己能做到的事情，甚至比以前还要多了。\n千亦甚至感应到了几乎已经忘却的，对自己的信仰。\n但这里还不是终点。\n为了让弹幕即卖会顺利开幕并圆满结束，千亦在东奔西走。\n还有比这更幸福的事情吗？",
                 "first_order": 1,
-                "name": "「新刊ゲッター千亦」",
+                "name": "「新刊猎人千亦」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -797,14 +964,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1212121121111111111111111g",
-                "all_order_2": "121212112131313131141414141151515111g",
-                "all_order_3": "121212112131313131141414141151515161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 21,
                     "boost": 0,
@@ -831,14 +996,15 @@
                         168,
                         205
                     ],
-                    "name": "新刊ゲッター千亦",
-                    "order": "",
+                    "name": "新刊猎人千亦",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -864,14 +1030,15 @@
                         205,
                         97
                     ],
-                    "name": "新刊ハイゲッター千亦",
-                    "order": "",
+                    "name": "High新刊猎人千亦",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -895,14 +1062,15 @@
                         168,
                         205
                     ],
-                    "name": "新刊メガゲッター千亦",
-                    "order": "",
+                    "name": "Mega新刊猎人千亦",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -931,14 +1099,15 @@
                         72,
                         205
                     ],
-                    "name": "新刊ギガゲッター千亦",
-                    "order": "",
+                    "name": "Giga新刊猎人千亦",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -952,14 +1121,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "新刊テラゲッター千亦",
-                    "order": "",
+                    "name": "Tera新刊猎人千亦",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -981,24 +1151,21 @@
                     "killers": [
                         0
                     ],
-                    "name": "新刊ペタゲッター千亦",
-                    "order": "",
+                    "name": "Peta新刊猎人千亦",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111111g",
+                "all_order_1": "1212111111g",
+                "all_order_2": "12121313114151g",
+                "all_order_3": "121213131141516g",
                 "break": [
                     0,
                     0,
@@ -1006,8 +1173,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常秋世界的天弓千亦的集中射击(东方归言录原创)。\n让大家明白主动维持秩序的重要性的弹幕。\n神原则上是灵魂性的存在。考虑到被称作神灵的种族的基本构造与亡灵相同，神也可能会生病。\n虽说对神来讲的病和对人类来讲的病并不一样，但生病是“肉体也好精神也好，都无法维持平时的状态”，因此恐怕感觉上差不多。\n生病的本人会很痛苦，周围的人也会同情病号。\n这种情况下……当然不太能参加展会。",
                 "first_order": 1,
-                "name": "待機列遵守",
+                "name": "遵守队列",
                 "power_rate": 15,
                 "damage_extend": [
                     100,
@@ -1024,14 +1192,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212111111g",
-                "all_order_2": "12121313114151g",
-                "all_order_3": "121213131141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 8,
                     "boost": 0,
@@ -1058,14 +1224,15 @@
                         205,
                         97
                     ],
-                    "name": "待機列遵守",
-                    "order": "",
+                    "name": "遵守队列",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -1079,14 +1246,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大待機列遵守",
-                    "order": "",
+                    "name": "大遵守队列",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -1111,14 +1279,15 @@
                         205,
                         97
                     ],
-                    "name": "特待機列遵守",
-                    "order": "",
+                    "name": "特遵守队列",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1138,14 +1307,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超待機列遵守",
-                    "order": "",
+                    "name": "超遵守队列",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1168,14 +1338,15 @@
                         205,
                         97
                     ],
-                    "name": "極待機列遵守",
-                    "order": "",
+                    "name": "极遵守队列",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1196,12 +1367,12 @@
                         205,
                         97
                     ],
-                    "name": "最待機列遵守",
-                    "order": "",
+                    "name": "最遵守队列",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1244,13 +1415,6 @@
                         3
                     ]
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yin_atk_up"
@@ -1267,13 +1431,6 @@
                     [
                         "skill_icon_cri_atk_up"
                     ]
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
                 ],
                 "type_before": [
                     [
@@ -1310,6 +1467,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111111g",
+                "all_order_1": "121212121212111111111111111111111g",
+                "all_order_2": "12121212121211313131313114141414114115515151111g",
+                "all_order_3": "121212121212113131313131141414141141155151516161616g",
                 "break": [
                     0,
                     0,
@@ -1317,8 +1477,9 @@
                     0,
                     0
                 ],
+                "description": "陶醉于常秋世界的天弓千亦的终符(东方归言录原创)。\n复活的弹幕即卖会的弹幕。\n花儿没有大脑也没有神经。但它们依然明白自己该什么时候绽放。\n举办即卖会也好，参加即卖会也好……这些行为既不是刻在人类血液之中的宿命，也不是赌上性命的决战（但我不会否定大家的认真性）\n然而人们却试图再次举办即卖会，再次走进会场。\n这是为什么呢？\n如果说这是名为欲求的冲动……那又显得过于理性，同时又过于激烈。\n仿佛定期苏醒的，温和而又巨大无比的大太法师一样。\n如果该苏醒时不苏醒的话，那时会令人担心。\n大太法师与其说是在沉睡，更不如说是卧床不起。各种各样的病毒在它的体内碰撞并消失。\n病床上的痛苦源自对死亡的预感。\n这是一种生不如死的感觉。\n在此感谢为弹幕即卖会付出的每一个人。\n同时，也希望饱受痛苦的人们能够得到治愈与安慰。",
                 "first_order": 1,
-                "name": "「弾幕即売会復活宣言」",
+                "name": "「弹幕即卖会复活宣言」",
                 "power_rate": 3,
                 "damage_extend": [
                     100,
@@ -1335,14 +1496,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121212121212111111111111111111111g",
-                "all_order_2": "12121212121211313131313114141414114115515151111g",
-                "all_order_3": "121212121212113131313131141414141141155151516161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 27,
                     "boost": 0,
@@ -1370,14 +1529,15 @@
                         205,
                         97
                     ],
-                    "name": "弾幕即売会復活宣言",
-                    "order": "",
+                    "name": "弹幕即卖会复活宣言",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 6,
                     "boost": 1,
@@ -1395,14 +1555,15 @@
                         72,
                         205
                     ],
-                    "name": "大弾幕即売会復活宣言",
-                    "order": "",
+                    "name": "大弹幕即卖会复活宣言",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 5,
                     "boost": 2,
@@ -1429,14 +1590,15 @@
                         205,
                         97
                     ],
-                    "name": "特弾幕即売会復活宣言",
-                    "order": "",
+                    "name": "特弹幕即卖会复活宣言",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 5,
                     "boost": 2,
@@ -1461,14 +1623,15 @@
                         205,
                         97
                     ],
-                    "name": "超弾幕即売会復活宣言",
-                    "order": "",
+                    "name": "超弹幕即卖会复活宣言",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1487,14 +1650,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極弾幕即売会復活宣言",
-                    "order": "",
+                    "name": "极弹幕即卖会复活宣言",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 4,
                     "boost": 3,
@@ -1522,12 +1686,12 @@
                         205,
                         97
                     ],
-                    "name": "最弾幕即売会復活宣言",
-                    "order": "",
+                    "name": "最弹幕即卖会复活宣言",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

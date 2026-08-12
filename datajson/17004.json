@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的能力(东方归言录原创)。\n和通常的芙兰朵露不同，我们不知道她的能力。\n\n现阶段已发现“记忆断片”与“多元轨迹”这两种“特殊的存在”。\n这两种存在可以统称为“尘芥存在（dus回合)”。\n我相信也有人想称她们为星屑。\n那么记忆断片和多元轨迹有什么区别呢？\n如果用一颗树来比喻的话，记忆断片相当于把树砍倒后的断面。\n根据砍的位置断面的样貌会存在差异。\n但把树砍倒后，树木就会停止成长。同理，本应继续成长的命运，会与后续的命运彻底断开。\n多元轨迹是长在同一棵树上，但朝着不同方向生长的树枝。\n所有树枝都共享着树根以及特定高度为止的树干。\n但分枝之后，就是不同的命运了。\n\n那么尘芥存在是否只有这两种呢？\n是否还有其他的尘芥存在呢？\n如果用树木比喻的话，会是怎样的存在呢？\n不要以为这是源于好奇心的无聊的疑问。\n这个问题，关乎着芙兰朵露的命运。\n\n――这是从某个漂流断片复原的记录。\n\n　……脑袋里，“有”什么东西。\n\n  芙兰朵露无法摆脱这个想法。\n  话说回来，吸血鬼的头盖骨里是什么样的构造呢？妖怪需要脑髓吗？\n  但这不是问题所在。\n  如果说吸血鬼在用心脏思考事物，那么这是心脏的问题。如果说吸血鬼在用血液思考事物，那么这是血液的问题。\n  “有”什么东西，在芙兰朵露的里面。\n　\n  但是，反过来也能这么想。\n  普通人不会有这种想法。这是只有掌管狂气的我能抵达的想法。\n“或许……我才是入侵者？”\n  说不定我才是出现在自称芙兰朵露的少女的内部的，拥有自我意识的妖怪癌细胞。之所以我认为“脑袋里有东西”，是因为我这个寄生生物在反客为主，将内与外的认知颠倒了过来。这种假说也能够成立。\n  如果说这不过是双重人格或者凭依之类的超常现象，那就不会这么麻烦了。\n\n  “马卡罗尼西亚”。\n  这可不是到处都是马卡龙的，甜蜜的岛屿。\n  乐园在东方？可是东方到处都是荒郊野岭和异民族诶。乐园不在东方，在遥远的西方。既然地球球体说是否定神明的理论，那么应该乘船向西而去。\n  乐园，在西方。\n  所以，我为“我的幻想乡”起了这个名字。\n\n  芙兰朵露是否是小丑？\n  灵梦鲜红的服装，让饕餮尤魔联想到了芙兰朵露。仔细一想，灵梦和芙兰朵露的服装确实是一个风格（本人们恐怕不会认同这个说法）。在虚假的乐园中发生的，凶手是小丑的事件。重要参考人……则是“金发巫女”。当然了，金发巫女和乐园的巫女并非同一人物。但如果小丑和金发巫女是同一人物的话，那么会不会和芙兰朵露·斯卡雷特长得一模一样呢？之后就一个人都没有了，全剧终。她的言语（符卡）难道是在自供？森林的废弃洋楼……普莉兹姆利巴姐妹的家就在红魔馆附近。\n  小丑果然是芙兰朵露。\n  那一天，八名人类从幻想乡中消失了。其中七个人的尸体被妖怪拿走了。\n  看似是有八名老实人，其中一人离开了幻想乡……实则是其中一人从人类变成了吸血鬼，因此总共消失了八个人。\n\n  ……奇怪。\n  芙兰朵露有不在场证据。\n  她495年都没有离开过自己的房间。\n  那起事件发生在她第一次离开房间的不久前。\n  “马卡罗尼西亚”。\n  四面都是水的乐园。\n  然而没有离开过房间的芙兰朵露，不知道乐园是什么样的地方。她只知道四面都是墙壁的密室。无边无际的，有多少的东西，有多少人都不会感到狭窄的密室。\n 无边无际的密室与无边无际的乐园。\n 姐姐也好，帕琪也好，咲夜也好，美铃也好，小恶魔也好……都关在这里就行了。\n 因为没有墙壁。\n 因为不会坏掉。\n 因为无法破坏。\n\n  原来如此。\n\n  不是在脑袋里。\n  我从一开始，就在坚硬的密室之中。\n  就是说，小丑和金发巫女并非同一人物？\n  其他的我怎么看？\n\n――以上是投下了自称老实人的聪明的“我”的阴影的，另一个人留下的记录。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>30%",
+        "ability_effect_d3": "免疫结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>冻结</color>」且<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.20",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>会心攻击</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "- 能力不详 -",
         "advantage_attack": 30,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 5,
         "barrier_status_2": 5,
         "barrier_status_3": 0,
         "barrier_status_4": 0,
         "barrier_status_5": 0,
-        "bgm": 301700401,
+        "bgm": "Circus Crisis",
         "boost_buff": 8,
         "boost_target": 1,
         "break_cost": 0,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "アタック連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color>强度上升的一部分(3回合)",
+        "chain_name": "攻击连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是芙兰朵露·斯卡雷特。在我被“那孩子”吞噬之前……一定要葬送她。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 4750,
-        "name": "フランドール・スカーレット",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>基底存在</color>から受けるダメージを20%<color=#0066FF>ダウン</color> [発生率100%]",
+        "jp_name": "ふらんどーる·すかーれっと",
+        "lines1": "总算，我总算成功破坏掉了另一个我。我抱着“那孩子”，连我一起……明明是这样，没想到会有这种“后日谈”般的世界。不，我能和她同归于尽已经是不错的结果了。这位小姑娘。我是芙兰朵露·斯卡雷特。在这个小熊玩偶失去一切之前……破坏掉“那孩子”吧。身为掌管破坏的存在，我实在是丢人现眼……但请你助我一臂之力。",
+        "lines10": "我并非踏上了另一个命运的存在，而是某个瞬间记忆被分割的，碎片般的存在吗。踏上其他命运的存在叫做“轨迹”吗……。原来如此。",
+        "lines11": "我是破坏的掌管者。这就是我的命运。现在的我执着于破坏“那孩子”，因此对其他破坏行为失去了兴趣。仅此而已。",
+        "lines12": "美铃……咲夜……帕琪……小恶魔……姐姐大人……我想回到那段时光。如果可以的话……我想让姐姐大人她们破坏我……。",
+        "lines13": "散落的樱花，是周而复始的破坏的象征。年复一年，始终如一。",
+        "lines14": "青枝绿叶，注定会在下一个季节散落飘零。破坏，永远是无限循环的一部分。",
+        "lines15": "今年树叶也染上了秋色，并悄然飘落。毁灭的命运，在驱动整个世界的轮回。",
+        "lines16": "不结束的冬天，意味着世界的死亡。因此活着的世界，一定会迎来春天。",
+        "lines17": "现在不是做作业的时候！ ……没办法，我来帮你。",
+        "lines18": "好简单诶。那我们一起去破坏我吧！",
+        "lines19": "这种时候竟然会收到传书……也不知道是从哪里寄过来的。",
+        "lines2": "我已经失去了两个玩偶。",
+        "lines20": "为什么你没有连同“那孩子”一起消灭我？ ……下次你千万不要再失手了。",
+        "lines21": "有人回来了。有没有找到破坏我的方法呢？",
+        "lines22": "我说不定……只是在把我心中的破坏冲动当作借口……。",
+        "lines23": "不，破坏是我的本性。那为什么……？",
+        "lines24": "在我的膝盖上沉睡的你，对此一无所知。……乖孩子乖孩子。",
+        "lines25": "哼，你只有这种时候会找芙兰帮忙吗？",
+        "lines26": "芙兰更擅长弹幕游戏！",
+        "lines27": "全都被我破坏掉了！ 怎么样，芙兰里面的我？",
+        "lines28": "不要碍事，芙兰里面的我。都怪你，芙兰输掉了。",
+        "lines29": "只要还有",
+        "lines3": "失去最后的玩偶的瞬间，“那孩子”会彻底吞噬我。",
+        "lines30": "糖果吃",
+        "lines31": "我就不会惹事",
+        "lines32": "饼干",
+        "lines33": "快吃完了",
+        "lines34": "你打算怎么办？",
+        "lines35": "这是什么—？",
+        "lines36": "好恶心！",
+        "lines37": "吵死了",
+        "lines38": "不要和我说话",
+        "lines39": "“那孩子”是谁？",
+        "lines4": "“那孩子”可不是另一个人格或凭依这种程度的存在。她毋庸置疑是我。但与此同时，是不可能是我的存在。",
+        "lines40": "统统放马过来吧，杂鱼！",
+        "lines41": "是小熊诶！",
+        "lines42": "让你久等了，小熊。",
+        "lines43": "杂鱼！",
+        "lines44": "杂鱼小熊！",
+        "lines45": "七只小熊　也只剩五只了　\n哼哼哼　看来是时间的问题了",
+        "lines46": "你当初就该加入我的逃跑计划　\n小丑就在身后哦",
+        "lines47": "禁魔「沾满鲜血的莱瓦汀」",
+        "lines48": "咦？　小熊姐姐呢？　\n它去哪里了？",
+        "lines49": "算了　那种家伙\n不在也罢",
+        "lines5": "包含无数矛盾的庭院。被引用自矛盾庭院的我，被包含自身的自我相似魔境处理掉了。……要想彻底解释这个问题，这个时空过于狭隘。",
+        "lines50": "禁龙「巨龙弑杀者」",
+        "lines51": "小熊小熊　\n该喝果汁了",
+        "lines52": "这是用鲜红果实做的　\n禁忌的果汁哦！",
+        "lines53": "「装满苹果汁的浴缸」",
+        "lines54": "啊？",
+        "lines55": "你什么意思？",
+        "lines56": "哼—",
+        "lines57": "哇，是杂鱼诶！",
+        "lines58": "小熊—！",
+        "lines59": "有人……在说芙兰的坏话",
+        "lines6": "踏上另一条命运之路的我，是否破坏掉了“那孩子”呢？还是说……不，只要这个幻想乡依然存在，希望就不会覆灭。",
+        "lines60": "东方归言录",
+        "lines61": "好啊，小熊！",
+        "lines62": "那算了，小熊",
+        "lines63": "谢了，小熊！",
+        "lines64": "……你答应我。一定要把“那孩子”破坏掉。",
+        "lines65": "老实人，还剩下五个。我，是最聪明的我……。",
+        "lines7": "一切都被破坏殆尽之时，破坏者和破坏行为也会迎来结束。我担心这个问题。我可是掌管破坏的存在……破坏的混沌中也存在狂气的秩序。果然我必须……亲自破坏“那孩子”。我希望你继续协助我。",
+        "lines8": "力量对现在的我来讲……毫无意义。",
+        "lines9": "一旦“那孩子”苏醒过来，我们只能忍耐到她再次沉睡为止。但是某处存在着尚未发现的“缝隙”。我希望你利用这一点。",
+        "name": "芙兰朵露·斯卡雷特",
+        "passivity_1_description": "被攻击时，受到来自<color=#CCAA00>基底存在</color>的伤害<color=#0066FF>下降</color>20% [发生率100%]",
         "passivity_1_icon": "characteristic_icon_56",
-        "passivity_1_name": "竜尾「破滅の枝」(50%)",
-        "passivity_2_description": "攻撃された時、<color=#CCAA00>人間</color>から受けるダメージを35%<color=#0066FF>ダウン</color> [発生率100%]",
+        "passivity_1_name": "龙尾「破灭之枝」(50%)",
+        "passivity_2_description": "被攻击时，受到来自<color=#CCAA00>人类</color>的伤害を35%<color=#0066FF>下降</color> [发生率100%]",
         "passivity_2_icon": "characteristic_icon_56",
-        "passivity_2_name": "詐称「三つ首の竜」",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.60<color=#00CC66>上昇</color> [発生率45%]",
+        "passivity_2_name": "诈称「三头龙」",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.60 [发生率45%]",
         "passivity_3_icon": "characteristic_icon_31",
-        "passivity_3_name": "ドラゴンフォール(-5)",
+        "passivity_3_name": "龙坠(-5)",
         "quality": 2100212,
-        "quality_name": "[記憶断片5]黒い赤気",
+        "quality_description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的气质(东方归言录原创)。\n被黑暗涂抹殆尽的，密室的赤气。\n她的气质稍微脱离了三精五行的法则。\n\n掌管白昼的“日”，对吸血鬼来讲的结界“水”，传说中能退治吸血鬼的“木”是她的弱点。\n同时，她对掌管黑夜的“月”与“星”，象征普遍性的“金”具备抗性。",
+        "quality_name": "[记忆断片5]黑色赤气",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "蛇之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "风之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "菊之华片-二",
+        "rank_up_lv1_1_value": 15,
+        "rank_up_lv1_2_name": "蛇之卷轴-一",
+        "rank_up_lv1_2_value": 25,
+        "rank_up_lv1_3_name": "竹之华片-一",
+        "rank_up_lv1_3_value": 25,
+        "rank_up_lv1_4_name": "蛇之卷轴-二",
+        "rank_up_lv1_4_value": 15,
+        "rank_up_lv1_5_name": "竹之华片-二",
+        "rank_up_lv1_5_value": 15,
+        "rank_up_lv1_6_name": "风之卷轴-二",
+        "rank_up_lv1_6_value": 15,
+        "rank_up_lv2_1_name": "蛇之卷轴-二",
+        "rank_up_lv2_1_value": 30,
+        "rank_up_lv2_2_name": "竹之华片-二",
+        "rank_up_lv2_2_value": 30,
+        "rank_up_lv2_3_name": "攻击指南书-二",
+        "rank_up_lv2_3_value": 30,
+        "rank_up_lv2_4_name": "蛇之卷轴-三",
+        "rank_up_lv2_4_value": 30,
+        "rank_up_lv2_5_name": "竹之华片-三",
+        "rank_up_lv2_5_value": 30,
+        "rank_up_lv2_6_name": "风之卷轴-三",
+        "rank_up_lv2_6_value": 30,
+        "rank_up_lv3_1_name": "菊之华片-三",
+        "rank_up_lv3_1_value": 35,
+        "rank_up_lv3_2_name": "鸟之卷轴-二",
+        "rank_up_lv3_2_value": 45,
+        "rank_up_lv3_3_name": "攻击指南书-二",
+        "rank_up_lv3_3_value": 45,
+        "rank_up_lv3_4_name": "蛇之卷轴-三",
+        "rank_up_lv3_4_value": 35,
+        "rank_up_lv3_5_name": "竹之华片-三",
+        "rank_up_lv3_5_value": 35,
+        "rank_up_lv3_6_name": "风之卷轴-三",
+        "rank_up_lv3_6_value": 35,
+        "rank_up_lv4_1_name": "竹之华片-三",
+        "rank_up_lv4_1_value": 50,
+        "rank_up_lv4_2_name": "菊之华片-三",
+        "rank_up_lv4_2_value": 50,
+        "rank_up_lv4_3_name": "攻击指南书-三",
+        "rank_up_lv4_3_value": 50,
+        "rank_up_lv4_4_name": "蛇之卷轴-三",
+        "rank_up_lv4_4_value": 50,
+        "rank_up_lv4_5_name": "鸟之卷轴-三",
+        "rank_up_lv4_5_value": 50,
+        "rank_up_lv4_6_name": "风之卷轴-三",
+        "rank_up_lv4_6_value": 50,
+        "short_name": "芙兰朵露",
         "speed": 1550,
-        "subname": "[記憶断片5]幽閉されし暗黒孔雀竜",
+        "subname": "[记忆断片5]被监禁的暗黑孔雀龙",
         "total": 7350,
         "tribe": [
             183,
@@ -41,19 +177,37 @@
             43
         ],
         "type": 8,
+        "vocal1": "大下菜摘",
+        "vocal2": "川村玲奈",
+        "vocal3": "小針彩希",
+        "voice1": "梦境彼方的那孩子程度的声音",
+        "voice2": "崩坏过度的吸血鬼程度的声音",
+        "voice3": "绝对自我破坏命令程度的声音",
         "world_group": "D8.-5",
+        "world_group_description": "符号的由来充满谜团。\n已知这个世界群的偏差度为“8”，是通常来讲几乎不会成立的世界群。\n这个世界群是至少被分成“9”块的记忆断片中的“第5个”断片。\n\n我尽量没有在断片前后添加多余的信息。\n但为了妥善保管，添加物是无法避免的。\n还请各位理解这一点。",
+        "world_group_name": "D8.-5世界群",
         "yang_atk": 950,
         "yang_def": 850,
         "yin_atk": 1700,
-        "yin_def": 1350
+        "yin_def": 1350,
+        "id": 17004
     },
     "chain_character": [
-        27002,
-        20003
+        20003,
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "记忆断片5的芙兰朵露(D8)的常服。\n我以外的人在我的记忆之中……！",
+            "costume_name1": "[记忆断片5]被监禁的暗黑孔雀龙"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 1,
@@ -76,10 +230,12 @@
                 18
             ],
             "cd": 4,
-            "name": "龍の妹(偽)",
-            "id": 1
+            "name": "龙之妹(伪)",
+            "description": "破坏与再生是硬币的正反面。\n你一定明白这个道理。",
+            "icon": "skill_icon_barrier_burn"
         },
         {
+            "id": 2,
             "a": [
                 1,
                 5,
@@ -102,10 +258,12 @@
                 12
             ],
             "cd": 5,
-            "name": "最も聡明なクマとの別れ",
-            "id": 2
+            "name": "与最聪明的小熊的离别",
+            "description": "无论再怎么无聊。\n也不应该一个人离开。",
+            "icon": "skill_icon_speed_up"
         },
         {
+            "id": 3,
             "a": [
                 58,
                 13,
@@ -128,8 +286,9 @@
                 3
             ],
             "cd": 6,
-            "name": "心理層運命破壊(通常)",
-            "id": 3
+            "name": "心理层命运破坏(通常)",
+            "description": "“眼睛”看不到的东西无法破坏。\n那能看到就行了。",
+            "icon": "skill_icon_add_yin_atk_yin_atk"
         }
     ],
     "attack_skills": {
@@ -160,13 +319,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_barrier_burn"
@@ -177,13 +329,6 @@
                     [
                         "skill_icon_yin_def_up"
                     ],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
                     [],
                     []
                 ],
@@ -222,6 +367,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111g",
+                "all_order_1": "12112111111111111g",
+                "all_order_2": "1211211313111111111g",
+                "all_order_3": "1211211313114141151511166g",
                 "break": [
                     0,
                     0,
@@ -229,8 +377,9 @@
                     0,
                     0
                 ],
+                "description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的符卡(东方归言录原创)。\n把魔法杖当作剑的弹幕。\n不存在于任何地方的言语。\n会不会是将一切言语连起来后，在末尾加上了什么字？\n什么，我说的这个言语图书馆里有？\n什么意思？\n但如果能明白这个道理，我说不定能把无限破坏掉。",
                 "first_order": 1,
-                "name": "禁魔「血塗れのレーヴァテイン」",
+                "name": "禁魔「沾满鲜血的莱瓦汀」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -247,14 +396,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12112111111111111g",
-                "all_order_2": "1211211313111111111g",
-                "all_order_3": "1211211313114141151511166g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 15,
                     "boost": 0,
@@ -279,14 +426,15 @@
                         42,
                         181
                     ],
-                    "name": "「レーヴァ/テイン」",
-                    "order": "",
+                    "name": "「莱瓦/汀」",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 2,
                     "boost": 1,
@@ -303,14 +451,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大「レーヴァ/テイン」",
-                    "order": "",
+                    "name": "大「莱瓦/汀」",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -333,14 +482,15 @@
                         4,
                         42
                     ],
-                    "name": "特「レーヴァ/テイン」",
-                    "order": "",
+                    "name": "特「莱瓦/汀」",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -357,14 +507,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超「レーヴァ/テイン」",
-                    "order": "",
+                    "name": "超「莱瓦/汀」",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -381,14 +532,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極「レーヴァ/テイン」",
-                    "order": "",
+                    "name": "极「莱瓦/汀」",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -410,24 +562,21 @@
                         42,
                         181
                     ],
-                    "name": "最「レーヴァ/テイン」",
-                    "order": "",
+                    "name": "最「莱瓦/汀」",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111111g",
+                "all_order_1": "11122111111g",
+                "all_order_2": "11122111314115g",
+                "all_order_3": "111221113141156g",
                 "break": [
                     0,
                     0,
@@ -435,8 +584,9 @@
                     0,
                     0
                 ],
+                "description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的扩散射击(东方归言录原创)。\n疯狂操控已被破坏的使魔的弹幕。\n你喜不喜欢书？\n我不知道我喜不喜欢。\n但如果只有书的话，那就只能读书了。\n从书本中获取的知识和书的作者拥有的知识……有多大的差距呢？",
                 "first_order": 1,
-                "name": "粗雑な使い魔",
+                "name": "粗枝大叶的使魔",
                 "power_rate": 39,
                 "damage_extend": [
                     100,
@@ -453,14 +603,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "11122111111g",
-                "all_order_2": "11122111314115g",
-                "all_order_3": "111221113141156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 9,
                     "boost": 0,
@@ -483,14 +631,15 @@
                         4,
                         42
                     ],
-                    "name": "粗雑な使い魔",
-                    "order": "",
+                    "name": "粗枝大叶的使魔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 2,
                     "boost": 1,
@@ -507,14 +656,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "粗雑な大使い魔",
-                    "order": "",
+                    "name": "粗枝大叶的大使魔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -537,14 +687,15 @@
                         4,
                         42
                     ],
-                    "name": "粗雑な特使い魔",
-                    "order": "",
+                    "name": "粗枝大叶的特使魔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -561,14 +712,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "粗雑な超使い魔",
-                    "order": "",
+                    "name": "粗枝大叶的超使魔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -585,14 +737,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "粗雑な極使い魔",
-                    "order": "",
+                    "name": "粗枝大叶的极使魔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -612,12 +765,12 @@
                         4,
                         42
                     ],
-                    "name": "粗雑な最使い魔",
-                    "order": "",
+                    "name": "粗枝大叶的最使魔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -710,6 +863,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211111111111111g",
+                "all_order_2": "1212121211313131141414115151511g",
+                "all_order_3": "121212121131313114141411515151616g",
                 "break": [
                     0,
                     0,
@@ -717,8 +873,9 @@
                     0,
                     0
                 ],
+                "description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的符卡(东方归言录原创)。\n甚至能斩断龙首的狂气弹幕。\n破坏一切是芙兰朵露的代名词。\n空气也好水也好，分子也好原子也好，都能破坏掉。\n时空间会被重力摧毁，质量与能量在特异点中不一定能保持原状。\n因为宇宙的开始即是特异点。如果在特异点中也能维持秩序，那么人类甚至能创造宇宙。\n这怎么能行。\n果然破坏才是救赎。\n虽然是恶魔带来的救赎吧。",
                 "first_order": 1,
-                "name": "禁竜「ドラゴンクリッパー」",
+                "name": "禁龙「巨龙弑杀者」",
                 "power_rate": 13,
                 "damage_extend": [
                     100,
@@ -735,14 +892,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212121211111111111111g",
-                "all_order_2": "1212121211313131141414115151511g",
-                "all_order_3": "121212121131313114141411515151616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 18,
                     "boost": 0,
@@ -769,14 +924,15 @@
                         42,
                         181
                     ],
-                    "name": "竜首刈り",
-                    "order": "",
+                    "name": "龙首斩断",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 4,
                     "boost": 1,
@@ -793,14 +949,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大竜首刈り",
-                    "order": "",
+                    "name": "大龙首斩断",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -823,14 +980,15 @@
                         4,
                         42
                     ],
-                    "name": "特竜首刈り",
-                    "order": "",
+                    "name": "特龙首斩断",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -847,14 +1005,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超竜首刈り",
-                    "order": "",
+                    "name": "超龙首斩断",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -874,14 +1033,15 @@
                         4,
                         42
                     ],
-                    "name": "極竜首刈り",
-                    "order": "",
+                    "name": "极龙首斩断",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 2,
                     "boost": 3,
@@ -908,24 +1068,21 @@
                         42,
                         181
                     ],
-                    "name": "最竜首刈り",
-                    "order": "",
+                    "name": "最龙首斩断",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "1211111g",
+                "all_order_2": "121131411g",
+                "all_order_3": "12113141516g",
                 "break": [
                     0,
                     0,
@@ -933,8 +1090,9 @@
                     0,
                     0
                 ],
+                "description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的集中射击(东方归言录原创)。\n疯狂燃烧的魔法炎杖的弹幕。\n据说“真正的失落的言语”是不存在于任何地方的言语。\n真的会有这种言语吗？\n听说通天塔图书馆里放着一切言语。在那里一定能找到它。\n或者由猴子和打字机也行。\n不可能会有“不存在的言语”。",
                 "first_order": 1,
-                "name": "狂気なる炎杖",
+                "name": "狂气之炎杖",
                 "power_rate": 17,
                 "damage_extend": [
                     100,
@@ -951,14 +1109,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1211111g",
-                "all_order_2": "121131411g",
-                "all_order_3": "12113141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 6,
                     "boost": 0,
@@ -978,14 +1134,15 @@
                         4,
                         42
                     ],
-                    "name": "狂気なる炎杖",
-                    "order": "",
+                    "name": "狂气之炎杖",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 1,
                     "boost": 1,
@@ -1002,14 +1159,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "狂気なる大炎杖",
-                    "order": "",
+                    "name": "狂气之大炎杖",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -1026,14 +1184,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "狂気なる特炎杖",
-                    "order": "",
+                    "name": "狂气之特炎杖",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -1053,14 +1212,15 @@
                         4,
                         42
                     ],
-                    "name": "狂気なる超炎杖",
-                    "order": "",
+                    "name": "狂气之超炎杖",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1077,14 +1237,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "狂気なる極炎杖",
-                    "order": "",
+                    "name": "狂气之极炎杖",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1104,12 +1265,12 @@
                         4,
                         42
                     ],
-                    "name": "狂気なる最炎杖",
-                    "order": "",
+                    "name": "狂气之最炎杖",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1146,13 +1307,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_barrier_burn"
@@ -1166,13 +1320,6 @@
                     [
                         "skill_icon_yin_atk_up"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -1210,6 +1357,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111111111g",
+                "all_order_1": "111121212121211111111111111111g",
+                "all_order_2": "11112121212123111131313114441111114111g",
+                "all_order_3": "11112121212123111131313114441111114111555666g",
                 "break": [
                     0,
                     0,
@@ -1217,8 +1367,9 @@
                     0,
                     0
                 ],
+                "description": "记忆断片5的芙兰朵露·斯卡雷特(D8)的终符(东方归言录原创)。\n进度率50%时掉落的记忆的弹幕。\n我不喜欢老实人会吃亏这种说法。\n但老实人也可能是强盗。\n老实人只是老实而已。\n只是在说实话而已。\n史无前例的大异变……如果说大终焉真的存在，那么一定不在宇宙的尽头，也不在未来的前方。\n你还没发现吗？\n你以为自己是与外界隔绝的，完美的避难所吗？\n你以为抱着头躲在角落，内心的自由就不会被剥夺吗？\n可惜不是这样。\n你心底的洞，连着外面的世界。\n其实外面和里面没有区别。\n你知道克莱因瓶吗？",
                 "first_order": 1,
-                "name": "「アップルジュースで満ちたバスタブ」",
+                "name": "「装满苹果汁的浴缸」",
                 "power_rate": 3,
                 "damage_extend": [
                     100,
@@ -1235,14 +1386,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "111121212121211111111111111111g",
-                "all_order_2": "11112121212123111131313114441111114111g",
-                "all_order_3": "11112121212123111131313114441111114111555666g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 25,
                     "boost": 0,
@@ -1269,14 +1418,15 @@
                         42,
                         181
                     ],
-                    "name": "刹那に甘く紅い海",
-                    "order": "",
+                    "name": "刹那间的甘甜红海",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 5,
                     "boost": 1,
@@ -1293,14 +1443,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "刹那に甘く紅い大海",
-                    "order": "",
+                    "name": "刹那间的大甘甜红海",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 4,
                     "boost": 2,
@@ -1320,14 +1471,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "刹那に甘く紅い特海",
-                    "order": "",
+                    "name": "刹那间的特甘甜红海",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 4,
                     "boost": 2,
@@ -1354,14 +1506,15 @@
                         42,
                         181
                     ],
-                    "name": "刹那に甘く紅い超海",
-                    "order": "",
+                    "name": "刹那间的超甘甜红海",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -1385,14 +1538,15 @@
                         42,
                         181
                     ],
-                    "name": "刹那に甘く紅い極海",
-                    "order": "",
+                    "name": "刹那间的极甘甜红海",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -1416,12 +1570,12 @@
                         42,
                         181
                     ],
-                    "name": "刹那に甘く紅い最海",
-                    "order": "",
+                    "name": "刹那间的红甘甜红海",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

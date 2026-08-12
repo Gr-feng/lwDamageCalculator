@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "True",
+        "re": "False",
         "advantage_resist": 35,
         "barrier_status_1": 7,
         "barrier_status_2": 4,
@@ -114,7 +114,8 @@
             ],
             "cd": 4,
             "name": "ソウルイグニッション",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 6,
             "name": "バーニングスーツ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 5,
             "name": "ヒートディシペーション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {

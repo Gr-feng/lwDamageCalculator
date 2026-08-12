@@ -107,7 +107,8 @@
             ],
             "cd": 4,
             "name": "ファンク",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -133,7 +134,8 @@
             ],
             "cd": 4,
             "name": "ジャングル",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -159,7 +161,8 @@
             ],
             "cd": 5,
             "name": "ブレイクビーツ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "新闻竞争过激世界的姬海棠果的能力(东方归言录原创)。\n能力本身和原本的姬海棠果的能力差不多。\n\n第12.5次长期化异变。\n长期化前的本次事件，甚至都不是异变。\n是两名整天惹是生非的新闻记者……姬海棠果和射命丸文引发的取材大战。\n报道理念不同的两名鸦天狗一边否定对方，一边逐渐认可对方。\n这么说的话听起来有些浪漫，但她们到头来可能只是在享受对决的过程。\n理念的冲突，或许对她们来讲是无所谓的事情。\n或许是激烈的对决让她们的血液沸腾起来了而已。\n\n长期化的，只属于她们两个人的世界。\n她们是劲敌还是挚友？\n不，她们正是对方的碍事者！\n两名鸦天狗刮起的旋风卷入了整个幻想乡。\n直到分出胜负为止，乱流不会停息。\n但对沉迷于对决的她们来讲，终点线也好，让对决结束的动机也好，或许都不存在。\n文越是抵抗，果就抵抗得越激烈。果越是抵抗，文就抵抗得越激烈……无限循环。\n摄影对象（受害者）只增不减，幻想乡的居民一个接一个地成为了相机的猎物。\n还没拍谁？还没谁写？\n\n两个贪婪的身影今天也在各地寻找猎物。\n到底谁才能阻止她们……？\n\n这个世界群是特殊的世界群。\n果和文的取材在不断激化。与此同时，摄影对象们也在采取对策。\n她们到底是纯粹的采取了对策的受害者呢？还是夸大其词的虚假报道的化身呢？\n有朝一日，真相或许会水落石出。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>30%\n对不利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>40%",
+        "ability_effect_d3": "免疫结界异常「<color=#CCAA00>燃烧</color>」且<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.20\n免疫结界异常「<color=#CCAA00>冻结</color>」「<color=#CCAA00>感电</color>」「<color=#CCAA00>黑暗</color>」",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「 使用念写程度的能力(长期化)」",
         "advantage_attack": 30,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 5,
         "barrier_status_2": 1,
         "barrier_status_3": 1,
         "barrier_status_4": 0,
         "barrier_status_5": 1,
-        "bgm": 301004501,
+        "bgm": "Mystic Jive",
         "boost_buff": 5,
         "boost_target": 1,
         "break_cost": 505,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "アタック連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color>强度上升的一部分(3回合)",
+        "chain_name": "攻击连携",
         "disadvantage_attack": 40,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是花果子念报的姬海棠果。在和文分出胜负为止，我绝对不会罢休！",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 4375,
-        "name": "姫海棠はたて",
-        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>注目</color>を1段階<color=#0066FF>ダウン</color> (3T) [発生率100%]",
+        "jp_name": "ひめかいどうはたて",
+        "lines1": "还没完！再来一局，射命丸文！我把在仓库里翻到的天狗道具和大天狗大人曾经最爱的相机也擅自借过来了！你和我，“花果子念报”和“文文。新闻”是劲敌关系！我姬海棠果一定会和你一起站在顶峰！――什么，我在给别人添麻烦？你在说什么！椛！就算你是自己人，我也不会让你妨碍我……咦！？你是谁？难道是文诱拐的孩子！？这，这可是大新闻诶！！！",
+        "lines10": "看看我的天狗道具们！虽然没有鬼多，但天狗有不少道具。这样一来我绝对不会输给文。",
+        "lines11": "我不知道天狗刀的用途是什么，但扇子和螺号应该能派上用场。最关键的道具是这个大天狗大人的相机！",
+        "lines12": "这个相机好旧诶！ 这是不是暗箱时代的东西？反正我也有相机，一定不会有事！",
+        "lines13": "飞舞的樱花好美啊～。……文的相机真不错。她能拍得那么远，应该是因为镜头很大吧？但我可以念写。",
+        "lines14": "文在强行采访在湖畔乘凉的妖精们诶。我是不是该像她那样霸王硬上弓？",
+        "lines15": "飞舞的樱花那么美丽，飞舞的落叶却只会让我郁闷。唉，好伤感！我去丰收祭吧。",
+        "lines16": "野生的老鼠躲在屋子里的季节。要想找到事件……最好的方法是追着文飞！ 那么出发……阿嚏！ 呜，好冷……。",
+        "lines17": "作业？ 应该从简单的训练开始。",
+        "lines18": "做完作业了？ 了不起！ 乖孩子乖孩子。",
+        "lines19": "传书？ 你竟然识字？是在寺子屋学的吗？",
+        "lines2": "继续对决下去会给别人添麻烦？就算你这么说……。",
+        "lines20": "不起眼的弹幕、华丽的弹幕……拍到了不少好东西。你也辛苦了！",
+        "lines21": "有人回来了。你能去接一下吗？ 我在沉迷推敲文章。",
+        "lines22": "你看起来很困呢。没办法。躺在我的膝盖上吧。",
+        "lines23": "竟然躺在天狗的膝盖上睡觉。小心被我拐走哦……？",
+        "lines24": "乖孩子乖孩子。……要不要真的把你带回去呢？",
+        "lines25": "搜罗爆料的时间到了。我的摄影机要发威了！出发！",
+        "lines26": "都是些无聊的照片。下一个下一个～！",
+        "lines27": "总有一天我会写出人类会读正文的新闻！",
+        "lines28": "我的采访魂……才不止这点程度！",
+        "lines29": "到此为止了！",
+        "lines3": "没想到我下定决心外出采访……居然会变成这样。",
+        "lines30": "从今往后！",
+        "lines31": "你再也笑不出来了！",
+        "lines32": "就是现在！",
+        "lines33": "这个摄影对象！",
+        "lines34": "归我了！",
+        "lines35": "最棒的摄影对象！",
+        "lines36": "最差劲的新闻！",
+        "lines37": "好糟糕的新闻",
+        "lines38": "摄影对象是不错",
+        "lines39": "小众新闻个鬼！",
+        "lines4": "我确实在拍幻想乡的人类与妖怪的照片，并且写成新闻。……在我们分出胜负为止，只能让她们忍忍了。",
+        "lines40": "我在此宣战！",
+        "lines41": "拜托你了！",
+        "lines42": "轮到我出场了！",
+        "lines43": "搜索一下搜索一下",
+        "lines44": "之前看到的照片是",
+        "lines45": "天狗的新闻大赛即将开始　\n第一名　非我莫属！",
+        "lines46": "文　现在的你一定能名列前茅　\n第二名　就归你了！",
+        "lines47": "远视「天狗念写法」",
+        "lines48": "我的念写新闻和你的妄想新闻　\n我们比比看谁更受欢迎吧　文！",
+        "lines49": "“花果子年报”和“文文。新闻”　\n是势不两立的劲敌！",
+        "lines5": "文的是妄想新闻，我的新闻只是内容有些夸张而已！至少我写的都是事实！不要把我和那个标题党相提并论！",
+        "lines50": "念写「碍事者级」",
+        "lines51": "你的取材力和我的推敲力　\n组合起来能写出最棒的新闻……？",
+        "lines52": "不行　我们绝对无法相容　\n所以我们　才是劲敌！",
+        "lines53": "「独家报道！ 花果子念报大号外」",
+        "lines54": "呜",
+        "lines55": "不要攻击记者！",
+        "lines56": "新闻是自由的！",
+        "lines57": "好恶心！",
+        "lines58": "可以写成大新闻诶～！",
+        "lines59": "照片的数量根本不够！ 这样写不了新闻！",
+        "lines6": "如果放着文不管的话……幻想乡的情报网会变得乱七八糟！我是在用正确的信息覆盖她的谣言！顺便追求一下乐子和印刷数而已！新闻大赛？现在不重要！",
+        "lines60": "东方归言录",
+        "lines61": "好",
+        "lines62": "那算了",
+        "lines63": "谢谢！",
+        "lines64": "从今天起我打算出门收集新闻素材。",
+        "lines65": "我偷偷念写了文的采访场景，我得好好参考一番。",
+        "lines7": "如果事态继续升级的话，牵扯到整个幻想乡的采访大战永远不会结束……。但是，我想战胜文。只要我赢了，一切就都解决了。所以……我要把你写成新闻，并给予文最后一击！",
+        "lines8": "我更有采访的自信了！",
+        "lines9": "大家过得怎样？ 我今天也在和文对决。直到对方认输为止，我们都不会罢休！",
+        "name": "姬海棠果",
+        "passivity_1_description": "被攻击后，自身<color=#CCAA00>仇恨值</color><color=#0066FF>下降</color>1等级 (3回合) [发生率100%]",
         "passivity_1_icon": "characteristic_icon_24",
-        "passivity_1_name": "めざせトップランカー",
-        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.50<color=#00CC66>上昇</color> [発生率75%]",
+        "passivity_1_name": "目标是记者顶峰",
+        "passivity_2_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.50 [发生率75%]",
         "passivity_2_icon": "characteristic_icon_31",
-        "passivity_2_name": "ふたりはスポイラー",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>禁止状態、つよさ低下</color>から1つ<color=#00CC66>回復</color> [発生率50%]",
+        "passivity_2_name": "碍事者双人组",
+        "passivity_3_description": "回合开始时，自身<color=#00CC66>回复</color>1个<color=#CCAA00>禁止状态或强度下降状态</color> [发生率50%]",
         "passivity_3_icon": "characteristic_icon_33",
-        "passivity_3_name": "コタツ記事からの卒業",
+        "passivity_3_name": "暖炉记者的毕业式",
         "quality": 2021021,
-        "quality_name": "烈風",
+        "quality_description": "新闻竞争过激世界的姬海棠果的气质(东方归言录原创)。\n“烈风”指激烈的风。\n是符合与文针锋相对的新闻记者果的气质。\n\n果的气质看起来经过了大幅度的编辑。\n在果原有的气质上（木行：强于水行弱于金行＆星精：强于月精弱于日精），又多了一层针对文的气质（金行：强于土行弱于火行）。",
+        "quality_name": "烈风",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "蛇之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "鸟之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "竹之华片-一",
+        "rank_up_lv1_1_value": 25,
+        "rank_up_lv1_2_name": "竹之华片-二",
+        "rank_up_lv1_2_value": 15,
+        "rank_up_lv1_3_name": "蛇之卷轴-一",
+        "rank_up_lv1_3_value": 25,
+        "rank_up_lv1_4_name": "蛇之卷轴-二",
+        "rank_up_lv1_4_value": 15,
+        "rank_up_lv1_5_name": "菊之华片-二",
+        "rank_up_lv1_5_value": 15,
+        "rank_up_lv1_6_name": "鸟之卷轴-二",
+        "rank_up_lv1_6_value": 15,
+        "rank_up_lv2_1_name": "攻击指南书-二",
+        "rank_up_lv2_1_value": 30,
+        "rank_up_lv2_2_name": "竹之华片-三",
+        "rank_up_lv2_2_value": 30,
+        "rank_up_lv2_3_name": "竹之华片-二",
+        "rank_up_lv2_3_value": 30,
+        "rank_up_lv2_4_name": "蛇之卷轴-三",
+        "rank_up_lv2_4_value": 30,
+        "rank_up_lv2_5_name": "蛇之卷轴-二",
+        "rank_up_lv2_5_value": 30,
+        "rank_up_lv2_6_name": "鸟之卷轴-三",
+        "rank_up_lv2_6_value": 30,
+        "rank_up_lv3_1_name": "攻击指南书-二",
+        "rank_up_lv3_1_value": 45,
+        "rank_up_lv3_2_name": "竹之华片-三",
+        "rank_up_lv3_2_value": 35,
+        "rank_up_lv3_3_name": "风之卷轴-二",
+        "rank_up_lv3_3_value": 45,
+        "rank_up_lv3_4_name": "蛇之卷轴-三",
+        "rank_up_lv3_4_value": 35,
+        "rank_up_lv3_5_name": "菊之华片-三",
+        "rank_up_lv3_5_value": 35,
+        "rank_up_lv3_6_name": "鸟之卷轴-三",
+        "rank_up_lv3_6_value": 35,
+        "rank_up_lv4_1_name": "攻击指南书-三",
+        "rank_up_lv4_1_value": 50,
+        "rank_up_lv4_2_name": "风之卷轴-三",
+        "rank_up_lv4_2_value": 50,
+        "rank_up_lv4_3_name": "菊之华片-三",
+        "rank_up_lv4_3_value": 50,
+        "rank_up_lv4_4_name": "蛇之卷轴-三",
+        "rank_up_lv4_4_value": 50,
+        "rank_up_lv4_5_name": "竹之华片-三",
+        "rank_up_lv4_5_value": 50,
+        "rank_up_lv4_6_name": "鸟之卷轴-三",
+        "rank_up_lv4_6_value": 50,
+        "short_name": "果",
         "speed": 1700,
-        "subname": "[ダEX]今どきすぎる念写記者",
+        "subname": "[新闻EX]过于当下的念写记者",
         "total": 7575,
         "tribe": [
             94,
@@ -48,16 +184,31 @@
             198
         ],
         "type": 8,
+        "vocal1": "星咲花那",
+        "vocal2": "宮白桃子",
+        "vocal3": "田中美海",
+        "voice1": "过于对抗的新闻程度的声音",
+        "voice2": "推敲过度程度的声音",
+        "voice3": "过于家里蹲程度的声音",
         "world_group": "A12.5&",
+        "world_group_description": "“A系列的世界团（A世界团）”中的世界群之一。\n“A12.5世界群”是“A世界团”中的第12.5个世界群。\n和其他符号不同，“A”与偏离度无关。\n“A12.5&世界群”是派生自“A12.5世界群”的特殊的世界群。\n“A”符号的含义尚未明确。\n\n【主要的分歧点】\n起因于“A12.5分歧点群”。\n“A12.5&世界群”在此基础之上存在出现“远点个体”的因素。\n\n【主要的汇合点】\n这个世界几乎不会汇合（发散倾向）。\\\"",
+        "world_group_name": "A12.5&世界群",
         "yang_atk": 1250,
         "yang_def": 900,
         "yin_atk": 1800,
-        "yin_def": 1050
+        "yin_def": 1050,
+        "id": 10045
     },
     "chain_character": [],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "新闻竞争过激世界的姬海棠果的常服。\n把能派上用场的东西都拿出来了。",
+            "costume_name1": "[新闻EX]过于当下的念写记者"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 1,
                 5,
@@ -80,10 +231,12 @@
                 30
             ],
             "cd": 5,
-            "name": "不慣れすぎる撮影器具",
-            "id": 1
+            "name": "用不惯的摄影器材",
+            "description": "主动前往取材的暖炉记者。\n取材的熟练度不如文。",
+            "icon": "skill_icon_speed_up"
         },
         {
+            "id": 2,
             "a": [
                 16,
                 5,
@@ -106,10 +259,12 @@
                 10
             ],
             "cd": 5,
-            "name": "対抗すぎる意識",
-            "id": 2
+            "name": "过于强烈的对抗意识",
+            "description": "果和文的报道理念不同。\n正因不同，所以才不能无视对方。",
+            "icon": "skill_icon_atk_up_type5"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 8,
@@ -132,8 +287,9 @@
                 1
             ],
             "cd": 6,
-            "name": "行き過ぎたスポイル",
-            "id": 3
+            "name": "剧透狂",
+            "description": "剧透要谨慎。\n等通关后再读后记。",
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {
@@ -226,6 +382,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111g",
+                "all_order_1": "12121211111111111g",
+                "all_order_2": "1212121131311414115111g",
+                "all_order_3": "12121211313114141151161g",
                 "break": [
                     0,
                     0,
@@ -233,8 +392,9 @@
                     0,
                     0
                 ],
+                "description": "新闻竞争过激世界的姬海棠果的符卡。\n被逼到绝境就发动念写的弹幕。\n如果世界上已经有自己寻求的照片的话？\n如果世界上已经有自己想做的东西的话？\n重造照片岂不是在浪费资源？\n用网络来比喻的话……应该删除重复的照片。\n如果全世界的美景都已经拍完了，那连相机都不需要了。",
                 "first_order": 1,
-                "name": "遠眼「天狗サイコグラフィ」",
+                "name": "远视「天狗念写法」",
                 "power_rate": 7,
                 "damage_extend": [
                     100,
@@ -251,14 +411,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121211111111111g",
-                "all_order_2": "1212121131311414115111g",
-                "all_order_3": "12121211313114141151161g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 14,
                     "boost": 0,
@@ -284,14 +442,15 @@
                         24,
                         111
                     ],
-                    "name": "天狗サイコグラフィ",
-                    "order": "",
+                    "name": "天狗念写法",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 3,
                     "boost": 1,
@@ -311,14 +470,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "天狗ハイサイコグラフィ",
-                    "order": "",
+                    "name": "High天狗念写法",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -342,14 +502,15 @@
                         142,
                         98
                     ],
-                    "name": "天狗メガサイコグラフィ",
-                    "order": "",
+                    "name": "Mega天狗念写法",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 2,
                     "boost": 2,
@@ -366,14 +527,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "天狗ギガサイコグラフィ",
-                    "order": "",
+                    "name": "Giga天狗念写法",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -393,14 +555,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "天狗テラサイコグラフィ",
-                    "order": "",
+                    "name": "Tera天狗念写法",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -426,24 +589,21 @@
                         3,
                         94
                     ],
-                    "name": "天狗ペタサイコグラフィ",
-                    "order": "",
+                    "name": "Peta天狗念写法",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "1112111g",
+                "all_order_2": "1112113145g",
+                "all_order_3": "11121131456g",
                 "break": [
                     0,
                     0,
@@ -451,8 +611,9 @@
                     0,
                     0
                 ],
+                "description": "新闻竞争过激世界的姬海棠果的扩散射击(东方归言录原创)。\n通过搜索关键词寻找照片的弹幕。\n姬海棠果持有着在外面世界被称作“翻盖手机”的道具，但这是河童制作的相机。\n现如今手机附带相机功能是理所当然的事情，但翻盖手机的时代相当于过渡期。\n相当于从“个人用无线电话”变成“个人用高性能多功能移动设备”（数码相机也是功能之一）的过渡期。\n将翻盖手机（至少是类似的某种东西）视作相机的果，在当时可以说观念很先进。",
                 "first_order": 1,
-                "name": "キーワードサーチャー",
+                "name": "Keyword Searcher",
                 "power_rate": 58,
                 "damage_extend": [
                     100,
@@ -469,14 +630,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1112111g",
-                "all_order_2": "1112113145g",
-                "all_order_3": "11121131456g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 6,
                     "boost": 0,
@@ -505,14 +664,15 @@
                         24,
                         111
                     ],
-                    "name": "キーワードサーチャー",
-                    "order": "",
+                    "name": "Keyword Searcher",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 1,
                     "boost": 1,
@@ -538,14 +698,15 @@
                         142,
                         98
                     ],
-                    "name": "ハイキーワードサーチャー",
-                    "order": "",
+                    "name": "High Keyword Searcher",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -565,14 +726,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガキーワードサーチャー",
-                    "order": "",
+                    "name": "Mega Keyword Searcher",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -592,14 +754,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ギガキーワードサーチャー",
-                    "order": "",
+                    "name": "Giga Keyword Searcher",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -616,14 +779,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラキーワードサーチャー",
-                    "order": "",
+                    "name": "Tera Keyword Searcher",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -654,12 +818,12 @@
                         3,
                         94
                     ],
-                    "name": "ペタキーワードサーチャー",
-                    "order": "",
+                    "name": "Peta Keyword Searcher",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -752,6 +916,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111g",
+                "all_order_1": "1212121111111111111111g",
+                "all_order_2": "1212121131313111111111111g",
+                "all_order_3": "1212121131313114141411515151161616g",
                 "break": [
                     0,
                     0,
@@ -759,8 +926,9 @@
                     0,
                     0
                 ],
+                "description": "新闻竞争过激世界的姬海棠果的符卡(东方归言录原创)。\n以最强为目标的弹幕。\n采访的乐趣在于亲自前往现场……或许是文让果明白了这个道理。\n如果以完成新闻稿为目标的话，自己想写的文章别人一定已经写过了。\n但如果自己喜欢写文章的话，那就能享受编写新闻稿的过程了。\n但是……比起用照片和标题吸引读者的报道，我更喜欢有干货的新闻！",
                 "first_order": 1,
-                "name": "念写「レベルスポイラー」",
+                "name": "念写「碍事者级」",
                 "power_rate": 10,
                 "damage_extend": [
                     100,
@@ -777,14 +945,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212121111111111111111g",
-                "all_order_2": "1212121131313111111111111g",
-                "all_order_3": "1212121131313114141411515151161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 19,
                     "boost": 0,
@@ -808,14 +974,15 @@
                         142,
                         98
                     ],
-                    "name": "レベルスポイラー",
-                    "order": "",
+                    "name": "碍事者级",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 3,
                     "boost": 1,
@@ -835,14 +1002,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ハイレベルスポイラー",
-                    "order": "",
+                    "name": "High碍事者级",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -866,14 +1034,15 @@
                         24,
                         111
                     ],
-                    "name": "メガレベルスポイラー",
-                    "order": "",
+                    "name": "Mega碍事者级",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -892,14 +1061,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ギガレベルスポイラー",
-                    "order": "",
+                    "name": "Giga碍事者级",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -916,14 +1086,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラレベルスポイラー",
-                    "order": "",
+                    "name": "Tera碍事者级",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -949,24 +1120,21 @@
                         3,
                         94
                     ],
-                    "name": "ペタレベルスポイラー",
-                    "order": "",
+                    "name": "Peta碍事者级",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111g",
+                "all_order_1": "121111g",
+                "all_order_2": "12131411g",
+                "all_order_3": "1213141516g",
                 "break": [
                     0,
                     0,
@@ -974,8 +1142,9 @@
                     0,
                     0
                 ],
+                "description": "新闻竞争过激世界的姬海棠果的集中射击(东方归言录原创)。\n从假想照片仓库中取出照片的弹幕。\n幻想乡是否存在网络呢？\n至少姬海棠果可以使用相机（翻盖手机）的搜索功能远程获取照片。\n包围幻想乡的结界会将水以及空气放进来，所以电波或许也能进来。\n这意味着果搜索出的照片中包含外面世界的照片。\n或者……已知幻想乡中存在某种网络。该网络或许具备互联网的性质，并在利用类似于电波的媒介进行通讯。\n没记错的话，畜生界也能连上网。\n这方面的问题目前还在调查中。如果上述假说一定程度上是正确的，那或许和守矢神社以及堇子能得知幻想乡相关的信息有所关联。",
                 "first_order": 1,
-                "name": "フォトストッカー",
+                "name": "相片保管者",
                 "power_rate": 8,
                 "damage_extend": [
                     100,
@@ -992,14 +1161,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121111g",
-                "all_order_2": "12131411g",
-                "all_order_3": "1213141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 5,
                     "boost": 0,
@@ -1025,14 +1192,15 @@
                         142,
                         98
                     ],
-                    "name": "フォトストッカー",
-                    "order": "",
+                    "name": "相片保管者",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 1,
                     "boost": 1,
@@ -1059,14 +1227,15 @@
                         3,
                         94
                     ],
-                    "name": "ハイフォトストッカー",
-                    "order": "",
+                    "name": "High相片保管者",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -1083,14 +1252,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガフォトストッカー",
-                    "order": "",
+                    "name": "Mega相片保管者",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 1,
                     "boost": 2,
@@ -1114,14 +1284,15 @@
                         3,
                         94
                     ],
-                    "name": "ギガフォトストッカー",
-                    "order": "",
+                    "name": "Giga相片保管者",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1138,14 +1309,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラフォトストッカー",
-                    "order": "",
+                    "name": "Tera相片保管者",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 1,
                     "boost": 3,
@@ -1171,12 +1343,12 @@
                         24,
                         111
                     ],
-                    "name": "ペタフォトストッカー",
-                    "order": "",
+                    "name": "Peta相片保管者",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 8,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1213,13 +1385,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yin_atk_up"
@@ -1233,13 +1398,6 @@
                     [
                         "skill_icon_dodge_down"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -1277,6 +1435,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111g",
+                "all_order_1": "1212121211111111111111111111g",
+                "all_order_2": "12121212111313131311141144111111111g",
+                "all_order_3": "12121212111313131311141144111515151161616g",
                 "break": [
                     0,
                     0,
@@ -1284,8 +1445,9 @@
                     0,
                     0
                 ],
+                "description": "新闻竞争过激世界的姬海棠果的终符(东方归言录原创)。\n隐约看到全新的取材方式的弹幕。\n对立不一定意味着敌对。无法相容的存在不一定会让自己不愉快。\n追求快感与套路化的现代人或许无法理解这番话的含义。\n无聊往往藏在平坦的道路上。\n反过来讲，要想追求刺激，那么必须引发战斗。\n对姬海棠果来讲，与射命丸文的碰撞……主义的不同、方针的不同、对新闻的态度的不同……充满着刺激。\n鸦天狗是典型的妖怪。\n其本质和弹幕游戏相同。\n没有决斗，就没有妖怪。没有竞争意识，就当不了新闻记者。",
                 "first_order": 1,
-                "name": "「スクープ！ 花果子念報大号外」",
+                "name": "「独家报道！ 花果子念报大号外」",
                 "power_rate": 4,
                 "damage_extend": [
                     100,
@@ -1302,14 +1464,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1212121211111111111111111111g",
-                "all_order_2": "12121212111313131311141144111111111g",
-                "all_order_3": "12121212111313131311141144111515151161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 24,
                     "boost": 0,
@@ -1333,14 +1493,15 @@
                         3,
                         94
                     ],
-                    "name": "花果子念報大号外",
-                    "order": "",
+                    "name": "花果子念报大号外",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 73,
                     "amt": 4,
                     "boost": 1,
@@ -1369,14 +1530,15 @@
                         24,
                         111
                     ],
-                    "name": "花果子念報大大号外",
-                    "order": "",
+                    "name": "花果子念报大大号外",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 71,
                     "amt": 4,
                     "boost": 2,
@@ -1396,14 +1558,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "花果子念報特大号外",
-                    "order": "",
+                    "name": "花果子念报特大号外",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 71,
                     "amt": 3,
                     "boost": 2,
@@ -1427,14 +1590,15 @@
                         24,
                         111
                     ],
-                    "name": "花果子念報超大号外",
-                    "order": "",
+                    "name": "花果子念报超大号外",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 10,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -1451,14 +1615,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "花果子念報極大号外",
-                    "order": "",
+                    "name": "花果子念报极大号外",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 69,
                     "amt": 3,
                     "boost": 3,
@@ -1487,12 +1652,12 @@
                         142,
                         98
                     ],
-                    "name": "花果子念報最大号外",
-                    "order": "",
+                    "name": "花果子念报最大号外",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

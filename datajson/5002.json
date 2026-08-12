@@ -93,7 +93,8 @@
             ],
             "cd": 5,
             "name": "厚手の魔法使い装束",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             "c": [],
             "cd": 4,
             "name": "八卦炉冷房テスト",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 4,
             "name": "春魔法の森羅結界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

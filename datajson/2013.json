@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 5,
@@ -31,7 +31,7 @@
         "passivity_3_name": "辰狐王の霊気",
         "quality": 21011120,
         "quality_name": "狐日和",
-        "speed": 940,
+        "speed": 1080,
         "subname": "[妖]すきま妖怪の式",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 2,
         "world_group": "A7",
-        "yang_atk": 1425,
-        "yang_def": 930,
-        "yin_atk": 1675,
-        "yin_def": 900
+        "yang_atk": 1485,
+        "yang_def": 950,
+        "yin_atk": 1925,
+        "yin_def": 1000
     },
     "chain_character": [
         4011,
@@ -93,7 +93,8 @@
             ],
             "cd": 4,
             "name": "稲荷降し",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -119,7 +120,8 @@
             ],
             "cd": 4,
             "name": "日輪印",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             "c": [],
             "cd": 4,
             "name": "禁じられた秘術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

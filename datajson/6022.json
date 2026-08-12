@@ -1,38 +1,186 @@
 {
     "character_info": {
+        "ability_description": "这是山与海对立的世界中铃瑚的能力（东方归言录原创）。\n这一能力基本上和原本铃瑚的能力没有太大差异。\n\n第10.3次长期化异变。\n由围绕第二次月面战争——妖怪贤者一手策划的战争——产生的一连串骚动长期化而成。\n毕竟是那位妖怪贤者的手笔，代表地上进攻月之都这一旗号不过是幌子，事态的推进完全基于另一目的……详情可见真书记载。\n被称为月之都的场所，是一个类型酷似幻想乡的领域。\n但幻想乡不过是无数异界之一，而月之都所在的月球背面地位更为特殊，目前可以确认的是，赫卡提亚·拉碧斯拉祖利就将『月亮』列为与『地球』『异界』并列的三界之一。\n这样看来，就势力而言月亮一方显然是压倒性的强大吧。\n然而，八意永琳自月之都下凡后选择的定居地是幻想乡，这（突破了几乎所有相关人员的设想）让事态产生了巨大的变化。\n到头来，这场异变其实是相关事件落幕的标志，可以说打从一开始就注定会自行终结。\n意料之外的长期化，本是不可能发生的。\n\n铃瑚是生活在月之都的玉兔，能敏锐感知到月之都附近的突发状况。\n至少可以确认的是，她亲眼目击了异变落幕后灵梦造访月之都。\n她和前往地上的铃仙也是旧识。进一步说，玉兔同族之间能够使用心灵感应沟通，所以她可能以某种形式了解过铃仙在地上的生活。\n但即便如此，会憧憬地上世界的玉兔也凤毛麟角吧。\n对地上越是了解就越敬而远之，这才是理所当然的。\n莫名污浊的空气必备净化器，总之让人浑身不舒服，而且待久了真的会折寿。\n当然，要说月上生活就有多完美，不想每日捣药为嫦娥大人赎罪就只能入伍的生活其实也很难称得上幸福就是了。\n但玉兔就是这样，即便如此仍会觉得月上生活要比地上优越，因为不这么想就无法坚持下去了。\n\n然而铃瑚却不一样。\n她对地上的兴趣日渐浓厚，大有愈演愈烈之势。\n她所属的鹰兔部队有登陆地上作战的可能，但她目前还只是训练中的新兵。\n好想快快独当一面，去地上看看呀。\n然而，还有一点不太明白。\n是足够优秀才能得到登陆地上的资格，还是说……部队的拖油瓶才会被以派遣作战的名义流放到地上去呢。\n两种情况都有可能……不知前例如何的铃瑚有些一筹莫展了。\n似乎也有同胞为了逃避赎罪任务而叛逃到地上，但那条路几个脑袋都不够用的。\n今天，铃瑚也下意识地纠结起这个老问题，在训练中走神了。\n是清兰的声音把她拉回了现实。\n「怎么搞的，你是落单了吗？那就搭把手，和我搭档训练！」\n今天的训练是双人搭档作战。\n\n只要和拖油瓶组成搭档，无论哪种情况都可以去地上了。\n铃瑚打心底里觉得，清兰是如此可爱。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "",
+        "ability_effect_d3": "免疫结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>冻结</color>」「<color=#CCAA00>感电</color>」「<color=#CCAA00>黑暗</color>」且<color=#CCAA00>体力</color><color=#00CC66>回复</color>5%",
+        "ability_effect_d4": [
+            "使用灵力强化时",
+            "己方全体<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (1回合)"
+        ],
+        "ability_effect_d5": "",
+        "ability_name": "「吃团子越多变得越强程度的能力」",
         "advantage_attack": 0,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 4,
         "barrier_status_2": 4,
         "barrier_status_3": 4,
         "barrier_status_4": 0,
         "barrier_status_5": 4,
-        "bgm": 30602201,
+        "bgm": "能ある兎は団子を食す",
         "boost_buff": 6,
         "boost_target": 1,
         "break_cost": 501,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽防、陰防、CRI防御、CRI回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "ガード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳防、阴防、会心防御、会心回避</color>强度上升的一部分(3回合)",
+        "chain_name": "防御连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是铃瑚。地上的团子真的有那么好吃吗？ 那落到地上似乎也是一种选项呢—。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
-        "name": "鈴瑚",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>月の民</color>から受けるダメージを50%<color=#0066FF>ダウン</color> [発生率50%]",
+        "jp_name": "りんご",
+        "lines1": "什么～？ “铃瑚有没有在意的人？”？ 嗯—，我想想看—。隔壁兵种有一个叫清兰的家伙—，她可是个怪人。学习成绩不行，而且成天到晚都在胡来。但如果以后她被分配到了地上的调查部队，我相信她一定会在潜入调查中大显身手。我可以作为后勤人员和她组队。啊哈哈，对地上感兴趣是不是有些奇怪？……等等，你是谁！？这里是哪里！？地上！？气，气味好重～！ 但地上的团子……真的很好吃吗！？",
+        "lines10": "探女大人的命运论也好，丰姬大人的量子论也好……用哪种理论我都想不明白与地上的巫女们迟迟无法分出胜负的原因。差不多都快成观光景点了。",
+        "lines11": "丰姬大人为了洗清嫌疑，曾经宣布她会将地上的降神者带过来。但依姬大人在战斗中的表现已经是充分的证明了。",
+        "lines12": "我有一个降落到了地上的熟人。她叫“铃仙”。往心灵感应网络投稿团子的兔子一定是她。",
+        "lines13": "现在是草莓的季节吧？ 草莓大福或者草莓巧克力团子是不是很有人气？ 月亮的草莓吃起来像是合成物。",
+        "lines14": "光靠在月亮得知的信息，我无法切身领略夏天会如此炎热。如果我做冰团子的话会不会有人气？",
+        "lines15": "在地上一到秋天人们就会把圆圆的团子视作月亮吗。趁团子还没干透，赶紧吃掉不就好了—。",
+        "lines16": "冬天是捣年糕的季节。清兰会为了伙伴捣年糕，但她捣年糕的节奏怪怪的—。",
+        "lines17": "作业？ 你好认真诶。来，我帮你看看。",
+        "lines18": "作业满分！ 辛苦了，乖孩子乖孩子。来，张嘴。我喂你团子吃。",
+        "lines19": "月兔可以用心灵感应交流，但传书也不错呢—。",
+        "lines2": "虽然地上的气味很重，但莫名地让人上瘾呢。",
+        "lines20": "弹幕游戏就是爽。地上太棒了！",
+        "lines21": "有人回来了。我闻闻……这是新作团子的气味！",
+        "lines22": "“铃瑚”和“清兰”都是为了潜入地上而起的名字。",
+        "lines23": "地上的团子果然美味。吧唧吧唧。",
+        "lines24": "你也尝尝吧？ ……咦，在我的膝盖上睡着了。乖孩子乖孩子。",
+        "lines25": "我想尽量避免战斗，但这样一来就没办法了！",
+        "lines26": "这就是弹幕游戏吗。真有意思！",
+        "lines27": "我吃多少都吃不胖。但清兰一吃东西就长肉",
+        "lines28": "地上生活还是太苦了……实在是太臭了……！",
+        "lines29": "吃得",
+        "lines3": "是时空穿越吗？ 我好像在量子论学过诶……？",
+        "lines30": "越多",
+        "lines31": "越强！",
+        "lines32": "我想",
+        "lines33": "尽量避免",
+        "lines34": "战斗！",
+        "lines35": "看我的",
+        "lines36": "吃不吃？",
+        "lines37": "真没办法",
+        "lines38": "那就动手吧—",
+        "lines39": "那就没办法了",
+        "lines4": "虽然不知道和未来的我是否一致，但这里是“已经发生过许多事情后”的世界吗。别看我这样，我在兔子里算是聪明的。",
+        "lines40": "符卡是什么！？",
+        "lines41": "拜托了—",
+        "lines42": "好的好的—",
+        "lines43": "哼哼",
+        "lines44": "张嘴～",
+        "lines45": "你说和学校蛮像的？　有道理诶　\n大家一点紧张感都没有—",
+        "lines46": "但丰姬大人说要证明清白　\n所以最近有些混乱",
+        "lines47": "兔符「草莓团子」",
+        "lines48": "依姬大人曾在海岸战斗　\n对手是传闻中的巫女与伙伴们",
+        "lines49": "我混在其他兔子里围观了一下　真是不得了！　\n果然地上充满刺激！",
+        "lines5": "Eagle Rabbit的任务是调查地上，所以我这种情报兵有很多了解地上的机会。情报兵和潜入突击兵相比又安全地位又高。为此我学了好多习……但我有一个无法丢弃的梦想。",
+        "lines50": "兔符「团子影响力」",
+        "lines51": "如果搭档是“异次元的清兰”　\n那我愿意前往地上",
+        "lines52": "因为她会给我捣年糕吃　\n她一定很快就能掌握　地上美味团子的做法！",
+        "lines53": "「无罪口味的月亮团子」",
+        "lines54": "呜",
+        "lines55": "呜哇！",
+        "lines56": "没用的",
+        "lines57": "你也很辛苦呢",
+        "lines58": "你请客吗！？",
+        "lines59": "地上的空气看来还是不适合我",
+        "lines6": "我想开团子店。月亮的团子也蛮好吃的，但总觉得差点什么。地上的团子不光美味，种类也多。信息源是匿名兔在心灵感应网络上的投稿。",
+        "lines60": "东方归言录",
+        "lines61": "好的",
+        "lines62": "那算了",
+        "lines63": "谢谢！",
+        "lines64": "别看我这样，我不是学生，是社会兔—。",
+        "lines65": "社会兔的就业规则可复杂了，真是麻烦死了—。",
+        "lines7": "降落到地上的平行世界？的我似乎一点都不后悔呢。这下我就安心了。这意味着我现在的想法没有错。总有一天我也会舍弃生活与友人们，和清兰两个人降落到地上……你也讨厌无聊的生活吧？ 我也一样。",
+        "lines8": "我想到了新的团子配方！ 总有一天我想开属于自己的店呢～。",
+        "lines9": "这样吗，未来的我会在地上和清兰一起开团子店吗！ 如果我能把这份记忆带回去的话……。诶？我和清兰是劲敌，各自开了一家店？ 为什么—？",
+        "name": "铃瑚",
+        "passivity_1_description": [
+            "被攻击时",
+            "受到来自<color=#CCAA00>月之民</color>的伤害<color=#0066FF>下降</color>50% [发生率50%]"
+        ],
         "passivity_1_icon": "characteristic_icon_56",
-        "passivity_1_name": "無罪なずんだ団子",
-        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陰防</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率35%]",
+        "passivity_1_name": "无罪的毛豆团子",
+        "passivity_2_description": [
+            "被攻击后",
+            "自身<color=#CCAA00>阴防</color><color=#FF6600>上升</color>1等级 (3回合) [发生率35%]"
+        ],
         "passivity_2_icon": "characteristic_icon_4",
-        "passivity_2_name": "無罪な磯辺団子",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color> [発生率50%]",
+        "passivity_2_name": "无罪的海苔裹酱油团子",
+        "passivity_3_description": [
+            "回合开始时",
+            "自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.35 [发生率50%]"
+        ],
         "passivity_3_icon": "characteristic_icon_31",
-        "passivity_3_name": "無罪なベリー味",
+        "passivity_3_name": "无罪的莓果味",
         "quality": 21121010,
-        "quality_name": "日暮れ",
+        "quality_description": "山海对立世界的铃瑚的气质(东方归言录原创)。\n“黄昏”指日落时分。\n是现在还不过是憧憬地上的玉兔的铃瑚的气质。\n铃瑚同时具备玉兔的气质（木行）与月亮的气质（月精）。\n\n强大而又温柔的木行，由于“水生木”对水行具备抗性，由于“金克木”而对金行不利。\n象征着协调性以及优柔寡断的月精对象征着绝对魅力与傲慢的日精具备抗性，不擅长应对象征着多样性与特立独行的星精。",
+        "quality_name": "黄昏",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 10,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 10,
+        "rank_up_lv0_4_name": "风之卷轴-一",
+        "rank_up_lv0_4_value": 20,
+        "rank_up_lv0_5_name": "鸟之卷轴-一",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "佐曾罗",
+        "rank_up_lv0_6_value": 10,
+        "rank_up_lv1_1_name": "梅之华片-二",
+        "rank_up_lv1_1_value": 10,
+        "rank_up_lv1_2_name": "菊之华片-一",
+        "rank_up_lv1_2_value": 20,
+        "rank_up_lv1_3_name": "菊之华片-二",
+        "rank_up_lv1_3_value": 10,
+        "rank_up_lv1_4_name": "风之卷轴-二",
+        "rank_up_lv1_4_value": 10,
+        "rank_up_lv1_5_name": "鸟之卷轴-二",
+        "rank_up_lv1_5_value": 10,
+        "rank_up_lv1_6_name": "风之卷轴-一",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "风之卷轴-二",
+        "rank_up_lv2_1_value": 20,
+        "rank_up_lv2_2_name": "防御指南书-二",
+        "rank_up_lv2_2_value": 20,
+        "rank_up_lv2_3_name": "菊之华片-三",
+        "rank_up_lv2_3_value": 20,
+        "rank_up_lv2_4_name": "风之卷轴-三",
+        "rank_up_lv2_4_value": 20,
+        "rank_up_lv2_5_name": "鸟之卷轴-三",
+        "rank_up_lv2_5_value": 20,
+        "rank_up_lv2_6_name": "菊之华片-二",
+        "rank_up_lv2_6_value": 20,
+        "rank_up_lv3_1_name": "梅之华片-三",
+        "rank_up_lv3_1_value": 20,
+        "rank_up_lv3_2_name": "防御指南书-二",
+        "rank_up_lv3_2_value": 30,
+        "rank_up_lv3_3_name": "菊之华片-三",
+        "rank_up_lv3_3_value": 20,
+        "rank_up_lv3_4_name": "风之卷轴-三",
+        "rank_up_lv3_4_value": 20,
+        "rank_up_lv3_5_name": "鸟之卷轴-三",
+        "rank_up_lv3_5_value": 20,
+        "rank_up_lv3_6_name": "地之卷轴-二",
+        "rank_up_lv3_6_value": 30,
+        "rank_up_lv4_1_name": "菊之华片-三",
+        "rank_up_lv4_1_value": 30,
+        "rank_up_lv4_2_name": "防御指南书-三",
+        "rank_up_lv4_2_value": 30,
+        "rank_up_lv4_3_name": "地之卷轴-三",
+        "rank_up_lv4_3_value": 30,
+        "rank_up_lv4_4_name": "风之卷轴-三",
+        "rank_up_lv4_4_value": 30,
+        "rank_up_lv4_5_name": "鸟之卷轴-三",
+        "rank_up_lv4_5_value": 30,
+        "rank_up_lv4_6_name": "梅之华片-三",
+        "rank_up_lv4_6_value": 30,
+        "short_name": "铃瑚",
         "speed": 950,
-        "subname": "[儚]橘色のイーグルラヴィ",
+        "subname": "[儚]橘色的Eagle Rabbit",
         "total": 6900,
         "tribe": [
             5,
@@ -46,16 +194,31 @@
             58
         ],
         "type": 3,
+        "vocal1": "菊池紗矢香",
+        "vocal2": "澤田姫",
+        "vocal3": "七瀬彩夏",
+        "voice1": "心中对地上的憧憬程度的声音",
+        "voice2": "安稳的未来规划程度的声音",
+        "voice3": "兔子伙伴的不安传闻程度的声音",
         "world_group": "A10.3",
+        "world_group_description": "“A系列的世界团（A世界团）”中的世界群之一。\n“A10.3世界群”是“A世界团”中的第10.3个世界群。\n和其他符号不同，“A”与偏离度无关。\n“A”符号的含义尚未明确。\n\n【主要的分歧点】\n起因于“A10.3分歧点群”。\n\n【主要的汇合点】\n这个世界几乎不会汇合（发散倾向）。",
+        "world_group_name": "A10.3世界群",
         "yang_atk": 850,
         "yang_def": 1200,
         "yin_atk": 1550,
-        "yin_def": 1350
+        "yin_def": 1350,
+        "id": 6022
     },
     "chain_character": [],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "山海对立世界的铃瑚的常服。\n她已经开始对地上感兴趣了。",
+            "costume_name1": "[儚]橘色的eagle rabbit"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 3,
                 0,
@@ -72,10 +235,12 @@
             ],
             "c": [],
             "cd": 3,
-            "name": "無罪なみたらし団子",
-            "id": 1
+            "name": "无罪的御手洗团子",
+            "description": "吃喜欢的东西就能变强。\n你是不是觉得太简单了？",
+            "icon": "skill_icon_heal"
         },
         {
+            "id": 2,
             "a": [
                 6,
                 1,
@@ -98,10 +263,12 @@
                 30
             ],
             "cd": 4,
-            "name": "無罪なごま団子",
-            "id": 2
+            "name": "无罪的芝麻团子",
+            "description": "吃的东西会决定心情。\n一定要注重饮食。",
+            "icon": "skill_icon_barrier_burn"
         },
         {
+            "id": 3,
             "a": [
                 1,
                 4,
@@ -124,8 +291,9 @@
                 1
             ],
             "cd": 5,
-            "name": "無罪な三色団子",
-            "id": 3
+            "name": "无罪的三色团子",
+            "description": "又健康又好吃又甜。\n不变强就怪了。",
+            "icon": "skill_icon_yin_def_up"
         }
     ],
     "attack_skills": {
@@ -218,6 +386,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111g",
+                "all_order_1": "11221121111111111g",
+                "all_order_2": "1122112113113114114151g",
+                "all_order_3": "11221121131131141141516g",
                 "break": [
                     6,
                     0,
@@ -225,8 +396,9 @@
                     0,
                     0
                 ],
+                "description": "山海对立世界的铃瑚的符卡。\n月之都的团子的弹幕。\n听说逃到地上的兔子回来了。\n我以为她已经丢掉了性命。\n这只兔子似乎成为了绵月家的宠物。\n就是说，相当于铃仙的后继者吗？\n那我们说不定有机会聊聊。\n但我被分配到了Eagle Rabbit特务部队，她被分配到了月之使者防卫队。\n不知道有没有联合训练的机会。",
                 "first_order": 1,
-                "name": "兎符「ストロベリーダンゴ」",
+                "name": "兔符「草莓团子」",
                 "power_rate": 20,
                 "damage_extend": [
                     100,
@@ -243,14 +415,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "11221121111111111g",
-                "all_order_2": "1122112113113114114151g",
-                "all_order_3": "11221121131131141141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 14,
                     "boost": 0,
@@ -272,14 +442,15 @@
                         41,
                         4
                     ],
-                    "name": "ストロベリー味",
-                    "order": "",
+                    "name": "草莓味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -296,14 +467,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ハイストロベリー味",
-                    "order": "",
+                    "name": "High 草莓味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -324,14 +496,15 @@
                         41,
                         4
                     ],
-                    "name": "メガストロベリー味",
-                    "order": "",
+                    "name": "Mega 草莓味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -348,14 +521,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ギガストロベリー味",
-                    "order": "",
+                    "name": "Giga 草莓味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -376,14 +550,15 @@
                         41,
                         4
                     ],
-                    "name": "テラストロベリー味",
-                    "order": "",
+                    "name": "Tera 草莓味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -402,24 +577,21 @@
                     "killers": [
                         97
                     ],
-                    "name": "ペタストロベリー味",
-                    "order": "",
+                    "name": "Peta 草莓味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111111g",
+                "all_order_1": "1212131314111g",
+                "all_order_2": "12121313141151g",
+                "all_order_3": "121213131411516g",
                 "break": [
                     0,
                     0,
@@ -427,8 +599,9 @@
                     0,
                     0
                 ],
+                "description": "山海对立世界的铃瑚的扩散射击(东方归言录原创)。\n月之都的团子的弹幕。\n――以下是伪书中的记录。\n月之都有些吵闹。\n据说有人在擅自召唤神灵，并演变成了非常严重的问题。\n依姬大人具备这种能力，所以被列为了首要怀疑对象。\n如果否定嫌疑的话，绵月派的前身八意派的中心人物……贤者中的贤者，神话·传说般的存在八意XX大人就会成为众矢之的。",
                 "first_order": 1,
-                "name": "アソート団子",
+                "name": "团子拼盘",
                 "power_rate": 23,
                 "damage_extend": [
                     100,
@@ -445,14 +618,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1212131314111g",
-                "all_order_2": "12121313141151g",
-                "all_order_3": "121213131411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 8,
                     "boost": 0,
@@ -475,14 +646,15 @@
                         41,
                         4
                     ],
-                    "name": "アソート団子",
-                    "order": "",
+                    "name": "团子拼盘",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -499,14 +671,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "アソート大団子",
-                    "order": "",
+                    "name": "团子大拼盘",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -520,14 +693,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "アソート特団子",
-                    "order": "",
+                    "name": "团子特拼盘",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -547,14 +721,15 @@
                         41,
                         4
                     ],
-                    "name": "アソート超団子",
-                    "order": "",
+                    "name": "团子超拼盘",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -571,14 +746,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "アソート極団子",
-                    "order": "",
+                    "name": "团子极拼盘",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -599,12 +775,12 @@
                         41,
                         4
                     ],
-                    "name": "アソート最団子",
-                    "order": "",
+                    "name": "团子最拼盘",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -689,6 +865,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111g",
+                "all_order_1": "12121212113131313114141141111g",
+                "all_order_2": "1212121211313131311414114151511g",
+                "all_order_3": "12121212113131313114141141515116g",
                 "break": [
                     6,
                     0,
@@ -696,8 +875,9 @@
                     0,
                     0
                 ],
+                "description": "山海对立世界的铃瑚的符卡。\n月之都的团子的弹幕。\n训练生的生活和学校生活某种意义上蛮像的。\n因为在成为独当一面的士兵为止，课程表原则上都会准时推进。\n而且也不用太有责任感。\n回家路上和同事一起吃团子正是我的乐趣。\n团子很美味，而且又圆又可爱。\n我超喜欢团子。\n我甚至想过以后开一家团子店。\n虽说无论我再怎么做梦，玉兔也只能当兵或者赎罪吧。",
                 "first_order": 1,
-                "name": "兎符「ダンゴインフリューエンス」",
+                "name": "兔符「团子影响力」",
                 "power_rate": 7,
                 "damage_extend": [
                     100,
@@ -714,14 +894,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121212113131313114141141111g",
-                "all_order_2": "1212121211313131311414114151511g",
-                "all_order_3": "12121212113131313114141141515116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 18,
                     "boost": 0,
@@ -745,14 +923,15 @@
                         41,
                         4
                     ],
-                    "name": "団子インフリューエンス",
-                    "order": "",
+                    "name": "团子影响力",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -769,14 +948,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大団子インフリューエンス",
-                    "order": "",
+                    "name": "大团子影响力",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -790,14 +970,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "特団子インフリューエンス",
-                    "order": "",
+                    "name": "特团子影响力",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -814,14 +995,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超団子インフリューエンス",
-                    "order": "",
+                    "name": "超团子影响力",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -842,14 +1024,15 @@
                         41,
                         4
                     ],
-                    "name": "極団子インフリューエンス",
-                    "order": "",
+                    "name": "极团子影响力",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -873,24 +1056,21 @@
                         41,
                         4
                     ],
-                    "name": "最団子インフリューエンス",
-                    "order": "",
+                    "name": "最团子影响力",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111111g",
+                "all_order_1": "1212113111g",
+                "all_order_2": "121211314151g",
+                "all_order_3": "1212113141516g",
                 "break": [
                     0,
                     0,
@@ -898,8 +1078,9 @@
                     0,
                     0
                 ],
+                "description": "山海对立世界的铃瑚的集中射击(东方归言录原创)。\n月之都的团子的弹幕。\n虽然贤者中的稀神派等势力对八意大人的指控提出了异议，但据说小喽啰贤者们正忙着拉帮结派，试图向月夜见大人上奏。\n恐怕对她们来讲真凶是谁也好真相是什么也好，都是无所谓的事情。\n不过是对不在此地却依然握有权势的，“八意”知名心怀不满的弱小贤者们策划的难堪的谋略罢了。",
                 "first_order": 1,
-                "name": "団子シェアリング",
+                "name": "团子分享",
                 "power_rate": 20,
                 "damage_extend": [
                     100,
@@ -916,14 +1097,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212113111g",
-                "all_order_2": "121211314151g",
-                "all_order_3": "1212113141516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 7,
                     "boost": 0,
@@ -943,14 +1122,15 @@
                         41,
                         4
                     ],
-                    "name": "団子シェアリング",
-                    "order": "",
+                    "name": "团子分享",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -970,14 +1150,15 @@
                         41,
                         4
                     ],
-                    "name": "大団子シェアリング",
-                    "order": "",
+                    "name": "大团子分享",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -994,14 +1175,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "特団子シェアリング",
-                    "order": "",
+                    "name": "特团子分享",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1018,14 +1200,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超団子シェアリング",
-                    "order": "",
+                    "name": "超团子分享",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1042,14 +1225,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極団子シェアリング",
-                    "order": "",
+                    "name": "极团子分享",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1070,12 +1254,12 @@
                         41,
                         4
                     ],
-                    "name": "最団子シェアリング",
-                    "order": "",
+                    "name": "最团子分享",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1168,6 +1352,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111g",
+                "all_order_1": "121212121211131313131111111111111g",
+                "all_order_2": "12121212121113131313111414141115151111g",
+                "all_order_3": "1212121212111313131311141414111515111616g",
                 "break": [
                     6,
                     0,
@@ -1175,8 +1362,9 @@
                     0,
                     0
                 ],
+                "description": "山海对立世界的铃瑚的终符(东方归言录原创)。\n未曾吃过的假想团子的弹幕。\n搭档训练结束了。\n今天是我第一次和清兰一起回家。\n平时的伙伴们在用惊讶的眼神看着我。\n这我不介意。\n因为我今天最重要的伙伴是清兰。\n我一边吃团子一边仰望着星空。\n漂浮在空中的地球，是平时被称为地上的，污秽之蓝星。\n清兰说出了不得了的话。\n“地球看起来跟蓝色的团子一样诶。”\n蓝色的团子是什么鬼。\n我没吃过……嗯，我没吃过这种东西。\n\n听说地上的人类与妖怪从大海来到了月亮。\n我打算过去看看。\n听说她们会操控叫做弹幕的，在空中飞舞的火花般的东西。\n依姬大人好像已经赶过去了。\n\n信息呢。\n再给我点信息。\n谁用心灵感应发给我！\n\n“铃瑚，不得了了！已经开始了！你快点过来！”\n\n清，清兰～！\n\n――以上是写在某本伪书上的文字。",
                 "first_order": 1,
-                "name": "「無罪な味がするルナダンゴ」",
+                "name": "「无罪口味的月亮团子」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -1193,14 +1381,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121212121211131313131111111111111g",
-                "all_order_2": "12121212121113131313111414141115151111g",
-                "all_order_3": "1212121212111313131311141414111515111616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 24,
                     "boost": 0,
@@ -1225,14 +1411,15 @@
                         41,
                         4
                     ],
-                    "name": "無罪フレーバー",
-                    "order": "",
+                    "name": "无罪口味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 5,
                     "boost": 1,
@@ -1249,14 +1436,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大無罪フレーバー",
-                    "order": "",
+                    "name": "大无罪口味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -1280,14 +1468,15 @@
                         41,
                         4
                     ],
-                    "name": "特無罪フレーバー",
-                    "order": "",
+                    "name": "特无罪口味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -1307,14 +1496,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超無罪フレーバー",
-                    "order": "",
+                    "name": "超无罪口味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -1335,14 +1525,15 @@
                         41,
                         4
                     ],
-                    "name": "極無罪フレーバー",
-                    "order": "",
+                    "name": "极无罪口味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -1366,12 +1557,12 @@
                         41,
                         4
                     ],
-                    "name": "最無罪フレーバー",
-                    "order": "",
+                    "name": "最无罪口味",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 1,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

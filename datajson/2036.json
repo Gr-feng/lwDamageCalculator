@@ -31,7 +31,7 @@
         "passivity_3_name": "免疫系プログラム",
         "quality": 12111112,
         "quality_name": "星間雲",
-        "speed": 825,
+        "speed": 920,
         "subname": "メディカル・オートマタ",
         "total": 7350,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 3,
         "world_group": "B5",
-        "yang_atk": 1825,
-        "yang_def": 975,
-        "yin_atk": 825,
-        "yin_def": 900
+        "yang_atk": 1920,
+        "yang_def": 1020,
+        "yin_atk": 980,
+        "yin_def": 920
     },
     "chain_character": [
         2055,
@@ -112,7 +112,8 @@
             ],
             "cd": 3,
             "name": "服薬補助ゼリー",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 6,
             "name": "記憶の水",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 4,
             "name": "トレパネーション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disenchant"
         }
     ],
     "attack_skills": {

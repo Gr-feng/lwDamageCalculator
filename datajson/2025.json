@@ -115,7 +115,8 @@
             ],
             "cd": 7,
             "name": "ご褒美のアジ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -141,7 +142,8 @@
             ],
             "cd": 4,
             "name": "秘密のバンデージ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -167,7 +169,8 @@
             ],
             "cd": 6,
             "name": "アニマル大集合",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

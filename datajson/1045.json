@@ -91,7 +91,8 @@
             "c": [],
             "cd": 4,
             "name": "玉響現象",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -117,7 +118,8 @@
             ],
             "cd": 3,
             "name": "キルリアン写真",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -143,7 +145,8 @@
             ],
             "cd": 4,
             "name": "月の裏側の念写",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

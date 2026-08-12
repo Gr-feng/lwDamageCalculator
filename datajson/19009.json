@@ -101,7 +101,8 @@
             ],
             "cd": 3,
             "name": "受理・命名決闘法",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -121,7 +122,8 @@
             "c": [],
             "cd": 3,
             "name": "妖怪拡張",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -147,7 +149,8 @@
             ],
             "cd": 2,
             "name": "吸血鬼異変の反省",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

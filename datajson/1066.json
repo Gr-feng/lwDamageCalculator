@@ -31,7 +31,7 @@
         "passivity_3_name": "姉の不品格",
         "quality": 21121010,
         "quality_name": "暗雲",
-        "speed": 850,
+        "speed": 920,
         "subname": "最凶最悪の双子の姉",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1125,
-        "yang_def": 900,
-        "yin_atk": 1575,
-        "yin_def": 1150
+        "yang_atk": 1170,
+        "yang_def": 920,
+        "yin_atk": 1970,
+        "yin_def": 1170
     },
     "chain_character": [
         1065,
@@ -86,7 +86,8 @@
             "c": [],
             "cd": 4,
             "name": "火の車",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_down"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 4,
             "name": "債務不履行",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 4,
             "name": "不運の気",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_down"
         }
     ],
     "attack_skills": {

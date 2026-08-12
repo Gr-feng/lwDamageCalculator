@@ -89,7 +89,8 @@
             "c": [],
             "cd": 3,
             "name": "饒速日の加護",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             "c": [],
             "cd": 4,
             "name": "弓削の血",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -129,7 +131,8 @@
             "c": [],
             "cd": 4,
             "name": "遁甲式占術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {

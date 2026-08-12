@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 30,
         "barrier_status_1": 5,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "吸血採血器",
         "quality": 2210111,
         "quality_name": "液状化現象",
-        "speed": 1050,
+        "speed": 1070,
         "subname": "穢れた有機物の怪物",
         "total": 6900,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1050,
-        "yang_def": 950,
-        "yin_atk": 1750,
-        "yin_def": 1100
+        "yang_atk": 1160,
+        "yang_def": 1020,
+        "yin_atk": 1920,
+        "yin_def": 1270
     },
     "chain_character": [
         1116,
@@ -97,7 +97,8 @@
             "c": [],
             "cd": 3,
             "name": "怪獣チュパカブラ？",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -123,7 +124,8 @@
             ],
             "cd": 4,
             "name": "謎多き吸血妖怪",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -149,7 +151,8 @@
             ],
             "cd": 5,
             "name": "獣神の友",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

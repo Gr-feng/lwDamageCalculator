@@ -31,7 +31,7 @@
         "passivity_3_name": "死後の品定め",
         "quality": 21102110,
         "quality_name": "雷轟",
-        "speed": 1250,
+        "speed": 1460,
         "subname": "地獄の輪禍",
         "total": 6450,
         "tribe": [
@@ -50,10 +50,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1150,
-        "yang_def": 850,
-        "yin_atk": 1200,
-        "yin_def": 900
+        "yang_atk": 1220,
+        "yang_def": 880,
+        "yin_atk": 1620,
+        "yin_def": 980
     },
     "chain_character": [
         1001,
@@ -94,7 +94,8 @@
             "c": [],
             "cd": 5,
             "name": "ゾンビフェアリー使役",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_down"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             "c": [],
             "cd": 5,
             "name": "死体運びの猫車",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             "c": [],
             "cd": 6,
             "name": "怨霊使役",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

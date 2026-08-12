@@ -31,7 +31,7 @@
         "passivity_3_name": "クイック休憩",
         "quality": 21011120,
         "quality_name": "曇天",
-        "speed": 1400,
+        "speed": 1790,
         "subname": "紅魔館のメイド",
         "total": 6450,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 7,
         "world_group": "L1",
-        "yang_atk": 1195,
-        "yang_def": 925,
-        "yin_atk": 1105,
-        "yin_def": 915
+        "yang_atk": 1330,
+        "yang_def": 960,
+        "yin_atk": 1430,
+        "yin_def": 940
     },
     "chain_character": [
         1003,
@@ -89,27 +89,33 @@
                 1,
                 3,
                 1,
-                2,
+                3,
                 3
             ],
             "c": [],
-            "cd": 4,
+            "cd": 3,
             "name": "時間操作",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_fast"
         },
         {
             "a": [
                 1,
                 5,
-                1,
+                2,
                 3,
                 3
             ],
-            "b": [],
+            "b": [1,
+                3,
+                1,
+                3,
+                1],
             "c": [],
-            "cd": 4,
+            "cd": 3,
             "name": "アジャイルワーク",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -119,11 +125,12 @@
                 1,
                 20
             ],
-            "b": [],
-            "c": [],
-            "cd": 6,
+            "b": [1,5,1,1,1],
+            "c": [1,6,1,3,2],
+            "cd": 5,
             "name": "ナイフ装填",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {
@@ -143,7 +150,11 @@
                     []
                 ],
                 "effect_after": [
-                    [],
+                    [5,
+                0,
+                1,
+                1,
+                20],
                     [],
                     [],
                     [],
@@ -235,7 +246,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 5.14,
+                    "damage": 6.17,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 6,
@@ -256,7 +267,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 12.34,
+                    "damage": 15.43,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -277,7 +288,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 14.4,
+                    "damage": 18.00,
                     "damage_extend": 107,
                     "effect": [
                         5,
@@ -301,7 +312,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 16.46,
+                    "damage": 21.40,
                     "damage_extend": 114,
                     "effect": [
                         5,
@@ -325,7 +336,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 18.51,
+                    "damage": 24.06,
                     "damage_extend": 121,
                     "effect": [
                         5,
@@ -349,7 +360,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 20.57,
+                    "damage": 26.74,
                     "damage_extend": 128,
                     "effect": [
                         5,
@@ -554,7 +565,11 @@
                     []
                 ],
                 "effect_after": [
-                    [],
+                    [5,
+                0,
+                1,
+                1,
+                20],
                     [],
                     [],
                     [],
@@ -646,7 +661,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 6.86,
+                    "damage": 10.29,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -667,7 +682,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 8.23,
+                    "damage": 12.35,
                     "damage_extend": 100,
                     "effect": [
                         5,
@@ -691,7 +706,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 9.6,
+                    "damage": 14.40,
                     "damage_extend": 107,
                     "effect": [
                         5,
@@ -715,7 +730,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 10.97,
+                    "damage": 16.46,
                     "damage_extend": 114,
                     "effect": [
                         5,
@@ -739,7 +754,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 12.34,
+                    "damage": 18.51,
                     "damage_extend": 121,
                     "effect": [
                         5,
@@ -763,7 +778,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 13.71,
+                    "damage": 20.57,
                     "damage_extend": 128,
                     "effect": [
                         5,
@@ -955,8 +970,8 @@
         "5": {
             "global_attributes": {
                 "effect_before": [
-                    [],
-                    [],
+                    [1,6,1,3,3],
+                    [1,5,1,3,3],
                     [],
                     [],
                     []
@@ -1052,7 +1067,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 7.91,
+                    "damage": 12.66,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 6,
@@ -1073,7 +1088,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 20.57,
+                    "damage": 32.91,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -1094,7 +1109,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 24.0,
+                    "damage": 38.4,
                     "damage_extend": 108,
                     "effect": [
                         5,
@@ -1118,7 +1133,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 27.43,
+                    "damage": 45.26,
                     "damage_extend": 115,
                     "effect": [
                         5,
@@ -1142,7 +1157,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 30.86,
+                    "damage": 52.46,
                     "damage_extend": 123,
                     "effect": [
                         5,
@@ -1166,7 +1181,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 34.29,
+                    "damage": 60.01,
                     "damage_extend": 130,
                     "effect": [
                         5,

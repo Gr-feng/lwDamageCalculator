@@ -31,7 +31,7 @@
         "passivity_3_name": "ワードブレイカー",
         "quality": 20111221,
         "quality_name": "上天気",
-        "speed": 1250,
+        "speed": 1290,
         "subname": "神を降ろす祈祷師",
         "total": 7800,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 5,
         "world_group": "F1",
-        "yang_atk": 1900,
-        "yang_def": 800,
-        "yin_atk": 1850,
-        "yin_def": 1000
+        "yang_atk": 1920,
+        "yang_def": 820,
+        "yin_atk": 1970,
+        "yin_def": 1040
     },
     "chain_character": [
         2011,
@@ -84,7 +84,8 @@
             ],
             "cd": 4,
             "name": "降神ヒノカグツチ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             ],
             "cd": 5,
             "name": "降神アメノフユキヌ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             ],
             "cd": 5,
             "name": "降神タケミカヅチ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

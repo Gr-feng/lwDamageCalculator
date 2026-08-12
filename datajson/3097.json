@@ -112,7 +112,8 @@
             ],
             "cd": 5,
             "name": "お姉さん担当",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_rapid_skill"
         },
         {
             "a": [
@@ -138,7 +139,8 @@
             ],
             "cd": 4,
             "name": "ピンク担当",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -164,7 +166,8 @@
             ],
             "cd": 5,
             "name": "ウミスズメのみすちー",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_fast"
         }
     ],
     "attack_skills": {

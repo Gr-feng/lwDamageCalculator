@@ -109,7 +109,8 @@
             ],
             "cd": 3,
             "name": "ビーチバレールール",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 3,
             "name": "ビーチサッカールール",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 1,
             "name": "新しいビーチスポーツ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

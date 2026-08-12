@@ -108,7 +108,8 @@
             ],
             "cd": 4,
             "name": "大阿闍梨",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 4,
             "name": "魔住職",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 6,
             "name": "大魔法使い",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disadvantage_up"
         }
     ],
     "attack_skills": {

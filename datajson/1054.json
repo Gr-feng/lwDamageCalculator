@@ -95,7 +95,8 @@
             "c": [],
             "cd": 4,
             "name": "霊話",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -115,7 +116,8 @@
             "c": [],
             "cd": 4,
             "name": "距離操作",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             "c": [],
             "cd": 4,
             "name": "死神の目",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

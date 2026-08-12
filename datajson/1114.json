@@ -46,10 +46,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 975,
-        "yang_def": 655,
-        "yin_atk": 1395,
-        "yin_def": 1385
+        "yang_atk": 995,
+        "yang_def": 720,
+        "yin_atk": 1920,
+        "yin_def": 1600
     },
     "chain_character": [
         1086,
@@ -95,7 +95,8 @@
             "c": [],
             "cd": 4,
             "name": "集団霊障",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -115,7 +116,8 @@
             "c": [],
             "cd": 4,
             "name": "アイドル・エイジ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             "c": [],
             "cd": 5,
             "name": "流刑の福徳神",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

@@ -78,7 +78,8 @@
             "c": [],
             "cd": 5,
             "name": "ごま団子",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -98,7 +99,8 @@
             "c": [],
             "cd": 5,
             "name": "みたらし団子",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -112,7 +114,8 @@
             "c": [],
             "cd": 3,
             "name": "あん団子",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

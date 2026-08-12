@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "裏面工作",
         "quality": 12111110,
         "quality_name": "落星",
-        "speed": 1300,
+        "speed": 1320,
         "subname": "耳元で囁く邪悪な白狐",
         "total": 6450,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1050,
-        "yang_def": 800,
-        "yin_atk": 1600,
-        "yin_def": 850
+        "yang_atk": 1070,
+        "yang_def": 820,
+        "yin_atk": 2120,
+        "yin_def": 1020
     },
     "chain_character": [
         1120,
@@ -98,7 +98,8 @@
             "c": [],
             "cd": 4,
             "name": "ヤドリガミ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -118,7 +119,8 @@
             "c": [],
             "cd": 4,
             "name": "予言の囁き",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             "c": [],
             "cd": 5,
             "name": "飯綱遣い",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

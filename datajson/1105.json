@@ -31,7 +31,7 @@
         "passivity_3_name": "リベンジャー",
         "quality": 10121012,
         "quality_name": "雷嵐",
-        "speed": 1400,
+        "speed": 1620,
         "subname": "夢幻のパーカッショニスト",
         "total": 6450,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 7,
         "world_group": "L1",
-        "yang_atk": 1350,
-        "yang_def": 840,
-        "yin_atk": 1050,
-        "yin_def": 810
+        "yang_atk": 1920,
+        "yang_def": 865,
+        "yin_atk": 1080,
+        "yin_def": 835
     },
     "chain_character": [
         1049,
@@ -85,7 +85,8 @@
             "c": [],
             "cd": 3,
             "name": "バックビート",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -105,7 +106,8 @@
             "c": [],
             "cd": 4,
             "name": "ダウンビート",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -125,7 +127,8 @@
             "c": [],
             "cd": 4,
             "name": "ブラストビート",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

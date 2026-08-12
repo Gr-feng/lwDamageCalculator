@@ -78,7 +78,8 @@
             ],
             "cd": 4,
             "name": "十六夜咲夜-スキルA",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 5,
             "name": "十六夜咲夜-スキルB",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 7,
             "name": "十六夜咲夜-スキルC",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

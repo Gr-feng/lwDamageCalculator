@@ -31,7 +31,7 @@
         "passivity_3_name": "リスクヘッジ",
         "quality": 2011121,
         "quality_name": "夕立",
-        "speed": 1025,
+        "speed": 1145,
         "subname": "商売繁盛の縁起物",
         "total": 6450,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 2,
         "world_group": "L1",
-        "yang_atk": 1400,
-        "yang_def": 1325,
-        "yin_atk": 825,
-        "yin_def": 825
+        "yang_atk": 1770,
+        "yang_def": 1485,
+        "yin_atk": 855,
+        "yin_def": 855
     },
     "chain_character": [
         1118,
@@ -93,7 +93,8 @@
             "c": [],
             "cd": 4,
             "name": "ミケのお店",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             "c": [],
             "cd": 4,
             "name": "独学販促法",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             "c": [],
             "cd": 5,
             "name": "商売上手な招き猫",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

@@ -83,7 +83,8 @@
             ],
             "cd": 4,
             "name": "歴程ステッキ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             ],
             "cd": 4,
             "name": "冒険ハット",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             ],
             "cd": 5,
             "name": "見て見ぬランプ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_atk_up_type3"
         }
     ],
     "attack_skills": {

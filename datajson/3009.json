@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "陽虚と陰実の境界",
         "quality": 10210112,
         "quality_name": "天泣",
-        "speed": 830,
+        "speed": 850,
         "subname": "[妖]神隠しの主犯",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 6,
         "world_group": "A7",
-        "yang_atk": 1400,
-        "yang_def": 905,
-        "yin_atk": 1700,
-        "yin_def": 1015
+        "yang_atk": 1620,
+        "yang_def": 1015,
+        "yin_atk": 1870,
+        "yin_def": 1035
     },
     "chain_character": [
         4011,
@@ -87,7 +87,8 @@
             "c": [],
             "cd": 4,
             "name": "現実と虚構の境界",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 5,
             "name": "攻撃と防御の境界",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 4,
             "name": "自身と他者の境界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -94,7 +94,8 @@
             ],
             "cd": 5,
             "name": "BD -03 353",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -120,7 +121,8 @@
             ],
             "cd": 5,
             "name": "HD 29139",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -146,7 +148,8 @@
             ],
             "cd": 5,
             "name": "LTT14184",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

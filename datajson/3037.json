@@ -119,7 +119,8 @@
             ],
             "cd": 5,
             "name": "儀式フレームの共鳴",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -145,7 +146,8 @@
             ],
             "cd": 4,
             "name": "カエル型修繕補給ユニット",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -171,7 +173,8 @@
             ],
             "cd": 6,
             "name": "ヘビ型換装ユニット",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_heal"
         }
     ],
     "attack_skills": {

@@ -31,7 +31,7 @@
         "passivity_3_name": "魔女の悪魔",
         "quality": 2111111,
         "quality_name": "春靄",
-        "speed": 950,
+        "speed": 1165,
         "subname": "[紅]名もなき小さな悪魔",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 2,
         "world_group": "A6",
-        "yang_atk": 1300,
-        "yang_def": 925,
-        "yin_atk": 1775,
-        "yin_def": 950
+        "yang_atk": 1320,
+        "yang_def": 945,
+        "yin_atk": 1845,
+        "yin_def": 1165
     },
     "chain_character": [
         2006,
@@ -94,7 +94,8 @@
             "c": [],
             "cd": 4,
             "name": "無形の0",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -120,7 +121,8 @@
             ],
             "cd": 3,
             "name": "虚無の00",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_resist_type8"
         },
         {
             "a": [
@@ -146,7 +148,8 @@
             ],
             "cd": 5,
             "name": "暗黒の000",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

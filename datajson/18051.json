@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "沉醉于伪恶世界的古明地恋的能力(东方归言录原创)。\n能力本身看似和通常的恋没有区别。\n恋对邪恶的魅力充满误解。她只是在笨拙地模仿恶敌而已。\n\n什么是邪恶横行霸道的季节？\n这种季节根本不存在。\n但历史中最适合掠夺的季节是秋季。\n特别是该瞄准收割粮食的时期。\n收割前果实与谷物尚未成熟，收割后需要跑进仓库。\n反过来讲，抽象化的秋天正是适合夺取盈余并转嫁亏损的季节。\n\n什么是恶？\n古明地恋不知道这个问题的答案。\n用逻辑几乎无法推导出善恶的境界。\n这是伦理的问题，是社会规范的对象，在宗教的管辖范围之内。\n善恶的起源，需要回溯到人类形成群落的时代。\n夺走他人的所有物，将亏损转嫁给他人……这些行为一旦盛行起来，群体就会瓦解，并失去秩序。\n这正是犯罪是犯罪的理由。\n感情不过是事后追加的理由。\n一旦社会失去秩序，文明就会毁灭，政治与经济也会崩溃，未来也会消失。\n之所以我们能过上便利而又安全的生活，并追求更高层次的幸福，正是因为有代代相传的秩序井然的文明社会。\n就是说我们可以将“恶”定义为让文明社会逆行或毁灭的危险因素。\n\n但真的是这样吗？\n我们时而能感觉到穿梭在规则缝隙之间的，建立在秩序之上的“恶”。\n革命、改革、法律尚未完善的未开拓领域中的先驱者以及创新者们的所作所为……这些都是典型的例子。\n刚才的定义已经开始摇摆不定。\n话说回来，我们必须遵守规则吗？\n归根究底……怎么做才算遵守规则？\n规则一定有解释的余地。\n没有解释的余地的规则，通常无法发挥功效。\n既然如此，利用规则漏洞也算遵守规则吗……不，规则不仅限于规则本身……等等。这类话题不是一言两语就能说清的。\n问题越来越复杂。\n\n我们不知道恋参考了哪些资料。即便恋并非纯粹的无意识存在，因为上述理由我们依然无法找到答案。\n恋以外的人，也会抵达同样的结论。\n妖怪是邪恶的存在吗？\n人类是善良的存在吗？\n妖怪也有善者。\n人类也有恶人。\n话说回来，妖怪是否认为自己是邪恶的存在？（恐怕也有会这么想的妖怪）\n即便对人类来讲是邪恶的存在，妖怪或许也不会将自己视作恶者，甚至不会将自己认定为善者。\n人类通过吞食其他动植物而延续生命是与善恶无关的事实，但对被吞食的一方来讲，人类一定是巨恶。\n不，对人类来讲……农场的家畜和田地的蔬菜或许算是恩人？\n曾经，人类尚未开始农耕的时代。\n在月光的指引下，人类通过狩猎野兽生活。\n为了家人获取食物是善行，但对被夺走生命的野生动物来讲，人类是邪恶的存在。\n但感谢食物，不浪费食物也是一种善性。\n动物恐怕不具备邪恶这种概念，某种意义上这些都不过是人类的想象。\n人类是在用善行来弥补恶行吗？\n还是说通过否定邪恶来感受到心中的善性吗？\n善是什么，恶是什么……我还是不知道答案。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>40%",
+        "ability_effect_d3": "每被施加1枚结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>黑暗</color>」，<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>1等级\n免疫结界异常「<color=#CCAA00>冻结</color>」「<color=#CCAA00>感电</color>」",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「操纵无意识程度的能力(恶堕)」",
         "advantage_attack": 40,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 8,
         "barrier_status_2": 1,
         "barrier_status_3": 1,
         "barrier_status_4": 0,
         "barrier_status_5": 8,
-        "bgm": 301805101,
+        "bgm": "アルターエゴ",
         "boost_buff": 5,
         "boost_target": 1,
         "break_cost": 503,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "アタック連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color>强度上升的一部分(3回合)",
+        "chain_name": "攻击连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是古明地恋。你不用在意。反正小恋我一定会消失！",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 6250,
-        "name": "古明地こいし",
-        "passivity_1_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.90<color=#00CC66>上昇</color> [発生率50%]",
+        "jp_name": "こめいじこいし",
+        "lines1": "我？我是古明地恋！我来自恶敌城堡！恶敌城堡是和这里不同的世界，是我们出生长大的……你有在听吗？你把我召唤过来了，所以我在和你说明诶？你为什么在碰笔记本？你这是听人说话的态度吗～？这样吗，对你来讲小恋不过是背景音吗？和风雨一样，是应当无视的存在吗。你认为我就该不为人知地消失吗！哼～！",
+        "lines10": "你为什么不联系我？ 你可以用笔记本联系我吧？你为什么每次都会迟到？你是想让我丧心病狂吗？",
+        "lines11": "你问心酱是不是我的妹妹？我知道你想表达什么。小恋我吃了太多苦，所以看起来比较成熟……你是这个意思吧。",
+        "lines12": "啊……姐姐。我是在玩过家家……。阿燐和阿空准备了饭菜，在等我回家？好，到点我就回去。",
+        "lines13": "心酱正在赏花会场表演能乐诶！ 哇～，她一定很幸福～！",
+        "lines14": "为了表现出夏日的炎热，心酱直接趴在了地上诶！ 哇，她也太会演了～！",
+        "lines15": "心酱，你不要吃这么多红薯。我知道红薯很好吃。我也知道我的料理不好吃！",
+        "lines16": "天冷了，所以你才贴着小恋我？你就这么想夺走我的热量？",
+        "lines17": "你为什么不做作业玩游戏？",
+        "lines18": "做完作业了？ 这就是你的目的吧？ 你是婴儿吗？ 好的好的，乖孩子乖孩子。",
+        "lines19": "这是你的传书。我知道我知道。对你来讲，小恋是搬运传书的机器。",
+        "lines2": "反正你没有在听我说话。",
+        "lines20": "抢累了抢累了～。……我知道我知道，小恋我连想被揉肩的念头都不该有！",
+        "lines21": "跑腿？ 什么不提前和我说一声？我明明有想要的东西。……唉。",
+        "lines22": "这样啊，对你来讲小恋我不过是枕头吗～。",
+        "lines23": "小恋我是你的安眠机器人对吧！好的好的，没问题～。",
+        "lines24": "不负责任地睡着了。剩下的事情都扔给小恋我了吗。好的好的，乖孩子乖孩子。",
+        "lines25": "弹幕游戏？ 哦，是恶敌游戏啊",
+        "lines26": "好的好的，我再也不来了～",
+        "lines27": "小恋我不是说过吗？ 你这样赢不了我。所以你才会输掉",
+        "lines28": "小恋我忍耐就行了吧？ 好的好的，我会忍耐的",
+        "lines29": "这件事也好！",
+        "lines3": "恶敌是掠夺者，也是破坏者。即是成果与衰退之秋。",
+        "lines30": "那件事也好！",
+        "lines31": "全都怪小恋我对吧！",
+        "lines32": "那好吧！",
+        "lines33": "小恋我是在多管闲事对吧！",
+        "lines34": "那我就不干了～！",
+        "lines35": "给你",
+        "lines36": "哦",
+        "lines37": "哼",
+        "lines38": "那就试试看呗？",
+        "lines39": "现在才想起来帮忙？小恋我不接受—",
+        "lines4": "单方面地掠夺，所以是贵族。重视家人，所以是姐妹。我有说什么奇怪的话吗？你有在听我说话吗？",
+        "lines40": "都怪小恋我对吧？对不起～！",
+        "lines41": "小恋我连休息的权利都没有吗？",
+        "lines42": "好的好的，小恋我为你做牛做马",
+        "lines43": "脏活都是小恋我来处理对吧—？",
+        "lines44": "你们凭什么排挤小恋我？",
+        "lines45": "心酱心酱　\n我们是姐妹吧！",
+        "lines46": "服装也好道具也好　我们都是同款　\n事到如今　你不会反悔吧！",
+        "lines47": "黑蔷薇「黑暗守望者·黑蔷薇」",
+        "lines48": "这么不想要的话　\n那就切掉吧！",
+        "lines49": "切掉吧　扔掉吧！　\n你一定觉得很碍事吧～！",
+        "lines5": "只顾争夺的话，资源迟早会枯竭？这么一说好像是诶。不知道有没有生产系的恶敌。虽然小恋我不感兴趣吧。",
+        "lines50": "切断「心灵重要部位大切除」",
+        "lines51": "你是不是觉得　我是理所当然的存在\n根本不值得珍惜？",
+        "lines52": "小恋我就不该期待别人～　\n无所谓了　真的无所谓了",
+        "lines53": "「反正没有人会在意我的内心」",
+        "lines54": "呜",
+        "lines55": "差不多适可而止吧。",
+        "lines56": "够了",
+        "lines57": "你事到如今在说些什么？",
+        "lines58": "真有眼力劲儿～！",
+        "lines59": "小恋我就知道会是这个结果",
+        "lines6": "小恋我每天都在为了大家做好多不为人知但又重要的事情。我连休息的时间和自由的时间都没有。我偶尔想旅旅游舒展身心。我好羡慕你诶，你什么时候都这么逍遥自在。",
+        "lines60": "东方归言录",
+        "lines61": "好的好的",
+        "lines62": "哦，那算了",
+        "lines63": "谢了～！",
+        "lines64": "姐姐！嗯，我回去时会小心的。",
+        "lines65": "真羡慕心酱。她只顾着无忧无虑地玩耍。",
+        "lines7": "我不知道我们的世界为什么会变成恶敌城堡的世界。但我大致上明白你想知道什么了。你是不是想让我为此出力？……没事，我已经习惯了。我会回应你的期待的。",
+        "lines8": "什么！？ 给小恋我！？ 好恶心～！",
+        "lines9": "我为你准备了饭菜，但你来得太慢了，所以我已经收起来了。料理被心酱开开心心地吃掉了，可我的心意白费了！",
+        "name": "古明地恋",
+        "passivity_1_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.90 [发生率50%]",
         "passivity_1_icon": "characteristic_icon_31",
-        "passivity_1_name": "黒令嬢(こいし)",
-        "passivity_2_description": "攻撃された時、<color=#CCAA00>受けるダメージ</color>を99%<color=#0066FF>ダウン</color> [発生率25%]",
+        "passivity_1_name": "黑千金(恋)",
+        "passivity_2_description": "被攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>99% [发生率25%]",
         "passivity_2_icon": "characteristic_icon_35",
-        "passivity_2_name": "無邪気な邪悪",
-        "passivity_3_description": "Wave開始時、相手単体に結界異常「<color=#CCAA00>暗闇</color>」を1枚<color=#0066FF>付与</color> (3T) [発生率100%]",
+        "passivity_2_name": "天真无邪的邪恶",
+        "passivity_3_description": "战斗开始时，对敌方单体<color=#0066FF>附加</color>1枚结界异常「<color=#CCAA00>黑暗</color>」 (3回合) [发生率100%]",
         "passivity_3_icon": "characteristic_icon_29",
-        "passivity_3_name": "悪意の秘め薔薇",
+        "passivity_3_name": "恶意之隐藏蔷薇",
         "quality": 1200111,
-        "quality_name": "プレスリップ",
+        "quality_description": "沉醉于伪恶世界的古明地恋的气质(东方归言录原创)。\n“Pre Slip”指地震的前兆。\n是符合沉迷于恶敌游戏的恋的气质。\n自由的想象力重组了她的气质。\n\n你的心情现在不重要。(强于火行)\n你说这些无关紧要的话干什么？(弱于水行)\n你以为能转移话题吗？(弱于木行)\n不要和我讲逻辑。(弱于日精)",
+        "quality_name": "Pre Slip",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 20,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "鸟之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "天之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "竹之华片-二",
+        "rank_up_lv1_1_value": 20,
+        "rank_up_lv1_2_name": "菊之华片-二",
+        "rank_up_lv1_2_value": 20,
+        "rank_up_lv1_3_name": "菊之华片-一",
+        "rank_up_lv1_3_value": 30,
+        "rank_up_lv1_4_name": "鸟之卷轴-二",
+        "rank_up_lv1_4_value": 20,
+        "rank_up_lv1_5_name": "鸟之卷轴-一",
+        "rank_up_lv1_5_value": 30,
+        "rank_up_lv1_6_name": "天之卷轴-二",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "鸟之卷轴-二",
+        "rank_up_lv2_1_value": 40,
+        "rank_up_lv2_2_name": "菊之华片-三",
+        "rank_up_lv2_2_value": 40,
+        "rank_up_lv2_3_name": "攻击指南书-二",
+        "rank_up_lv2_3_value": 40,
+        "rank_up_lv2_4_name": "鸟之卷轴-三",
+        "rank_up_lv2_4_value": 40,
+        "rank_up_lv2_5_name": "菊之华片-二",
+        "rank_up_lv2_5_value": 40,
+        "rank_up_lv2_6_name": "天之卷轴-三",
+        "rank_up_lv2_6_value": 40,
+        "rank_up_lv3_1_name": "竹之华片-三",
+        "rank_up_lv3_1_value": 50,
+        "rank_up_lv3_2_name": "菊之华片-三",
+        "rank_up_lv3_2_value": 50,
+        "rank_up_lv3_3_name": "攻击指南书-二",
+        "rank_up_lv3_3_value": 60,
+        "rank_up_lv3_4_name": "鸟之卷轴-三",
+        "rank_up_lv3_4_value": 50,
+        "rank_up_lv3_5_name": "龙之卷轴-二",
+        "rank_up_lv3_5_value": 60,
+        "rank_up_lv3_6_name": "天之卷轴-三",
+        "rank_up_lv3_6_value": 50,
+        "rank_up_lv4_1_name": "菊之华片-三",
+        "rank_up_lv4_1_value": 70,
+        "rank_up_lv4_2_name": "龙之卷轴-三",
+        "rank_up_lv4_2_value": 70,
+        "rank_up_lv4_3_name": "攻击指南书-三",
+        "rank_up_lv4_3_value": 70,
+        "rank_up_lv4_4_name": "鸟之卷轴-三",
+        "rank_up_lv4_4_value": 70,
+        "rank_up_lv4_5_name": "竹之华片-三",
+        "rank_up_lv4_5_value": 70,
+        "rank_up_lv4_6_name": "天之卷轴-三",
+        "rank_up_lv4_6_value": 70,
+        "short_name": "恋",
         "speed": 1850,
-        "subname": "心無きスワンプレディ",
+        "subname": "无心的沼泽少女",
         "total": 7800,
         "tribe": [
             5,
@@ -46,18 +182,36 @@
             95
         ],
         "type": 7,
+        "vocal1": "鷲見友美ジェナ",
+        "vocal2": "近貞月乃",
+        "vocal3": "徳井青空",
+        "voice1": "水过于深的淑女程度的声音",
+        "voice2": "过度的恶女过家家程度的声音",
+        "voice3": "过于黑暗的深层心理程度的声音",
         "world_group": "C8≪",
+        "world_group_description": "“C系列的世界团（C世界团）”中的世界群之一。\n“C8世界群”在“C世界团”中偏差度是“8”左右，是照理说几乎不会成立的世界群。\n“C”是“Colloquialism”，是意味着“口语”的符号。\n日语中的接尾词“≪”意味着朝特定方向发生变化，在这个世界群中的含义是“气质固定在收割的季节”。\n\n【主要的分歧点】\n虽然不知道原因，但气质被固定在了收割的季节。\n通常情况下是收获夏日的阳光与风雨孕育出的农作物的季节。\n但因为季节不会循环，在这个世界只能强行在颗粒无收的土地进行收割。\n\n【主要的汇合点】\n收获的季节自然是物资流通的季节。\n换句话说，也是适合抢夺·浪费物资，将亏损转嫁在他人身上的季节。\n贵族为什么会没落？\n巨大国家为什么会灭亡？\n答案是因为试图在颗粒无收的土地进行收割。\n收获的季节，也是衰退的季节。",
+        "world_group_name": "C8≪世界群",
         "yang_atk": 1400,
         "yang_def": 700,
         "yin_atk": 1850,
-        "yin_def": 750
+        "yin_def": 750,
+        "id": 18051
     },
     "chain_character": [
-        11087
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "沉醉于伪恶世界的恋的常服。\n理应不会歇斯底里的无意识少女。",
+            "costume_name1": "无心的沼泽少女"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 5,
@@ -80,10 +234,12 @@
                 40
             ],
             "cd": 4,
-            "name": "割れたオペラグラス",
-            "id": 1
+            "name": "破碎的观剧镜",
+            "description": "观剧镜碎掉就没有意味了。\n漫反射的现实已经不是现实了。",
+            "icon": "skill_icon_barrier_blind"
         },
         {
+            "id": 2,
             "a": [
                 49,
                 2,
@@ -106,10 +262,12 @@
                 3
             ],
             "cd": 5,
-            "name": "切除の鉈包丁",
-            "id": 2
+            "name": "切除之砍刀",
+            "description": "不需要的东西必须切除。\n要不然全身都会烂掉。",
+            "icon": "skill_icon_disadvantage_up"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 8,
@@ -132,8 +290,9 @@
                 1
             ],
             "cd": 5,
-            "name": "ブラックドレス(無意識)",
-            "id": 3
+            "name": "黑色连衣裙(无意识)",
+            "description": "每个人的心中都潜藏着恶意。\n那么恶意是什么？",
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {
@@ -170,13 +329,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_barrier_blind"
@@ -190,13 +342,6 @@
                     [
                         "skill_icon_yin_atk_up"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -234,6 +379,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111g",
+                "all_order_1": "12121211111111111111g",
+                "all_order_2": "1212121113131311141411111g",
+                "all_order_3": "12121211131313111414111515616g",
                 "break": [
                     0,
                     0,
@@ -241,8 +389,9 @@
                     0,
                     6
                 ],
+                "description": "沉醉于伪恶世界的古明地恋的符卡(东方归言录原创)。\n恶堕游戏的弹幕。\n虽然不是很懂，但这么做应该就对了。\n重要的是无视规则，做不能做的事情。\n为什么不能挖苦别人？为什么不能擅自断定对方的想法？\n现在一想，自己从来没有问过姐姐和阿燐阿空不能这么做的理由。",
                 "first_order": 1,
-                "name": "黒薔薇「ダークウォッチ・ブラックローズ」",
+                "name": "黑蔷薇「黑暗守望者·黑蔷薇」",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -259,14 +408,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121211111111111111g",
-                "all_order_2": "1212121113131311141411111g",
-                "all_order_3": "12121211131313111414111515616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 17,
                     "boost": 0,
@@ -290,14 +437,15 @@
                         22,
                         159
                     ],
-                    "name": "闇落ち黒薔薇",
-                    "order": "",
+                    "name": "恶堕黑蔷薇",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 3,
                     "boost": 1,
@@ -323,14 +471,15 @@
                         33,
                         159
                     ],
-                    "name": "闇落ち大黒薔薇",
-                    "order": "",
+                    "name": "恶堕大黑蔷薇",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 85,
                     "amt": 3,
                     "boost": 2,
@@ -344,14 +493,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "闇落ち特黒薔薇",
-                    "order": "",
+                    "name": "恶堕特黑蔷薇",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 85,
                     "amt": 2,
                     "boost": 2,
@@ -376,14 +526,15 @@
                         22,
                         159
                     ],
-                    "name": "闇落ち超黒薔薇",
-                    "order": "",
+                    "name": "恶堕超黑蔷薇",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -400,14 +551,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "闇落ち極黒薔薇",
-                    "order": "",
+                    "name": "恶堕极黑蔷薇",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -432,24 +584,21 @@
                         33,
                         159
                     ],
-                    "name": "闇落ち最黒薔薇",
-                    "order": "",
+                    "name": "恶堕最黑蔷薇",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 9,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "111234111g",
+                "all_order_2": "1112341151g",
+                "all_order_3": "11123411516g",
                 "break": [
                     0,
                     0,
@@ -457,8 +606,9 @@
                     0,
                     0
                 ],
+                "description": "沉醉于伪恶世界的古明地恋的扩散射击(东方归言录原创)。\n用心爱的砍刀一刀两断的弹幕。\n恶堕？恶女？……坏孩子？那是什么能吃吗？\n至少恋知道不是自己现在这个样子。\n然而恋不存在表层意识，因此无法理解这种问题。\n她只是喜欢有趣的事情而已。\n那就试试看吧。",
                 "first_order": 1,
-                "name": "レディースマチェット",
+                "name": "Ladies Machete",
                 "power_rate": 79,
                 "damage_extend": [
                     100,
@@ -475,14 +625,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "111234111g",
-                "all_order_2": "1112341151g",
-                "all_order_3": "11123411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 6,
                     "boost": 0,
@@ -509,14 +657,15 @@
                         33,
                         159
                     ],
-                    "name": "レディースマチェット",
-                    "order": "",
+                    "name": "Ladies Machete",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -536,14 +685,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ハイレディースマチェット",
-                    "order": "",
+                    "name": "High Ladies Machete",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -560,14 +710,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガレディースマチェット",
-                    "order": "",
+                    "name": "Mega Ladies Machete",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -591,14 +742,15 @@
                         33,
                         159
                     ],
-                    "name": "ギガレディースマチェット",
-                    "order": "",
+                    "name": "Giga Ladies Machete",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -621,14 +773,15 @@
                         22,
                         159
                     ],
-                    "name": "テラレディースマチェット",
-                    "order": "",
+                    "name": "Tera Ladies Machete",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -655,12 +808,12 @@
                         33,
                         159
                     ],
-                    "name": "ペタレディースマチェット",
-                    "order": "",
+                    "name": "Peta Ladies Machete",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -761,6 +914,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111g",
+                "all_order_1": "12121212111313131131111111111g",
+                "all_order_2": "1212121211131313113114141411151511g",
+                "all_order_3": "12121212111313131131141414111515116g",
                 "break": [
                     0,
                     0,
@@ -768,8 +924,9 @@
                     0,
                     6
                 ],
+                "description": "沉醉于伪恶世界的古明地恋的符卡(东方归言录原创)。\n扮演坏人的弹幕。\n恋不太能理解什么是感情受到伤害。\n就是说不能让别人心里涌现出这类感情吗？\n别人对我说这些话，我也不会有什么感觉。\n恋本来就是坏孩子。事到如今不可能会在意这种问题。",
                 "first_order": 1,
-                "name": "切断「心の大事なところ大切除」",
+                "name": "切断「心灵重要部位大切除」",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -786,14 +943,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121212111313131131111111111g",
-                "all_order_2": "1212121211131313113114141411151511g",
-                "all_order_3": "12121212111313131131141414111515116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 21,
                     "boost": 0,
@@ -816,14 +971,15 @@
                         33,
                         159
                     ],
-                    "name": "ココロセツジョ",
-                    "order": "",
+                    "name": "心灵切除",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 4,
                     "boost": 1,
@@ -843,14 +999,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大ココロセツジョ",
-                    "order": "",
+                    "name": "大心灵切除",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 4,
                     "boost": 1,
@@ -878,14 +1035,15 @@
                         33,
                         159
                     ],
-                    "name": "特ココロセツジョ",
-                    "order": "",
+                    "name": "特心灵切除",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 85,
                     "amt": 3,
                     "boost": 2,
@@ -902,14 +1060,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超ココロセツジョ",
-                    "order": "",
+                    "name": "超心灵切除",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 85,
                     "amt": 2,
                     "boost": 2,
@@ -934,14 +1093,15 @@
                         22,
                         159
                     ],
-                    "name": "極ココロセツジョ",
-                    "order": "",
+                    "name": "极心灵切除",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -965,24 +1125,21 @@
                         22,
                         159
                     ],
-                    "name": "最ココロセツジョ",
-                    "order": "",
+                    "name": "最心灵切除",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111g",
+                "all_order_1": "1211311g",
+                "all_order_2": "121131415g",
+                "all_order_3": "1211314156g",
                 "break": [
                     0,
                     0,
@@ -990,8 +1147,9 @@
                     0,
                     0
                 ],
+                "description": "沉醉于伪恶世界的古明地恋的集中射击(东方归言录原创)。\n用心爱的破碎的观剧镜观察的弹幕。\n恋按照自己的方式做了不少功课。\n话是这么说，恋不具备学习的意志或奋斗过程中的痛苦之类的概念。\n她只是为了享乐而随心所欲地触碰信息而已。\n这就是她学习的结果。\n为什么会这样？",
                 "first_order": 1,
-                "name": "スワンプグラス",
+                "name": "Swamp Glass",
                 "power_rate": 28,
                 "damage_extend": [
                     100,
@@ -1008,14 +1166,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1211311g",
-                "all_order_2": "121131415g",
-                "all_order_3": "1211314156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 5,
                     "boost": 0,
@@ -1037,14 +1193,15 @@
                         22,
                         159
                     ],
-                    "name": "スワンプグラス",
-                    "order": "",
+                    "name": "Swamp Glass",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -1067,14 +1224,15 @@
                         33,
                         159
                     ],
-                    "name": "ハイスワンプグラス",
-                    "order": "",
+                    "name": "High Swamp Glass",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 1,
                     "boost": 1,
@@ -1094,14 +1252,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガスワンプグラス",
-                    "order": "",
+                    "name": "Mega Swamp Glass",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1126,14 +1285,15 @@
                         33,
                         159
                     ],
-                    "name": "ギガスワンプグラス",
-                    "order": "",
+                    "name": "Giga Swamp Glass",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1153,14 +1313,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラスワンプグラス",
-                    "order": "",
+                    "name": "Tera Swamp Glass",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -1187,12 +1348,12 @@
                         22,
                         159
                     ],
-                    "name": "ペタスワンプグラス",
-                    "order": "",
+                    "name": "Peta Swamp Glass",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1235,13 +1396,6 @@
                         4
                     ]
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yin_atk_up"
@@ -1258,13 +1412,6 @@
                     [
                         "skill_icon_dodge_down"
                     ]
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
                 ],
                 "type_before": [
                     [
@@ -1301,6 +1448,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111111111g",
+                "all_order_1": "1212121212111111111111111111111g",
+                "all_order_2": "121212121211131311331114141414111111111g",
+                "all_order_3": "121212121211131311331114141414111511151511666g",
                 "break": [
                     0,
                     0,
@@ -1308,8 +1458,9 @@
                     0,
                     6
                 ],
+                "description": "沉醉于伪恶世界的古明地恋的终符(东方归言录原创)。\n恶敌游戏的弹幕。\n调查坏孩子？时，恋遇到了一名少女。\n这名少女为了寻求“需要的东西”而踏上了漫长的旅途。\n穿着漆黑而又可爱的服装的少女，可以用帅到异常来形容。\n少女的面孔……仿佛就是镜子中的自己。\n“你的东西我都有。你没有值得我夺走的东西，所以放你一马”。\n……她这话是什么意思？感觉有点不爽诶。\n“所以反过来……“这个”就给你了。我多的是。”……从少女体内出现的什么东西涌入了恋的体内。\n回过神来少女已经不见了，但是恋的心中多了什么东西。\n原来如此……只要模仿那孩子，我就能成为坏孩子！\n关于这个事实的记忆很快就消失了，只剩下了动机。\n虽然模仿没有成功吧。",
                 "first_order": 1,
-                "name": "「どうせ私の心になんて誰ひとり見向きもしないんだ」",
+                "name": "「反正没有人会在意我的内心」",
                 "power_rate": 9,
                 "damage_extend": [
                     100,
@@ -1326,14 +1477,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212121212111111111111111111111g",
-                "all_order_2": "121212121211131311331114141414111111111g",
-                "all_order_3": "121212121211131311331114141414111511151511666g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 100,
                     "amt": 26,
                     "boost": 0,
@@ -1357,14 +1506,15 @@
                         33,
                         159
                     ],
-                    "name": "路傍の黒小石",
-                    "order": "",
+                    "name": "路边的黑小石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 95,
                     "amt": 5,
                     "boost": 1,
@@ -1391,14 +1541,15 @@
                         33,
                         159
                     ],
-                    "name": "大路傍の黒小石",
-                    "order": "",
+                    "name": "大路边的黑小石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 90,
                     "amt": 4,
                     "boost": 2,
@@ -1415,14 +1566,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "特路傍の黒小石",
-                    "order": "",
+                    "name": "特路边的黑小石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 90,
                     "amt": 4,
                     "boost": 2,
@@ -1449,14 +1601,15 @@
                         33,
                         159
                     ],
-                    "name": "超路傍の黒小石",
-                    "order": "",
+                    "name": "超路边的黑小石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 85,
                     "amt": 3,
                     "boost": 3,
@@ -1476,14 +1629,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極路傍の黒小石",
-                    "order": "",
+                    "name": "极路边的黑小石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 85,
                     "amt": 3,
                     "boost": 3,
@@ -1514,12 +1668,12 @@
                         33,
                         159
                     ],
-                    "name": "最路傍の黒小石",
-                    "order": "",
+                    "name": "最路边的黑小石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

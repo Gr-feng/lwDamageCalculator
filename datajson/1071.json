@@ -79,7 +79,8 @@
             "c": [],
             "cd": 5,
             "name": "総序の呪歌",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 6,
             "name": "千歳之舞",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -119,7 +121,8 @@
             "c": [],
             "cd": 5,
             "name": "生命神楽",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_up"
         }
     ],
     "attack_skills": {

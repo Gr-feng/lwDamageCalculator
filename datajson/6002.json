@@ -93,7 +93,8 @@
             ],
             "cd": 4,
             "name": "抜け目ない防寒対策",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -119,7 +120,8 @@
             ],
             "cd": 5,
             "name": "八卦炉暖房テスト",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             "c": [],
             "cd": 8,
             "name": "冬恋し森羅結界",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

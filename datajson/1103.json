@@ -96,7 +96,8 @@
             "c": [],
             "cd": 4,
             "name": "護法の金輪",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -116,7 +117,8 @@
             "c": [],
             "cd": 5,
             "name": "法力集中",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             "c": [],
             "cd": 8,
             "name": "巨大化(雲山)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

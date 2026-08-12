@@ -104,7 +104,8 @@
             ],
             "cd": 4,
             "name": "地母神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -130,7 +131,8 @@
             ],
             "cd": 5,
             "name": "星神",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -156,7 +158,8 @@
             ],
             "cd": 6,
             "name": "能楽の神",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_storage_type03"
         }
     ],
     "attack_skills": {

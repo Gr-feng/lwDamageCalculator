@@ -92,7 +92,8 @@
             "c": [],
             "cd": 4,
             "name": "念仏三昧",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             "c": [],
             "cd": 5,
             "name": "迦楼羅天の翼覆",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             "c": [],
             "cd": 5,
             "name": "剣鎧護法童子の加護",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_attract_up"
         }
     ],
     "attack_skills": {

@@ -31,7 +31,7 @@
         "passivity_3_name": "ウチアイバタラキ",
         "quality": 2210111,
         "quality_name": "蜃気楼",
-        "speed": 825,
+        "speed": 870,
         "subname": "表情豊かなポーカーフェイス",
         "total": 6450,
         "tribe": [
@@ -44,10 +44,10 @@
         ],
         "type": 3,
         "world_group": "L1",
-        "yang_atk": 1205,
-        "yang_def": 895,
-        "yin_atk": 1405,
-        "yin_def": 905
+        "yang_atk": 1270,
+        "yang_def": 920,
+        "yin_atk": 1720,
+        "yin_def": 1020
     },
     "chain_character": [
         1024,
@@ -99,7 +99,8 @@
             "c": [],
             "cd": 4,
             "name": "慈童面",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -119,7 +120,8 @@
             "c": [],
             "cd": 4,
             "name": "大癋見面",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             "c": [],
             "cd": 4,
             "name": "真蛇面",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

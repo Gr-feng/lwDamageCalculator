@@ -31,7 +31,7 @@
         "passivity_3_name": "茨華仙の威圧",
         "quality": 10011122,
         "quality_name": "彩雲",
-        "speed": 1095,
+        "speed": 1120,
         "subname": "片腕有角の仙人",
         "total": 6900,
         "tribe": [
@@ -52,10 +52,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1285,
-        "yang_def": 1045,
-        "yin_atk": 1200,
-        "yin_def": 1105
+        "yang_atk": 1705,
+        "yang_def": 1070,
+        "yin_atk": 1335,
+        "yin_def": 1140
     },
     "chain_character": [
         1001,
@@ -102,21 +102,26 @@
             "a": [
                 1,
                 4,
-                1,
+                2,
                 3,
                 3
             ],
             "b": [
                 1,
                 2,
-                1,
+                2,
                 3,
-                2
+                3
             ],
-            "c": [],
+            "c": [5,
+                0,
+                2,
+                1,
+                10],
             "cd": 4,
             "name": "調息法",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -136,7 +141,8 @@
             "c": [],
             "cd": 3,
             "name": "行気法",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -149,20 +155,21 @@
             "b": [
                 1,
                 1,
-                1,
                 2,
+                3,
                 2
             ],
             "c": [
                 1,
                 3,
                 1,
-                2,
-                2
+                3,
+                3
             ],
             "cd": 4,
             "name": "茨木の百薬枡",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {
@@ -302,7 +309,7 @@
                     "element": 4,
                     "id": 733,
                     "killers": [
-                        0
+                        54
                     ],
                     "name": "水龍気塊弾",
                     "order": 1,
@@ -326,7 +333,7 @@
                     "element": 4,
                     "id": 734,
                     "killers": [
-                        0
+                        54
                     ],
                     "name": "水龍練気砲",
                     "order": 2,
@@ -753,7 +760,7 @@
                     "element": 7,
                     "id": 739,
                     "killers": [
-                        0
+                        8
                     ],
                     "name": "巨岩投擲",
                     "order": 1,
@@ -777,7 +784,7 @@
                     "element": 7,
                     "id": 740,
                     "killers": [
-                        0
+                        8
                     ],
                     "name": "巨岩粉砕",
                     "order": 2,
@@ -1217,7 +1224,7 @@
                     "element": 3,
                     "id": 745,
                     "killers": [
-                        0
+                        8,54
                     ],
                     "name": "鬚切返し",
                     "order": 1,
@@ -1241,7 +1248,7 @@
                     "element": 3,
                     "id": 746,
                     "killers": [
-                        54
+                        8,54
                     ],
                     "name": "対英雄爆熱",
                     "order": 3,
@@ -1321,7 +1328,7 @@
                     "element": 9,
                     "id": 749,
                     "killers": [
-                        0
+                        8,54
                     ],
                     "name": "神貫手",
                     "order": 22,
@@ -1348,7 +1355,7 @@
                     "element": 3,
                     "id": 750,
                     "killers": [
-                        54
+                        8,54
                     ],
                     "name": "対英雄爆熱",
                     "order": 26,

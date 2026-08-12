@@ -103,7 +103,8 @@
             ],
             "cd": 4,
             "name": "リフリジレーター(姉)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -129,7 +130,8 @@
             ],
             "cd": 4,
             "name": "フリーザー(姉)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -155,7 +157,8 @@
             ],
             "cd": 8,
             "name": "究極極寒のお姉ちゃん",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

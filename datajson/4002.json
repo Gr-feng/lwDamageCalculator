@@ -31,7 +31,7 @@
         "passivity_3_name": "ひねくれ者",
         "quality": 2111201,
         "quality_name": "雨",
-        "speed": 1400,
+        "speed": 1670,
         "subname": "[紅]奇妙な魔法使い",
         "total": 6900,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 7,
         "world_group": "A6",
-        "yang_atk": 1560,
-        "yang_def": 895,
-        "yin_atk": 1175,
-        "yin_def": 850
+        "yang_atk": 1760,
+        "yang_def": 965,
+        "yin_atk": 1205,
+        "yin_def": 880
     },
     "chain_character": [
         4001,
@@ -94,7 +94,8 @@
             "c": [],
             "cd": 3,
             "name": "隠しアイテム",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -114,7 +115,8 @@
             "c": [],
             "cd": 4,
             "name": "錆びかけのミニ八卦炉",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -140,7 +142,8 @@
             ],
             "cd": 5,
             "name": "借りた魔導書",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

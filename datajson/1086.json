@@ -78,7 +78,8 @@
             "c": [],
             "cd": 5,
             "name": "リスポーン",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -98,7 +99,8 @@
             "c": [],
             "cd": 5,
             "name": "墓守り",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -124,7 +126,8 @@
             ],
             "cd": 5,
             "name": "霊喰い",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_attract_up"
         }
     ],
     "attack_skills": {

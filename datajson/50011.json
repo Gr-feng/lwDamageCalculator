@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "这是慢慢来妖梦的能力（东方归言录原创）。\n慢慢来们所拥有的「慢慢来程度的能力」，似乎包含了一部分其主人自身的能力。\n因此，慢慢来妖梦也拥有「慢慢使用剑术程度的能力」。\n剑术的必胜法之一，便是不战而胜。若能达到剑不出鞘、甚至无需交战便让对方认输的境界，就绝不会败北——这便是所谓的必胜之理。\n若将剑术修炼至极其缓慢的境地，其动作便会无限趋近于静止。终有一日便无需挥刀，仅凭剑术本身即可取胜。魂魄妖梦这份志存高远的钻研之心，或许慢慢来妖梦也继承下来了。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "",
+        "ability_effect_d3": "",
+        "ability_effect_d4": "使用灵力强化时，自身<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「慢慢来程度的能力」",
         "advantage_attack": 0,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 0,
         "barrier_status_2": 0,
         "barrier_status_3": 0,
         "barrier_status_4": 0,
         "barrier_status_5": 0,
-        "bgm": 0,
+        "bgm": "没有BGM",
         "boost_buff": 6,
         "boost_target": 0,
         "break_cost": 0,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>陽攻、陰攻、CRI攻撃、CRI命中</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "アタック連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>阳攻、阴攻、会心攻击、会心命中</color>强度上升的一部分(3回合)",
+        "chain_name": "攻击连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是油库里妖梦。是白玉楼的剑术指导兼园艺师兼“油库里”。我明明还是个半吊子却身兼多职，实属惭愧！",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
-        "name": "ゆっくりようむ",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>斬撃</color>から受けるダメージを15%<color=#0066FF>ダウン</color> [発生率100%]",
+        "jp_name": "ゆっくりようむ",
+        "lines1": "我是油库里妖梦。是白玉楼的剑术指导兼园艺师兼“油库里”。我还是个半吊子，也是半人半灵，和圆圆的半灵是二人三足的关系……但仔细一想我和半灵都没有脚诶……？ 算了。我听说幽灵一般都没有脚。等等？ 就是说“油库里”是幽灵？ 请告诉我真相，幽幽子大人！",
+        "lines10": "我有时候也会作为园艺师修剪白玉楼的树木。但我比较笨拙，所以妖梦往往会重剪。",
+        "lines11": "妖梦可以让半灵模仿她的样子。但我和半灵已经很像了，所以可以玩幻影游戏。可惜了，你眼前的是半灵哦？",
+        "lines12": "为了告诫一旦入迷就会忘乎所以的自己，我被赋予了楼观剑与白楼剑……这即是摆在我面前的两个选项！",
+        "lines13": "春天的冥界到处都是赏花客，连我这样的“油库里”都得送赏花便当。",
+        "lines14": "为了乘凉出现在冥界的人们会试图把我冰凉的半灵带回去！ 我的半灵可不是冥土的礼物……。",
+        "lines15": "秋天的院子到处都是落叶，打扫起来很麻烦。我用不好扫把，所以一直在啃落叶。结果妖梦担心起了我的胃。",
+        "lines16": "看着在石臼里被木杵不断捶打的年糕，我会产生一种自己在被捣的错觉。我的半灵时不时会瑟瑟发抖。",
+        "lines17": "我在和幽幽子大人一起生活，所以很习惯做作业！",
+        "lines18": "我得询问一下幽幽子大人作业的达成情况……。",
+        "lines19": "我读不懂传书，但这也不是我该知道的事情。",
+        "lines2": "你身上散发着一股异常的气息，所以我不由自主地就挥刀了……。",
+        "lines20": "我回来了！ 大家没事吧？",
+        "lines21": "原来我以外的大家也能跑腿！",
+        "lines22": "慢慢来。",
+        "lines23": "需要做的事情只有一个，需要做的事情只有一个。",
+        "lines24": "我随时可以准备“油库里大餐”！",
+        "lines25": "我是油库里妖梦。",
+        "lines26": "坐在半灵上———。",
+        "lines27": "一刀两断二刀寸断。这正是本“油库里”的修行成果",
+        "lines28": "可惜油库里刀作为战力来讲差强人意……",
+        "lines29": "油！",
+        "lines3": "为表歉意，我会照顾你的！",
+        "lines30": "油油油油！",
+        "lines31": "油库里！",
+        "lines32": "刀光剑影！",
+        "lines33": "打打杀杀！",
+        "lines34": "一分为二！",
+        "lines35": "我的剑技可精湛了！",
+        "lines36": "你肚子饿了吗？",
+        "lines37": "没错，我能砍！",
+        "lines38": "不，我能砍哦？",
+        "lines39": "那我就砍了—！",
+        "lines4": "我们一起修行，成为像这两把刀一样的，幽幽子大人的左右手吧！什么？你不侍奉幽幽子大人……？",
+        "lines40": "一刀两断，二刀寸断",
+        "lines41": "和半灵一起待机！",
+        "lines42": "与油库里刀一起参上",
+        "lines43": "看我把你砍趴下……糟糕！",
+        "lines44": "斩断蓝色的月夜！",
+        "lines45": "和半灵的组合技，这正是我独创的剑技",
+        "lines46": "业风与一闪会同时袭击你――",
+        "lines47": "油符「业风神闪斩」",
+        "lines48": "温暖的春风……我有些困了……",
+        "lines49": "要不然和半灵一起回白玉楼吧……有破绽！",
+        "lines5": "感谢你愿意与我一起修行！我深感荣幸！ 我得把你的修行成果也告诉幽幽子大人。既然如此，我是不是也该告诉油库里主的幽幽子大人？ 不，在那之前我得先告诉妖梦……。",
+        "lines50": "油符「西行春风斩」",
+        "lines51": "冥界·白玉楼的剑术指导兼“油库里”的奥义！",
+        "lines52": "这正是半人半灵的半吊子，四分之一吊子的修行成果",
+        "lines53": "「油库里反射卫星斩」",
+        "lines54": "我能……扛得住哦？",
+        "lines55": "啊啊啊啊啊啊啊啊啊啊",
+        "lines56": "全力防御的话，勉强能抗住……！",
+        "lines57": "卸力！",
+        "lines58": "这份恩情，我将以剑相报！",
+        "lines59": "各位从冥界重来吧",
+        "lines6": "我当然无比信赖幽幽子大人以及油库里主的幽幽子大人。但我对你的这份信赖……应该说是对战友的信赖吧。对我来讲，你是我的第三把刀。",
+        "lines60": "东方归言录",
+        "lines61": "油，油。",
+        "lines62": "油油油油油……。",
+        "lines63": "油油！？",
+        "lines64": "幽幽子大人！ 拿半灵做天妇罗的话……油会溅得到处都是！",
+        "lines65": "无法斩断的东西，几乎不存在……倒也没有这回事！ 因为我是“油库里”……。",
+        "lines7": "我原本是为了赔罪才一直陪伴至今。但看到你一心一意的样子，我不禁想要效忠于你……。明明是这样，你却不希望我当你的从者，而是想和我继续当朋友！ 真拿你没办法。那我们要不要一起玩？",
+        "lines8": "日复一日的修行总算见效了！ 我情不自禁想要来一记居合斩。",
+        "lines9": "等你回来的这段时间也是修行的一环吗。我的忍耐力提升了。",
+        "name": "油库里妖梦",
+        "passivity_1_description": "被攻击时，受到来自<color=#CCAA00>斩击</color>的伤害<color=#0066FF>下降</color>15% [发生率100%]",
         "passivity_1_icon": "characteristic_icon_40",
-        "passivity_1_name": "剣士の丸み",
-        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>陽攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率20%]",
+        "passivity_1_name": "圆圆剑士",
+        "passivity_2_description": "被攻击后，自身<color=#CCAA00>阳攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率20%]",
         "passivity_2_icon": "characteristic_icon_1",
-        "passivity_2_name": "ちっちゃな白楼剣",
-        "passivity_3_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率20%]",
+        "passivity_2_name": "小小白楼剑",
+        "passivity_3_description": "被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率20%]",
         "passivity_3_icon": "characteristic_icon_3",
-        "passivity_3_name": "ちっちゃな楼観剣",
+        "passivity_3_name": "小小楼观剑",
         "quality": 2011121,
-        "quality_name": "あおぞら！",
+        "quality_description": "油库里妖梦的气质(东方归言录原创)。\n“蓝天！”指春天多见的美丽蓝色天空。别名是“苍天”。\n蓝天是清澈内心的象征，同时也象征着除此之外什么都没有的空虚。是符合耿直的同时又缺少自主性的油库里妖梦的气质。\n油库里妖梦同时具备随身携带的二刀的气质（金行），与慢慢跟随冥界管理者的油库里的气质（星精）。\n\n冷淡而又沉默的金行由于“土生金”对土行具备抗性，由于“火克金”而对火行不利。\n象征着多样性与特立独行的星精对象征着协调性与优柔寡断的月精具备抗性，不擅长应对象征着绝对魅力与傲慢的日精。",
+        "quality_name": "蓝天！",
+        "rank_up_lv0_1_name": "攻击指南书-一",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "防御指南书-一",
+        "rank_up_lv0_2_value": 10,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 5,
+        "rank_up_lv0_4_name": "真南蛮",
+        "rank_up_lv0_4_value": 5,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 5,
+        "rank_up_lv0_6_name": "佐曾罗",
+        "rank_up_lv0_6_value": 5,
+        "rank_up_lv1_1_name": "虎之卷轴-二",
+        "rank_up_lv1_1_value": 5,
+        "rank_up_lv1_2_name": "龙之卷轴-一",
+        "rank_up_lv1_2_value": 10,
+        "rank_up_lv1_3_name": "兰之华片-一",
+        "rank_up_lv1_3_value": 10,
+        "rank_up_lv1_4_name": "梅之华片-二",
+        "rank_up_lv1_4_value": 5,
+        "rank_up_lv1_5_name": "虎之卷轴-一",
+        "rank_up_lv1_5_value": 10,
+        "rank_up_lv1_6_name": "梅之华片-一",
+        "rank_up_lv1_6_value": 10,
+        "rank_up_lv2_1_name": "虎之卷轴-三",
+        "rank_up_lv2_1_value": 10,
+        "rank_up_lv2_2_name": "龙之卷轴-二",
+        "rank_up_lv2_2_value": 10,
+        "rank_up_lv2_3_name": "虎之卷轴-二",
+        "rank_up_lv2_3_value": 10,
+        "rank_up_lv2_4_name": "梅之华片-三",
+        "rank_up_lv2_4_value": 10,
+        "rank_up_lv2_5_name": "梅之华片-二",
+        "rank_up_lv2_5_value": 10,
+        "rank_up_lv2_6_name": "攻击指南书-一",
+        "rank_up_lv2_6_value": 10,
+        "rank_up_lv3_1_name": "虎之卷轴-三",
+        "rank_up_lv3_1_value": 10,
+        "rank_up_lv3_2_name": "龙之卷轴-三",
+        "rank_up_lv3_2_value": 10,
+        "rank_up_lv3_3_name": "兰之华片-二",
+        "rank_up_lv3_3_value": 15,
+        "rank_up_lv3_4_name": "梅之华片-二",
+        "rank_up_lv3_4_value": 15,
+        "rank_up_lv3_5_name": "风之卷轴-二",
+        "rank_up_lv3_5_value": 15,
+        "rank_up_lv3_6_name": "攻击指南书-二",
+        "rank_up_lv3_6_value": 15,
+        "rank_up_lv4_1_name": "虎之卷轴-三",
+        "rank_up_lv4_1_value": 15,
+        "rank_up_lv4_2_name": "龙之卷轴-三",
+        "rank_up_lv4_2_value": 15,
+        "rank_up_lv4_3_name": "梅之华片-三",
+        "rank_up_lv4_3_value": 15,
+        "rank_up_lv4_4_name": "风之卷轴-三",
+        "rank_up_lv4_4_value": 15,
+        "rank_up_lv4_5_name": "兰之华片-三",
+        "rank_up_lv4_5_value": 15,
+        "rank_up_lv4_6_name": "攻击指南书-三",
+        "rank_up_lv4_6_value": 15,
+        "short_name": "妖梦",
         "speed": 100,
-        "subname": "ゆっくりしていってね",
+        "subname": "慢慢来",
         "total": 4500,
         "tribe": [
             204,
@@ -40,14 +176,22 @@
             65
         ],
         "type": 6,
+        "vocal1": "",
+        "vocal2": "无",
+        "vocal3": "无",
+        "voice1": "慢慢来程度的声音",
+        "voice2": "无",
+        "voice3": "无",
         "world_group": "AA",
+        "world_group_description": "AA世界群是　油库里们　生活的世界。\n没有人知道　油库里们　来自何方。　\n也没有人知道　AA的全称　到底是什么。\n学者目前　正在研究　这些问题。",
+        "world_group_name": "AA世界群",
         "yang_atk": 900,
         "yang_def": 800,
         "yin_atk": 900,
-        "yin_def": 800
+        "yin_def": 800,
+        "id": 50011
     },
     "chain_character": [
-        50001,
         50002,
         50004,
         50030,
@@ -56,9 +200,15 @@
         51002,
         50003
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "油库里妖梦的常服。\n日本刀与两颗白球。",
+            "costume_name1": "慢慢来"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 2,
                 5,
@@ -76,9 +226,11 @@
             "c": [],
             "cd": 4,
             "name": "二刀寸断",
-            "id": 1
+            "description": "用油库里专用楼观剑与白楼剑斩断几乎所有东西。\n因为没有妖梦灵活，所以会把大部分东西都砍得破碎不堪。",
+            "icon": "skill_icon_speed_down"
         },
         {
+            "id": 2,
             "a": [
                 1,
                 1,
@@ -95,10 +247,12 @@
             ],
             "c": [],
             "cd": 5,
-            "name": "明水止鏡",
-            "id": 2
+            "name": "明水止镜",
+            "description": "提升剑术本领需要消除邪念。\n因为把精力都放在了消除邪念上，所以没有注意到自己说错了。",
+            "icon": "skill_icon_yang_atk_up"
         },
         {
+            "id": 3,
             "a": [
                 55,
                 9,
@@ -115,8 +269,9 @@
             ],
             "c": [],
             "cd": 6,
-            "name": "ゆっくりフルコース",
-            "id": 3
+            "name": "油库里大餐",
+            "description": "油库里们做的主菜配菜甜点全都有的大餐。\n美味的回忆会作为灵魂与概念永远残留在身边。",
+            "icon": "skill_icon_union"
         }
     ],
     "attack_skills": {
@@ -141,13 +296,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_dodge_down"
@@ -155,13 +303,6 @@
                     [
                         "skill_icon_cri_hit_up"
                     ],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
                     [],
                     [],
                     []
@@ -201,6 +342,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111g",
+                "all_order_1": "12121211111111111g",
+                "all_order_2": "1212121131311414115111g",
+                "all_order_3": "12121211313114141151116g",
                 "break": [
                     0,
                     0,
@@ -208,8 +352,9 @@
                     0,
                     0
                 ],
+                "description": "油库里妖梦的符卡(东方归言录原创)。\n从半灵倾泻而下的弹幕与剑闪相互呼应的，难以回避的弹幕。\n然而实际上妖梦和半灵的配合并不默契。",
                 "first_order": 1,
-                "name": "ゆるふ「ごうふうしんせんざん」",
+                "name": "油符「业风神闪斩」",
                 "power_rate": 9,
                 "damage_extend": [
                     100,
@@ -226,14 +371,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121211111111111g",
-                "all_order_2": "1212121131311414115111g",
-                "all_order_3": "12121211313114141151116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 14,
                     "boost": 0,
@@ -250,14 +393,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "ごうふう弾",
-                    "order": "",
+                    "name": "业风弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 75,
                     "amt": 3,
                     "boost": 1,
@@ -274,14 +418,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "しんせん斬",
-                    "order": "",
+                    "name": "神闪斩",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 75,
                     "amt": 2,
                     "boost": 2,
@@ -295,14 +440,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "転がりゆく霊弾",
-                    "order": "",
+                    "name": "旋转的灵弹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 75,
                     "amt": 2,
                     "boost": 2,
@@ -319,14 +465,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "活を入れる豪剣",
-                    "order": "",
+                    "name": "当头棒喝的豪剑",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 75,
                     "amt": 1,
                     "boost": 2,
@@ -343,14 +490,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "連携にひかる楼観剣",
-                    "order": "",
+                    "name": "配合无间的楼观剑",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -367,24 +515,21 @@
                     "killers": [
                         8
                     ],
-                    "name": "連携にいななく白楼剣",
-                    "order": "",
+                    "name": "配合无间的白楼剑",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "1111g",
+                "all_order_1": "11121g",
+                "all_order_2": "111213g",
+                "all_order_3": "111213456g",
                 "break": [
                     0,
                     0,
@@ -392,8 +537,9 @@
                     0,
                     0
                 ],
+                "description": "油库里妖梦的扩散射击(东方归言录原创)。\n接近并用注入了灵力的刀斩碎敌人的弹幕。\n尽管只是刀不小心脱手飞出并一边旋转一边袭击敌人，油库里妖梦却自信满满地表示“我这是在练习如何精准地控制是让刀刃还是刀柄命中对手”。",
                 "first_order": 1,
-                "name": "ゆっくりれいざん",
+                "name": "油库里灵斩",
                 "power_rate": 86,
                 "damage_extend": [
                     100,
@@ -410,14 +556,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "11121g",
-                "all_order_2": "111213g",
-                "all_order_3": "111213456g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 4,
                     "boost": 0,
@@ -434,14 +578,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "くるくる白楼剣",
-                    "order": "",
+                    "name": "转转白楼剑",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 75,
                     "amt": 1,
                     "boost": 1,
@@ -458,14 +603,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "くるくる楼観剣",
-                    "order": "",
+                    "name": "转转楼观剑",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 75,
                     "amt": 1,
                     "boost": 2,
@@ -482,14 +628,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "すっぽ抜け剣気",
-                    "order": "",
+                    "name": "打滑的剑气",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -506,14 +653,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "くるくる剣の柄",
-                    "order": "",
+                    "name": "转转剑柄",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -527,14 +675,15 @@
                     "killers": [
                         8
                     ],
-                    "name": "くるくる剣の鍔",
-                    "order": "",
+                    "name": "转转剑锷",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -551,12 +700,12 @@
                     "killers": [
                         0
                     ],
-                    "name": "二刀剪定兜割り",
-                    "order": "",
+                    "name": "二刀修剪裂盔",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -581,13 +730,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yang_atk_up"
@@ -595,13 +737,6 @@
                     [
                         "skill_icon_yin_atk_up"
                     ],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
                     [],
                     [],
                     []
@@ -641,6 +776,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111g",
+                "all_order_1": "1211212111111111111g",
+                "all_order_2": "1211212313113144114111111g",
+                "all_order_3": "1211212313113144114151551116166g",
                 "break": [
                     0,
                     0,
@@ -648,8 +786,9 @@
                     0,
                     0
                 ],
+                "description": "油库里妖梦的符卡(东方归言录原创)。\n具备温暖与狂暴两种性质的春风弹幕。\n先用温暖的春风让对方歇口气，然后再乘着春风与半灵一起反复夹击对方。一点都不符合妖梦作风的偷袭，反而会让对手被治愈到。",
                 "first_order": 1,
-                "name": "ゆるふ「さいぎょうしゅんぷうざん」",
+                "name": "油符「西行春风斩」",
                 "power_rate": 17,
                 "damage_extend": [
                     100,
@@ -666,14 +805,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1211212111111111111g",
-                "all_order_2": "1211212313113144114111111g",
-                "all_order_3": "1211212313113144114151551116166g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 16,
                     "boost": 0,
@@ -690,14 +827,15 @@
                     "killers": [
                         8
                     ],
-                    "name": "ゆるやかなしゅんぷう",
-                    "order": "",
+                    "name": "缓慢的春风",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 75,
                     "amt": 3,
                     "boost": 1,
@@ -714,14 +852,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "駆け抜けるしゅんぷう",
-                    "order": "",
+                    "name": "疾驰的春风",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 75,
                     "amt": 3,
                     "boost": 2,
@@ -735,14 +874,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "波乗り半霊",
-                    "order": "",
+                    "name": "冲浪半灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 75,
                     "amt": 3,
                     "boost": 2,
@@ -759,14 +899,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "波乗り半玉",
-                    "order": "",
+                    "name": "冲浪半球",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 75,
                     "amt": 3,
                     "boost": 3,
@@ -786,14 +927,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "おだやかな一刀",
-                    "order": "",
+                    "name": "温和的一刀",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 3,
                     "boost": 3,
@@ -813,24 +955,21 @@
                     "killers": [
                         8
                     ],
-                    "name": "楽しげなふたたま剣舞",
-                    "order": "",
+                    "name": "欢腾的双球剑舞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111g",
+                "all_order_1": "1211g",
+                "all_order_2": "1213415g",
+                "all_order_3": "12134156g",
                 "break": [
                     0,
                     0,
@@ -838,8 +977,9 @@
                     0,
                     0
                 ],
+                "description": "油库里妖梦的集中射击(东方归言录原创)。\n不使用刀的，纯粹凭借体术使出上段踢的弹幕。\n原本打算给对方的脸部来一记锐利的踢击，但油库里没有脚，所以到头来只能用撞击敷衍了事。",
                 "first_order": 1,
-                "name": "ゆっくりちはつ",
+                "name": "油库里剃发",
                 "power_rate": 44,
                 "damage_extend": [
                     100,
@@ -856,14 +996,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1211g",
-                "all_order_2": "1213415g",
-                "all_order_3": "12134156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 3,
                     "boost": 0,
@@ -880,14 +1018,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "無脚蹴",
-                    "order": "",
+                    "name": "无脚踢",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 75,
                     "amt": 1,
                     "boost": 1,
@@ -904,14 +1043,15 @@
                     "killers": [
                         8
                     ],
-                    "name": "代用あご蹴り",
-                    "order": "",
+                    "name": "代用下巴踢",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 75,
                     "amt": 1,
                     "boost": 2,
@@ -928,14 +1068,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "代用頬蹴り",
-                    "order": "",
+                    "name": "代用脸颊踢",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 75,
                     "amt": 1,
                     "boost": 2,
@@ -955,14 +1096,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ゆっくりドロップキック",
-                    "order": "",
+                    "name": "油库里飞踢",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 75,
                     "amt": 1,
                     "boost": 2,
@@ -979,14 +1121,15 @@
                     "killers": [
                         8
                     ],
-                    "name": "剃刀夏斬",
-                    "order": "",
+                    "name": "剃刀夏斩",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 1,
                     "boost": 3,
@@ -1000,12 +1143,12 @@
                     "killers": [
                         204
                     ],
-                    "name": "ゆっくり扇風機役",
-                    "order": "",
+                    "name": "油库里扇风机",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 3,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -1030,13 +1173,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_hit_up"
@@ -1044,13 +1180,6 @@
                     [
                         "skill_icon_cri_atk_up"
                     ],
-                    [],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
                     [],
                     [],
                     []
@@ -1090,6 +1219,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111g",
+                "all_order_1": "1212112121111111111111111g",
+                "all_order_2": "121211212113131313114141414115151511g",
+                "all_order_3": "121211212113131313114141414115151516166g",
                 "break": [
                     0,
                     0,
@@ -1097,8 +1229,9 @@
                     0,
                     0
                 ],
+                "description": "油库里妖梦的终符(东方归言录原创)。\n利用时间差发动的，与魂魄妖梦不同风格的规格外斩击弹幕。\n封死了敌人退路的斩击，因为某种原因像翻绳线一样伸缩缠绕，最后反而把自己死死缚住的，狂气之月的反射的产物。",
                 "first_order": 1,
-                "name": "「ゆっくりはんしゃえいせいざん」",
+                "name": "「油库里反射卫星斩」",
                 "power_rate": 6,
                 "damage_extend": [
                     100,
@@ -1115,14 +1248,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1212112121111111111111111g",
-                "all_order_2": "121211212113131313114141414115151511g",
-                "all_order_3": "121211212113131313114141414115151516166g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 75,
                     "amt": 21,
                     "boost": 0,
@@ -1147,14 +1278,15 @@
                         204,
                         8
                     ],
-                    "name": "はんしゃえいせい斬",
-                    "order": "",
+                    "name": "反射卫星斩",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 75,
                     "amt": 4,
                     "boost": 1,
@@ -1168,14 +1300,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ゆっくりまつよい閃",
-                    "order": "",
+                    "name": "油库里待宵闪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 75,
                     "amt": 4,
                     "boost": 2,
@@ -1195,14 +1328,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ぎゅうぎゅうあやとり糸",
-                    "order": "",
+                    "name": "紧绷绷的翻绳线",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 75,
                     "amt": 4,
                     "boost": 2,
@@ -1216,14 +1350,15 @@
                     "killers": [
                         204
                     ],
-                    "name": "衛星軌道の型",
-                    "order": "",
+                    "name": "卫星轨道流",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 75,
                     "amt": 3,
                     "boost": 2,
@@ -1240,14 +1375,15 @@
                     "killers": [
                         8
                     ],
-                    "name": "狂気の波長痕",
-                    "order": "",
+                    "name": "狂气之波长残迹",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 75,
                     "amt": 3,
                     "boost": 3,
@@ -1264,12 +1400,12 @@
                     "killers": [
                         204
                     ],
-                    "name": "割いた軌跡の実体化",
-                    "order": "",
+                    "name": "斩击轨迹的实体化",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

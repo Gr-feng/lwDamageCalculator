@@ -109,7 +109,8 @@
             ],
             "cd": 4,
             "name": "地に堕ちし貴女",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             ],
             "cd": 5,
             "name": "弱竹のかぐや姫",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -161,7 +163,8 @@
             ],
             "cd": 7,
             "name": "罪深き穢れ月",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_weaktype_02"
         }
     ],
     "attack_skills": {

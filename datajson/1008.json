@@ -73,7 +73,8 @@
             "c": [],
             "cd": 5,
             "name": "文芸復興の魔",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_down"
         },
         {
             "a": [
@@ -93,7 +94,8 @@
             "c": [],
             "cd": 5,
             "name": "竜言語",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -113,7 +115,8 @@
             "c": [],
             "cd": 5,
             "name": "デモンクラフト",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

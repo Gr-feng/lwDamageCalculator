@@ -83,7 +83,8 @@
             ],
             "cd": 4,
             "name": "＊先代スカーレットデビル＊",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             ],
             "cd": 4,
             "name": "＊母なる紅魔＊",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             ],
             "cd": 5,
             "name": "＊繊細にして粗暴なる大公＊",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

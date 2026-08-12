@@ -83,7 +83,8 @@
             ],
             "cd": 5,
             "name": "巫女神楽",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             ],
             "cd": 4,
             "name": "祝詞奏上",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -135,7 +137,8 @@
             ],
             "cd": 7,
             "name": "シャーマニックボイス",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_rapid_skill"
         }
     ],
     "attack_skills": {

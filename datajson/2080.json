@@ -31,7 +31,7 @@
         "passivity_3_name": "怪獣細胞(夢)",
         "quality": 2211111,
         "quality_name": "クラインヒェン",
-        "speed": 1000,
+        "speed": 1040,
         "subname": "夢幻幽玄怪獣",
         "total": 7350,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 4,
         "world_group": "H5",
-        "yang_atk": 1900,
-        "yang_def": 1000,
-        "yin_atk": 1250,
-        "yin_def": 1100
+        "yang_atk": 2070,
+        "yang_def": 1090,
+        "yin_atk": 1290,
+        "yin_def": 1120
     },
     "chain_character": [
         2020,
@@ -108,7 +108,8 @@
             ],
             "cd": 4,
             "name": "ドリーム・リマスター",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 4,
             "name": "ドリームメーカーズ・カット",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 5,
             "name": "ドリーム・ザッピング",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {

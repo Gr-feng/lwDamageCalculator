@@ -81,7 +81,8 @@
             ],
             "cd": 4,
             "name": "幣六",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 5,
             "name": "沓頬",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_atk_up_type4"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 6,
             "name": "鈴彦姫",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_atk_up_bullet_type7"
         }
     ],
     "attack_skills": {

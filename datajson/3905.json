@@ -81,7 +81,8 @@
             ],
             "cd": 5,
             "name": "怨術「全世界復讐」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_dodge_down"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 6,
             "name": "怨術「悪霊復活」",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 8,
             "name": "「陰陽解放」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_resonance"
         }
     ],
     "attack_skills": {

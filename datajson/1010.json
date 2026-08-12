@@ -31,7 +31,7 @@
         "passivity_3_name": "生死の境界",
         "quality": 21111200,
         "quality_name": "雪",
-        "speed": 1170,
+        "speed": 1290,
         "subname": "幽冥楼閣の亡霊少女",
         "total": 6900,
         "tribe": [
@@ -48,10 +48,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1380,
-        "yang_def": 1280,
-        "yin_atk": 1010,
-        "yin_def": 990
+        "yang_atk": 1820,
+        "yang_def": 1370,
+        "yin_atk": 1040,
+        "yin_def": 1020
     },
     "chain_character": [
         1011,
@@ -84,15 +84,16 @@
             "a": [
                 1,
                 1,
-                1,
+                2,
                 3,
                 3
             ],
-            "b": [],
+            "b": [5,0,2,1,5],
             "c": [],
             "cd": 4,
             "name": "幽霊使役",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -100,19 +101,20 @@
                 0,
                 1,
                 1,
-                15
+                20
             ],
-            "b": [],
+            "b": [1,2,2,2,2],
             "c": [],
             "cd": 5,
             "name": "人魂灯",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
                 1,
                 6,
-                1,
+                2,
                 3,
                 3
             ],
@@ -126,7 +128,8 @@
             "c": [],
             "cd": 4,
             "name": "花の下にて",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_up"
         }
     ],
     "attack_skills": {
@@ -1049,7 +1052,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 8.23,
+                    "damage": 9.88,
                     "damage_extend": 100,
                     "effect": [
                         10,
@@ -1075,7 +1078,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 8.78,
+                    "damage": 10.98,
                     "damage_extend": 100,
                     "effect": [
                         10,
@@ -1101,7 +1104,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 8.05,
+                    "damage": 10.06,
                     "damage_extend": 107,
                     "effect": [],
                     "element": 9,
@@ -1122,7 +1125,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 9.14,
+                    "damage": 11.43,
                     "damage_extend": 115,
                     "effect": [
                         10,
@@ -1148,7 +1151,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 8.23,
+                    "damage": 10.29,
                     "damage_extend": 122,
                     "effect": [
                         10,
@@ -1174,7 +1177,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 9.75,
+                    "damage": 12.68,
                     "damage_extend": 129,
                     "effect": [],
                     "element": 9,

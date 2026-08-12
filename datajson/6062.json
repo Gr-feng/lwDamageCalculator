@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "True",
+        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 5,
         "barrier_status_2": 0,
@@ -113,7 +113,8 @@
             ],
             "cd": 3,
             "name": "チップチューン",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -139,7 +140,8 @@
             ],
             "cd": 6,
             "name": "チルアウト",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_down"
         },
         {
             "a": [
@@ -165,7 +167,8 @@
             ],
             "cd": 4,
             "name": "ローファイ・ヒップホップ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

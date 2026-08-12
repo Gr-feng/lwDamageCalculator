@@ -31,7 +31,7 @@
         "passivity_3_name": "ワードレガシー",
         "quality": 22011112,
         "quality_name": "地球空洞説",
-        "speed": 1215,
+        "speed": 1250,
         "subname": "白貌の無為",
         "total": 7800,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 6,
         "world_group": "F1",
-        "yang_atk": 1935,
-        "yang_def": 950,
-        "yin_atk": 1150,
-        "yin_def": 1500
+        "yang_atk": 2080,
+        "yang_def": 1110,
+        "yin_atk": 1170,
+        "yin_def": 1520
     },
     "chain_character": [
         2050,
@@ -87,7 +87,8 @@
             ],
             "cd": 5,
             "name": "神経学的ゾンビ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 4,
             "name": "パンサイキズム",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 3,
             "name": "プラント・コグニション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_poison"
         }
     ],
     "attack_skills": {

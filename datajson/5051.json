@@ -105,7 +105,8 @@
             ],
             "cd": 4,
             "name": "虚構の友人",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -131,7 +132,8 @@
             ],
             "cd": 5,
             "name": "空想上の人格",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -157,7 +159,8 @@
             ],
             "cd": 5,
             "name": "不可視の妹",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_def_down"
         }
     ],
     "attack_skills": {

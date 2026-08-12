@@ -86,7 +86,8 @@
             "c": [],
             "cd": 6,
             "name": "一葉知秋",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             "c": [],
             "cd": 5,
             "name": "素風",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -120,7 +122,8 @@
             "c": [],
             "cd": 7,
             "name": "秋の詩",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

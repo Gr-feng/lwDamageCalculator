@@ -31,7 +31,7 @@
         "passivity_3_name": "陰気なイタズラ",
         "quality": 21111200,
         "quality_name": "月虹",
-        "speed": 850,
+        "speed": 950,
         "subname": "静かなる月の光",
         "total": 6000,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 870,
-        "yang_def": 960,
-        "yin_atk": 1220,
-        "yin_def": 1160
+        "yang_atk": 920,
+        "yang_def": 1020,
+        "yin_atk": 1820,
+        "yin_def": 1400
     },
     "chain_character": [
         1030,
@@ -89,7 +89,8 @@
             "c": [],
             "cd": 4,
             "name": "隠密行動",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -109,7 +110,8 @@
             "c": [],
             "cd": 4,
             "name": "ダークムーン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_attract_down"
         },
         {
             "a": [
@@ -129,7 +131,8 @@
             "c": [],
             "cd": 4,
             "name": "ノイズキャンセル",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_attract_down"
         }
     ],
     "attack_skills": {
@@ -1042,7 +1045,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 16.46,
+                    "damage": 24.69,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 2,
@@ -1064,7 +1067,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 21.94,
+                    "damage": 34.01,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 9,
@@ -1086,7 +1089,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 30.17,
+                    "damage": 46.76,
                     "damage_extend": 107,
                     "effect": [
                         4,
@@ -1111,7 +1114,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 27.43,
+                    "damage": 43.89,
                     "damage_extend": 114,
                     "effect": [
                         4,
@@ -1135,7 +1138,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 49.37,
+                    "damage": 78.99,
                     "damage_extend": 121,
                     "effect": [
                         4,
@@ -1161,7 +1164,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 43.89,
+                    "damage": 72.42,
                     "damage_extend": 128,
                     "effect": [
                         4,

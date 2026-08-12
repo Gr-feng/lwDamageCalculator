@@ -31,7 +31,7 @@
         "passivity_3_name": "思考看破",
         "quality": 2011121,
         "quality_name": "地震発光現象",
-        "speed": 920,
+        "speed": 940,
         "subname": "怨霊も恐れ怯む少女",
         "total": 6900,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1700,
-        "yang_def": 1150,
-        "yin_atk": 1250,
-        "yin_def": 1060
+        "yang_atk": 1820,
+        "yang_def": 1180,
+        "yin_atk": 1270,
+        "yin_def": 1080
     },
     "chain_character": [
         1051,
@@ -76,59 +76,49 @@
             "a": [
                 2,
                 5,
-                4,
+                3,
                 2,
-                3
+                2
             ],
             "b": [
                 2,
                 8,
-                4,
+                3,
                 2,
-                3
+                2
             ],
-            "c": [
-                5,
-                0,
-                1,
-                1,
-                25
-            ],
+            "c": [],
             "cd": 5,
             "name": "読書の知識",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_down"
         },
         {
             "a": [
                 2,
                 3,
-                4,
                 3,
-                3
+                2,
+                2
             ],
             "b": [
                 2,
                 1,
-                4,
                 3,
-                3
-            ],
-            "c": [
                 2,
-                2,
-                4,
-                1,
                 2
             ],
+            "c": [],
             "cd": 5,
             "name": "動物たちの協力",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_down"
         },
         {
             "a": [
                 2,
                 6,
-                4,
+                3,
                 2,
                 3
             ],
@@ -142,7 +132,8 @@
             "c": [],
             "cd": 4,
             "name": "第三の目",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {
@@ -1088,7 +1079,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 39.62,
+                    "damage": 30.48,
                     "damage_extend": 100,
                     "effect": [],
                     "element": 7,
@@ -1109,7 +1100,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 17.78,
+                    "damage": 13.17,
                     "damage_extend": 100,
                     "effect": [
                         10,
@@ -1134,7 +1125,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 14.81,
+                    "damage": 10.97,
                     "damage_extend": 107,
                     "effect": [
                         1,
@@ -1159,7 +1150,7 @@
                     "boost": 1,
                     "buff": [],
                     "cri": 5,
-                    "damage": 11.85,
+                    "damage": 8.78,
                     "damage_extend": 113,
                     "effect": [
                         2,
@@ -1184,7 +1175,7 @@
                     "boost": 2,
                     "buff": [],
                     "cri": 5,
-                    "damage": 8.88,
+                    "damage": 6.58,
                     "damage_extend": 120,
                     "effect": [
                         10,
@@ -1212,7 +1203,7 @@
                     "boost": 3,
                     "buff": [],
                     "cri": 5,
-                    "damage": 6.15,
+                    "damage": 4.39,
                     "damage_extend": 126,
                     "effect": [
                         10,

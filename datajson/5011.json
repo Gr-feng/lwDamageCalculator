@@ -108,7 +108,8 @@
             ],
             "cd": 5,
             "name": "西行寺家の護衛剣士",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 4,
             "name": "六界の使者",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 3,
             "name": "白玉楼庭園の庭師",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

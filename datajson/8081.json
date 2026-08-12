@@ -82,7 +82,8 @@
             ],
             "cd": 4,
             "name": "医療用手袋",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             ],
             "cd": 5,
             "name": "医療用マスク",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             ],
             "cd": 6,
             "name": "アストラル・ドアー(見習い)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

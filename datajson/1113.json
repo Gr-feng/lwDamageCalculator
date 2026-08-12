@@ -31,7 +31,7 @@
         "passivity_3_name": "古代魚漁業者の誇り",
         "quality": 21210110,
         "quality_name": "川風",
-        "speed": 865,
+        "speed": 1020,
         "subname": "古代魚の子連れ番人",
         "total": 6450,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1175,
-        "yang_def": 915,
-        "yin_atk": 1425,
-        "yin_def": 1015
+        "yang_atk": 1220,
+        "yang_def": 970,
+        "yin_atk": 1820,
+        "yin_def": 1120
     },
     "chain_character": [
         1114,
@@ -78,7 +78,8 @@
             "c": [],
             "cd": 6,
             "name": "マチカネワニ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -98,7 +99,8 @@
             "c": [],
             "cd": 5,
             "name": "フタバスズキリュウ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -118,7 +120,8 @@
             "c": [],
             "cd": 5,
             "name": "ウタツリュウ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

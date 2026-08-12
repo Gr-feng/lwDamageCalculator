@@ -79,7 +79,8 @@
             "c": [],
             "cd": 5,
             "name": "三番叟の呪歌",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -99,7 +100,8 @@
             "c": [],
             "cd": 6,
             "name": "鈴之舞",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -119,7 +121,8 @@
             "c": [],
             "cd": 5,
             "name": "精神神楽",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

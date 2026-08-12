@@ -31,7 +31,7 @@
         "passivity_3_name": "ワードプロフェット",
         "quality": 11012221,
         "quality_name": "無風",
-        "speed": 1250,
+        "speed": 1290,
         "subname": "人間と神様の重ね合わせ",
         "total": 7800,
         "tribe": [
@@ -49,10 +49,10 @@
         ],
         "type": 2,
         "world_group": "F1",
-        "yang_atk": 1800,
-        "yang_def": 1050,
-        "yin_atk": 1950,
-        "yin_def": 750
+        "yang_atk": 1820,
+        "yang_def": 1070,
+        "yin_atk": 2030,
+        "yin_def": 830
     },
     "chain_character": [
         2051,
@@ -86,7 +86,8 @@
             ],
             "cd": 3,
             "name": "秘宝マスミノカガミ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -112,7 +113,8 @@
             ],
             "cd": 6,
             "name": "神宝ヤサカノスズ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             ],
             "cd": 6,
             "name": "至宝カゼノハフリコ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

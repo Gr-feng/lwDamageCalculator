@@ -87,7 +87,8 @@
             "c": [],
             "cd": 4,
             "name": "三秋之思",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -101,7 +102,8 @@
             "c": [],
             "cd": 5,
             "name": "秋の社日",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -115,7 +117,8 @@
             "c": [],
             "cd": 8,
             "name": "豊穣祈願",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

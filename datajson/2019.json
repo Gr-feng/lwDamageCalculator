@@ -31,7 +31,7 @@
         "passivity_3_name": "永夜の終わり",
         "quality": 11111121,
         "quality_name": "月夜",
-        "speed": 1500,
+        "speed": 1620,
         "subname": "善意と良心の慈愛院",
         "total": 7350,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 7,
         "world_group": "B3",
-        "yang_atk": 1890,
-        "yang_def": 1055,
-        "yin_atk": 775,
-        "yin_def": 930
+        "yang_atk": 2020,
+        "yang_def": 1080,
+        "yin_atk": 800,
+        "yin_def": 950
     },
     "chain_character": [
         2017,
@@ -118,7 +118,8 @@
             ],
             "cd": 3,
             "name": "礼儀の徳",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -144,7 +145,8 @@
             ],
             "cd": 4,
             "name": "義勇の徳",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -170,7 +172,8 @@
             ],
             "cd": 6,
             "name": "博愛の徳",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_hit_down"
         }
     ],
     "attack_skills": {

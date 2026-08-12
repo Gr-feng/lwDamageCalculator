@@ -31,7 +31,7 @@
         "passivity_3_name": "不通門",
         "quality": 1112111,
         "quality_name": "風塵",
-        "speed": 825,
+        "speed": 870,
         "subname": "盤石なるデーモンズゲート",
         "total": 7350,
         "tribe": [
@@ -43,10 +43,10 @@
         ],
         "type": 1,
         "world_group": "E1",
-        "yang_atk": 800,
-        "yang_def": 1600,
-        "yin_atk": 1550,
-        "yin_def": 1550
+        "yang_atk": 820,
+        "yang_def": 1670,
+        "yin_atk": 1670,
+        "yin_def": 1670
     },
     "chain_character": [
         2003,
@@ -82,7 +82,8 @@
             ],
             "cd": 5,
             "name": "安全保障人",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_attract_up"
         },
         {
             "a": [
@@ -108,7 +109,8 @@
             ],
             "cd": 4,
             "name": "ブルードラゴン",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -134,7 +136,8 @@
             ],
             "cd": 6,
             "name": "謎多き気功術",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_resist_bullet"
         }
     ],
     "attack_skills": {

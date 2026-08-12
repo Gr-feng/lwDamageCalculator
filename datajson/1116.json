@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 0,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 5,
         "barrier_status_2": 5,
@@ -31,7 +31,7 @@
         "passivity_3_name": "霊体を喰らう",
         "quality": 11011211,
         "quality_name": "石油流出",
-        "speed": 950,
+        "speed": 980,
         "subname": "無敗の剛欲同盟長",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1150,
-        "yang_def": 900,
-        "yin_atk": 1850,
-        "yin_def": 1000
+        "yang_atk": 1180,
+        "yang_def": 1020,
+        "yin_atk": 2040,
+        "yin_def": 1220
     },
     "chain_character": [
         1112,
@@ -86,7 +86,8 @@
             "c": [],
             "cd": 4,
             "name": "脅しと抱き込み",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             "c": [],
             "cd": 5,
             "name": "表面的な協力",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 5,
             "name": "戦略的な撤退",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

@@ -78,7 +78,8 @@
             ],
             "cd": 4,
             "name": "龍の知識(邪龍)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_down"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             ],
             "cd": 5,
             "name": "星系作図(入門)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 6,
             "name": "星詠みの言語(初級)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_add_yin_atk_speed"
         }
     ],
     "attack_skills": {

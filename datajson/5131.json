@@ -84,7 +84,8 @@
             ],
             "cd": 2,
             "name": "機動重視制服人鬼",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -110,7 +111,8 @@
             ],
             "cd": 4,
             "name": "虚無から始まる新秩序構築",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             ],
             "cd": 4,
             "name": "(元)地獄生徒会腕章",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {

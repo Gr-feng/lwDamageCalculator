@@ -31,7 +31,7 @@
         "passivity_3_name": "能楽神",
         "quality": 2210111,
         "quality_name": "遠隔相関",
-        "speed": 750,
+        "speed": 810,
         "subname": "究極の絶対秘神",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1580,
-        "yang_def": 1020,
-        "yin_atk": 1580,
-        "yin_def": 1020
+        "yang_atk": 1820,
+        "yang_def": 1070,
+        "yin_atk": 1720,
+        "yin_def": 1070
     },
     "chain_character": [
         1001,
@@ -91,7 +91,8 @@
             "c": [],
             "cd": 4,
             "name": "精神力の調整",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -117,7 +118,8 @@
             ],
             "cd": 5,
             "name": "生命力の調整",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             "c": [],
             "cd": 5,
             "name": "後戸開き",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

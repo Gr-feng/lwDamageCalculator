@@ -101,7 +101,8 @@
             "c": [],
             "cd": 4,
             "name": "天狗倒し",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_dodge_up"
         },
         {
             "a": [
@@ -121,7 +122,8 @@
             "c": [],
             "cd": 1,
             "name": "天狗風",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -141,7 +143,8 @@
             "c": [],
             "cd": 5,
             "name": "天狗礫",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

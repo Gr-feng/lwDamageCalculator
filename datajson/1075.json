@@ -31,7 +31,7 @@
         "passivity_3_name": "念縛霊",
         "quality": 10111202,
         "quality_name": "白嵐",
-        "speed": 1320,
+        "speed": 1590,
         "subname": "水難事故の念縛霊",
         "total": 6450,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 7,
         "world_group": "L1",
-        "yang_atk": 1330,
-        "yang_def": 890,
-        "yin_atk": 1150,
-        "yin_def": 800
+        "yang_atk": 1620,
+        "yang_def": 920,
+        "yin_atk": 1220,
+        "yin_def": 820
     },
     "chain_character": [
         1024,
@@ -93,7 +93,8 @@
             "c": [],
             "cd": 4,
             "name": "取舵いっぱい",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             "c": [],
             "cd": 4,
             "name": "面舵いっぱい",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             "c": [],
             "cd": 4,
             "name": "底抜け柄杓",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

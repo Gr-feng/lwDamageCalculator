@@ -1,7 +1,7 @@
 {
     "character_info": {
         "advantage_attack": 25,
-        "re": "False",
+        "re": "True",
         "advantage_resist": 0,
         "barrier_status_1": 1,
         "barrier_status_2": 0,
@@ -31,7 +31,7 @@
         "passivity_3_name": "ロストアーム",
         "quality": 12211100,
         "quality_name": "怪雲",
-        "speed": 900,
+        "speed": 1040,
         "subname": "断善修悪の怪腕",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1550,
-        "yang_def": 750,
-        "yin_atk": 1900,
-        "yin_def": 800
+        "yang_atk": 1580,
+        "yang_def": 780,
+        "yin_atk": 2070,
+        "yin_def": 1020
     },
     "chain_character": [
         1025,
@@ -80,7 +80,8 @@
             "c": [],
             "cd": 4,
             "name": "悪逆無道の鬼",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             "c": [],
             "cd": 7,
             "name": "暴虐非道の鬼",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 5,
             "name": "天魔外道の鬼",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {

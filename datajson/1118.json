@@ -31,7 +31,7 @@
         "passivity_3_name": "セーフティエリア",
         "quality": 21121010,
         "quality_name": "山風",
-        "speed": 1330,
+        "speed": 1640,
         "subname": "山奥のビジネス妖怪",
         "total": 6450,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1120,
-        "yang_def": 1030,
-        "yin_atk": 960,
-        "yin_def": 950
+        "yang_atk": 1540,
+        "yang_def": 1060,
+        "yin_atk": 990,
+        "yin_def": 980
     },
     "chain_character": [
         1094,
@@ -115,7 +115,8 @@
             "c": [],
             "cd": 4,
             "name": "対河童妨害柵",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -135,7 +136,8 @@
             "c": [],
             "cd": 5,
             "name": "ミリメシの流儀",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -155,7 +157,8 @@
             "c": [],
             "cd": 4,
             "name": "山師講座",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

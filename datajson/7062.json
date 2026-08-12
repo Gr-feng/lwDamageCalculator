@@ -100,7 +100,8 @@
             ],
             "cd": 5,
             "name": "グリッサンド",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_disenchant"
         },
         {
             "a": [
@@ -126,7 +127,8 @@
             ],
             "cd": 4,
             "name": "デタッシュ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -146,7 +148,8 @@
             "c": [],
             "cd": 4,
             "name": "ピツィカート",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_plus"
         }
     ],
     "attack_skills": {

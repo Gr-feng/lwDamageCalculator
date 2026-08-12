@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "变生世界的比那名居天子的能力(东方归言录原创)。\n比那名居天子本身的能力原则上原封不动地保留了下来。\n虽然天子与八云紫签订了式神契约，但是她的行动没有受到限制，能够尽情发挥自己的意志和力量。\n\n比那名居天子十分惊讶。\n八云紫竟然对自己深深地低下了头。\n她从来没有想过会有今天。\n仿佛幻想乡黑幕般的，一旦出现就会做一些莫名其妙的事情的自私自利的妖怪。\n而且她正是拒绝让“幻想乡的大地”成为天子的地盘的本人。\n“给我滚出这片美丽而又残酷的大地吧！”也太过分了。虽说是有点做过头了吧。\n\n但不得不说，这是一个美丽至极的鞠躬。\n虽说天子毫不在意地上的妖怪，但让这个妖怪整天在地上爬来爬去有点太可惜了。\n关于顶撞自己这件事……仔细一想自己平时对其他天人也是这个态度。\n最重要的是，天子不想否定八云紫对美好的地上的追求（虽说不过是地上人）。\n不愧是弹幕游戏规则的制定者之一。\n天人是究极的存在。\n也就是月人能部分性得凌驾于天人之上。\n眉清目秀、难以生病、难以衰老、难以死去、思维敏捷、体育全能。\n因此天子喜欢美丽的事物，对懒惰而又无趣的天界的天人们也抱有疑问。\n眼前的地上的妖怪更加耐人寻味，更加充满刺激。\n仔细一想灵梦也是这样，而且这个妖怪总是摆出一副自己是灵梦妈的态度。\n地上真有趣。\n我就听听她的说法吧。\n\n式神契约不是什么难事。\n最吸引的天子的，是八云紫的目的。\n自己的任务……是当柔弱的少女的保镖……？\n如果保护对象是灵梦，或者至少是魔理沙那样的人类的话，我还能欣然接受。\n但这名少女是……？\n算了，我不需要刨根问底。\n我就亲眼确认八云紫的意图、少女的价值……以及事件的结局吧。\n剧透只会让自己扫兴。\n好好满足我吧。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对不利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>35%",
+        "ability_effect_d3": "每被施加1枚结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>黑暗</color>」，<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>1等级",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「操纵大地程度的能力？」",
         "advantage_attack": 0,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 8,
         "barrier_status_2": 0,
         "barrier_status_3": 0,
         "barrier_status_4": 0,
         "barrier_status_5": 8,
-        "bgm": 30708901,
+        "bgm": "されど天壌無窮",
         "boost_buff": 5,
         "boost_target": 1,
         "break_cost": 502,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "スピード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>速度、命中、回避</color>强度上升的一部分(3回合)",
+        "chain_name": "速度连携",
         "disadvantage_attack": 35,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是比那名居天子。我来救你了。我的氛围和平时不太一样？ 因为我稍微化了一下妆。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5000,
+        "jp_name": "ひななゐてんし",
+        "lines1": "总算轮到我出场了。我等好久了。但不用召唤我是最理想的结果。……嗯？ 你真的是契约内容中的照料对象吗？ 虽然感觉怪怪的……但待会儿再说吧。我是比那名居天子。契约内容是照顾你一段时间。……什么？ 你以为河童和天狗之后是大妖怪的鬼朋友？ 哼哼，那就没问题了。我比鬼更强更聪明！",
+        "lines10": "其他的被雇佣的式神没什么自由吗。地上的妖怪也就是这点程度了。我跟她们不是一个档次，当然有自主权。",
+        "lines11": "直接被召唤到你的房间这点帮了我很大忙。又省力又不会被衣玖发现。",
+        "lines12": "或许是采用了类似于完全凭依的系统，这个状态的我隐隐约约能明白八云紫的立场和心情。早知道就多问问紫苑了。",
+        "lines13": "春天来了。这个季节适合做新的事情。……你说和风水差不多？ 这么一说现在的我是挺像风水师的。",
+        "lines14": "夏天来了。这个季节适合搞大事。……为了高效借用天界的家伙们的能力，我使用了封神台。打那之后我变得跟风水师一样。",
+        "lines15": "秋天来了。这个季节适合和各种人交流。天界有宝贝收藏家。我提到齐天大圣的名字后对方露出了苦笑。",
+        "lines16": "冬天来了。这个季节适合积攒魔力。我是天人，所以知识很渊博。你要读吗？论语、淮南子、礼记、史记、书经、诗经、老子、庄子……你自己选。",
+        "lines17": "你在学习吗？ 用不用我教你？太乙神数、奇门遁甲、六壬神课……你想听什么？",
+        "lines18": "你这么小却如此聪明。我必须好好摸摸你！",
+        "lines19": "来传书了。接住。",
+        "lines2": "没想到八云紫会找我帮忙。",
+        "lines20": "让我一个人待会儿。我超时了，得写检讨书。",
+        "lines21": "有人回来了。是其他的打工仔式神吗？",
+        "lines22": "我知道圣域的猴子，但我这是在模仿真正的齐天大圣……咦？ 好像差不多诶。",
+        "lines23": "太岁星君？ 你为什么知道这个名字……？",
+        "lines24": "睡着了。没办法，膝盖就借给你了。……乖孩子乖孩子。",
+        "lines25": "你运气真差！ 你的对手可是我！",
+        "lines26": "不要小看天人的运气。",
+        "lines27": "糟糕，超时了。写检讨书好麻烦。算了",
+        "lines28": "可恶！ 这样下去我后面的家伙们会……！",
+        "lines29": "刚刚的就是！",
+        "lines3": "我以为八云紫讨厌我。",
+        "lines30": "你最后的！",
+        "lines31": "好运！",
+        "lines32": "此地的！",
+        "lines33": "运势！",
+        "lines34": "在向着我！",
+        "lines35": "还不感谢我？",
+        "lines36": "你可以感谢我",
+        "lines37": "好好看看敌人",
+        "lines38": "放心，有我在",
+        "lines39": "好主意！",
+        "lines4": "“这是只有你能胜任的重要工作。你是否愿意拯救幻想乡？”……既然她都这么说了，那我不能不答应。不倾听下界百姓痛苦呻吟的声音，那还算什么天人。",
+        "lines40": "运势永远站在我这边！",
+        "lines41": "交给你了",
+        "lines42": "我要大闹一场了",
+        "lines43": "上吧，要石！",
+        "lines44": "看我像切黄油一样切你！",
+        "lines45": "自称地上贤者的妖怪　\n毕恭毕敬地来找我帮忙",
+        "lines46": "于是我决定帮她一把　\n这就是天人的肚量！",
+        "lines47": "式鬼「筋斗云」",
+        "lines48": "式神契约会有尾巴？　\n我又不是猴子　没有这种东西",
+        "lines49": "我是自由式神　\n我们是对等的关系",
+        "lines5": "而且她还说“只有比任何人都聪明、强大、美丽的你能照顾好她”。明明那个妖怪也是大美人。既然她都说到这个份上了，那我可拒绝不了。哼哼。",
+        "lines50": "式鬼「全天界的如意金箍棒」",
+        "lines51": "条件是借给我一部分境界操纵能力　\n你问我的目的是什么？",
+        "lines52": "我要一点点有效利用　\n天界的闲人们闲置的能力",
+        "lines53": "「地煞七十二星　模拟凶神」",
+        "lines54": "呜",
+        "lines55": "有两下子！",
+        "lines56": "没什么大不了的",
+        "lines57": "你运气真差！",
+        "lines58": "抱歉了！",
+        "lines59": "好奇怪，我是不是大意过头了？",
+        "lines6": "八云紫可真爱你。那个美女妖怪为了你就差给美丽而又高贵的我磕头了。除我之外她大概也就会对月之民这么做吧！哈哈哈！",
+        "lines60": "东方归言录",
+        "lines61": "好",
+        "lines62": "那算了",
+        "lines63": "谢了！",
+        "lines64": "这种体验也不错。",
+        "lines65": "保护你很简单，但我会全力以赴。放心吧。",
+        "lines7": "通过与你一起生活，我渐渐理解了八云紫没有说出口的意图。虽然解释起来有些困难……但那个妖怪真的是在为你着想。仿佛就是你的母亲一样。抱歉，我只能说到这里了。剩下的事情你直接问她吧。我相信她。",
+        "lines8": "这样吗。八云紫也不容易呢。",
+        "lines9": "我太强了，所以玩弹幕游戏不能超过三分钟。但放心，只是像这样聊天的话时间不会减少。",
         "name": "比那名居天子",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>受けるダメージ</color>を50%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_1_description": "被攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>50% [发生率50%]",
         "passivity_1_icon": "characteristic_icon_35",
-        "passivity_1_name": "孫行者",
-        "passivity_2_description": "攻撃された時、<color=#CCAA00>土属性</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率35%]",
+        "passivity_1_name": "孙行者",
+        "passivity_2_description": "被攻击时，受到来自<color=#CCAA00>土属性</color>的伤害<color=#0066FF>下降</color>100% [发生率35%]",
         "passivity_2_icon": "characteristic_icon_54",
         "passivity_2_name": "猴仔公",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.35<color=#00CC66>上昇</color> [発生率85%]",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.35 [发生率85%]",
         "passivity_3_icon": "characteristic_icon_31",
         "passivity_3_name": "心猿",
         "quality": 11110121,
-        "quality_name": "大気光",
+        "quality_description": "变生世界的比那名居天子的气质(东方归言录原创)。\n“大气光”指行星的大气释放微弱光芒的大气光学现象。\n是符合借用了某位著名天人的位阶的天子的气质。\n\n身为名居守眷族的土行气质与齐天大圣的金行气质重叠了起来。",
+        "quality_name": "大气光",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 10,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "云之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "蛇之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "云之卷轴-一",
+        "rank_up_lv1_1_value": 25,
+        "rank_up_lv1_2_name": "兰之华片-二",
+        "rank_up_lv1_2_value": 15,
+        "rank_up_lv1_3_name": "竹之华片-一",
+        "rank_up_lv1_3_value": 25,
+        "rank_up_lv1_4_name": "云之卷轴-二",
+        "rank_up_lv1_4_value": 15,
+        "rank_up_lv1_5_name": "竹之华片-二",
+        "rank_up_lv1_5_value": 15,
+        "rank_up_lv1_6_name": "蛇之卷轴-二",
+        "rank_up_lv1_6_value": 15,
+        "rank_up_lv2_1_name": "竹之华片-二",
+        "rank_up_lv2_1_value": 30,
+        "rank_up_lv2_2_name": "云之卷轴-二",
+        "rank_up_lv2_2_value": 30,
+        "rank_up_lv2_3_name": "辅助指南书-二",
+        "rank_up_lv2_3_value": 30,
+        "rank_up_lv2_4_name": "云之卷轴-三",
+        "rank_up_lv2_4_value": 30,
+        "rank_up_lv2_5_name": "竹之华片-三",
+        "rank_up_lv2_5_value": 30,
+        "rank_up_lv2_6_name": "蛇之卷轴-三",
+        "rank_up_lv2_6_value": 30,
+        "rank_up_lv3_1_name": "鸟之卷轴-二",
+        "rank_up_lv3_1_value": 45,
+        "rank_up_lv3_2_name": "兰之华片-三",
+        "rank_up_lv3_2_value": 35,
+        "rank_up_lv3_3_name": "辅助指南书-二",
+        "rank_up_lv3_3_value": 45,
+        "rank_up_lv3_4_name": "云之卷轴-三",
+        "rank_up_lv3_4_value": 35,
+        "rank_up_lv3_5_name": "竹之华片-三",
+        "rank_up_lv3_5_value": 35,
+        "rank_up_lv3_6_name": "蛇之卷轴-三",
+        "rank_up_lv3_6_value": 35,
+        "rank_up_lv4_1_name": "兰之华片-三",
+        "rank_up_lv4_1_value": 50,
+        "rank_up_lv4_2_name": "竹之华片-三",
+        "rank_up_lv4_2_value": 50,
+        "rank_up_lv4_3_name": "辅助指南书-三",
+        "rank_up_lv4_3_value": 50,
+        "rank_up_lv4_4_name": "云之卷轴-三",
+        "rank_up_lv4_4_value": 50,
+        "rank_up_lv4_5_name": "鸟之卷轴-三",
+        "rank_up_lv4_5_value": 50,
+        "rank_up_lv4_6_name": "蛇之卷轴-三",
+        "rank_up_lv4_6_value": 50,
+        "short_name": "天子",
         "speed": 1600,
-        "subname": "擬似式神：斉天大聖",
+        "subname": "模拟式神：齐天大圣",
         "total": 7350,
         "tribe": [
             127,
@@ -41,25 +177,44 @@
             136,
             57,
             67,
-            159
+            159,
+            216
         ],
         "type": 4,
+        "vocal1": "伊南羽桜",
+        "vocal2": "本郷里実",
+        "vocal3": "宮崎恵里花",
+        "voice1": "齐天大圣的位阶程度的声音",
+        "voice2": "筋斗云般的要石程度的声音",
+        "voice3": "如意棒般的剑程度的声音",
         "world_group": "Lr",
+        "world_group_description": "就像银河会通过碰撞合体一样，世界有时也会通过碰撞合体。\n“Lr世界群”是“R世界团”以从属于“L世界团”的形式产生碰撞，并抽取了两者共同部分的第三世界。\n这相当于部分性的异界穿越，是能够只把任意的信息要过来的简易版异界穿越。\n对拥有大妖怪级力量的存在中的佼佼者以外，这种事情只会是痴人说梦。\n\n这是结果而言发生的事情。\n相当于式神和二童子等“使役性高的从者”的，存在意义的扩张。",
+        "world_group_name": "Lr世界群",
         "yang_atk": 1050,
         "yang_def": 850,
         "yin_atk": 1650,
-        "yin_def": 1200
+        "yin_def": 1200,
+        "id": 7089
     },
     "chain_character": [
-        7044,
         6040,
         6087,
         12004,
-        5125
+        5125,
+        1001,
+        1002,
+        1003,
+        1004
     ],
-    "costumes": {},
+    "costumes": {
+        "0": {
+            "costume_description1": "变生世界的天子的常服。\n没想到八云紫的秘密武器是她！",
+            "costume_name1": "模拟式神：齐天大圣"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 1,
@@ -83,9 +238,11 @@
             ],
             "cd": 3,
             "name": "美猴王",
-            "id": 1
+            "description": "勇敢的石猿时期的名字。\n诞生自花果山仙石孕育出的仙胞。",
+            "icon": "skill_icon_barrier_burn"
         },
         {
+            "id": 2,
             "a": [
                 6,
                 1,
@@ -108,10 +265,12 @@
                 13
             ],
             "cd": 4,
-            "name": "孫悟空",
-            "id": 2
+            "name": "孙悟空",
+            "description": "师父·须菩提祖师授予的法名。\n虽说被逐出师门了吧。",
+            "icon": "skill_icon_barrier_burn"
         },
         {
+            "id": 3,
             "a": [
                 2,
                 9,
@@ -134,8 +293,9 @@
                 1
             ],
             "cd": 5,
-            "name": "斉天大聖",
-            "id": 3
+            "name": "齐天大圣",
+            "description": "得意忘形的孙悟空自封的名号。\n后来成为了正式的官职名称（好厉害！）。",
+            "icon": "skill_icon_cri_def_down"
         }
     ],
     "attack_skills": {
@@ -228,6 +388,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111g",
+                "all_order_1": "12121211111111111111g",
+                "all_order_2": "1212121113131311141411111g",
+                "all_order_3": "12121211131313111414111515616g",
                 "break": [
                     6,
                     0,
@@ -235,8 +398,9 @@
                     0,
                     0
                 ],
+                "description": "变生世界的比那名居天子的符卡(东方归言录原创)。\n再现传说中的筋斗云的弹幕。\n天子向八云紫提出的契约条件是，租借八云紫的一部分境界操纵能力。\n你可能会对能力可以租借这件事感到意外，但恐怕与龙珠的性质什么的有关。\n低配版制作·消除境界的能力，在利用懒惰的天人方面非常管用。\n如果不有效利用仿佛被封印在封神台一样怠惰的天人们，那岂不是暴殄天物？",
                 "first_order": 1,
-                "name": "式鬼「キントファンネル」",
+                "name": "式鬼「筋斗云」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -253,14 +417,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "12121211111111111111g",
-                "all_order_2": "1212121113131311141411111g",
-                "all_order_3": "12121211131313111414111515616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 17,
                     "boost": 0,
@@ -286,14 +448,15 @@
                         84,
                         99
                     ],
-                    "name": "キントファンネル",
-                    "order": "",
+                    "name": "筋斗云",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -322,14 +485,15 @@
                         84,
                         99
                     ],
-                    "name": "ハイキントファンネル",
-                    "order": "",
+                    "name": "High筋斗云",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -348,14 +512,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガキントファンネル",
-                    "order": "",
+                    "name": "Mega筋斗云",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -369,14 +534,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ギガキントファンネル",
-                    "order": "",
+                    "name": "Giga筋斗云",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -396,14 +562,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラキントファンネル",
-                    "order": "",
+                    "name": "Tera筋斗云",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -429,24 +596,21 @@
                         84,
                         99
                     ],
-                    "name": "ペタキントファンネル",
-                    "order": "",
+                    "name": "Peta筋斗云",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111111g",
+                "all_order_1": "12121131111g",
+                "all_order_2": "1212113141151g",
+                "all_order_3": "12121131411516g",
                 "break": [
                     0,
                     0,
@@ -454,8 +618,9 @@
                     0,
                     0
                 ],
+                "description": "变生世界的比那名居天子的扩散射击(东方归言录原创)。\n用自己的要石再现传说中的筋斗云的弹幕。\n天子与八云紫有着深厚因缘。\n但这份因缘能够成为强大羁绊的基石。\n智者能够互相理解。\n……前提是没有被对方欺骗。",
                 "first_order": 1,
-                "name": "クラウド要石",
+                "name": "云要石",
                 "power_rate": 50,
                 "damage_extend": [
                     100,
@@ -472,14 +637,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "12121131111g",
-                "all_order_2": "1212113141151g",
-                "all_order_3": "12121131411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 8,
                     "boost": 0,
@@ -501,14 +664,15 @@
                         69,
                         26
                     ],
-                    "name": "クラウド要石",
-                    "order": "",
+                    "name": "云要石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -528,14 +692,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ハイクラウド要石",
-                    "order": "",
+                    "name": "High云要石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -549,14 +714,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガクラウド要石",
-                    "order": "",
+                    "name": "Mega云要石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -573,14 +739,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ギガクラウド要石",
-                    "order": "",
+                    "name": "Giga云要石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -599,14 +766,15 @@
                         69,
                         26
                     ],
-                    "name": "テラクラウド要石",
-                    "order": "",
+                    "name": "Tera云要石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -625,12 +793,12 @@
                         69,
                         26
                     ],
-                    "name": "ペタクラウド要石",
-                    "order": "",
+                    "name": "Peta云要石",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -661,13 +829,6 @@
                     [],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_dodge_down"
@@ -678,13 +839,6 @@
                     [
                         "skill_icon_speed_up"
                     ],
-                    [],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
                     [],
                     []
                 ],
@@ -723,6 +877,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111g",
+                "all_order_1": "1212121211131313111111111g",
+                "all_order_2": "12121212111313131114141115151g",
+                "all_order_3": "121212121113131311141411151516g",
                 "break": [
                     0,
                     0,
@@ -730,8 +887,9 @@
                     0,
                     0
                 ],
+                "description": "变生世界的比那名居天子的符卡(东方归言录原创)。\n再现传说中的如意金箍棒的弹幕。\n齐天大圣是无人不知的存在。\n“既然能借来齐天大圣的称号，那几乎所有事情都能做到。”\n天子如此想到。\n除了自己不是猴子这点以外，齐天大圣是和自己拥有相当多的共同点的传奇天人。\n精通七十二变的齐天大圣，一定能借用其他天人的能力。",
                 "first_order": 1,
-                "name": "式鬼「全天界の如意金箍棒」",
+                "name": "式鬼「全天界的如意金箍棒」",
                 "power_rate": 15,
                 "damage_extend": [
                     100,
@@ -748,14 +906,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1212121211131313111111111g",
-                "all_order_2": "12121212111313131114141115151g",
-                "all_order_3": "121212121113131311141411151516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 18,
                     "boost": 0,
@@ -779,14 +935,15 @@
                         62,
                         54
                     ],
-                    "name": "全天界の如意金箍棒",
-                    "order": "",
+                    "name": "全天界的如意金箍棒",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -808,14 +965,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "全天界の大如意金箍棒",
-                    "order": "",
+                    "name": "全天界的大如意金箍棒",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -838,14 +996,15 @@
                         62,
                         54
                     ],
-                    "name": "全天界の特如意金箍棒",
-                    "order": "",
+                    "name": "全天界的特如意金箍棒",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -865,14 +1024,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "全天界の超如意金箍棒",
-                    "order": "",
+                    "name": "全天界的超如意金箍棒",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -892,14 +1052,15 @@
                         62,
                         54
                     ],
-                    "name": "全天界の極如意金箍棒",
-                    "order": "",
+                    "name": "全天界的极如意金箍棒",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -920,24 +1081,21 @@
                         62,
                         54
                     ],
-                    "name": "全天界の最如意金箍棒",
-                    "order": "",
+                    "name": "全天界的最如意金箍棒",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "1211111g",
+                "all_order_2": "1211134115g",
+                "all_order_3": "12111341156g",
                 "break": [
                     0,
                     0,
@@ -945,8 +1103,9 @@
                     0,
                     0
                 ],
+                "description": "变生世界的比那名居天子的集中射击(东方归言录原创)。\n用自己的绯想之剑再现传说中的如意金箍棒的弹幕。\n原本情况下式神契约是会夺取对象的存在性的，具备类似于“凭依”的性质的契约。\n不具备上述性质的契约更加接近约定。\n束缚越多越强烈，越能瞬间性地发挥出强大的力量。\n反过来讲，拥有强大力量的存在不需要额外的束缚。",
                 "first_order": 1,
-                "name": "緋想ジャベリン",
+                "name": "绯想投枪",
                 "power_rate": 8,
                 "damage_extend": [
                     100,
@@ -963,14 +1122,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1211111g",
-                "all_order_2": "1211134115g",
-                "all_order_3": "12111341156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 6,
                     "boost": 0,
@@ -994,14 +1151,15 @@
                         13,
                         127
                     ],
-                    "name": "緋想ジャベリン",
-                    "order": "",
+                    "name": "绯想投枪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -1018,14 +1176,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大緋想ジャベリン",
-                    "order": "",
+                    "name": "大绯想投枪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1042,14 +1201,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "特緋想ジャベリン",
-                    "order": "",
+                    "name": "特绯想投枪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1069,14 +1229,15 @@
                         13,
                         127
                     ],
-                    "name": "超緋想ジャベリン",
-                    "order": "",
+                    "name": "超绯想投枪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1090,14 +1251,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "極緋想ジャベリン",
-                    "order": "",
+                    "name": "极绯想投枪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1117,12 +1279,12 @@
                         13,
                         127
                     ],
-                    "name": "最緋想ジャベリン",
-                    "order": "",
+                    "name": "最绯想投枪",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1159,13 +1321,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_cri_def_down"
@@ -1179,13 +1334,6 @@
                     [
                         "skill_icon_yin_def_down"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -1223,6 +1371,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111111g",
+                "all_order_1": "121212211111111111111111111g",
+                "all_order_2": "1212122111131313131114141411111111g",
+                "all_order_3": "121212211113131313111414141115151511616g",
                 "break": [
                     0,
                     0,
@@ -1230,8 +1381,9 @@
                     0,
                     0
                 ],
+                "description": "变生世界的比那名居天子的终符(东方归言录原创)。\n自由自在地操纵吉凶的天人们的弹幕。\n天子想起了依神紫苑。\n招引凶运的，强烈的不幸能力。\n天子级别的豪运才能抵消的，强大的灾祸力量。\n说到灾祸之神，我们往往会联想到太岁星君。\n天子认为封神台相当于伏魔殿。\n不，一切“祭祀神仙们的地点”正是天界，是封神台，是能视作巨大要石的名为天界的世界。\n这么一想……就该像这样使唤满足于操纵自己与他人命运的天人。\n无人信仰的寺庙，没有任何意义。\n用破坏带来救赎。这才是暴力的正确用途。",
                 "first_order": 1,
-                "name": "「地煞七十二星　擬似凶神」",
+                "name": "「地煞七十二星　模拟凶神」",
                 "power_rate": 4,
                 "damage_extend": [
                     100,
@@ -1248,14 +1400,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121212211111111111111111111g",
-                "all_order_2": "1212122111131313131114141411111111g",
-                "all_order_3": "121212211113131313111414141115151511616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 23,
                     "boost": 0,
@@ -1282,14 +1432,15 @@
                         54,
                         53
                     ],
-                    "name": "地煞七十二星　擬似凶神",
-                    "order": "",
+                    "name": "地煞七十二星　模拟凶神",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -1311,14 +1462,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "地煞七十二星　擬似大凶神",
-                    "order": "",
+                    "name": "地煞七十二星　模拟大凶神",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1340,14 +1492,15 @@
                         54,
                         53
                     ],
-                    "name": "地煞七十二星　擬似特凶神",
-                    "order": "",
+                    "name": "地煞七十二星　模拟特凶神",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -1369,14 +1522,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "地煞七十二星　擬似超凶神",
-                    "order": "",
+                    "name": "地煞七十二星　模拟超凶神",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -1400,14 +1554,15 @@
                         54,
                         53
                     ],
-                    "name": "地煞七十二星　擬似極凶神",
-                    "order": "",
+                    "name": "地煞七十二星　模拟极凶神",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -1436,12 +1591,12 @@
                         54,
                         53
                     ],
-                    "name": "地煞七十二星　擬似最凶神",
-                    "order": "",
+                    "name": "地煞七十二星　模拟最凶神",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

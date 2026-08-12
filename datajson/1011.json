@@ -49,9 +49,9 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1160,
+        "yang_atk": 1200,
         "yang_def": 940,
-        "yin_atk": 1160,
+        "yin_atk": 1200,
         "yin_def": 940
     },
     "chain_character": [
@@ -98,7 +98,8 @@
             "c": [],
             "cd": 4,
             "name": "二刀剣術",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -118,7 +119,8 @@
             "c": [],
             "cd": 5,
             "name": "修行の成果",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -138,7 +140,8 @@
             "c": [],
             "cd": 5,
             "name": "明鏡止水",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_dodge_up"
         }
     ],
     "attack_skills": {

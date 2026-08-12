@@ -31,7 +31,7 @@
         "passivity_3_name": "相転移現象",
         "quality": 22111110,
         "quality_name": "春曇",
-        "speed": 900,
+        "speed": 970,
         "subname": "令嬢付きの元素魔法使い",
         "total": 7350,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 5,
         "world_group": "E1",
-        "yang_atk": 1900,
-        "yang_def": 900,
-        "yin_atk": 1900,
-        "yin_def": 900
+        "yang_atk": 2020,
+        "yang_def": 925,
+        "yin_atk": 2020,
+        "yin_def": 925
     },
     "chain_character": [
         2003,
@@ -85,7 +85,8 @@
             ],
             "cd": 4,
             "name": "コーヨーバーニング",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -111,7 +112,8 @@
             ],
             "cd": 4,
             "name": "ドヨーヴァケイション",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -137,7 +139,8 @@
             ],
             "cd": 6,
             "name": "オーカストーム",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

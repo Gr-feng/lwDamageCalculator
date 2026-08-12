@@ -80,7 +80,8 @@
             ],
             "cd": 1,
             "name": "記憶失踪(神奈子)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_plus"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             ],
             "cd": 4,
             "name": "真名邂逅(神奈子)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 9,
             "name": "ロスト守矢神社(神奈子)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_field_yang_def_up"
         }
     ],
     "attack_skills": {

@@ -110,7 +110,8 @@
             ],
             "cd": 4,
             "name": "こいしの蚤の市",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_down"
         },
         {
             "a": [
@@ -136,7 +137,8 @@
             ],
             "cd": 7,
             "name": "ジャングルショッピング",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -162,7 +164,8 @@
             ],
             "cd": 2,
             "name": "ビーチオークション",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

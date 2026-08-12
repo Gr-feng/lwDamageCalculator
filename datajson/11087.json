@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "沉醉于伪恶世界的秦心的能力(东方归言录原创)。\n能力本身看似和通常的心没有区别。\n不夹杂感情的残酷才是邪恶，无感情正是最符合邪恶的感情……心的思维抵达了这一阶段。\n\n邪恶横行霸道的季节。\n这是掠夺收成的季节，连没有收成可言的地方也不会被放过。\n但一旦赶尽杀绝，自己也会一起倒下。\n培养猎物、让猎物积攒营养、延续猎物的生命……最后再尽数收割。\n\n什么是邪恶？\n秦心进行了一番调查。\n红魔馆的图书馆、铃奈庵的书籍、稗田的藏书……在幻想乡存在许多种调查方式。\n但秦心不知道该如何进行调查。\n正确答案说不定存在于某本书中，但秦心不知道该怎么找。\n堇子说向名为智能手机的木板说话就能找到答案……但这个方法也得思考自己该说什么。\n关于这个问题，堇子表示可以一边和手机交谈一边寻找答案。\n……这个叫手机的东西，怎么感觉和付丧神或者式神挺像的？\n秦心如此想到。\n\n就是说堇子实在命令我这样的存在进行调查，然后对结果说三道四吗？\n我很同情手机。\n因为，我现在也在这么对待自己。\n\n由于调查量过于庞大，秦心已经不记得各个信息的出处了。\n以下是大致上的调查结果。\n第六天魔王波旬是相当邪恶的存在。\n明明……是邪恶的存在（白莲小姐说第六天魔王波旬会妨碍人们开悟），但恐怕在妖怪之山山顶附近的天魔大人，似乎也是第六天魔王波旬。\n据说第六天魔王波旬的另一个名字是他化自在天，容易和名字相似的大自在天搞混。\n大自在天有时候指湿婆，有时候指大黑天大人。\n巧合的是，邪恶与黑暗连起来了。\n\n调查到了这个地步的心，明确意识到这样下去会毫无收获。\n因为幻想乡的正义执行人……硬要说的话是巫女。\n巫女的行为的正当性并不重要。\n因为正义是由后人整理、编造、决定的概念。\n人类是一定要给人事物下定论的存在。\n自以为理解了这些道理并感到安心的自己……无疑是在逐渐习得人类的感情。\n太好了。\n既然如此，邪恶的定义非常简单。\n正义以外的一切，都是邪恶。",
+        "ability_effect_d1": "",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>30%对不利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>30%",
+        "ability_effect_d3": "每被施加1枚结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>黑暗</color>」，<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>1等级\n免疫结界异常「<color=#CCAA00>感电</color>」",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>命中</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "「操纵感情程度的能力(恶堕)」",
         "advantage_attack": 30,
-        "re": "False",
         "advantage_resist": 0,
         "barrier_status_1": 8,
         "barrier_status_2": 0,
         "barrier_status_3": 1,
         "barrier_status_4": 0,
         "barrier_status_5": 8,
-        "bgm": 301108701,
+        "bgm": "FANG",
         "boost_buff": 6,
         "boost_target": 1,
         "break_cost": 503,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>\\n前衛になる時、前衛全体の<color=#CCAA00>霊力</color>を<color=#00CC66>上昇</color>",
-        "chain_name": "パワー連携",
+        "chain_description": "作为后卫时，换位对象的<color=#CCAA00>灵力</color><color=#00CC66>上升</color>\n作为前卫时，前卫全体的<color=#CCAA00>灵力</color><color=#00CC66>上升</color>",
+        "chain_name": "灵力连携",
         "disadvantage_attack": 30,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "我是秦心。你是看到了我隐藏的双眸的命运之人吗？还是说，你是暗黑能乐的使用者？",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 6000,
-        "name": "秦こころ",
-        "passivity_1_description": "攻撃された後、自身の<color=#CCAA00>陰攻</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%]",
+        "jp_name": "はたのこころ",
+        "lines1": "我是恶敌城堡的秦心。这个世界也已经落入了黑暗恶敌们的手中吗……可恶！我来晚了一步！但我不能放弃。藏在我双眸中的暗黑能乐的力量，会让我成为漆黑的正义使者！呜！？――镇，镇静点！ 她是自己人。――对不起，刚才吓到你了。你愿意带我逛逛这个世界吗？但是……我的感情被封印了，所以可能会给你添麻烦。",
+        "lines10": "看来你也逐渐明白暗黑能乐的魅力了。那我差不多该告诉你隐藏代码了。为此需要按照顺序咏唱神秘咒语。",
+        "lines11": "小恋的演技过于高超……以至于我有时候会当真。我也得向她学习。因为我的本职工作是女演员。",
+        "lines12": "猯藏师父！我现在……正在学习“名为无感情的感情”。比我预想中的要难诶。",
+        "lines13": "清爽的春天？ 我感觉不到。但我想展现一下能乐。小恋你看你看～。人生太美好了～。",
+        "lines14": "炎热的夏天？ 我感觉不到。但是……嗯。你可能会觉得我是热趴下了，但没有这回事……小恋，谢谢你给我水喝。",
+        "lines15": "富饶的秋天？ 我感觉不到。但红薯一定很好吃。……小恋的料理也很美味哦。",
+        "lines16": "冰冷的冬天？ 我感觉不到。但你冷的话可以贴着我。……我也想贴着小恋～！",
+        "lines17": "作业……？ 哼哼哼！ 哈哈哈哈！",
+        "lines18": "做完作业了吗。我来摸摸你的头。女孩子都喜欢被摸头。",
+        "lines19": "给你，是传书。……我没做什么吧？",
+        "lines2": "你问黑暗恶敌是什么？我还没编好设定……。",
+        "lines20": "哪怕只有一瞬间，我也想享受现在的安宁。让我休息一下吧。",
+        "lines21": "我的使魔们回来了！告诉我成果吧！",
+        "lines22": "你想躺在理想乡……我的膝盖上吗？我准了。",
+        "lines23": "睡得跟一角兽一样香呢。……乖孩子乖孩子。",
+        "lines24": "小恋睡觉时也是这个样子。",
+        "lines25": "面具们在我的耳边低语……“战斗吧”",
+        "lines26": "你们也觉醒吧。到时候你们就都懂了",
+        "lines27": "哈哈哈！ 我赢了！ 一切如同映射在秘匿之瞳中的命运之理！",
+        "lines28": "这是何等的力量。我的暗黑能乐竟然不管用……！",
+        "lines29": "把力量！",
+        "lines3": "我们是恶敌。换句话说……我们是邪恶的女主人公。",
+        "lines30": "借给我吧！",
+        "lines31": "与摩多罗神的黑暗契约啊！",
+        "lines32": "至少这种时候！",
+        "lines33": "保护保护我吧！",
+        "lines34": "怨仇一族的百鬼夜行啊！",
+        "lines35": "哼！",
+        "lines36": "哼哼哼！",
+        "lines37": "偏偏在这种时候……",
+        "lines38": "不行……你再忍忍",
+        "lines39": "又在……隐隐作痛",
+        "lines4": "只有恶者能矫正巨恶。要想照亮黑暗，自己也必须成为黑暗世界的居民。……哼哼！",
+        "lines40": "发动符卡！ 敌人即将倒下！",
+        "lines41": "撑住……！",
+        "lines42": "久等了！",
+        "lines43": "贯穿吧！",
+        "lines44": "我要忍不住了……！",
+        "lines45": "呜咕！　快点镇静下来　\n我隐藏的双眸啊……！",
+        "lines46": "可恶　这样我没法手下留情　\n快逃　趁我还没被狂气吞噬！",
+        "lines47": "黑面「黑暗守望者·恶魔附体」",
+        "lines48": "“　……丝绸之路　少女期的全能感\n　缓冲期　获麟　”",
+        "lines49": "不行的　小恋　\n不要妨碍我咏唱　21句密语",
+        "lines5": "这个世界到处都是因恶者流泪的受害者。但是巨恶依旧活得逍遥自在。既然光明无法惩罚邪恶，那么黑暗的正义将成为执行者。即便因此被追缉，我也不在意。",
+        "lines50": "穿孔「爱情大贯穿」",
+        "lines51": "我不能接受你对我的爱　\n我会困扰的　但是……",
+        "lines52": "假面和巫女是一回事情　\n我可以成为你的　感情的凭依对象",
+        "lines53": "「爱上我也没用，我没有这种感情」",
+        "lines54": "呜",
+        "lines55": "痛觉我还是有的！",
+        "lines56": "哼，没问题",
+        "lines57": "心脏在这里",
+        "lines58": "抱歉了",
+        "lines59": "镇静……镇静点，我的力量啊！",
+        "lines6": "曾经的我有丰富的感情。但在消灭巨恶这个问题方面，感情也是弱点。因此我摒弃了自己的感情……。你不觉得这个设定有点像小恋吗？是不是很帅？",
+        "lines60": "东方归言录",
+        "lines61": "好",
+        "lines62": "那算了",
+        "lines63": "抱歉",
+        "lines64": "我是不是该完善一下设定？",
+        "lines65": "暗黑能乐的摩多罗神是古代飞鸟的……脑子转不过来了。",
+        "lines7": "话说回来为什么我们的世界会变成恶敌城堡呢……这才是问题。虽然不知道原因，但我是发自真心想要从黑暗势力手中拯救世界。这是萌生在我心中的，重要的感情。今后我也会协助你。",
+        "lines8": "你要提升我的力量？ ……哼，多管闲事。",
+        "lines9": "今天藏在双眸中的黑暗命运也会与我们同在！吧唧吧唧……抱歉，我正在吃饭。厨师是小恋。",
+        "name": "秦心",
+        "passivity_1_description": "被攻击后，自身<color=#CCAA00>阴攻</color><color=#FF6600>上升</color>1等级 (3回合) [发生率100%]",
         "passivity_1_icon": "characteristic_icon_3",
-        "passivity_1_name": "黒令嬢(こころ)",
-        "passivity_2_description": "攻撃された後、自身の<color=#CCAA00>速力</color>を1段階<color=#FF6600>アップ</color> (3T) [発生率100%]",
+        "passivity_1_name": "黑千金(心)",
+        "passivity_2_description": "被攻击后，自身<color=#CCAA00>速度</color><color=#FF6600>上升</color>1等级 (3回合) [发生率100%]",
         "passivity_2_icon": "characteristic_icon_5",
-        "passivity_2_name": "無感情な感情",
-        "passivity_3_description": "体力25%以下で攻撃された時、<color=#CCAA00>受けるダメージ</color>を100%<color=#0066FF>ダウン</color> [発生率50%]",
+        "passivity_2_name": "无感情的感情",
+        "passivity_3_description": "体力在25%以下遭到攻击时，<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>100% [发生率50%]",
         "passivity_3_icon": "characteristic_icon_39",
-        "passivity_3_name": "悪意の舞踏仮面",
+        "passivity_3_name": "恶意之舞会面具",
         "quality": 11000112,
-        "quality_name": "ファタ・モルガーナ",
+        "quality_description": "沉醉于伪恶世界的秦心的气质(东方归言录原创)。\n“Fata Morgana”指海市蜃楼。\n是符合沉迷于恶敌游戏的心的气质。\n不被束缚的感情重组了她的气质。\n\n只有做好了中弹觉悟的人有资格发射弹幕。(强于星精)\n你为什么这么激动？(弱于火行)\n原来如此，普通人会这么觉得吗。(弱于水行)\n给我安静下来……！ 藏在秘密的瞳孔中的另一张面具啊！(弱于木行)",
+        "quality_name": "Fata Morgana",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 20,
+        "rank_up_lv0_2_name": "罗国",
+        "rank_up_lv0_2_value": 20,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "虎之卷轴-一",
+        "rank_up_lv0_4_value": 30,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "鸟之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "梅之华片-二",
+        "rank_up_lv1_1_value": 20,
+        "rank_up_lv1_2_name": "兰之华片-二",
+        "rank_up_lv1_2_value": 20,
+        "rank_up_lv1_3_name": "虎之卷轴-一",
+        "rank_up_lv1_3_value": 30,
+        "rank_up_lv1_4_name": "虎之卷轴-二",
+        "rank_up_lv1_4_value": 20,
+        "rank_up_lv1_5_name": "梅之华片-一",
+        "rank_up_lv1_5_value": 30,
+        "rank_up_lv1_6_name": "鸟之卷轴-二",
+        "rank_up_lv1_6_value": 20,
+        "rank_up_lv2_1_name": "梅之华片-三",
+        "rank_up_lv2_1_value": 40,
+        "rank_up_lv2_2_name": "虎之卷轴-二",
+        "rank_up_lv2_2_value": 40,
+        "rank_up_lv2_3_name": "梅之华片-二",
+        "rank_up_lv2_3_value": 40,
+        "rank_up_lv2_4_name": "虎之卷轴-三",
+        "rank_up_lv2_4_value": 40,
+        "rank_up_lv2_5_name": "攻击指南书-二",
+        "rank_up_lv2_5_value": 40,
+        "rank_up_lv2_6_name": "鸟之卷轴-三",
+        "rank_up_lv2_6_value": 40,
+        "rank_up_lv3_1_name": "梅之华片-三",
+        "rank_up_lv3_1_value": 50,
+        "rank_up_lv3_2_name": "兰之华片-三",
+        "rank_up_lv3_2_value": 50,
+        "rank_up_lv3_3_name": "地之卷轴-二",
+        "rank_up_lv3_3_value": 60,
+        "rank_up_lv3_4_name": "虎之卷轴-三",
+        "rank_up_lv3_4_value": 50,
+        "rank_up_lv3_5_name": "攻击指南书-二",
+        "rank_up_lv3_5_value": 60,
+        "rank_up_lv3_6_name": "鸟之卷轴-三",
+        "rank_up_lv3_6_value": 50,
+        "rank_up_lv4_1_name": "地之卷轴-三",
+        "rank_up_lv4_1_value": 70,
+        "rank_up_lv4_2_name": "梅之华片-三",
+        "rank_up_lv4_2_value": 70,
+        "rank_up_lv4_3_name": "兰之华片-三",
+        "rank_up_lv4_3_value": 70,
+        "rank_up_lv4_4_name": "虎之卷轴-三",
+        "rank_up_lv4_4_value": 70,
+        "rank_up_lv4_5_name": "攻击指南书-三",
+        "rank_up_lv4_5_value": 70,
+        "rank_up_lv4_6_name": "鸟之卷轴-三",
+        "rank_up_lv4_6_value": 70,
+        "short_name": "心",
         "speed": 1900,
-        "subname": "裏腹のシークレットフェイス",
+        "subname": "口是心非的神秘面具",
         "total": 7800,
         "tribe": [
             14,
@@ -44,18 +180,31 @@
             95
         ],
         "type": 6,
+        "vocal1": "藤村花音",
+        "vocal2": "指出毬亜",
+        "vocal3": "貫井柚佳",
+        "voice1": "过于七零八落的内心程度的声音",
+        "voice2": "过于不习惯的中二程度的声音",
+        "voice3": "过于姐妹的过家家程度的声音",
         "world_group": "C8≪",
+        "world_group_description": "“C系列的世界团（C世界团）”中的世界群之一。\n“C8世界群”在“C世界团”中偏差度是“8”左右，是照理说几乎不会成立的世界群。\n“C”是“Colloquialism”，是意味着“口语”的符号。\n日语中的接尾词“≪”意味着朝特定方向发生变化，在这个世界群中的含义是“气质固定在收割的季节”。\n\n【主要的分歧点】\n虽然不知道原因，但气质被固定在了收割的季节。\n通常情况下是收获夏日的阳光与风雨孕育出的农作物的季节。\n但因为季节不会循环，在这个世界只能强行在颗粒无收的土地进行收割。\n\n【主要的汇合点】\n收获的季节自然是物资流通的季节。\n换句话说，也是适合抢夺·浪费物资，将亏损转嫁在他人身上的季节。\n贵族为什么会没落？\n巨大国家为什么会灭亡？\n答案是因为试图在颗粒无收的土地进行收割。\n收获的季节，也是衰退的季节。",
+        "world_group_name": "C8≪世界群",
         "yang_atk": 1000,
         "yang_def": 900,
         "yin_atk": 1900,
-        "yin_def": 900
+        "yin_def": 900,
+        "id": 11087
     },
-    "chain_character": [
-        18051
-    ],
-    "costumes": {},
+    "chain_character": [],
+    "costumes": {
+        "0": {
+            "costume_description1": "沉醉于伪恶世界的心的常服。\n据说无感情也是一种感情。",
+            "costume_name1": "口是心非的神秘面具"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 8,
                 1,
@@ -78,10 +227,12 @@
                 24
             ],
             "cd": 3,
-            "name": "欠けたベネチアンマスク",
-            "id": 1
+            "name": "不完整的威尼斯面具",
+            "description": "破碎的面具藏不住感情。\n也无法完美表现感情。",
+            "icon": "skill_icon_fast"
         },
         {
+            "id": 2,
             "a": [
                 1,
                 305,
@@ -104,10 +255,12 @@
                 16
             ],
             "cd": 5,
-            "name": "貫通の槍斧",
-            "id": 2
+            "name": "贯穿之斧枪",
+            "description": "如果想达成一切目的。\n那就开个大洞吧。",
+            "icon": "skill_icon_yin_atk_up"
         },
         {
+            "id": 3,
             "a": [
                 41,
                 5,
@@ -130,8 +283,9 @@
                 1
             ],
             "cd": 5,
-            "name": "ブラックドレス(感情)",
-            "id": 3
+            "name": "黑色连衣裙(感情)",
+            "description": "不被善恶束缚才是真正的恶敌。\n话说回来，善恶是什么？",
+            "icon": "skill_icon_speed_up"
         }
     ],
     "attack_skills": {
@@ -232,6 +386,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111g",
+                "all_order_1": "1212121111111111111g",
+                "all_order_2": "121212113131311414111111g",
+                "all_order_3": "1212121131313114141151511616g",
                 "break": [
                     2,
                     0,
@@ -239,8 +396,9 @@
                     0,
                     2
                 ],
+                "description": "沉醉于伪恶世界的秦心的符卡(东方归言录原创)。\n恶堕游戏的弹幕。\n故意忘却那段学习感情的时光。\n让感情不浮现在面孔上。\n让他人无法领会自己的感情。\n这就是坏孩子表达感情的方法吧？\n如果别人觉得我狂妄的话，那就成功了。\n于是我按照查到的例子实践了一下。\n……这么做没错吧？",
                 "first_order": 1,
-                "name": "黒面「ダークウォッチ・ポゼッション」",
+                "name": "黑面「黑暗守望者·恶魔附体」",
                 "power_rate": 7,
                 "damage_extend": [
                     100,
@@ -257,14 +415,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1212121111111111111g",
-                "all_order_2": "121212113131311414111111g",
-                "all_order_3": "1212121131313114141151511616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 16,
                     "boost": 0,
@@ -290,14 +446,15 @@
                         33,
                         159
                     ],
-                    "name": "闇落ち黒面",
-                    "order": "",
+                    "name": "恶堕黑面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -318,14 +475,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "闇落ち大黒面",
-                    "order": "",
+                    "name": "恶堕大黑面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -349,14 +507,15 @@
                         33,
                         159
                     ],
-                    "name": "闇落ち特黒面",
-                    "order": "",
+                    "name": "恶堕特黑面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -373,14 +532,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "闇落ち超黒面",
-                    "order": "",
+                    "name": "恶堕超黑面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -401,14 +561,15 @@
                         33,
                         159
                     ],
-                    "name": "闇落ち極黒面",
-                    "order": "",
+                    "name": "恶堕极黑面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 2,
                     "boost": 3,
@@ -434,24 +595,21 @@
                         33,
                         159
                     ],
-                    "name": "闇落ち最黒面",
-                    "order": "",
+                    "name": "恶堕最黑面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111111g",
+                "all_order_1": "121111111g",
+                "all_order_2": "121131114115g",
+                "all_order_3": "1211311141156g",
                 "break": [
                     0,
                     0,
@@ -459,8 +617,9 @@
                     0,
                     0
                 ],
+                "description": "沉醉于伪恶世界的秦心的扩散射击(东方归言录原创)。\n用心爱的斧枪击溃敌人的弹幕。\n学习感情的每一天。\n虽然能感觉到自己在成长，但修行生活没有尽头。\n因为不知道的感情在一个接一个地涌出。\n坏孩子的心理……我还不太清楚是什么样的感情。",
                 "first_order": 1,
-                "name": "レディースハルバード",
+                "name": "Ladies Halberd",
                 "power_rate": 58,
                 "damage_extend": [
                     100,
@@ -477,14 +636,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "121111111g",
-                "all_order_2": "121131114115g",
-                "all_order_3": "1211311141156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 8,
                     "boost": 0,
@@ -509,14 +666,15 @@
                         124,
                         159
                     ],
-                    "name": "レディースハルバード",
-                    "order": "",
+                    "name": "Ladies Halberd",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -543,14 +701,15 @@
                         33,
                         159
                     ],
-                    "name": "ハイレディースハルバード",
-                    "order": "",
+                    "name": "High Ladies Halberd",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -572,14 +731,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "メガレディースハルバード",
-                    "order": "",
+                    "name": "Mega Ladies Halberd",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -600,14 +760,15 @@
                         98,
                         159
                     ],
-                    "name": "ギガレディースハルバード",
-                    "order": "",
+                    "name": "Giga Ladies Halberd",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -629,14 +790,15 @@
                         33,
                         159
                     ],
-                    "name": "テラレディースハルバード",
-                    "order": "",
+                    "name": "Tera Ladies Halberd",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -656,12 +818,12 @@
                         33,
                         159
                     ],
-                    "name": "ペタレディースハルバード",
-                    "order": "",
+                    "name": "Peta Ladies Halberd",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -698,13 +860,6 @@
                     ],
                     []
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_barrier_blind"
@@ -718,13 +873,6 @@
                     [
                         "skill_icon_dodge_down"
                     ],
-                    []
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
                     []
                 ],
                 "type_before": [
@@ -762,6 +910,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111g",
+                "all_order_1": "11221121111111111111111g",
+                "all_order_2": "11221121313131111111111111g",
+                "all_order_3": "11221121313131141414115115151116166g",
                 "break": [
                     3,
                     0,
@@ -769,8 +920,9 @@
                     0,
                     3
                 ],
+                "description": "沉醉于伪恶世界的秦心的符卡(东方归言录原创)。\n扮演坏人的弹幕。\n名为无感情的感情。\n自从心开始学习感情以来，已经经过了不少时间。但她依然无法理解无感情。\n还是说心的感情过于丰富，所以做不到？\n还是说没有人能做到无感情？\n如果没有人能做到，那么为什么会有无感情这种概念？",
                 "first_order": 1,
-                "name": "穿孔「恋する想い大貫通」",
+                "name": "穿孔「爱情大贯穿」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -787,14 +939,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "11221121111111111111111g",
-                "all_order_2": "11221121313131111111111111g",
-                "all_order_3": "11221121313131141414115115151116166g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 20,
                     "boost": 0,
@@ -820,14 +970,15 @@
                         22,
                         26
                     ],
-                    "name": "コイシトツ",
-                    "order": "",
+                    "name": "爱情贯穿",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 3,
                     "boost": 1,
@@ -847,14 +998,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大コイシトツ",
-                    "order": "",
+                    "name": "大爱情贯穿",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -880,14 +1032,15 @@
                         17,
                         54
                     ],
-                    "name": "特コイシトツ",
-                    "order": "",
+                    "name": "特爱情贯穿",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -906,14 +1059,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超コイシトツ",
-                    "order": "",
+                    "name": "超爱情贯穿",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -940,14 +1094,15 @@
                         17,
                         54
                     ],
-                    "name": "極コイシトツ",
-                    "order": "",
+                    "name": "极爱情贯穿",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -971,24 +1126,21 @@
                         17,
                         54
                     ],
-                    "name": "最コイシトツ",
-                    "order": "",
+                    "name": "最爱情贯穿",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 4,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "1121111g",
+                "all_order_2": "112131411g",
+                "all_order_3": "11213141156g",
                 "break": [
                     6,
                     0,
@@ -996,8 +1148,9 @@
                     0,
                     6
                 ],
+                "description": "沉醉于伪恶世界的秦心的集中射击(东方归言录原创)。\n用心爱的不完整的威尼斯面具进行观察的弹幕。\n我还是不明白坏孩子的感情。\n如果无法理解坏孩子为什么坏的话，我无法习得这份感情。\n但是，我稍微明白了一点什么。\n大家都在夸我学习感情这件事。\n那么反着来的话……。",
                 "first_order": 1,
-                "name": "シークレットハーフ",
+                "name": "Secret Half",
                 "power_rate": 9,
                 "damage_extend": [
                     100,
@@ -1014,14 +1167,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1121111g",
-                "all_order_2": "112131411g",
-                "all_order_3": "11213141156g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 6,
                     "boost": 0,
@@ -1046,14 +1197,15 @@
                         1,
                         54
                     ],
-                    "name": "シークレットハーフ",
-                    "order": "",
+                    "name": "Secret Half",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -1075,14 +1227,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ハイシークレットハーフ",
-                    "order": "",
+                    "name": "High Secret Half",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1104,14 +1257,15 @@
                         1,
                         54
                     ],
-                    "name": "メガシークレットハーフ",
-                    "order": "",
+                    "name": "Mega Secret Half",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1133,14 +1287,15 @@
                         26,
                         33
                     ],
-                    "name": "ギガシークレットハーフ",
-                    "order": "",
+                    "name": "Giga Secret Half",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1159,14 +1314,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "テラシークレットハーフ",
-                    "order": "",
+                    "name": "Tera Secret Half",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1192,12 +1348,12 @@
                         1,
                         54
                     ],
-                    "name": "ペタシークレットハーフ",
-                    "order": "",
+                    "name": "Peta Secret Half",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 5,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         },
@@ -1240,13 +1396,6 @@
                         3
                     ]
                 ],
-                "effect_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
-                ],
                 "icon_before": [
                     [
                         "skill_icon_yin_atk_up"
@@ -1263,13 +1412,6 @@
                     [
                         "skill_icon_dodge_down"
                     ]
-                ],
-                "icon_after": [
-                    [],
-                    [],
-                    [],
-                    [],
-                    []
                 ],
                 "type_before": [
                     [
@@ -1306,6 +1448,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111111111g",
+                "all_order_1": "12121212121111111111111111111111g",
+                "all_order_2": "1212121212111313131311141414141111111111g",
+                "all_order_3": "1212121212111313131311141414141115151511161616g",
                 "break": [
                     6,
                     0,
@@ -1313,8 +1458,9 @@
                     0,
                     6
                 ],
+                "description": "沉醉于伪恶世界的秦心的终符(东方归言录原创)。\n恶敌游戏的弹幕。\n调查坏孩子？时，心遇到了一名少女。\n虽然心根本无法理解她在说什么，但她知道这名少女为了寻求某种东西而踏上了漫长的旅途。\n令心感到惊讶的是，这位少女的外表和自己一模一样。但是她穿着又黑又帅的，看起来是坏人的服装。\n没错，令心感到惊讶的是……这种服装竟然和自己很搭。\n根据自身的经验，心很清楚要想改变内心，可以先从外表下手。\n看到少女的那刻起，心就一直羡慕她的打扮。\n“你的感情我已经有了。你没有值得我夺走的东西，所以我放你一马”。\n心觉得少女是在瞧不起她。\n而且她还说“如果有值得我夺走的东西的话，对你来讲或许会更幸福”。\n虽然很火大，但少女的外表太帅了。所以心不在乎少女对自己的暴言。\n感情真是复杂。就算别人嘲讽你，你也不一定会生气。\n有的人你愿意原谅，有的人你会下意识地原谅，有的人你会毫不在乎。\n少女对自己的感情……难道就是所谓的无感情吗？\n心仿佛理解了什么。但少女消失的同时，这份记忆也一起融化了。\n只有感情的核心，深深镶在了内心深处。\n感情……不，这是虚无的感情吗。\n不行，还是搞不懂。",
                 "first_order": 1,
-                "name": "「恋しても無駄だよ、私にその感情は無いから」",
+                "name": "「爱上我也没用，我没有这种感情」",
                 "power_rate": 10,
                 "damage_extend": [
                     100,
@@ -1331,14 +1477,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "12121212121111111111111111111111g",
-                "all_order_2": "1212121212111313131311141414141111111111g",
-                "all_order_3": "1212121212111313131311141414141115151511161616g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 27,
                     "boost": 0,
@@ -1366,14 +1510,15 @@
                         159,
                         54
                     ],
-                    "name": "舞台の黒能面",
-                    "order": "",
+                    "name": "舞台上的黑能面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 1
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 5,
                     "boost": 1,
@@ -1395,14 +1540,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "大舞台の黒能面",
-                    "order": "",
+                    "name": "大舞台上的黑能面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 2
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1429,14 +1575,15 @@
                         159,
                         54
                     ],
-                    "name": "特舞台の黒能面",
-                    "order": "",
+                    "name": "特舞台上的黑能面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 3
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 4,
                     "boost": 2,
@@ -1458,14 +1605,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "超舞台の黒能面",
-                    "order": "",
+                    "name": "超舞台上的黑能面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 4
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -1492,14 +1640,15 @@
                         159,
                         54
                     ],
-                    "name": "極舞台の黒能面",
-                    "order": "",
+                    "name": "极舞台上的黑能面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 5
+                    "yinyang": 0
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 3,
                     "boost": 3,
@@ -1526,12 +1675,12 @@
                         159,
                         54
                     ],
-                    "name": "最舞台の黒能面",
-                    "order": "",
+                    "name": "最舞台上的黑能面",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 0,
-                    "attack_id": 6
+                    "yinyang": 0
                 }
             ]
         }

@@ -74,7 +74,8 @@
             ],
             "cd": 4,
             "name": "異界の撮影記録",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_atk_up"
         },
         {
             "a": [
@@ -100,7 +101,8 @@
             ],
             "cd": 5,
             "name": "とある魔法使いの魔導書",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -126,7 +128,8 @@
             ],
             "cd": 6,
             "name": "幻に存る神籤",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_add_yin_def_yin_atk"
         }
     ],
     "attack_skills": {

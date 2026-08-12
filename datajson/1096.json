@@ -31,7 +31,7 @@
         "passivity_3_name": "デスヴォイス",
         "quality": 21121010,
         "quality_name": "山鳴り",
-        "speed": 1005,
+        "speed": 1210,
         "subname": "読経するヤマビコ",
         "total": 6450,
         "tribe": [
@@ -45,10 +45,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1345,
-        "yang_def": 1235,
-        "yin_atk": 915,
-        "yin_def": 945
+        "yang_atk": 1720,
+        "yang_def": 1270,
+        "yin_atk": 970,
+        "yin_def": 970
     },
     "chain_character": [
         1062,
@@ -82,7 +82,8 @@
             "c": [],
             "cd": 4,
             "name": "元気な挨拶",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -102,7 +103,8 @@
             "c": [],
             "cd": 6,
             "name": "炊事と迎撃",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -122,7 +124,8 @@
             "c": [],
             "cd": 4,
             "name": "掃き掃除",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {

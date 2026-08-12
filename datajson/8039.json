@@ -92,7 +92,8 @@
             ],
             "cd": 4,
             "name": "褐鉄鉱",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -118,7 +119,8 @@
             ],
             "cd": 4,
             "name": "カンナワ",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_hit_down"
         },
         {
             "a": [
@@ -144,7 +146,8 @@
             ],
             "cd": 6,
             "name": "鉄鐸と鉄鈴",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {

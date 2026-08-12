@@ -31,7 +31,7 @@
         "passivity_3_name": "富士見の娘",
         "quality": 11121101,
         "quality_name": "大雪",
-        "speed": 850,
+        "speed": 965,
         "subname": "[妖]幽冥楼閣の亡霊少女",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 2,
         "world_group": "A7",
-        "yang_atk": 1300,
-        "yang_def": 900,
-        "yin_atk": 1800,
-        "yin_def": 1000
+        "yang_atk": 1350,
+        "yang_def": 950,
+        "yin_atk": 1920,
+        "yin_def": 1300
     },
     "chain_character": [
         4011,
@@ -93,7 +93,8 @@
             ],
             "cd": 3,
             "name": "桜花絢爛の舞",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_def_up"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             "c": [],
             "cd": 4,
             "name": "開花観覧の儀",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 3,
             "name": "百花狂乱の歌",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

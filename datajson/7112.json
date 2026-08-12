@@ -80,7 +80,8 @@
             ],
             "cd": 4,
             "name": "働き過ぎの番頭神",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -106,7 +107,8 @@
             ],
             "cd": 4,
             "name": "調べまくりの調査員",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -132,7 +134,8 @@
             ],
             "cd": 5,
             "name": "遠くまで来すぎた神使",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

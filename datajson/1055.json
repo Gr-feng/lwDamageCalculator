@@ -31,7 +31,7 @@
         "passivity_3_name": "楽園の閻魔",
         "quality": 10102112,
         "quality_name": "季節風",
-        "speed": 1000,
+        "speed": 1025,
         "subname": "楽園の最高裁判長",
         "total": 6900,
         "tribe": [
@@ -43,10 +43,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1400,
-        "yang_def": 900,
-        "yin_atk": 1400,
-        "yin_def": 900
+        "yang_atk": 1770,
+        "yang_def": 925,
+        "yin_atk": 1445,
+        "yin_def": 925
     },
     "chain_character": [
         1010,
@@ -84,7 +84,8 @@
             "c": [],
             "cd": 4,
             "name": "説教スタンバイ",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             "c": [],
             "cd": 5,
             "name": "悔悟の棒",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 5,
             "name": "浄玻璃の鏡",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_sprit_powerup"
         }
     ],
     "attack_skills": {

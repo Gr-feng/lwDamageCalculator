@@ -31,7 +31,7 @@
         "passivity_3_name": "白い鍵",
         "quality": 12111112,
         "quality_name": "貿易風",
-        "speed": 850,
+        "speed": 1070,
         "subname": "地下廃区画のデポマスター",
         "total": 7350,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 4,
         "world_group": "B3",
-        "yang_atk": 1900,
-        "yang_def": 800,
-        "yin_atk": 1900,
-        "yin_def": 800
+        "yang_atk": 1970,
+        "yang_def": 840,
+        "yin_atk": 1970,
+        "yin_def": 840
     },
     "chain_character": [
         6112,
@@ -107,7 +107,8 @@
             ],
             "cd": 4,
             "name": "アカクモユリ路線網",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_poison"
         },
         {
             "a": [
@@ -133,7 +134,8 @@
             ],
             "cd": 3,
             "name": "オーバークロッカー",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -159,7 +161,8 @@
             ],
             "cd": 8,
             "name": "二重結果の原理",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {

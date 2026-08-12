@@ -79,7 +79,8 @@
             ],
             "cd": 3,
             "name": "夢魔「弾幕バトンタッチ」",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -105,7 +106,8 @@
             ],
             "cd": 4,
             "name": "夢魔「偽メイド」",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -131,7 +133,8 @@
             ],
             "cd": 8,
             "name": "「デビルツインズ」",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_resonance"
         }
     ],
     "attack_skills": {

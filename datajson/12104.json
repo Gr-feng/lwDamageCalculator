@@ -91,7 +91,8 @@
             ],
             "cd": 4,
             "name": "異形すぎる翼",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -117,7 +118,8 @@
             ],
             "cd": 4,
             "name": "奇妙すぎる翼",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_frostbite"
         },
         {
             "a": [
@@ -143,7 +145,8 @@
             ],
             "cd": 7,
             "name": "正体不明すぎる皮衣",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_disadvantage_up"
         }
     ],
     "attack_skills": {

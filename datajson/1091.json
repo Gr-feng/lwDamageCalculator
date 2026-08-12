@@ -31,7 +31,7 @@
         "passivity_3_name": "欲霊吸収",
         "quality": 10111202,
         "quality_name": "御来光",
-        "speed": 1315,
+        "speed": 1410,
         "subname": "聖徳道士",
         "total": 6900,
         "tribe": [
@@ -51,10 +51,10 @@
         ],
         "type": 5,
         "world_group": "L1",
-        "yang_atk": 1625,
-        "yang_def": 925,
-        "yin_atk": 1225,
-        "yin_def": 835
+        "yang_atk": 2095,
+        "yang_def": 980,
+        "yin_atk": 1250,
+        "yin_def": 860
     },
     "chain_character": [
         1001,
@@ -96,7 +96,8 @@
             "c": [],
             "cd": 5,
             "name": "七星剣と丙子椒林剣",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -116,7 +117,8 @@
             "c": [],
             "cd": 8,
             "name": "龍田大明神の加護",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -136,7 +138,8 @@
             "c": [],
             "cd": 5,
             "name": "綱敷天満宮の笏",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

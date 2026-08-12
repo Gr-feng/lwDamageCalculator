@@ -31,7 +31,7 @@
         "passivity_3_name": "メタ物質リサイクル",
         "quality": 12111111,
         "quality_name": "霜柱",
-        "speed": 1000,
+        "speed": 1100,
         "subname": "精密ドロイド技師",
         "total": 7350,
         "tribe": [
@@ -50,10 +50,10 @@
         ],
         "type": 2,
         "world_group": "B5",
-        "yang_atk": 1900,
-        "yang_def": 1100,
-        "yin_atk": 1325,
-        "yin_def": 925
+        "yang_atk": 1970,
+        "yang_def": 1200,
+        "yin_atk": 1370,
+        "yin_def": 970
     },
     "chain_character": [
         2055,
@@ -114,7 +114,8 @@
             ],
             "cd": 2,
             "name": "コントローラ人形",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -140,7 +141,8 @@
             ],
             "cd": 5,
             "name": "アーク溶接人形",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -166,7 +168,8 @@
             ],
             "cd": 5,
             "name": "ガス溶接人形",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_burn"
         }
     ],
     "attack_skills": {

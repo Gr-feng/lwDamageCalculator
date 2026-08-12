@@ -1,38 +1,174 @@
 {
     "character_info": {
+        "ability_description": "失落世界（超能力）的古明地觉的能力(东方归言录原创)。\n觉的能力彻底丧失掉了。\n同时她也失去了与自己有关的一切记忆。\n\n任何人都无法读取他人的内心。\n因为内心不存在可证伪性。\n测谎仪？心理测验？脑波检测？\n都没有意义。\n有多少内心，就有多少世界。\n在不同的宇宙，物理法则不一定一致。\n因此，任何人都无法读取他人的内心。\n孤独的我们，只能自以为读取了他人的内心。\n\n不知为何，她具备“超能力者”的性质。\n原因完全不明。\n无法读取内心的她，照理说不会是超能力者。\n原本的她……或者说曾经的她，无疑是“能够读取内心的妖怪”。\n一旦丧失了妖怪的性质，恐怕会引发致命的事态。\n既然她已经失去了作为妖怪的性质，那么我们只能想象出一个结果。\n“致命的事态，已经发生了”。\n\n不光是古明地觉，至今为止发现了许多“失去了记忆与能力以及大部分性质”的存在。\n关于这些“消失存在”（暂称），目前正在收集相关资料并进行研究。\n当然了，我们必须查明引发大量消失的某种现象的原委。\n但眼下的谜团，是“消失了也不奇怪的她们”为什么能维持自己的“”存在。\n“消失存在”……名称本身就自相矛盾。\n\n消失了，却依然存在。\n是不是有些耳熟？\n没错……这是某个地区具备的重要性质。\n那就是失落之物的聚集地……“幻想乡”。",
+        "ability_effect_d1": "从有利属性<color=#CCAA00>受到的伤害</color><color=#0066FF>下降</color>40%",
+        "ability_effect_d2": "对有利属性<color=#CCAA00>造成的伤害</color><color=#FF6600>上升</color>40%",
+        "ability_effect_d3": "每被施加1枚结界异常「<color=#CCAA00>燃烧</color>」「<color=#CCAA00>冻结</color>」，<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>1等级\n免疫结界异常「<color=#CCAA00>感电</color>」「<color=#CCAA00>毒雾</color>」且<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.20",
+        "ability_effect_d4": "使用灵力强化时，己方全体<color=#CCAA00>会心命中</color><color=#FF6600>上升</color>1等级 (1回合)",
+        "ability_effect_d5": "",
+        "ability_name": "- 能力不详 -",
         "advantage_attack": 40,
-        "re": "False",
         "advantage_resist": 40,
         "barrier_status_1": 8,
         "barrier_status_2": 8,
         "barrier_status_3": 5,
         "barrier_status_4": 5,
         "barrier_status_5": 0,
-        "bgm": 301205001,
+        "bgm": "暗闇を照らす瞳",
         "boost_buff": 10,
         "boost_target": 1,
         "break_cost": 0,
-        "chain_description": "後衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>を<color=#FF6600>アップ</color>(3T)\\n前衛になる時、交代相手の<color=#CCAA00>速力、命中、回避</color>のつよさ上昇を一部<color=#FF6600>引き継ぐ</color>(3T)",
-        "chain_name": "スピード連携",
+        "chain_description": "作为后卫时，换位对象<color=#CCAA00>速度、命中、回避</color><color=#FF6600>上升</color>(3回合)\n作为前卫时，<color=#FF6600>继承</color>换位对象<color=#CCAA00>速度、命中、回避</color>强度上升的一部分(3回合)",
+        "chain_name": "速度连携",
         "disadvantage_attack": 0,
         "disadvantage_resist": 0,
+        "genic_name": "",
+        "get": "“古明地觉”？ 这就是我的名字吗……我是有这么一种感觉。",
         "graze_buff": 0,
         "graze_target": 0,
         "hp": 5500,
-        "name": "古明地さとり",
-        "passivity_1_description": "攻撃された時、<color=#CCAA00>超能力者</color>から受けるダメージを100%<color=#0066FF>ダウン</color> [発生率90%]",
+        "jp_name": "こめいじさとり",
+        "lines1": "……是我不知道的地方。但不知为何让我感到安心。阳光如此明媚，风儿如此舒适……。你是这里的居民吗？ 那个……我不知道自己是怎么来到的这里，甚至不知道自己是谁……什么，“古明地觉”？感觉这是……我的名字。虽然我不记得，但你念这个名字的时候的声音……。你也失去了记忆，并在这里生活？原来是这样。那我也能在这里生活吗？",
+        "lines10": "我一定也有相当于妹妹以及阿燐阿空的存在。看着古明地觉小姐，我总会不由自主地把自己代入她。",
+        "lines11": "我被邀请到了叫做地灵殿的地方。那里真是不得了，我的嘴一直没有合上。但不知为何……我的内心却仿若明镜。",
+        "lines12": "我问了许多人。觉小姐似乎相当出名，并留下了许多事迹。仿佛是在听别人讲自己的事情一样。",
+        "lines13": "春天是心平气静的季节。我觉得春天是最符合这个幻想乡的季节。大家的内心也都很平静。不读心我也能看出来。",
+        "lines14": "在夏日强烈的阳光下，大家都在纷纷寻找树荫或水边乘凉。就是说，去这些地方就能见到大家。哼哼，我们出发吧。",
+        "lines15": "秋天是哀愁的季节，但大家的内心都被美味的烤红薯吸引住了。只要发挥一下想象力，连读心的必要都没有。",
+        "lines16": "冬天就得有积雪才行。把洁白而又柔软的雪揉成一团……看招！哼哼哼，很意外吗？",
+        "lines17": "作业吗。我可以坐在你的旁边吗？我想看你烦恼的神情。",
+        "lines18": "哼哼哼……作业是11分！ 乖孩子乖孩子。",
+        "lines19": "这是……信吗？ 应该是寄给你的。但是是从哪里寄过来的？",
+        "lines2": "如果我真的能够读心，那就可以取回你的记忆了。",
+        "lines20": "读心对弹幕游戏有利。但这是在作弊。哼哼哼。",
+        "lines21": "有人回来了。我们去接一下吧。",
+        "lines22": "今天也好好和我讲讲你的故事……你看起来很困呢。",
+        "lines23": "膝枕应该是我的强项。请用。",
+        "lines24": "好好睡吧……。嗯，我一定有妹妹。",
+        "lines25": "如果能理解对方的话……不需要读心！",
+        "lines26": "好不可思议的感觉。身体轻飘飘的",
+        "lines27": "就算无法读取你的内心，我也想理解你。永远都会是这样",
+        "lines28": "不要讨厌我……我其实又寂寞又难过",
+        "lines29": "来吧",
+        "lines3": "古明地觉小姐……长得和我一模一样。说实话我有些混乱。",
+        "lines30": "让我听听",
+        "lines31": "你的想法吧",
+        "lines32": "现在",
+        "lines33": "告诉我吧",
+        "lines34": "你在想什么？",
+        "lines35": "真心",
+        "lines36": "本心",
+        "lines37": "好开心",
+        "lines38": "好有趣",
+        "lines39": "好暖和",
+        "lines4": "觉小姐也……不，她和我不一样，真的能够读心。但是她无法读取我失落的记忆……。",
+        "lines40": "让我……再看一次你的内心",
+        "lines41": "我稍微休息一下",
+        "lines42": "让你久等了",
+        "lines43": "想不起来",
+        "lines44": "忘不了",
+        "lines45": "我隐隐约约觉得　\n大家都讨厌我",
+        "lines46": "读取他人的内心　\n当然会被厌恶",
+        "lines47": "「本应存在的记忆」",
+        "lines48": "内心的想法　会化作言语与态度　\n我们只是以为能读取他人的内心而已",
+        "lines49": "没有人能进入他人的内心　\n里面是永远的安全地带　也是究极的孤独",
+        "lines5": "曾经的我也一定揭露了人心，并伤害了许多人。我一定自诩自己观察力过人……。人心无法读取。内心是人的安息之地。",
+        "lines50": "「模糊的表层心理」",
+        "lines51": "心扉不会开启　\n因为钥匙坏了　而且永远修不好",
+        "lines52": "牢牢封闭的　又重又冷的门　　\n再也摸不了　里面的宝物了",
+        "lines53": "「精神硬化症」",
+        "lines54": "呜",
+        "lines55": "好痛苦……！",
+        "lines56": "我还没事",
+        "lines57": "看到了……内心？",
+        "lines58": "得救了",
+        "lines59": "我必须加深对你的理解……",
+        "lines6": "但是……与我同名的觉小姐，该怎么说呢……感觉没那么坏。她彻底融入了周围，而且一点弱气的样子都没有。而且她和不可思议的氛围的妹妹关系也不错……。难道说，我也有妹妹……？",
+        "lines60": "东方归言录",
+        "lines61": "好的",
+        "lines62": "那算了",
+        "lines63": "非常感谢",
+        "lines64": "曾经的我一定深爱着幻想乡",
+        "lines65": "想起一切之时，我一定会接纳一切",
+        "lines7": "我的存在也好，试图看穿内心的恶癖也好，都是忌讳之物……我依旧这么觉得。但是我来到这里这件事，以及古明地觉这个名字……一定有什么意义。我想知道什么才是真相。你是否愿意让我当你的旅伴？",
+        "lines8": "感觉……我就要明白什么了",
+        "lines9": "我曾经在这里，与大家一起生活……与许多人交流后，我产生了这个念头。真的很不可思议。",
+        "name": "古明地觉",
+        "passivity_1_description": "被攻击时，受到来自<color=#CCAA00>超能力者</color>的伤害<color=#0066FF>下降</color>100% [发生率90%]",
         "passivity_1_icon": "characteristic_icon_56",
-        "passivity_1_name": "埋没宮殿",
-        "passivity_2_description": "ターン開始時、自身の<color=#CCAA00>結界</color>を1枚<color=#00CC66>増加</color> [発生率100%]",
+        "passivity_1_name": "埋没宫殿",
+        "passivity_2_description": "回合开始时，自身<color=#CCAA00>结界</color><color=#00CC66>增加</color>1枚 [发生率100%]",
         "passivity_2_icon": "characteristic_icon_32",
-        "passivity_2_name": "白骨の女王",
-        "passivity_3_description": "ターン開始時、自身の<color=#CCAA00>霊力</color>を0.60<color=#00CC66>上昇</color> [発生率100%]",
+        "passivity_2_name": "白骨女王",
+        "passivity_3_description": "回合开始时，自身<color=#CCAA00>灵力</color><color=#00CC66>上升</color>0.60 [发生率100%]",
         "passivity_3_icon": "characteristic_icon_31",
-        "passivity_3_name": "ロストマインド",
+        "passivity_3_name": "失落的精神",
         "quality": 11111212,
-        "quality_name": "白い地震発光",
+        "quality_description": "失落世界（超能力）的古明地觉的气质(东方归言录原创)。\n地震的前兆不过是幻想。横躺在无人回应的大地之上的少女。\n这是技术，还是按时，又或是超越人类智慧的能力呢？\n内心是永远完美的密室，是无人能够侵犯的圣域。\n\n她是地底世界的支配者(强于金行)，是看透内心的觉妖怪(强于星精)。\n她持有的性质是古明地觉的另一半。",
+        "quality_name": "白色地震发光",
+        "rank_up_lv0_1_name": "伽罗",
+        "rank_up_lv0_1_value": 30,
+        "rank_up_lv0_2_name": "天之卷轴-一",
+        "rank_up_lv0_2_value": 30,
+        "rank_up_lv0_3_name": "真那伽",
+        "rank_up_lv0_3_value": 20,
+        "rank_up_lv0_4_name": "真南蛮",
+        "rank_up_lv0_4_value": 20,
+        "rank_up_lv0_5_name": "寸门多罗",
+        "rank_up_lv0_5_value": 20,
+        "rank_up_lv0_6_name": "云之卷轴-一",
+        "rank_up_lv0_6_value": 30,
+        "rank_up_lv1_1_name": "云之卷轴-一",
+        "rank_up_lv1_1_value": 35,
+        "rank_up_lv1_2_name": "天之卷轴-二",
+        "rank_up_lv1_2_value": 25,
+        "rank_up_lv1_3_name": "竹之华片-二",
+        "rank_up_lv1_3_value": 25,
+        "rank_up_lv1_4_name": "竹之华片-一",
+        "rank_up_lv1_4_value": 35,
+        "rank_up_lv1_5_name": "兰之华片-二",
+        "rank_up_lv1_5_value": 25,
+        "rank_up_lv1_6_name": "云之卷轴-二",
+        "rank_up_lv1_6_value": 25,
+        "rank_up_lv2_1_name": "竹之华片-二",
+        "rank_up_lv2_1_value": 50,
+        "rank_up_lv2_2_name": "天之卷轴-三",
+        "rank_up_lv2_2_value": 50,
+        "rank_up_lv2_3_name": "竹之华片-三",
+        "rank_up_lv2_3_value": 50,
+        "rank_up_lv2_4_name": "辅助指南书-二",
+        "rank_up_lv2_4_value": 50,
+        "rank_up_lv2_5_name": "云之卷轴-二",
+        "rank_up_lv2_5_value": 50,
+        "rank_up_lv2_6_name": "云之卷轴-三",
+        "rank_up_lv2_6_value": 50,
+        "rank_up_lv3_1_name": "蛇之卷轴-二",
+        "rank_up_lv3_1_value": 75,
+        "rank_up_lv3_2_name": "天之卷轴-三",
+        "rank_up_lv3_2_value": 65,
+        "rank_up_lv3_3_name": "报告＃69",
+        "rank_up_lv3_3_value": 1,
+        "rank_up_lv3_4_name": "报告＃70",
+        "rank_up_lv3_4_value": 1,
+        "rank_up_lv3_5_name": "报告＃61",
+        "rank_up_lv3_5_value": 1,
+        "rank_up_lv3_6_name": "报告＃1",
+        "rank_up_lv3_6_value": 1,
+        "rank_up_lv4_1_name": "兰之华片-三",
+        "rank_up_lv4_1_value": 90,
+        "rank_up_lv4_2_name": "天之卷轴-三",
+        "rank_up_lv4_2_value": 90,
+        "rank_up_lv4_3_name": "蛇之卷轴-三",
+        "rank_up_lv4_3_value": 90,
+        "rank_up_lv4_4_name": "辅助指南书-三",
+        "rank_up_lv4_4_value": 90,
+        "rank_up_lv4_5_name": "竹之华片-三",
+        "rank_up_lv4_5_value": 90,
+        "rank_up_lv4_6_name": "云之卷轴-三",
+        "rank_up_lv4_6_value": 90,
+        "short_name": "觉",
         "speed": 2100,
-        "subname": "折れた鍵束の棄てられし心",
+        "subname": "断裂的钥匙串、被丢弃的心灵",
         "total": 8700,
         "tribe": [
             35,
@@ -46,16 +182,35 @@
             190
         ],
         "type": 4,
+        "vocal1": "斎藤千和",
+        "vocal2": "石川志織",
+        "vocal3": "希水しお",
+        "voice1": "无法读心程度的声音",
+        "voice2": "无法取回的记忆程度的声音",
+        "voice3": "无法唤醒的思念程度的声音",
         "world_group": "L0o",
+        "world_group_description": "谜团重重的世界群之一。\n“o”是“Oxymoron”，是意味着矛盾修饰法的符号。\n因此也被叫做“失落世界（超能力）”。\n\n因为某种原因踏上了“超能力化”之路的人们的世界群。\n她们恐怕是为了生存而获得了“生态地位”。\n\n在心理学以及精神学作为新的学问成长的时代，人们相信人类的心脏和大脑中隐藏着许多的可能性。\n人类会对新的发现与观念抱有过大的期待。然而从历史中可以得知，这份期待到头来都不过是恐惧心理的另一面。",
+        "world_group_name": "L0o世界群",
         "yang_atk": 1800,
         "yang_def": 1800,
         "yin_atk": 600,
-        "yin_def": 1300
+        "yin_def": 1300,
+        "id": 12050
     },
-    "chain_character": [],
-    "costumes": {},
+    "chain_character": [
+        1002,
+        1003,
+        1004
+    ],
+    "costumes": {
+        "0": {
+            "costume_description1": "失落世界(超能力)的觉的常服。\n和转生服装相似，但腐朽不堪。",
+            "costume_name1": "断裂的钥匙串、被丢弃的心灵"
+        }
+    },
     "skills": [
         {
+            "id": 1,
             "a": [
                 6,
                 4,
@@ -78,10 +233,12 @@
                 1
             ],
             "cd": 5,
-            "name": "記憶失踪(さとり)",
-            "id": 1
+            "name": "记忆失踪(觉)",
+            "description": "感觉不是第一次来到这里。\n但还是什么都想不起来。",
+            "icon": "skill_icon_barrier_poison"
         },
         {
+            "id": 2,
             "a": [
                 57,
                 2,
@@ -104,16 +261,18 @@
                 15
             ],
             "cd": 7,
-            "name": "真名邂逅(さとり)",
-            "id": 2
+            "name": "真名邂逅(觉)",
+            "description": "少女的名字是“古明地觉”。\n不知为何很顺耳。",
+            "icon": "skill_icon_yang_def_down"
         },
         {
+            "id": 3,
             "a": [
                 54,
                 1205001,
                 0,
                 3,
-                50
+                60
             ],
             "b": [
                 2,
@@ -130,8 +289,9 @@
                 3
             ],
             "cd": 9,
-            "name": "ロスト地霊殿(さとり)",
-            "id": 3
+            "name": "失落的地灵殿(觉)",
+            "description": "地底世界、旧地狱、旧都。\n有种以前的科幻小说中的地底人的感觉。",
+            "icon": "skill_icon_field_cri_def_up"
         }
     ],
     "attack_skills": {
@@ -240,6 +400,9 @@
                     ]
                 ],
                 "all_order_0": "111111111111111111111g",
+                "all_order_1": "1211211121111111112111111g",
+                "all_order_2": "12112131121131141151112113141151g",
+                "all_order_3": "121121311211311411511121131411516g",
                 "break": [
                     0,
                     6,
@@ -247,8 +410,9 @@
                     4,
                     0
                 ],
+                "description": "失落世界（超能力）的古明地觉的符卡(东方归言录原创)。\n失落的记忆的弹幕。\n一定会有人认为，并非一切都是想象的产物。\n然而人类本来就是每时每刻都活在想象中的生物。\n人类绝非在直接体验物理现象。\n如果古代人体验了现代社会的技术，他们一定会理解成魔法。",
                 "first_order": 1,
-                "name": "「存在したはずの記憶」",
+                "name": "「本应存在的记忆」",
                 "power_rate": 5,
                 "damage_extend": [
                     100,
@@ -265,14 +429,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "1211211121111111112111111g",
-                "all_order_2": "12112131121131141151112113141151g",
-                "all_order_3": "121121311211311411511121131411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 21,
                     "boost": 0,
@@ -300,14 +462,15 @@
                         181,
                         176
                     ],
-                    "name": "存在したはずの記憶",
-                    "order": "",
+                    "name": "本应存在的记忆",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 6,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -333,14 +496,15 @@
                         8,
                         176
                     ],
-                    "name": "覚えのある記憶",
-                    "order": "",
+                    "name": "有印象的记忆",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 6,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -360,14 +524,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "気がかりな記憶",
-                    "order": "",
+                    "name": "令人在意的记忆",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 6,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -391,14 +556,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "取り出せない記憶",
-                    "order": "",
+                    "name": "无法取出的记忆",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 6,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -420,14 +586,15 @@
                         8,
                         181
                     ],
-                    "name": "取り戻せない記憶",
-                    "order": "",
+                    "name": "无法取回的记忆",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 6,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -454,24 +621,21 @@
                         181,
                         176
                     ],
-                    "name": "存在しない記憶",
-                    "order": "",
+                    "name": "不存在的记忆",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 6,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "1c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "11111111g",
+                "all_order_1": "121131112131g",
+                "all_order_2": "1211314511213145g",
+                "all_order_3": "12113145112131456g",
                 "break": [
                     0,
                     0,
@@ -479,8 +643,9 @@
                     0,
                     0
                 ],
+                "description": "失落世界（超能力）的古明地觉的扩散射击(东方归言录原创)。\n失落的超感觉的弹幕。\n觉知道曾经的自己似乎能够读取内心。\n但是她认为这不过是幻觉。\n因为人类做不到这种事情。",
                 "first_order": 1,
-                "name": "白のブレインセル",
+                "name": "白色脑细胞",
                 "power_rate": 18,
                 "damage_extend": [
                     100,
@@ -497,14 +662,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "121131112131g",
-                "all_order_2": "1211314511213145g",
-                "all_order_3": "12113145112131456g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 8,
                     "boost": 0,
@@ -530,14 +693,15 @@
                         99,
                         100
                     ],
-                    "name": "白色の脳細胞",
-                    "order": "",
+                    "name": "白色脑细胞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -559,14 +723,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "無色の脳細胞",
-                    "order": "",
+                    "name": "无色脑细胞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 2,
                     "boost": 1,
@@ -590,14 +755,15 @@
                         99,
                         100
                     ],
-                    "name": "脱色の脳細胞",
-                    "order": "",
+                    "name": "脱色脑细胞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -620,14 +786,15 @@
                         124,
                         176
                     ],
-                    "name": "地色の脳細胞",
-                    "order": "",
+                    "name": "原色脑细胞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -646,14 +813,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "漂白の脳細胞",
-                    "order": "",
+                    "name": "漂白脑细胞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -679,12 +847,12 @@
                         181,
                         176
                     ],
-                    "name": "透明の脳細胞",
-                    "order": "",
+                    "name": "透明脑细胞",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -793,6 +961,9 @@
                     ]
                 ],
                 "all_order_0": "1111111111111111111111g",
+                "all_order_1": "121312131121131111112111311111g",
+                "all_order_2": "12131213141211311411511211131141151g",
+                "all_order_3": "121312131412113114115112111311411516g",
                 "break": [
                     0,
                     6,
@@ -800,8 +971,9 @@
                     6,
                     0
                 ],
+                "description": "失落世界（超能力）的古明地觉的符卡(东方归言录原创)。\n失落的催眠的弹幕。\n如果现代人能体验未来的技术，那我们可能会理解成魔法。\n即使对未来人来讲是简单易懂的魔术，对现代人来讲即便告诉我们原理，恐怕也会是梦幻般的体验。\n某些地区的先住民认为乘坐巨船出现的西洋人是“来自天上的存在”。\n因为这些先住民的常识中不存在跨越大海的巨船这种概念。\n这些年立体而又具备临场感的影像技术在飞速发展。我们每个人都可能成为“古代人”。",
                 "first_order": 1,
-                "name": "「不明瞭な表層心理」",
+                "name": "「模糊的表层心理」",
                 "power_rate": 12,
                 "damage_extend": [
                     100,
@@ -818,14 +990,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "121312131121131111112111311111g",
-                "all_order_2": "12131213141211311411511211131141151g",
-                "all_order_3": "121312131412113114115112111311411516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 22,
                     "boost": 0,
@@ -853,14 +1023,15 @@
                         181,
                         176
                     ],
-                    "name": "不明瞭な表層心理",
-                    "order": "",
+                    "name": "模糊的表层心理",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -882,14 +1053,15 @@
                         100,
                         176
                     ],
-                    "name": "曖昧な表層心理",
-                    "order": "",
+                    "name": "隐隐约约的表层心理",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -908,14 +1080,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "ぼやけた表層心理",
-                    "order": "",
+                    "name": "不明朗的表层心理",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -940,14 +1113,15 @@
                         99,
                         100
                     ],
-                    "name": "朧気な表層心理",
-                    "order": "",
+                    "name": "朦胧的表层心理",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 2,
                     "boost": 2,
@@ -973,14 +1147,15 @@
                         99,
                         100
                     ],
-                    "name": "霧がかった表層心理",
-                    "order": "",
+                    "name": "雾中的表层心理",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1007,24 +1182,21 @@
                         181,
                         176
                     ],
-                    "name": "白濁した表層心理",
-                    "order": "",
+                    "name": "白浊的表层心理",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 9,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
         "2c": {
             "global_attributes": {
-                "effect_before": [],
-                "effect_after": [],
-                "icon_before": [],
-                "icon_after": [],
-                "type_before": [],
-                "type_after": [],
                 "all_order_0": "111111g",
+                "all_order_1": "1121111g",
+                "all_order_2": "112113411g",
+                "all_order_3": "11211341516g",
                 "break": [
                     0,
                     0,
@@ -1032,8 +1204,9 @@
                     6,
                     0
                 ],
+                "description": "失落世界（超能力）的古明地觉的集中射击(东方归言录原创)。\n失落的灵视能力的弹幕。\n在空中飞翔，并发射弹幕……普通的人类做不到这种事情。\n她认为这不过是自己的想象。\n比起认为自己真的能做到这种事情，把这些现象当作自己想象力的产物反而更现实一些。",
                 "first_order": 1,
-                "name": "関係のアニマ",
+                "name": "关系之灵",
                 "power_rate": 18,
                 "damage_extend": [
                     100,
@@ -1050,14 +1223,12 @@
                     1,
                     1,
                     1
-                ],
-                "all_order_1": "1121111g",
-                "all_order_2": "112113411g",
-                "all_order_3": "11211341516g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 6,
                     "boost": 0,
@@ -1082,14 +1253,15 @@
                         100,
                         42
                     ],
-                    "name": "関係のアニマ",
-                    "order": "",
+                    "name": "关系之灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 1,
                     "boost": 1,
@@ -1112,14 +1284,15 @@
                         100,
                         42
                     ],
-                    "name": "関連のアニマ",
-                    "order": "",
+                    "name": "关联之灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1141,14 +1314,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "関与のアニマ",
-                    "order": "",
+                    "name": "联结之灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1165,14 +1339,15 @@
                     "killers": [
                         0
                     ],
-                    "name": "接続のアニマ",
-                    "order": "",
+                    "name": "接续之灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1193,14 +1368,15 @@
                         124,
                         5
                     ],
-                    "name": "相互のアニマ",
-                    "order": "",
+                    "name": "相互之灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1226,12 +1402,12 @@
                         181,
                         176
                     ],
-                    "name": "連携のアニマ",
-                    "order": "",
+                    "name": "协作之灵",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 1,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         },
@@ -1340,6 +1516,9 @@
                     ]
                 ],
                 "all_order_0": "11111111111111111111111111111111g",
+                "all_order_1": "11111121121131121113111211311112113111111g",
+                "all_order_2": "111111211211311211131411211311411211311411511g",
+                "all_order_3": "1111112112113112111314112113114112113114115116g",
                 "break": [
                     0,
                     5,
@@ -1347,8 +1526,9 @@
                     5,
                     0
                 ],
+                "description": "失落世界（超能力）的古明地觉的终符(东方归言录原创)。\n失落的读心的弹幕。\n因读心能力被他人厌恶的少女。\n虽然她失去了读心能力，但她理解了他人的感受。\n正因为无法读心，她才能关怀他人。\n……但是，问题没有那么简单。\n关怀时而会将他人逼上绝路，令他人痛苦。\n残存在她心中的微不足道的自我在向她哭诉。\n“不要对单方面的读心所带来的孤独与苦恼视而不见。”\n优越感也好，自吹自擂也好。说到底都是孤独与苦恼的另一面。\n她是究极的讨厌鬼。\n但这就够了。",
                 "first_order": 1,
-                "name": "「マインドスクレローシス」",
+                "name": "「精神硬化症」",
                 "power_rate": 4,
                 "damage_extend": [
                     100,
@@ -1365,14 +1545,12 @@
                     2,
                     2,
                     2
-                ],
-                "all_order_1": "11111121121131121113111211311112113111111g",
-                "all_order_2": "111111211211311211131411211311411211311411511g",
-                "all_order_3": "1111112112113112111314112113114112113114115116g"
+                ]
             },
             "attack_count": 6,
             "attacks": [
                 {
+                    "attack_id": 1,
                     "acc": 80,
                     "amt": 32,
                     "boost": 0,
@@ -1401,13 +1579,14 @@
                         176
                     ],
                     "name": "心理硬化",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 1
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 2,
                     "acc": 80,
                     "amt": 5,
                     "boost": 1,
@@ -1431,14 +1610,15 @@
                         99,
                         176
                     ],
-                    "name": "心理硬変",
-                    "order": "",
+                    "name": "心理硬变",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 2
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 3,
                     "acc": 80,
                     "amt": 4,
                     "boost": 1,
@@ -1464,13 +1644,14 @@
                         181
                     ],
                     "name": "心理硬直",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 3
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 4,
                     "acc": 80,
                     "amt": 3,
                     "boost": 2,
@@ -1495,13 +1676,14 @@
                         181
                     ],
                     "name": "心理固化",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 2,
-                    "yinyang": 1,
-                    "attack_id": 4
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 5,
                     "acc": 80,
                     "amt": 1,
                     "boost": 2,
@@ -1529,13 +1711,14 @@
                         176
                     ],
                     "name": "心理凝固",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 5
+                    "yinyang": 1
                 },
                 {
+                    "attack_id": 6,
                     "acc": 80,
                     "amt": 1,
                     "boost": 3,
@@ -1562,11 +1745,11 @@
                         176
                     ],
                     "name": "心理石化",
-                    "order": "",
+                    "order": [],
                     "rate": 1.0,
+                    "target": 2,
                     "type": 7,
-                    "yinyang": 1,
-                    "attack_id": 6
+                    "yinyang": 1
                 }
             ]
         }

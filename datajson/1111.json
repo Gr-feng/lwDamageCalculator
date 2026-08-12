@@ -31,7 +31,7 @@
         "passivity_3_name": "弔脂",
         "quality": 11121101,
         "quality_name": "気旋",
-        "speed": 950,
+        "speed": 1070,
         "subname": "鬼傑組組長",
         "total": 6900,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 6,
         "world_group": "L1",
-        "yang_atk": 1145,
-        "yang_def": 1200,
-        "yin_atk": 1155,
-        "yin_def": 1450
+        "yang_atk": 1170,
+        "yang_def": 1270,
+        "yin_atk": 1420,
+        "yin_def": 1570
     },
     "chain_character": [
         1114,
@@ -84,7 +84,8 @@
             "c": [],
             "cd": 5,
             "name": "奇策妙計",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -104,7 +105,8 @@
             "c": [],
             "cd": 5,
             "name": "龍鱗の亀甲",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -130,7 +132,8 @@
             ],
             "cd": 5,
             "name": "ドラゴン・ツイン",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

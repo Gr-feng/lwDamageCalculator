@@ -31,7 +31,7 @@
         "passivity_3_name": "御嶽の五夢草",
         "quality": 10102112,
         "quality_name": "紫煙",
-        "speed": 950,
+        "speed": 980,
         "subname": "高地に棲む山女郎",
         "total": 6450,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 4,
         "world_group": "L1",
-        "yang_atk": 1100,
-        "yang_def": 850,
-        "yin_atk": 1550,
-        "yin_def": 900
+        "yang_atk": 1130,
+        "yang_def": 880,
+        "yin_atk": 1810,
+        "yin_def": 1420
     },
     "chain_character": [
         1120,
@@ -93,7 +93,8 @@
             "c": [],
             "cd": 5,
             "name": "意識薄弱の煙",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             "c": [],
             "cd": 5,
             "name": "精力増大の煙",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             "c": [],
             "cd": 6,
             "name": "心身衰弱の煙",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_barrier_poison"
         }
     ],
     "attack_skills": {

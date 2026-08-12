@@ -87,7 +87,8 @@
             ],
             "cd": 4,
             "name": "春すぎる衝動",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_hit_up"
         },
         {
             "a": [
@@ -113,7 +114,8 @@
             ],
             "cd": 5,
             "name": "春すぎる思考",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_hit_up"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             ],
             "cd": 7,
             "name": "春すぎる行動",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_advantage_up"
         }
     ],
     "attack_skills": {

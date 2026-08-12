@@ -31,7 +31,7 @@
         "passivity_3_name": "テンション上げ",
         "quality": 2210111,
         "quality_name": "地震雲",
-        "speed": 920,
+        "speed": 940,
         "subname": "閉じた恋の瞳",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1250,
-        "yang_def": 1060,
-        "yin_atk": 1700,
-        "yin_def": 1150
+        "yang_atk": 1270,
+        "yang_def": 1080,
+        "yin_atk": 1820,
+        "yin_def": 1180
     },
     "chain_character": [
         1050,
@@ -81,17 +81,12 @@
                 3,
                 3
             ],
-            "b": [
-                1,
-                10,
-                1,
-                3,
-                3
-            ],
+            "b": [],
             "c": [],
             "cd": 4,
             "name": "自動思考",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -101,17 +96,12 @@
                 1,
                 20
             ],
-            "b": [
-                2,
-                7,
-                4,
-                2,
-                2
-            ],
+            "b": [],
             "c": [],
             "cd": 6,
             "name": "興味津々",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -128,16 +118,11 @@
                 1,
                 1
             ],
-            "c": [
-                5,
-                0,
-                2,
-                1,
-                10
-            ],
+            "c": [],
             "cd": 4,
             "name": "クローズド・アイ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_hit_up"
         }
     ],
     "attack_skills": {
@@ -1117,7 +1102,7 @@
                     "boost": 0,
                     "buff": [],
                     "cri": 5,
-                    "damage": 11.88,
+                    "damage": 9.14,
                     "damage_extend": 100,
                     "effect": [
                         9,
@@ -1146,7 +1131,7 @@
                         50
                     ],
                     "cri": 10,
-                    "damage": 29.17,
+                    "damage": 22.44,
                     "damage_extend": 100,
                     "effect": [
                         8,
@@ -1175,7 +1160,7 @@
                         50
                     ],
                     "cri": 25,
-                    "damage": 32.251,
+                    "damage": 24.81,
                     "damage_extend": 108,
                     "effect": [
                         8,
@@ -1204,7 +1189,7 @@
                         70
                     ],
                     "cri": 50,
-                    "damage": 33.28,
+                    "damage": 25.6,
                     "damage_extend": 117,
                     "effect": [
                         2,
@@ -1231,7 +1216,7 @@
                         80
                     ],
                     "cri": 50,
-                    "damage": 37.44,
+                    "damage": 28.8,
                     "damage_extend": 125,
                     "effect": [
                         11,
@@ -1260,7 +1245,7 @@
                         20
                     ],
                     "cri": 50,
-                    "damage": 41.6,
+                    "damage": 32.0,
                     "damage_extend": 133,
                     "effect": [
                         11,

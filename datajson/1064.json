@@ -31,7 +31,7 @@
         "passivity_3_name": "グラツィオーソ",
         "quality": 2210111,
         "quality_name": "停滞前線",
-        "speed": 1035,
+        "speed": 1070,
         "subname": "騒霊キーボーディスト",
         "total": 6450,
         "tribe": [
@@ -47,10 +47,10 @@
         ],
         "type": 2,
         "world_group": "L1",
-        "yang_atk": 1225,
-        "yang_def": 775,
-        "yin_atk": 1225,
-        "yin_def": 775
+        "yang_atk": 1595,
+        "yang_def": 820,
+        "yin_atk": 1585,
+        "yin_def": 820
     },
     "chain_character": [
         1062,
@@ -83,7 +83,8 @@
             "c": [],
             "cd": 4,
             "name": "霊動シンセサイザー",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_yin_def_up"
         },
         {
             "a": [
@@ -103,7 +104,8 @@
             "c": [],
             "cd": 4,
             "name": "音響幻想",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_speed_up"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             "c": [],
             "cd": 4,
             "name": "アップテンポ",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yin_atk_up"
         }
     ],
     "attack_skills": {

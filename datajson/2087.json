@@ -108,7 +108,8 @@
             ],
             "cd": 4,
             "name": "感情表現の練習・楽(夏)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_blind"
         },
         {
             "a": [
@@ -134,7 +135,8 @@
             ],
             "cd": 5,
             "name": "感情表現の練習・喜(夏)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_def_down"
         },
         {
             "a": [
@@ -160,7 +162,8 @@
             ],
             "cd": 7,
             "name": "感情表現の練習・怒(夏)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_def_down"
         }
     ],
     "attack_skills": {

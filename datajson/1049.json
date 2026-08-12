@@ -31,7 +31,7 @@
         "passivity_3_name": "力の勇儀",
         "quality": 2011121,
         "quality_name": "スーパーセル",
-        "speed": 760,
+        "speed": 785,
         "subname": "語られる怪力乱神",
         "total": 6900,
         "tribe": [
@@ -46,10 +46,10 @@
         ],
         "type": 8,
         "world_group": "L1",
-        "yang_atk": 1320,
-        "yang_def": 850,
-        "yin_atk": 1600,
-        "yin_def": 1030
+        "yang_atk": 1365,
+        "yang_def": 875,
+        "yin_atk": 2070,
+        "yin_def": 1055
     },
     "chain_character": [
         1048,
@@ -99,7 +99,8 @@
             "c": [],
             "cd": 4,
             "name": "星熊盃",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_heal"
         },
         {
             "a": [
@@ -119,7 +120,8 @@
             "c": [],
             "cd": 5,
             "name": "傾奇者",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -139,7 +141,8 @@
             "c": [],
             "cd": 5,
             "name": "怨霊鎮静",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_yang_atk_up"
         }
     ],
     "attack_skills": {

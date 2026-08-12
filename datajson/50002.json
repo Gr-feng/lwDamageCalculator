@@ -76,7 +76,8 @@
             "c": [],
             "cd": 4,
             "name": "飛ばない帽子",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_speed_down"
         },
         {
             "a": [
@@ -90,7 +91,8 @@
             "c": [],
             "cd": 6,
             "name": "ミニミニ八卦炉",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_cri_atk_up"
         },
         {
             "a": [
@@ -110,7 +112,8 @@
             "c": [],
             "cd": 6,
             "name": "抱き合わせ干物",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_union"
         }
     ],
     "attack_skills": {

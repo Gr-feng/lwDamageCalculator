@@ -89,7 +89,8 @@
             ],
             "cd": 4,
             "name": "ればて笛",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -115,7 +116,8 @@
             ],
             "cd": 6,
             "name": "さんすうセット",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -141,7 +143,8 @@
             ],
             "cd": 6,
             "name": "体操着袋",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {

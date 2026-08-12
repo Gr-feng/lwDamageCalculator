@@ -81,7 +81,8 @@
             ],
             "cd": 4,
             "name": "記憶失踪(諏訪子)",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_electricshock"
         },
         {
             "a": [
@@ -107,7 +108,8 @@
             ],
             "cd": 5,
             "name": "真名邂逅(諏訪子)",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_yang_atk_up"
         },
         {
             "a": [
@@ -133,7 +135,8 @@
             ],
             "cd": 9,
             "name": "ロスト守矢神社(諏訪子)",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_field_type10_up"
         }
     ],
     "attack_skills": {

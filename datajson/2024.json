@@ -77,7 +77,8 @@
             "c": [],
             "cd": 4,
             "name": "法界の火",
-            "id": 1
+            "id": 1,
+            "icon": "skill_icon_barrier_burn"
         },
         {
             "a": [
@@ -97,7 +98,8 @@
             "c": [],
             "cd": 4,
             "name": "迫害されし外法",
-            "id": 2
+            "id": 2,
+            "icon": "skill_icon_sprit_powerup"
         },
         {
             "a": [
@@ -123,7 +125,8 @@
             ],
             "cd": 5,
             "name": "魔人経巻",
-            "id": 3
+            "id": 3,
+            "icon": "skill_icon_cri_atk_up"
         }
     ],
     "attack_skills": {
